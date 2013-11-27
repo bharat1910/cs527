@@ -1,0 +1,409 @@
+SlickGrid/slick.remotemodel.js: line 28, col 21, Use '===' to compare with 'undefined'.
+SlickGrid/slick.remotemodel.js: line 28, col 45, Use '===' to compare with 'null'.
+SlickGrid/slick.remotemodel.js: line 77, col 19, Use '!==' to compare with 'null'.
+SlickGrid/slick.remotemodel.js: line 81, col 21, Use '!==' to compare with 'null'.
+SlickGrid/slick.remotemodel.js: line 97, col 38, Missing semicolon.
+
+SlickGrid/examples/slick.compositeeditor.js: line 1, col 1, Unnecessary semicolon.
+SlickGrid/examples/slick.compositeeditor.js: line 98, col 44, Expected an assignment or function call and instead saw an expression.
+SlickGrid/examples/slick.compositeeditor.js: line 183, col 50, Expected an assignment or function call and instead saw an expression.
+SlickGrid/examples/slick.compositeeditor.js: line 185, col 38, Expected an assignment or function call and instead saw an expression.
+SlickGrid/examples/slick.compositeeditor.js: line 192, col 50, Expected an assignment or function call and instead saw an expression.
+SlickGrid/examples/slick.compositeeditor.js: line 194, col 38, Expected an assignment or function call and instead saw an expression.
+SlickGrid/examples/slick.compositeeditor.js: line 199, col 49, Expected an assignment or function call and instead saw an expression.
+
+SlickGrid/slick.core.js: line 72, col 6, Missing semicolon.
+SlickGrid/slick.core.js: line 168, col 6, Missing semicolon.
+SlickGrid/slick.core.js: line 252, col 6, Missing semicolon.
+
+SlickGrid/slick.grid.js: line 460, col 64, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 485, col 15, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 649, col 43, Use '===' to compare with '0'.
+SlickGrid/slick.grid.js: line 962, col 20, 'i' is already defined.
+SlickGrid/slick.grid.js: line 964, col 48, Expected a conditional expression and instead saw an assignment.
+SlickGrid/slick.grid.js: line 967, col 55, Expected a conditional expression and instead saw an assignment.
+SlickGrid/slick.grid.js: line 1145, col 25, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1149, col 25, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1355, col 17, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1669, col 14, Use '===' to compare with '0'.
+SlickGrid/slick.grid.js: line 1669, col 32, Use '===' to compare with '0'.
+SlickGrid/slick.grid.js: line 1690, col 23, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1693, col 24, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1772, col 51, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1818, col 54, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1855, col 51, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1858, col 63, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 1910, col 18, 'i' is already defined.
+SlickGrid/slick.grid.js: line 1910, col 26, 'ii' is already defined.
+SlickGrid/slick.grid.js: line 2134, col 9, Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
+SlickGrid/slick.grid.js: line 2407, col 15, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2407, col 31, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2484, col 26, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2488, col 26, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2608, col 70, Bad constructor.
+SlickGrid/slick.grid.js: line 2691, col 35, Missing semicolon.
+SlickGrid/slick.grid.js: line 2759, col 53, Use '!==' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2931, col 15, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2931, col 31, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2963, col 15, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 2963, col 31, Use '===' to compare with 'null'.
+SlickGrid/slick.grid.js: line 3289, col 15, eval can be harmful.
+SlickGrid/slick.grid.js: line 3290, col 14, eval can be harmful.
+
+SlickGrid/slick.dataview.js: line 137, col 25, Use '!==' to compare with 'undefined'.
+SlickGrid/slick.dataview.js: line 142, col 24, Use '!==' to compare with 'undefined'.
+SlickGrid/slick.dataview.js: line 183, col 27, Missing semicolon.
+SlickGrid/slick.dataview.js: line 252, col 23, Use '===' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 309, col 17, Use '!==' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 389, col 17, Use '===' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 478, col 18, 'i' is already defined.
+SlickGrid/slick.dataview.js: line 478, col 25, 'l' is already defined.
+SlickGrid/slick.dataview.js: line 495, col 20, 'i' is already defined.
+SlickGrid/slick.dataview.js: line 601, col 28, The Function constructor is a form of eval.
+SlickGrid/slick.dataview.js: line 639, col 28, The Function constructor is a form of eval.
+SlickGrid/slick.dataview.js: line 675, col 28, The Function constructor is a form of eval.
+SlickGrid/slick.dataview.js: line 765, col 15, Bad line breaking before '||'.
+SlickGrid/slick.dataview.js: line 770, col 15, Bad line breaking before '||'.
+SlickGrid/slick.dataview.js: line 771, col 15, Bad line breaking before '||'.
+SlickGrid/slick.dataview.js: line 934, col 21, Use '!==' to compare with 'undefined'.
+SlickGrid/slick.dataview.js: line 1017, col 15, Use '!==' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 1017, col 44, Use the isNaN function to compare with NaN.
+SlickGrid/slick.dataview.js: line 1027, col 30, Use '!==' to compare with '0'.
+SlickGrid/slick.dataview.js: line 1042, col 15, Use '!==' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 1042, col 44, Use the isNaN function to compare with NaN.
+SlickGrid/slick.dataview.js: line 1043, col 23, Use '===' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 1054, col 6, Missing semicolon.
+SlickGrid/slick.dataview.js: line 1066, col 15, Use '!==' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 1066, col 44, Use the isNaN function to compare with NaN.
+SlickGrid/slick.dataview.js: line 1067, col 23, Use '===' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 1078, col 6, Missing semicolon.
+SlickGrid/slick.dataview.js: line 1090, col 15, Use '!==' to compare with 'null'.
+SlickGrid/slick.dataview.js: line 1090, col 44, Use the isNaN function to compare with NaN.
+SlickGrid/slick.dataview.js: line 1100, col 6, Missing semicolon.
+
+SlickGrid/lib/jquery.event.drop-2.2.js: line 187, col 13, Bad line breaking before '&&'.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 201, col 17, Bad line breaking before '*'.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 209, col 74, A leading decimal point can be confused with a dot: '.5'.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 209, col 105, A leading decimal point can be confused with a dot: '.5'.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 229, col 41, Expected a conditional expression and instead saw an assignment.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 244, col 44, Expected a conditional expression and instead saw an assignment.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 259, col 37, Expected a conditional expression and instead saw an assignment.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 265, col 93, Mixed spaces and tabs.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 284, col 34, Mixed spaces and tabs.
+SlickGrid/lib/jquery.event.drop-2.2.js: line 285, col 30, Missing semicolon.
+
+SlickGrid/lib/jquery.event.drag-2.2.js: line 112, col 26, Use '!==' to compare with '0'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 179, col 39, Expected a 'break' statement before 'case'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 187, col 39, Expected a 'break' statement before 'case'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 190, col 39, Expected a 'break' statement before 'case'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 202, col 17, Expected a 'break' statement before 'case'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 205, col 27, Expected a 'break' statement before 'default'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 244, col 43, Expected a conditional expression and instead saw an assignment.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 283, col 14, Don't make functions within a loop.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 293, col 28, Missing semicolon.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 387, col 17, Bad line breaking before '||'.
+SlickGrid/lib/jquery.event.drag-2.2.js: line 388, col 17, Bad line breaking before '||'.
+
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 101, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 308, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 472, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 556, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 557, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 565, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 578, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 666, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 677, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 696, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 738, Did you mean to return a conditional instead of an assignment?
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 745, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 811, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 854, Missing '()' invoking a constructor.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 868, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 940, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1102, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1113, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1180, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1278, Confusing use of '!'.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1289, Confusing use of '!'.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1297, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1304, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1373, Confusing use of '!'.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1394, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1395, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1405, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1515, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1601, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1660, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1742, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1750, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1751, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1758, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1786, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1799, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1940, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1941, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 1957, Use '!==' to compare with 'null'.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2035, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2142, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2162, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2163, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2223, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2378, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2418, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2428, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2495, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2669, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2670, Missing semicolon.
+SlickGrid/lib/jquery-1.7.min.js: line 2, col 2670, Too many errors. (50% scanned).
+
+SlickGrid/lib/jquery.simulate.js: line 30, col 2, Missing semicolon.
+SlickGrid/lib/jquery.simulate.js: line 125, col 16, 'el' is already defined.
+
+SlickGrid/lib/jquery.sparkline.min.js: line 3, col 130, Use '===' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 3, col 178, Use '===' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 3, col 447, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 3, col 684, Use '===' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 4, col 70, Missing semicolon.
+SlickGrid/lib/jquery.sparkline.min.js: line 5, col 429, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 7, col 246, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 10, col 25, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 11, col 25, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 12, col 21, Use '===' to compare with '0'.
+SlickGrid/lib/jquery.sparkline.min.js: line 12, col 57, Use '===' to compare with '0'.
+SlickGrid/lib/jquery.sparkline.min.js: line 19, col 42, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 19, col 166, 'height' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 22, col 10, 'i' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 27, col 69, 'x' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 28, col 51, 'x' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 28, col 384, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 28, col 594, 'width' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 29, col 105, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 30, col 25, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 31, col 20, Use '===' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 31, col 72, Use '===' to compare with '0'.
+SlickGrid/lib/jquery.sparkline.min.js: line 31, col 338, 'i' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 32, col 94, 'height' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 32, col 196, 'height' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 32, col 248, 'y' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 33, col 7, Use '===' to compare with '0'.
+SlickGrid/lib/jquery.sparkline.min.js: line 33, col 29, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 19, 'y' used out of scope.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 191, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 315, 'width' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 684, 'height' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 756, 'y' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 769, 'height' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 793, 'color' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 825, 'y' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 850, 'height' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 35, col 862, 'color' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 36, col 33, 'color' used out of scope.
+SlickGrid/lib/jquery.sparkline.min.js: line 37, col 19, 'y' used out of scope.
+SlickGrid/lib/jquery.sparkline.min.js: line 37, col 49, 'color' used out of scope.
+SlickGrid/lib/jquery.sparkline.min.js: line 37, col 55, 'color' used out of scope.
+SlickGrid/lib/jquery.sparkline.min.js: line 37, col 191, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 37, col 770, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 38, col 25, Use '!==' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 39, col 408, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 39, col 852, Use '===' to compare with 'undefined'.
+SlickGrid/lib/jquery.sparkline.min.js: line 39, col 872, 'min' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 41, col 669, 'options' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 43, col 31, 'i' is already defined.
+SlickGrid/lib/jquery.sparkline.min.js: line 43, col 31, Too many errors. (54% scanned).
+
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 47, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 108, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 129, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 149, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 255, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 256, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 324, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 325, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 350, 'O' is already defined.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 579, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 585, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 628, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 629, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 655, Confusing use of '!'.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 803, Missing '()' invoking a constructor.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1120, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1121, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1153, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1154, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1235, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1236, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1307, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1315, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1730, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1740, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1741, Missing semicolon.
+SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1751, Missing semicolon.
+
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 208, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 299, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 438, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 447, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 52, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 53, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 57, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 93, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 268, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 440, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 488, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 75, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 90, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 149, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 401, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 414, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 424, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 67, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 69, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 140, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 389, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 400, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 183, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 185, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 337, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 339, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 340, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 408, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 472, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 48, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 330, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 469, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 97, Expected an assignment or function call and instead saw an expression.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 98, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 216, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 396, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 442, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 23, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 26, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 19, col 1, Unnecessary semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 96, Use '!==' to compare with 'null'.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 140, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 155, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 156, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 349, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 389, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 391, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 392, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 491, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 32, Missing semicolon.
+SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 32, Too many errors. (4% scanned).
+
+SlickGrid/lib/qunit.js: line 20, col 27, Missing '()' invoking a constructor.
+SlickGrid/lib/qunit.js: line 210, col 24, 'li' is already defined.
+SlickGrid/lib/qunit.js: line 226, col 29, 'i' is already defined.
+SlickGrid/lib/qunit.js: line 416, col 22, Confusing use of '!'.
+SlickGrid/lib/qunit.js: line 529, col 14, Missing '()' invoking a constructor.
+SlickGrid/lib/qunit.js: line 805, col 22, Confusing use of '!'.
+SlickGrid/lib/qunit.js: line 910, col 6, Unnecessary semicolon.
+SlickGrid/lib/qunit.js: line 913, col 6, Unnecessary semicolon.
+SlickGrid/lib/qunit.js: line 923, col 6, Unnecessary semicolon.
+SlickGrid/lib/qunit.js: line 931, col 6, Unnecessary semicolon.
+SlickGrid/lib/qunit.js: line 941, col 4, Mixed spaces and tabs.
+SlickGrid/lib/qunit.js: line 942, col 4, Mixed spaces and tabs.
+
+SlickGrid/lib/firebugx.js: line 8, col 3, Don't make functions within a loop.
+SlickGrid/lib/firebugx.js: line 7, col 45, Missing semicolon.
+
+SlickGrid/slick.formatters.js: line 25, col 15, Use '===' to compare with 'null'.
+SlickGrid/slick.formatters.js: line 35, col 15, Use '===' to compare with 'null'.
+
+SlickGrid/controls/slick.pager.js: line 20, col 67, Use '!==' to compare with '0'.
+SlickGrid/controls/slick.pager.js: line 21, col 66, Use '!==' to compare with '0'.
+SlickGrid/controls/slick.pager.js: line 22, col 66, Use '!==' to compare with '0'.
+SlickGrid/controls/slick.pager.js: line 23, col 66, Use '!==' to compare with '0'.
+SlickGrid/controls/slick.pager.js: line 25, col 8, Missing semicolon.
+SlickGrid/controls/slick.pager.js: line 74, col 22, Use '!==' to compare with 'undefined'.
+SlickGrid/controls/slick.pager.js: line 89, col 57, Missing semicolon.
+SlickGrid/controls/slick.pager.js: line 135, col 31, Use '===' to compare with '0'.
+
+SlickGrid/controls/slick.columnpicker.js: line 18, col 43, Missing semicolon.
+SlickGrid/controls/slick.columnpicker.js: line 36, col 48, Use '!==' to compare with 'null'.
+
+SlickGrid/slick.editors.js: line 72, col 30, Use '===' to compare with ''.
+SlickGrid/slick.editors.js: line 72, col 52, Use '===' to compare with 'null'.
+SlickGrid/slick.editors.js: line 134, col 30, Use '===' to compare with ''.
+SlickGrid/slick.editors.js: line 134, col 52, Use '===' to compare with 'null'.
+SlickGrid/slick.editors.js: line 169, col 30, Missing semicolon.
+SlickGrid/slick.editors.js: line 172, col 31, Missing semicolon.
+SlickGrid/slick.editors.js: line 226, col 30, Use '===' to compare with ''.
+SlickGrid/slick.editors.js: line 226, col 52, Use '===' to compare with 'null'.
+SlickGrid/slick.editors.js: line 357, col 31, Missing semicolon.
+SlickGrid/slick.editors.js: line 364, col 9, Missing semicolon.
+SlickGrid/slick.editors.js: line 390, col 30, Use '===' to compare with ''.
+SlickGrid/slick.editors.js: line 390, col 52, Use '===' to compare with 'null'.
+SlickGrid/slick.editors.js: line 475, col 42, Missing semicolon.
+SlickGrid/slick.editors.js: line 500, col 30, Use '===' to compare with ''.
+SlickGrid/slick.editors.js: line 500, col 52, Use '===' to compare with 'null'.
+
+SlickGrid/tests/grid/grid.js: line 14, col 4, Missing semicolon.
+SlickGrid/tests/grid/grid.js: line 21, col 4, Missing semicolon.
+SlickGrid/tests/grid/grid.js: line 34, col 14, 'i' is already defined.
+SlickGrid/tests/grid/grid.js: line 58, col 84, Missing semicolon.
+
+SlickGrid/tests/plugins/autotooltips.js: line 14, col 39, Missing semicolon.
+SlickGrid/tests/plugins/autotooltips.js: line 18, col 39, Expected an assignment or function call and instead saw an expression.
+SlickGrid/tests/plugins/autotooltips.js: line 27, col 33, Use '===' to compare with '0'.
+
+SlickGrid/tests/dataview/dataview.js: line 75, col 40, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 84, col 40, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 93, col 40, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 125, col 78, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 126, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 127, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 135, col 78, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 136, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 137, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 144, col 78, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 145, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 146, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 148, col 43, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 197, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 198, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 199, col 47, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 210, col 47, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 218, col 52, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 227, col 47, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 230, col 47, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 233, col 52, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 310, col 78, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 311, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 312, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 385, col 44, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 386, col 21, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 389, col 78, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 390, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 391, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 402, col 50, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 403, col 27, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 406, col 78, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 407, col 86, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 408, col 90, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 442, col 40, ['val'] is better written in dot notation.
+SlickGrid/tests/dataview/dataview.js: line 461, col 40, ['val'] is better written in dot notation.
+SlickGrid/tests/dataview/dataview.js: line 490, col 40, ['val'] is better written in dot notation.
+SlickGrid/tests/dataview/dataview.js: line 492, col 26, Missing semicolon.
+SlickGrid/tests/dataview/dataview.js: line 571, col 40, ['val'] is better written in dot notation.
+
+SlickGrid/plugins/slick.headermenu.js: line 178, col 22, Use '===' to compare with 'false'.
+SlickGrid/plugins/slick.headermenu.js: line 253, col 19, Use '!==' to compare with 'null'.
+SlickGrid/plugins/slick.headermenu.js: line 253, col 38, Use '!==' to compare with ''.
+
+SlickGrid/plugins/slick.cellcopymanager.js: line 38, col 29, Use '!==' to compare with '0'.
+
+SlickGrid/plugins/slick.cellselectionmodel.js: line 79, col 49, Use '!==' to compare with 'null'.
+SlickGrid/plugins/slick.cellselectionmodel.js: line 79, col 70, Use '!==' to compare with 'null'.
+
+SlickGrid/plugins/slick.rowselectionmodel.js: line 93, col 48, Use '!==' to compare with 'null'.
+SlickGrid/plugins/slick.rowselectionmodel.js: line 103, col 23, Missing semicolon.
+
+SlickGrid/plugins/slick.checkboxselectcolumn.js: line 93, col 26, Missing semicolon.
+SlickGrid/plugins/slick.checkboxselectcolumn.js: line 140, col 13, Bad line breaking before '?'.
+
+SlickGrid/plugins/slick.rowmovemanager.js: line 55, col 31, Use '===' to compare with '0'.
+
+SlickGrid/plugins/slick.headerbuttons.js: line 153, col 19, Use '!==' to compare with 'null'.
+
+380 errors
