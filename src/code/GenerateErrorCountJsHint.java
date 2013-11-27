@@ -11,7 +11,7 @@ import java.util.Map.Entry;
 
 public class GenerateErrorCountJsHint {
 	
-	HashMap<String, Integer> errorCount = new HashMap<>();
+	HashMap<String, Integer> errorCount;
 	private double THRESHOLD = 0.7;
 	private static String SOURCE = "error_files/jshint";
 	private static String DESTINATION = "error_summary/jshint/";
@@ -73,6 +73,7 @@ public class GenerateErrorCountJsHint {
 		File root = new File(SOURCE);
 		
 		for (File f : root.listFiles()) {
+			errorCount = new HashMap<>();
 			runForFile(f.getAbsolutePath(), f.getName());
 		}
 	}

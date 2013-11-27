@@ -1,56 +1,42 @@
  You might be leaking a variable (part) here.     2
- Value of 'e' may be overwritten in IE 8 and earlier.     2
+ 'lineElement' used out of scope.     20
+ Value of 'e' may be overwritten in IE 8 and earlier.     1
  Strings must use doublequote.     63
  col 1     46
- Expected a 'break' statement before 'case'.     7
+ Duplicate key 'tooltip'.     2
+ Confusing use of '!'.     14
+ Expected a 'break' statement before 'case'.     2
+ ['closeTagEnabled'] is better written in dot notation.     40
+ Unexpected comma.     1
+ Creating global 'for' variable. Should be 'for (var name ...'.     2
+ Bad line breaking before '     57
  col 8     1
  Unmatched '{'.     2
- eval can be harmful.     32
- Use '===' to compare with '0'.     590
- 'require' is not defined.     2734
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     10
+ The array literal notation [] is preferrable.     1
+ Use '===' to compare with '0'.     469
  Don't use extra leading zeros '000'.     4
- Possible strict violation.     1
- The Function constructor is a form of eval.     11
- Bad line breaking before '+'.     80
+ Wrap the /regexp/ literal in parens to disambiguate the slash operator.     6
+ Unnecessary semicolon.     34
+ Missing '()' invoking a constructor.     25
+ 'id' is already defined.     106
+ Unmatched '('.     2
+ The Function constructor is a form of eval.     8
+ Expected an assignment or function call and instead saw an expression.     799
  Missing name in function declaration.     1
  Expected a JSON value.     19
- Comma warnings can be turned off with 'laxcomma'.     6
- Bad constructor.     1
- The '__proto__' property is deprecated.     2
- Don't make functions within a loop.     16
- Use the isNaN function to compare with NaN.     4
+ Comma warnings can be turned off with 'laxcomma'.     5
+ Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     5
+ document.write can be a form of eval.     23
+ A leading decimal point can be confused with a dot: '.3'.     4
+ Don't make functions within a loop.     10
  Weird construction. Is 'new' unnecessary?     1
- Did you mean to return a conditional instead of an assignment?     30
- Use the function form of "use strict".     91
- Expected an identifier and instead saw 'undefined' (a reserved word).     607
- Missing 'new' prefix when invoking a constructor.     48
- A constructor name should start with an uppercase letter.     4
- Bad operand.     2
- Creating global 'for' variable. Should be 'for (var cookieName ...'.     3
- Confusing pluses.     1
- Confusing use of '!'.     23
- Duplicate key 'tooltip'.     2
- Unexpected comma.     1
- Script URL.     17
- 'pos' used out of scope.     28
- This character may get silently deleted by one or more browsers.     78
- The array literal notation [] is preferrable.     2
- Unnecessary semicolon.     76
- Unmatched '('.     2
- Do not assign to the exception parameter.     1
- Expected an assignment or function call and instead saw an expression.     332
- Confusing minuses.     2
- Too many errors. (22% scanned).     87
- Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     6
- document.write can be a form of eval.     3
- ['angularSrcModules'] is better written in dot notation.     118
- Bad or unnecessary escaping.     6
+ Bad or unnecessary escaping.     3
+ Did you mean to return a conditional instead of an assignment?     29
+ Expected an identifier and instead saw 'undefined' (a reserved word).     2
+ Missing 'new' prefix when invoking a constructor.     2
  'isArray' is a function.     1
- Mixed spaces and tabs.     4272
- 'hasOwnProperty' is a really bad name.     3
- Unexpected escaped character '<' in regular expression.     2
- A leading decimal point can be confused with a dot: '.1'.     14
+ Too many errors. (68% scanned).     37
+ Mixed spaces and tabs.     4247
+ Expected '(end)' and instead saw '}'.     2
  Expected 'pathAnim' to have an indentation at 5 instead at 1.     136
- 'numberFormats' is already defined.     186
- Missing semicolon.     855
+ Missing semicolon.     408

@@ -1,40 +1,22 @@
- Confusing pluses.     1
- Creating global 'for' variable. Should be 'for (var cookieName ...'.     1
- Value of 'e' may be overwritten in IE 8 and earlier.     1
- Confusing use of '!'.     9
- Expected a 'break' statement before 'case'.     5
- This character may get silently deleted by one or more browsers.     78
- 'pos' used out of scope.     8
- Script URL.     17
- The array literal notation [] is preferrable.     1
- Use '===' to compare with '0'.     121
- eval can be harmful.     12
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     4
- 'require' is not defined.     2734
- Unnecessary semicolon.     42
- Possible strict violation.     1
- Do not assign to the exception parameter.     1
- The Function constructor is a form of eval.     3
- Confusing minuses.     2
- Expected an assignment or function call and instead saw an expression.     136
- Bad line breaking before '+'.     23
- Too many errors. (22% scanned).     50
  Bad constructor.     1
- Comma warnings can be turned off with 'laxcomma'.     1
+ ['val'] is better written in dot notation.     4
+ Confusing use of '!'.     6
  Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     1
- The '__proto__' property is deprecated.     2
- Don't make functions within a loop.     6
- Use the isNaN function to compare with NaN.     4
- ['angularSrcModules'] is better written in dot notation.     78
- Bad or unnecessary escaping.     3
+ Expected a 'break' statement before 'case'.     5
+ Don't make functions within a loop.     2
+ Use the isNaN function to compare with NaN.     53
+ 'y' used out of scope.     5
+ 'i' is already defined.     37
  Did you mean to return a conditional instead of an assignment?     1
- Use the function form of "use strict".     91
- Missing 'new' prefix when invoking a constructor.     21
- A constructor name should start with an uppercase letter.     4
- Mixed spaces and tabs.     25
- Bad operand.     2
- 'hasOwnProperty' is a really bad name.     3
- Unexpected escaped character '<' in regular expression.     2
- A leading decimal point can be confused with a dot: '.1'.     10
- 'numberFormats' is already defined.     80
- Missing semicolon.     447
+ Too many errors. (50% scanned).     3
+ eval can be harmful.     2
+ Wrap the /regexp/ literal in parens to disambiguate the slash operator.     4
+ Unnecessary semicolon.     6
+ Missing '()' invoking a constructor.     4
+ A leading decimal point can be confused with a dot: '.5'.     2
+ Mixed spaces and tabs.     4
+ Use '===' to compare with 'undefined'.     41
+ Bad line breaking before '||'.     8
+ Expected an assignment or function call and instead saw an expression.     44
+ The Function constructor is a form of eval.     3
+ Missing semicolon.     144
