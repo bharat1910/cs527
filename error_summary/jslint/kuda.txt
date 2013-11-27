@@ -1,0 +1,3 @@
+ #2 Expected '===' and instead saw '=='.     2
+ #1 Missing 'use strict' statement.     1
+ #4 Stopping. (65% scanned).     1

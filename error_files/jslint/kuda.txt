@@ -1,0 +1,9 @@
+mysql.js
+ #1 Missing 'use strict' statement.
+    if (name.indexOf(".") == -1) // Line 14, Pos 3
+ #2 Expected '===' and instead saw '=='.
+    if (name.indexOf(".") == -1) // Line 14, Pos 25
+ #3 Expected '{' and instead saw 'return'.
+    return "`" + name + "`"; // Line 15, Pos 4
+ #4 Stopping. (65% scanned).
+     // Line 15, Pos 4
