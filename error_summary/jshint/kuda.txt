@@ -1,0 +1,65 @@
+ You might be leaking a variable (part) here.     9
+ Value of 'e' may be overwritten in IE 8 and earlier.     2
+ Strings must use doublequote.     63
+ col 1     46
+ Expected a 'break' statement before 'case'.     26
+ Expected a single parameter in set head function.     14
+ col 8     1
+ Forgotten 'debugger' statement?     1
+ Unmatched '{'.     2
+ eval can be harmful.     32
+ Use '===' to compare with '0'.     990
+ 'require' is not defined.     2758
+ Wrap the /regexp/ literal in parens to disambiguate the slash operator.     16
+ Don't use extra leading zeros '000'.     4
+ Possible strict violation.     106
+ Missing "use strict" statement.     1
+ The Function constructor is a form of eval.     12
+ Bad line breaking before '+'.     700
+ Missing name in function declaration.     1
+ It's not necessary to initialize 'param' to 'undefined'.     1
+ Expected a JSON value.     19
+ Comma warnings can be turned off with 'laxcomma'.     60
+ Bad constructor.     1
+ The '__proto__' property is deprecated.     32
+ Don't make functions within a loop.     27
+ Unreachable ';' after 'return'.     4
+ 'class' is only available in JavaScript 1.7.     1
+ Use the isNaN function to compare with NaN.     4
+ Unreachable 'break' after 'throw'.     3
+ Weird construction. Is 'new' unnecessary?     1
+ Did you mean to return a conditional instead of an assignment?     40
+ Use the function form of "use strict".     94
+ Expected an identifier and instead saw 'undefined' (a reserved word).     611
+ Missing 'new' prefix when invoking a constructor.     92
+ A constructor name should start with an uppercase letter.     4
+ Expected '}' to match '{' from line {c} and instead saw '     1
+ Bad operand.     2
+ Creating global 'for' variable. Should be 'for (var cookieName ...'.     7
+ Confusing pluses.     1
+ Confusing use of '!'.     29
+ Duplicate key 'tooltip'.     3
+ Bad escaping of EOL. Use option multistr if needed.     104
+ Unexpected comma.     1
+ Script URL.     17
+ 'pos' used out of scope.     51
+ This character may get silently deleted by one or more browsers.     87
+ The array literal notation [] is preferrable.     6
+ Unnecessary semicolon.     149
+ Unmatched '('.     2
+ Do not assign to the exception parameter.     1
+ Expected an assignment or function call and instead saw an expression.     502
+ Confusing minuses.     2
+ Too many errors. (22% scanned).     118
+ Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     7
+ document.write can be a form of eval.     3
+ ['angularSrcModules'] is better written in dot notation.     139
+ Bad or unnecessary escaping.     10
+ 'isArray' is a function.     1
+ Mixed spaces and tabs.     4770
+ 'hasOwnProperty' is a really bad name.     3
+ Unexpected escaped character '<' in regular expression.     4
+ A leading decimal point can be confused with a dot: '.1'.     25
+ Expected 'pathAnim' to have an indentation at 5 instead at 1.     136
+ 'numberFormats' is already defined.     418
+ Missing semicolon.     1931

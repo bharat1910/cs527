@@ -1,9 +1,10 @@
 package code;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map.Entry;
@@ -13,6 +14,7 @@ public class GenerateErrorCountJsHint {
 	HashMap<String, Integer> errorCount = new HashMap<>();
 	private double THRESHOLD = 0.7;
 	private static String SOURCE = "error_files";
+	private static String DESTINATION = "error_summary/jshint/";
 	
 	private boolean isMatch(String a, String b)
 	{
@@ -45,6 +47,7 @@ public class GenerateErrorCountJsHint {
 	private void runForFile(String filePath, String fileName) throws IOException
 	{
 		BufferedReader br = new BufferedReader(new FileReader(filePath));
+		BufferedWriter bw = new BufferedWriter(new FileWriter(DESTINATION + fileName));
 		String str;
 		
 		while ((str = br.readLine()) != null) {
@@ -58,8 +61,11 @@ public class GenerateErrorCountJsHint {
 		}
 		
 		for (Entry<String, Integer> e : errorCount.entrySet()) {
-			System.out.println(e.getKey() + "     " + e.getValue());
-		}		
+			bw.write(e.getKey() + "     " + e.getValue() + "\n");
+		}
+		
+		br.close();
+		bw.close();
 	}
 	
 	private void run() throws IOException
