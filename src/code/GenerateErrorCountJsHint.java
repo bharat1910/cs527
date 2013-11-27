@@ -13,7 +13,7 @@ public class GenerateErrorCountJsHint {
 	
 	HashMap<String, Integer> errorCount = new HashMap<>();
 	private double THRESHOLD = 0.7;
-	private static String SOURCE = "error_files";
+	private static String SOURCE = "error_files/jshint";
 	private static String DESTINATION = "error_summary/jshint/";
 	
 	private boolean isMatch(String a, String b)
@@ -73,10 +73,7 @@ public class GenerateErrorCountJsHint {
 		File root = new File(SOURCE);
 		
 		for (File f : root.listFiles()) {
-			for (File ff : f.listFiles()) {
-				runForFile(ff.getAbsolutePath(), ff.getName());
-			}
-			
+			runForFile(f.getAbsolutePath(), f.getName());
 		}
 	}
 	
