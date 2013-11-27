@@ -1,4 +1,8 @@
+package code;
+
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
@@ -8,6 +12,7 @@ public class GenerateErrorCountJsHint {
 	
 	HashMap<String, Integer> errorCount = new HashMap<>();
 	private double THRESHOLD = 0.7;
+	private static String SOURCE = "error_files";
 	
 	private boolean isMatch(String a, String b)
 	{
@@ -37,19 +42,35 @@ public class GenerateErrorCountJsHint {
 		errorCount.put(str, 1);
 	}
 	
-	private void run() throws IOException
+	private void runForFile(String filePath, String fileName) throws IOException
 	{
-		BufferedReader br = new BufferedReader(new FileReader("src/SampleError.txt"));
+		BufferedReader br = new BufferedReader(new FileReader(filePath));
 		String str;
 		
 		while ((str = br.readLine()) != null) {
-			if (!str.equals("")) {
-				updateErrorCountMap(str.split(",")[2]);
+			try {
+				if (!str.equals("")) {
+					updateErrorCountMap(str.split(",")[2]);
+				}				
+			} catch (Exception e) {
+				continue;
 			}
 		}
 		
 		for (Entry<String, Integer> e : errorCount.entrySet()) {
 			System.out.println(e.getKey() + "     " + e.getValue());
+		}		
+	}
+	
+	private void run() throws IOException
+	{
+		File root = new File(SOURCE);
+		
+		for (File f : root.listFiles()) {
+			for (File ff : f.listFiles()) {
+				runForFile(ff.getAbsolutePath(), ff.getName());
+			}
+			
 		}
 	}
 	
