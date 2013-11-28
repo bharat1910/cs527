@@ -1,0 +1,501 @@
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/Three.js -----
+Line 61, E:-002: Error parsing file at token "<JavaScriptToken: 61, ), ")", {}, MetaData(None)>". Unable to check the rest of file.
+Error "None"
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor.src.js -----
+Line 221, E:0200: Invalid JsDoc tag: namespace
+Line 222, E:0200: Invalid JsDoc tag: example
+Line 4224, E:0013: Redundant semicolon
+Line 4941, E:0130: Multi-line strings are not allowed
+Line 4967, E:0130: Multi-line strings are not allowed
+Line 5515, E:0213: Missing type in @return tag
+Line 6210, E:0130: Multi-line strings are not allowed
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/events.js -----
+Line 20, E:0200: Invalid JsDoc tag: namespace
+Line 21, E:0200: Invalid JsDoc tag: example
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/plugins/browser/browser.js -----
+Line 1182, E:0013: Redundant semicolon
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/plugins/lights/lights.js -----
+Line 183, E:0121: Illegal comma at end of object literal
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/plugins/particleCurves/particleCurves.js -----
+Line 603, E:0121: Illegal comma at end of object literal
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/plugins/particleEffects/particleEffects.js -----
+Line 210, E:0121: Illegal comma at end of object literal
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/plugins/viewpoints/viewpoints.js -----
+Line 52, E:0121: Illegal comma at end of object literal
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/project.js -----
+Line 671, E:0130: Multi-line strings are not allowed
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/tools.js -----
+Line 527, E:0213: Missing type in @return tag
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/ui/core/dialogs.js -----
+Line 24, E:0130: Multi-line strings are not allowed
+Line 50, E:0130: Multi-line strings are not allowed
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/editor/ui/core/transformHandles.js -----
+Line 168, E:0013: Redundant semicolon
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi.min.js -----
+Line 76, E:0100: Member a.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member e.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member o.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member s.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member t.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member b.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member b.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member d.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member d.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member f.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member b.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member h.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member h.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member m.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._msgSent cannot have a non-primitive value
+Line 76, E:0100: Member a.prototype._octane cannot have a non-primitive value
+Line 76, E:0100: Member c.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi.src.js -----
+Line 471, E:0200: Invalid JsDoc tag: namespace
+Line 1624, E:0200: Invalid JsDoc tag: namespace
+Line 1625, E:0200: Invalid JsDoc tag: version
+Line 1680, E:0200: Invalid JsDoc tag: default
+Line 1687, E:0200: Invalid JsDoc tag: default
+Line 1694, E:0200: Invalid JsDoc tag: default
+Line 1700, E:0200: Invalid JsDoc tag: constant
+Line 2048, E:0200: Invalid JsDoc tag: namespace
+Line 2065, E:0200: Invalid JsDoc tag: example
+Line 3991, E:0200: Invalid JsDoc tag: namespace
+Line 3992, E:0200: Invalid JsDoc tag: example
+Line 3999, E:0200: Invalid JsDoc tag: constant
+Line 4000, E:0200: Invalid JsDoc tag: example
+Line 4010, E:0200: Invalid JsDoc tag: constant
+Line 4011, E:0200: Invalid JsDoc tag: example
+Line 4020, E:0200: Invalid JsDoc tag: constant
+Line 4021, E:0200: Invalid JsDoc tag: example
+Line 4028, E:0200: Invalid JsDoc tag: constant
+Line 4029, E:0200: Invalid JsDoc tag: example
+Line 4038, E:0200: Invalid JsDoc tag: constant
+Line 4039, E:0200: Invalid JsDoc tag: example
+Line 4048, E:0200: Invalid JsDoc tag: constant
+Line 4049, E:0200: Invalid JsDoc tag: example
+Line 4058, E:0200: Invalid JsDoc tag: constant
+Line 4059, E:0200: Invalid JsDoc tag: example
+Line 4068, E:0200: Invalid JsDoc tag: constant
+Line 4069, E:0200: Invalid JsDoc tag: example
+Line 4074, E:0200: Invalid JsDoc tag: example
+Line 4077, E:0200: Invalid JsDoc tag: example
+Line 4082, E:0200: Invalid JsDoc tag: example
+Line 4085, E:0200: Invalid JsDoc tag: example
+Line 4092, E:0200: Invalid JsDoc tag: constant
+Line 4093, E:0200: Invalid JsDoc tag: example
+Line 4098, E:0200: Invalid JsDoc tag: example
+Line 4107, E:0200: Invalid JsDoc tag: constant
+Line 4108, E:0200: Invalid JsDoc tag: example
+Line 4119, E:0200: Invalid JsDoc tag: constant
+Line 4120, E:0200: Invalid JsDoc tag: example
+Line 4132, E:0200: Invalid JsDoc tag: constant
+Line 4133, E:0200: Invalid JsDoc tag: example
+Line 4140, E:0200: Invalid JsDoc tag: constant
+Line 4141, E:0200: Invalid JsDoc tag: example
+Line 4146, E:0200: Invalid JsDoc tag: example
+Line 4155, E:0200: Invalid JsDoc tag: constant
+Line 4156, E:0200: Invalid JsDoc tag: example
+Line 4159, E:0200: Invalid JsDoc tag: example
+Line 4162, E:0200: Invalid JsDoc tag: example
+Line 4167, E:0200: Invalid JsDoc tag: example
+Line 4170, E:0200: Invalid JsDoc tag: example
+Line 4173, E:0200: Invalid JsDoc tag: example
+Line 4178, E:0200: Invalid JsDoc tag: example
+Line 4185, E:0200: Invalid JsDoc tag: constant
+Line 4186, E:0200: Invalid JsDoc tag: example
+Line 4189, E:0200: Invalid JsDoc tag: example
+Line 4192, E:0200: Invalid JsDoc tag: example
+Line 4197, E:0200: Invalid JsDoc tag: example
+Line 4200, E:0200: Invalid JsDoc tag: example
+Line 4203, E:0200: Invalid JsDoc tag: example
+Line 4208, E:0200: Invalid JsDoc tag: example
+Line 4215, E:0200: Invalid JsDoc tag: constant
+Line 4216, E:0200: Invalid JsDoc tag: example
+Line 4219, E:0200: Invalid JsDoc tag: example
+Line 4222, E:0200: Invalid JsDoc tag: example
+Line 4229, E:0200: Invalid JsDoc tag: constant
+Line 4230, E:0200: Invalid JsDoc tag: example
+Line 4235, E:0200: Invalid JsDoc tag: example
+Line 4240, E:0200: Invalid JsDoc tag: example
+Line 4249, E:0200: Invalid JsDoc tag: constant
+Line 4250, E:0200: Invalid JsDoc tag: example
+Line 4293, E:0200: Invalid JsDoc tag: default
+Line 4868, E:0200: Invalid JsDoc tag: namespace
+Line 5620, E:0200: Invalid JsDoc tag: default
+Line 5661, E:0100: Member Audio.prototype._msgSent cannot have a non-primitive value
+Line 5876, E:0200: Invalid JsDoc tag: namespace
+Line 5883, E:0200: Invalid JsDoc tag: constant
+Line 5889, E:0200: Invalid JsDoc tag: constant
+Line 5890, E:0200: Invalid JsDoc tag: example
+Line 5898, E:0200: Invalid JsDoc tag: constant
+Line 5899, E:0200: Invalid JsDoc tag: example
+Line 6059, E:0200: Invalid JsDoc tag: example
+Line 6078, E:0200: Invalid JsDoc tag: default
+Line 6796, E:0200: Invalid JsDoc tag: namespace
+Line 7201, E:0100: Member KeyDispatcher.prototype._msgSent cannot have a non-primitive value
+Line 7892, E:0200: Invalid JsDoc tag: default
+Line 7960, E:0100: Member Transform.prototype._msgSent cannot have a non-primitive value
+Line 8372, E:0200: Invalid JsDoc tag: default
+Line 9019, E:0100: Member Camera.prototype._msgSent cannot have a non-primitive value
+Line 9806, E:0100: Member CameraCurve.prototype._octane cannot have a non-primitive value
+Line 9859, E:0100: Member Viewpoint.prototype._octane cannot have a non-primitive value
+Line 9986, E:0200: Invalid JsDoc tag: default
+Line 10023, E:0100: Member Model.prototype._msgSent cannot have a non-primitive value
+Line 11021, E:0200: Invalid JsDoc tag: default
+Line 11028, E:0200: Invalid JsDoc tag: default
+Line 11035, E:0200: Invalid JsDoc tag: default
+Line 11042, E:0200: Invalid JsDoc tag: default
+Line 11047, E:0100: Member Loop.prototype._octane cannot have a non-primitive value
+Line 11086, E:0200: Invalid JsDoc tag: default
+Line 11093, E:0200: Invalid JsDoc tag: default
+Line 11122, E:0100: Member AnimationGroup.prototype._msgSent cannot have a non-primitive value
+Line 11128, E:0100: Member AnimationGroup.prototype._octane cannot have a non-primitive value
+Line 11368, E:0200: Invalid JsDoc tag: example
+Line 11408, E:0200: Invalid JsDoc tag: default
+Line 11460, E:0100: Member ParticleEmitter.prototype._msgSent cannot have a non-primitive value
+Line 11466, E:0100: Member ParticleEmitter.prototype._octane cannot have a non-primitive value
+Line 11671, E:0100: Member ParticleTrail.prototype._octane cannot have a non-primitive value
+Line 11973, E:0200: Invalid JsDoc tag: default
+Line 12053, E:0100: Member State.prototype._octane cannot have a non-primitive value
+Line 12058, E:0213: Missing type in @return tag
+Line 12060, E:0100: Member State.prototype._msgSent cannot have a non-primitive value
+Line 12125, E:0200: Invalid JsDoc tag: default
+Line 12133, E:0200: Invalid JsDoc tag: default
+Line 12165, E:0200: Invalid JsDoc tag: default
+Line 12172, E:0200: Invalid JsDoc tag: default
+Line 12179, E:0200: Invalid JsDoc tag: default
+Line 12186, E:0200: Invalid JsDoc tag: default
+Line 12193, E:0200: Invalid JsDoc tag: default
+Line 12200, E:0200: Invalid JsDoc tag: default
+Line 12207, E:0200: Invalid JsDoc tag: default
+Line 12252, E:0100: Member HudTheme.prototype._octane cannot have a non-primitive value
+Line 12351, E:0100: Member HudElement.prototype._octane cannot have a non-primitive value
+Line 12463, E:0200: Invalid JsDoc tag: default
+Line 12470, E:0200: Invalid JsDoc tag: default
+Line 12622, E:0200: Invalid JsDoc tag: default
+Line 12629, E:0200: Invalid JsDoc tag: default
+Line 12642, E:0200: Invalid JsDoc tag: default
+Line 12649, E:0200: Invalid JsDoc tag: default
+Line 12746, E:0200: Invalid JsDoc tag: default
+Line 12759, E:0200: Invalid JsDoc tag: default
+Line 12773, E:0200: Invalid JsDoc tag: default
+Line 12786, E:0200: Invalid JsDoc tag: default
+Line 12793, E:0200: Invalid JsDoc tag: default
+Line 13025, E:0200: Invalid JsDoc tag: default
+Line 13032, E:0200: Invalid JsDoc tag: default
+Line 13182, E:0200: Invalid JsDoc tag: default
+Line 13189, E:0200: Invalid JsDoc tag: default
+Line 13197, E:0200: Invalid JsDoc tag: default
+Line 13462, E:0100: Member HudDisplay.prototype._msgSent cannot have a non-primitive value
+Line 13467, E:0100: Member HudDisplay.prototype._octane cannot have a non-primitive value
+Line 14177, E:0200: Invalid JsDoc tag: default
+Line 14339, E:0200: Invalid JsDoc tag: default
+Line 14346, E:0200: Invalid JsDoc tag: default
+Line 14353, E:0200: Invalid JsDoc tag: default
+Line 14360, E:0200: Invalid JsDoc tag: default
+Line 14622, E:0200: Invalid JsDoc tag: default
+Line 14629, E:0200: Invalid JsDoc tag: default
+Line 15705, E:0100: Member ParticleCurve.prototype._msgSent cannot have a non-primitive value
+Line 16983, E:0100: Member Shape.prototype._octane cannot have a non-primitive value
+Line 17553, E:0200: Invalid JsDoc tag: default
+Line 17670, E:0200: Invalid JsDoc tag: default
+Line 17690, E:0100: Member Timer.prototype._msgSent cannot have a non-primitive value
+Line 17696, E:0100: Member Timer.prototype._octane cannot have a non-primitive value
+Line 18105, E:0100: Member Light.prototype._octane cannot have a non-primitive value
+Line 18197, E:0121: Illegal comma at end of array literal
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/animationGroup.js -----
+Line 43, E:0200: Invalid JsDoc tag: default
+Line 50, E:0200: Invalid JsDoc tag: default
+Line 57, E:0200: Invalid JsDoc tag: default
+Line 64, E:0200: Invalid JsDoc tag: default
+Line 69, E:0100: Member Loop.prototype._octane cannot have a non-primitive value
+Line 108, E:0200: Invalid JsDoc tag: default
+Line 115, E:0200: Invalid JsDoc tag: default
+Line 144, E:0100: Member AnimationGroup.prototype._msgSent cannot have a non-primitive value
+Line 150, E:0100: Member AnimationGroup.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/audio.js -----
+Line 62, E:0200: Invalid JsDoc tag: default
+Line 103, E:0100: Member Audio.prototype._msgSent cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/core.js -----
+Line 42, E:0200: Invalid JsDoc tag: namespace
+Line 43, E:0200: Invalid JsDoc tag: version
+Line 98, E:0200: Invalid JsDoc tag: default
+Line 105, E:0200: Invalid JsDoc tag: default
+Line 112, E:0200: Invalid JsDoc tag: default
+Line 118, E:0200: Invalid JsDoc tag: constant
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/curve.js -----
+Line 674, E:0100: Member ParticleCurve.prototype._msgSent cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/dispatch.js -----
+Line 36, E:0200: Invalid JsDoc tag: namespace
+Line 43, E:0200: Invalid JsDoc tag: constant
+Line 49, E:0200: Invalid JsDoc tag: constant
+Line 50, E:0200: Invalid JsDoc tag: example
+Line 58, E:0200: Invalid JsDoc tag: constant
+Line 59, E:0200: Invalid JsDoc tag: example
+Line 219, E:0200: Invalid JsDoc tag: example
+Line 238, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/effect.js -----
+Line 55, E:0200: Invalid JsDoc tag: example
+Line 95, E:0200: Invalid JsDoc tag: default
+Line 147, E:0100: Member ParticleEmitter.prototype._msgSent cannot have a non-primitive value
+Line 153, E:0100: Member ParticleEmitter.prototype._octane cannot have a non-primitive value
+Line 358, E:0100: Member ParticleTrail.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/hud.js -----
+Line 59, E:0200: Invalid JsDoc tag: default
+Line 67, E:0200: Invalid JsDoc tag: default
+Line 99, E:0200: Invalid JsDoc tag: default
+Line 106, E:0200: Invalid JsDoc tag: default
+Line 113, E:0200: Invalid JsDoc tag: default
+Line 120, E:0200: Invalid JsDoc tag: default
+Line 127, E:0200: Invalid JsDoc tag: default
+Line 134, E:0200: Invalid JsDoc tag: default
+Line 141, E:0200: Invalid JsDoc tag: default
+Line 186, E:0100: Member HudTheme.prototype._octane cannot have a non-primitive value
+Line 285, E:0100: Member HudElement.prototype._octane cannot have a non-primitive value
+Line 397, E:0200: Invalid JsDoc tag: default
+Line 404, E:0200: Invalid JsDoc tag: default
+Line 556, E:0200: Invalid JsDoc tag: default
+Line 563, E:0200: Invalid JsDoc tag: default
+Line 576, E:0200: Invalid JsDoc tag: default
+Line 583, E:0200: Invalid JsDoc tag: default
+Line 680, E:0200: Invalid JsDoc tag: default
+Line 693, E:0200: Invalid JsDoc tag: default
+Line 707, E:0200: Invalid JsDoc tag: default
+Line 720, E:0200: Invalid JsDoc tag: default
+Line 727, E:0200: Invalid JsDoc tag: default
+Line 959, E:0200: Invalid JsDoc tag: default
+Line 966, E:0200: Invalid JsDoc tag: default
+Line 1116, E:0200: Invalid JsDoc tag: default
+Line 1123, E:0200: Invalid JsDoc tag: default
+Line 1131, E:0200: Invalid JsDoc tag: default
+Line 1396, E:0100: Member HudDisplay.prototype._msgSent cannot have a non-primitive value
+Line 1401, E:0100: Member HudDisplay.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/input.js -----
+Line 49, E:0200: Invalid JsDoc tag: namespace
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/keyDispatcher.js -----
+Line 47, E:0100: Member KeyDispatcher.prototype._msgSent cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/light.js -----
+Line 75, E:0100: Member Light.prototype._octane cannot have a non-primitive value
+Line 167, E:0121: Illegal comma at end of array literal
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/loader.js -----
+Line 37, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/manip.js -----
+Line 89, E:0200: Invalid JsDoc tag: default
+Line 251, E:0200: Invalid JsDoc tag: default
+Line 258, E:0200: Invalid JsDoc tag: default
+Line 265, E:0200: Invalid JsDoc tag: default
+Line 272, E:0200: Invalid JsDoc tag: default
+Line 534, E:0200: Invalid JsDoc tag: default
+Line 541, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/model.js -----
+Line 65, E:0200: Invalid JsDoc tag: default
+Line 102, E:0100: Member Model.prototype._msgSent cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/msg.js -----
+Line 25, E:0200: Invalid JsDoc tag: namespace
+Line 26, E:0200: Invalid JsDoc tag: example
+Line 33, E:0200: Invalid JsDoc tag: constant
+Line 34, E:0200: Invalid JsDoc tag: example
+Line 44, E:0200: Invalid JsDoc tag: constant
+Line 45, E:0200: Invalid JsDoc tag: example
+Line 54, E:0200: Invalid JsDoc tag: constant
+Line 55, E:0200: Invalid JsDoc tag: example
+Line 62, E:0200: Invalid JsDoc tag: constant
+Line 63, E:0200: Invalid JsDoc tag: example
+Line 72, E:0200: Invalid JsDoc tag: constant
+Line 73, E:0200: Invalid JsDoc tag: example
+Line 82, E:0200: Invalid JsDoc tag: constant
+Line 83, E:0200: Invalid JsDoc tag: example
+Line 92, E:0200: Invalid JsDoc tag: constant
+Line 93, E:0200: Invalid JsDoc tag: example
+Line 102, E:0200: Invalid JsDoc tag: constant
+Line 103, E:0200: Invalid JsDoc tag: example
+Line 108, E:0200: Invalid JsDoc tag: example
+Line 111, E:0200: Invalid JsDoc tag: example
+Line 116, E:0200: Invalid JsDoc tag: example
+Line 119, E:0200: Invalid JsDoc tag: example
+Line 126, E:0200: Invalid JsDoc tag: constant
+Line 127, E:0200: Invalid JsDoc tag: example
+Line 132, E:0200: Invalid JsDoc tag: example
+Line 141, E:0200: Invalid JsDoc tag: constant
+Line 142, E:0200: Invalid JsDoc tag: example
+Line 153, E:0200: Invalid JsDoc tag: constant
+Line 154, E:0200: Invalid JsDoc tag: example
+Line 166, E:0200: Invalid JsDoc tag: constant
+Line 167, E:0200: Invalid JsDoc tag: example
+Line 174, E:0200: Invalid JsDoc tag: constant
+Line 175, E:0200: Invalid JsDoc tag: example
+Line 180, E:0200: Invalid JsDoc tag: example
+Line 189, E:0200: Invalid JsDoc tag: constant
+Line 190, E:0200: Invalid JsDoc tag: example
+Line 193, E:0200: Invalid JsDoc tag: example
+Line 196, E:0200: Invalid JsDoc tag: example
+Line 201, E:0200: Invalid JsDoc tag: example
+Line 204, E:0200: Invalid JsDoc tag: example
+Line 207, E:0200: Invalid JsDoc tag: example
+Line 212, E:0200: Invalid JsDoc tag: example
+Line 219, E:0200: Invalid JsDoc tag: constant
+Line 220, E:0200: Invalid JsDoc tag: example
+Line 223, E:0200: Invalid JsDoc tag: example
+Line 226, E:0200: Invalid JsDoc tag: example
+Line 231, E:0200: Invalid JsDoc tag: example
+Line 234, E:0200: Invalid JsDoc tag: example
+Line 237, E:0200: Invalid JsDoc tag: example
+Line 242, E:0200: Invalid JsDoc tag: example
+Line 249, E:0200: Invalid JsDoc tag: constant
+Line 250, E:0200: Invalid JsDoc tag: example
+Line 253, E:0200: Invalid JsDoc tag: example
+Line 256, E:0200: Invalid JsDoc tag: example
+Line 263, E:0200: Invalid JsDoc tag: constant
+Line 264, E:0200: Invalid JsDoc tag: example
+Line 269, E:0200: Invalid JsDoc tag: example
+Line 274, E:0200: Invalid JsDoc tag: example
+Line 283, E:0200: Invalid JsDoc tag: constant
+Line 284, E:0200: Invalid JsDoc tag: example
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/particles.js -----
+Line 44, E:0200: Invalid JsDoc tag: namespace
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/shape.js -----
+Line 85, E:0100: Member Shape.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/state.js -----
+Line 34, E:0200: Invalid JsDoc tag: default
+Line 114, E:0100: Member State.prototype._octane cannot have a non-primitive value
+Line 119, E:0213: Missing type in @return tag
+Line 121, E:0100: Member State.prototype._msgSent cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/texture.js -----
+Line 45, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/timer.js -----
+Line 52, E:0200: Invalid JsDoc tag: default
+Line 72, E:0100: Member Timer.prototype._msgSent cannot have a non-primitive value
+Line 78, E:0100: Member Timer.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/transform.js -----
+Line 103, E:0200: Invalid JsDoc tag: default
+Line 171, E:0100: Member Transform.prototype._msgSent cannot have a non-primitive value
+Line 583, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/utils/hashtable.js -----
+Line 26, E:0200: Invalid JsDoc tag: namespace
+Line 43, E:0200: Invalid JsDoc tag: example
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/view.js -----
+Line 135, E:0100: Member Camera.prototype._msgSent cannot have a non-primitive value
+Line 922, E:0100: Member CameraCurve.prototype._octane cannot have a non-primitive value
+Line 975, E:0100: Member Viewpoint.prototype._octane cannot have a non-primitive value
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hemi/world.js -----
+Line 229, E:0200: Invalid JsDoc tag: namespace
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/engines/pressure.js -----
+Line 20, E:0200: Invalid JsDoc tag: namespace
+Line 52, E:0200: Invalid JsDoc tag: default
+Line 59, E:0200: Invalid JsDoc tag: default
+Line 150, E:0215: Missing name in @param tag
+Line 224, E:0200: Invalid JsDoc tag: default
+Line 329, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/house/structure.js -----
+Line 23, E:0200: Invalid JsDoc tag: namespace
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/html/toolViews.js -----
+Line 29, E:0200: Invalid JsDoc tag: namespace
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/html/toolbar.js -----
+Line 29, E:0200: Invalid JsDoc tag: namespace
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/hud/paging.js -----
+Line 20, E:0200: Invalid JsDoc tag: namespace
+Line 32, E:0200: Invalid JsDoc tag: default
+Line 52, E:0200: Invalid JsDoc tag: default
+Line 59, E:0200: Invalid JsDoc tag: default
+Line 66, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/msg.js -----
+Line 20, E:0200: Invalid JsDoc tag: namespace
+Line 22, E:0200: Invalid JsDoc tag: example
+Line 30, E:0200: Invalid JsDoc tag: constant
+Line 31, E:0200: Invalid JsDoc tag: example
+Line 37, E:0200: Invalid JsDoc tag: example
+Line 48, E:0200: Invalid JsDoc tag: constant
+Line 49, E:0200: Invalid JsDoc tag: example
+Line 54, E:0200: Invalid JsDoc tag: example
+Line 60, E:0200: Invalid JsDoc tag: example
+Line 70, E:0200: Invalid JsDoc tag: constant
+Line 71, E:0200: Invalid JsDoc tag: example
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/progressUI/progressBar.js -----
+Line 35, E:0200: Invalid JsDoc tag: default
+Line 71, E:0200: Invalid JsDoc tag: default
+Line 106, E:0200: Invalid JsDoc tag: default
+Line 197, E:0215: Missing name in @param tag
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/tools/baseTool.js -----
+Line 20, E:0200: Invalid JsDoc tag: namespace
+Line 35, E:0200: Invalid JsDoc tag: default
+Line 42, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/tools/blowerDoor.js -----
+Line 31, E:0200: Invalid JsDoc tag: default
+Line 38, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/tools/htmlView.js -----
+Line 39, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/tools/manometer.js -----
+Line 100, E:0013: Redundant semicolon
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/tools/manometerTube.js -----
+Line 40, E:0200: Invalid JsDoc tag: parameter
+Line 41, E:0200: Invalid JsDoc tag: parameter
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/hext/tools/smokepuffer.js -----
+Line 30, E:0200: Invalid JsDoc tag: default
+Line 37, E:0200: Invalid JsDoc tag: default
+Line 44, E:0200: Invalid JsDoc tag: default
+Line 51, E:0200: Invalid JsDoc tag: default
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/lib/jquery-ui-1.8.16.min.js -----
+Line 601, E:-002: Error parsing file at token "<JavaScriptToken: 601, }, "}", {}, MetaData(None)>". Unable to check the rest of file.
+Error "None"
+Line 19, E:0013: Redundant semicolon
+Line 34, E:0013: Redundant semicolon
+Line 51, E:0013: Redundant semicolon
+Line 67, E:0013: Redundant semicolon
+Line 117, E:0013: Redundant semicolon
+Line 144, E:0013: Redundant semicolon
+Line 193, E:0013: Redundant semicolon
+Line 215, E:0013: Redundant semicolon
+Line 275, E:0013: Redundant semicolon
+Line 305, E:0013: Redundant semicolon
+Line 337, E:0013: Redundant semicolon
+Line 364, E:0013: Redundant semicolon
+Line 404, E:0013: Redundant semicolon
+Line 437, E:0013: Redundant semicolon
+Line 472, E:0013: Redundant semicolon
+Line 555, E:0013: Redundant semicolon
+Line 571, E:0013: Redundant semicolon
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/lib/jquery.cookie.js -----
+Line 14, E:0200: Invalid JsDoc tag: example
+Line 16, E:0200: Invalid JsDoc tag: example
+Line 18, E:0200: Invalid JsDoc tag: example
+Line 20, E:0200: Invalid JsDoc tag: example
+Line 24, E:0213: Missing type in @param tag
+Line 25, E:0213: Missing type in @param tag
+Line 26, E:0213: Missing type in @param tag
+Line 27, E:0200: Invalid JsDoc tag: option
+Line 31, E:0200: Invalid JsDoc tag: option
+Line 32, E:0200: Invalid JsDoc tag: option
+Line 33, E:0200: Invalid JsDoc tag: option
+Line 37, E:0200: Invalid JsDoc tag: name
+Line 38, E:0200: Invalid JsDoc tag: cat
+Line 45, E:0200: Invalid JsDoc tag: example
+Line 48, E:0213: Missing type in @param tag
+Line 49, E:0213: Missing type in @return tag
+Line 52, E:0200: Invalid JsDoc tag: name
+Line 53, E:0200: Invalid JsDoc tag: cat
+Line 56, E:0201: Member "jQuery.cookie" should not have @desc JsDoc
+Line 56, E:0212: Parameter mismatch: got "name", expected "String"
+Line 56, E:0210: Missing docs for parameter: "value"
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/js/lib/jquery.scrollTo.min.js -----
+Line 7, E:0200: Invalid JsDoc tag: version
+Line 11, E:0013: Semicolon without any statement
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/samples/GrandmasHouse/GrandmasHouse.js -----
+Line 109, E:0013: Redundant semicolon
+----- FILE  :  /home/dhawal/Desktop/cs527/projects/kuda/public/samples/tutoriala/tutoriala.js -----
+Line 68, E:0013: Redundant semicolon
+Line 69, E:0013: Redundant semicolon
+Line 70, E:0013: Redundant semicolon
+Found 437 errors, including 0 new errors, in 55 files (92 files OK).
+
+Some of the errors reported by GJsLint may be auto-fixable using the script
+fixjsstyle. Please double check any changes it makes and report any bugs. The
+script can be run by executing:
+
+fixjsstyle --disable 0300,0005,0002,0001,0011,0131,0010,0120,0110,0220 -r public/ 

@@ -1,0 +1,11 @@
+0210:  Missing docs for parameter: "value"         1
+0201:  Member "jQuery.cookie" should not have @desc JsDoc         1
+0200:  Invalid JsDoc tag: namespace         311
+0212:  Parameter mismatch: got "name", expected "String"         1
+-002:  Error parsing file at token "<JavaScriptToken: 61, ), ")", {}, MetaData(None)>". Unable to check the rest of file.         2
+0130:  Multi-line strings are not allowed         6
+0213:  Missing type in @return tag         9
+0013:  Redundant semicolon         26
+0215:  Missing name in @param tag         2
+0121:  Illegal comma at end of object literal         6
+0100:  Member a.prototype._msgSent cannot have a non-primitive value         72
