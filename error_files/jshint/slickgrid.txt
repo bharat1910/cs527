@@ -1,409 +1,723 @@
-SlickGrid/slick.remotemodel.js: line 28, col 21, Use '===' to compare with 'undefined'.
-SlickGrid/slick.remotemodel.js: line 28, col 45, Use '===' to compare with 'null'.
-SlickGrid/slick.remotemodel.js: line 77, col 19, Use '!==' to compare with 'null'.
-SlickGrid/slick.remotemodel.js: line 81, col 21, Use '!==' to compare with 'null'.
-SlickGrid/slick.remotemodel.js: line 97, col 38, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 3, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 82, col 35, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 100, col 39, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 147, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 95, col 39, 'args' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 114, col 38, 'item' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.groupitemmetadataprovider.js: line 129, col 39, 'item' is defined but never used.
 
-SlickGrid/examples/slick.compositeeditor.js: line 1, col 1, Unnecessary semicolon.
-SlickGrid/examples/slick.compositeeditor.js: line 98, col 44, Expected an assignment or function call and instead saw an expression.
-SlickGrid/examples/slick.compositeeditor.js: line 183, col 50, Expected an assignment or function call and instead saw an expression.
-SlickGrid/examples/slick.compositeeditor.js: line 185, col 38, Expected an assignment or function call and instead saw an expression.
-SlickGrid/examples/slick.compositeeditor.js: line 192, col 50, Expected an assignment or function call and instead saw an expression.
-SlickGrid/examples/slick.compositeeditor.js: line 194, col 38, Expected an assignment or function call and instead saw an expression.
-SlickGrid/examples/slick.compositeeditor.js: line 199, col 49, Expected an assignment or function call and instead saw an expression.
+7 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 29, col 21, Use '===' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 29, col 45, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 78, col 19, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 82, col 21, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 98, col 38, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 19, col 29, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 20, col 28, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 83, col 9, 'clearTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 86, col 19, 'setTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 108, col 7, 'alert' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 173, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.remotemodel.js: line 174, col 4, 'jQuery' is not defined.
 
-SlickGrid/slick.core.js: line 72, col 6, Missing semicolon.
-SlickGrid/slick.core.js: line 168, col 6, Missing semicolon.
-SlickGrid/slick.core.js: line 252, col 6, Missing semicolon.
+12 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 94, col 48, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 104, col 23, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 14, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 60, col 25, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 95, col 32, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 185, col 38, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 188, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowselectionmodel.js: line 150, col 53, 'i' is defined but never used.
 
-SlickGrid/slick.grid.js: line 460, col 64, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 485, col 15, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 649, col 43, Use '===' to compare with '0'.
-SlickGrid/slick.grid.js: line 962, col 20, 'i' is already defined.
-SlickGrid/slick.grid.js: line 964, col 48, Expected a conditional expression and instead saw an assignment.
-SlickGrid/slick.grid.js: line 967, col 55, Expected a conditional expression and instead saw an assignment.
-SlickGrid/slick.grid.js: line 1145, col 25, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1149, col 25, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1355, col 17, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1669, col 14, Use '===' to compare with '0'.
-SlickGrid/slick.grid.js: line 1669, col 32, Use '===' to compare with '0'.
-SlickGrid/slick.grid.js: line 1690, col 23, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1693, col 24, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1772, col 51, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1818, col 54, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1855, col 51, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1858, col 63, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 1910, col 18, 'i' is already defined.
-SlickGrid/slick.grid.js: line 1910, col 26, 'ii' is already defined.
-SlickGrid/slick.grid.js: line 2134, col 9, Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
-SlickGrid/slick.grid.js: line 2407, col 15, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2407, col 31, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2484, col 26, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2488, col 26, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2608, col 70, Bad constructor.
-SlickGrid/slick.grid.js: line 2691, col 35, Missing semicolon.
-SlickGrid/slick.grid.js: line 2759, col 53, Use '!==' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2931, col 15, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2931, col 31, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2963, col 15, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 2963, col 31, Use '===' to compare with 'null'.
-SlickGrid/slick.grid.js: line 3289, col 15, eval can be harmful.
-SlickGrid/slick.grid.js: line 3290, col 14, eval can be harmful.
+9 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.autotooltips.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.autotooltips.js: line 84, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.autotooltips.js: line 19, col 14, '_self' is defined but never used.
 
-SlickGrid/slick.dataview.js: line 137, col 25, Use '!==' to compare with 'undefined'.
-SlickGrid/slick.dataview.js: line 142, col 24, Use '!==' to compare with 'undefined'.
-SlickGrid/slick.dataview.js: line 183, col 27, Missing semicolon.
-SlickGrid/slick.dataview.js: line 252, col 23, Use '===' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 309, col 17, Use '!==' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 389, col 17, Use '===' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 478, col 18, 'i' is already defined.
-SlickGrid/slick.dataview.js: line 478, col 25, 'l' is already defined.
-SlickGrid/slick.dataview.js: line 495, col 20, 'i' is already defined.
-SlickGrid/slick.dataview.js: line 601, col 28, The Function constructor is a form of eval.
-SlickGrid/slick.dataview.js: line 639, col 28, The Function constructor is a form of eval.
-SlickGrid/slick.dataview.js: line 675, col 28, The Function constructor is a form of eval.
-SlickGrid/slick.dataview.js: line 765, col 15, Bad line breaking before '||'.
-SlickGrid/slick.dataview.js: line 770, col 15, Bad line breaking before '||'.
-SlickGrid/slick.dataview.js: line 771, col 15, Bad line breaking before '||'.
-SlickGrid/slick.dataview.js: line 934, col 21, Use '!==' to compare with 'undefined'.
-SlickGrid/slick.dataview.js: line 1017, col 15, Use '!==' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 1017, col 44, Use the isNaN function to compare with NaN.
-SlickGrid/slick.dataview.js: line 1027, col 30, Use '!==' to compare with '0'.
-SlickGrid/slick.dataview.js: line 1042, col 15, Use '!==' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 1042, col 44, Use the isNaN function to compare with NaN.
-SlickGrid/slick.dataview.js: line 1043, col 23, Use '===' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 1054, col 6, Missing semicolon.
-SlickGrid/slick.dataview.js: line 1066, col 15, Use '!==' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 1066, col 44, Use the isNaN function to compare with NaN.
-SlickGrid/slick.dataview.js: line 1067, col 23, Use '===' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 1078, col 6, Missing semicolon.
-SlickGrid/slick.dataview.js: line 1090, col 15, Use '!==' to compare with 'null'.
-SlickGrid/slick.dataview.js: line 1090, col 44, Use the isNaN function to compare with NaN.
-SlickGrid/slick.dataview.js: line 1100, col 6, Missing semicolon.
+3 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 80, col 49, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 80, col 70, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 16, col 25, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 81, col 32, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 101, col 26, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 108, col 22, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 127, col 28, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 152, col 38, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 155, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellselectionmodel.js: line 68, col 51, 'args' is defined but never used.
 
-SlickGrid/lib/jquery.event.drop-2.2.js: line 187, col 13, Bad line breaking before '&&'.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 201, col 17, Bad line breaking before '*'.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 209, col 74, A leading decimal point can be confused with a dot: '.5'.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 209, col 105, A leading decimal point can be confused with a dot: '.5'.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 229, col 41, Expected a conditional expression and instead saw an assignment.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 244, col 44, Expected a conditional expression and instead saw an assignment.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 259, col 37, Expected a conditional expression and instead saw an assignment.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 265, col 93, Mixed spaces and tabs.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 284, col 34, Mixed spaces and tabs.
-SlickGrid/lib/jquery.event.drop-2.2.js: line 285, col 30, Missing semicolon.
+11 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 56, col 31, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 15, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 132, col 31, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 133, col 25, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 139, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.rowmovemanager.js: line 35, col 34, 'dd' is defined but never used.
 
-SlickGrid/lib/jquery.event.drag-2.2.js: line 112, col 26, Use '!==' to compare with '0'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 179, col 39, Expected a 'break' statement before 'case'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 187, col 39, Expected a 'break' statement before 'case'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 190, col 39, Expected a 'break' statement before 'case'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 202, col 17, Expected a 'break' statement before 'case'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 205, col 27, Expected a 'break' statement before 'default'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 244, col 43, Expected a conditional expression and instead saw an assignment.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 283, col 14, Don't make functions within a loop.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 293, col 28, Missing semicolon.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 387, col 17, Bad line breaking before '||'.
-SlickGrid/lib/jquery.event.drag-2.2.js: line 388, col 17, Bad line breaking before '||'.
+7 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 94, col 26, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 141, col 13, Bad line breaking before '?'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 14, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 154, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 13, col 14, '_self' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 38, col 47, 'args' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.checkboxselectcolumn.js: line 38, col 41, 'e' is defined but never used.
 
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 101, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 308, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 472, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 556, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 557, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 565, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 578, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 666, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 677, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 696, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 738, Did you mean to return a conditional instead of an assignment?
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 745, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 811, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 854, Missing '()' invoking a constructor.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 868, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 940, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1102, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1113, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1180, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1278, Confusing use of '!'.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1289, Confusing use of '!'.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1297, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1304, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1373, Confusing use of '!'.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1394, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1395, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1405, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1515, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1601, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1660, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1742, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1750, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1751, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1758, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1786, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1799, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1940, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1941, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 1957, Use '!==' to compare with 'null'.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2035, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2142, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2162, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2163, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2223, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2378, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2418, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2428, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2495, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2669, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2670, Missing semicolon.
-SlickGrid/lib/jquery-1.7.min.js: line 2, col 2670, Too many errors. (50% scanned).
+8 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headerbuttons.js: line 154, col 19, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headerbuttons.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headerbuttons.js: line 69, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headerbuttons.js: line 175, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headerbuttons.js: line 178, col 4, 'jQuery' is not defined.
 
-SlickGrid/lib/jquery.simulate.js: line 30, col 2, Missing semicolon.
-SlickGrid/lib/jquery.simulate.js: line 125, col 16, 'el' is already defined.
+5 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangedecorator.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangedecorator.js: line 67, col 4, 'jQuery' is not defined.
 
-SlickGrid/lib/jquery.sparkline.min.js: line 3, col 130, Use '===' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 3, col 178, Use '===' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 3, col 447, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 3, col 684, Use '===' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 4, col 70, Missing semicolon.
-SlickGrid/lib/jquery.sparkline.min.js: line 5, col 429, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 7, col 246, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 10, col 25, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 11, col 25, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 12, col 21, Use '===' to compare with '0'.
-SlickGrid/lib/jquery.sparkline.min.js: line 12, col 57, Use '===' to compare with '0'.
-SlickGrid/lib/jquery.sparkline.min.js: line 19, col 42, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 19, col 166, 'height' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 22, col 10, 'i' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 27, col 69, 'x' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 28, col 51, 'x' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 28, col 384, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 28, col 594, 'width' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 29, col 105, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 30, col 25, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 31, col 20, Use '===' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 31, col 72, Use '===' to compare with '0'.
-SlickGrid/lib/jquery.sparkline.min.js: line 31, col 338, 'i' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 32, col 94, 'height' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 32, col 196, 'height' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 32, col 248, 'y' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 33, col 7, Use '===' to compare with '0'.
-SlickGrid/lib/jquery.sparkline.min.js: line 33, col 29, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 19, 'y' used out of scope.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 191, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 315, 'width' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 684, 'height' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 756, 'y' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 769, 'height' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 793, 'color' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 825, 'y' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 850, 'height' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 35, col 862, 'color' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 36, col 33, 'color' used out of scope.
-SlickGrid/lib/jquery.sparkline.min.js: line 37, col 19, 'y' used out of scope.
-SlickGrid/lib/jquery.sparkline.min.js: line 37, col 49, 'color' used out of scope.
-SlickGrid/lib/jquery.sparkline.min.js: line 37, col 55, 'color' used out of scope.
-SlickGrid/lib/jquery.sparkline.min.js: line 37, col 191, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 37, col 770, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 38, col 25, Use '!==' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 39, col 408, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 39, col 852, Use '===' to compare with 'undefined'.
-SlickGrid/lib/jquery.sparkline.min.js: line 39, col 872, 'min' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 41, col 669, 'options' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 43, col 31, 'i' is already defined.
-SlickGrid/lib/jquery.sparkline.min.js: line 43, col 31, Too many errors. (54% scanned).
+2 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 17, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 27, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 66, col 34, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 84, col 27, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 97, col 20, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 110, col 40, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 111, col 34, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 114, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellrangeselector.js: line 41, col 34, 'dd' is defined but never used.
 
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 47, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 108, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 129, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 149, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 255, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 256, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 324, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 325, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 350, 'O' is already defined.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 579, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 585, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 628, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 629, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 655, Confusing use of '!'.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 803, Missing '()' invoking a constructor.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1120, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1121, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1153, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1154, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1235, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1236, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1307, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1315, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1730, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1740, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1741, Missing semicolon.
-SlickGrid/lib/jquery.jsonp-2.4.min.js: line 3, col 1751, Missing semicolon.
+10 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 179, col 22, Use '===' to compare with 'false'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 254, col 19, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 254, col 38, Use '!==' to compare with ''.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 84, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 104, col 9, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 110, col 9, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 272, col 31, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 273, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.headermenu.js: line 276, col 4, 'jQuery' is not defined.
 
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 208, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 299, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 438, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 10, col 447, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 52, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 53, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 57, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 93, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 268, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 440, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 12, col 488, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 75, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 90, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 149, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 401, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 414, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 424, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 67, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 69, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 140, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 389, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 400, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 183, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 185, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 337, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 339, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 340, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 408, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 472, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 48, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 330, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 469, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 97, Expected an assignment or function call and instead saw an expression.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 98, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 216, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 396, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 442, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 23, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 26, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 19, col 1, Unnecessary semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 96, Use '!==' to compare with 'null'.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 140, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 155, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 156, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 349, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 389, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 391, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 392, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 28, col 491, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 32, Missing semicolon.
-SlickGrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 32, Too many errors. (4% scanned).
+10 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 39, col 29, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 82, col 26, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 83, col 30, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 84, col 27, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 87, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/plugins/slick.cellcopymanager.js: line 25, col 35, 'args' is defined but never used.
 
-SlickGrid/lib/qunit.js: line 20, col 27, Missing '()' invoking a constructor.
-SlickGrid/lib/qunit.js: line 210, col 24, 'li' is already defined.
-SlickGrid/lib/qunit.js: line 226, col 29, 'i' is already defined.
-SlickGrid/lib/qunit.js: line 416, col 22, Confusing use of '!'.
-SlickGrid/lib/qunit.js: line 529, col 14, Missing '()' invoking a constructor.
-SlickGrid/lib/qunit.js: line 805, col 22, Confusing use of '!'.
-SlickGrid/lib/qunit.js: line 910, col 6, Unnecessary semicolon.
-SlickGrid/lib/qunit.js: line 913, col 6, Unnecessary semicolon.
-SlickGrid/lib/qunit.js: line 923, col 6, Unnecessary semicolon.
-SlickGrid/lib/qunit.js: line 931, col 6, Unnecessary semicolon.
-SlickGrid/lib/qunit.js: line 941, col 4, Mixed spaces and tabs.
-SlickGrid/lib/qunit.js: line 942, col 4, Mixed spaces and tabs.
+7 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 15, col 39, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 19, col 39, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 28, col 33, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 16, col 7, 'SHORT_VALUE' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 17, col 7, 'TOOLTIP' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 18, col 7, 'TRUNCATED_VALUE' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 19, col 7, '$container' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 25, col 25, 'SHORT_VALUE' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 28, col 40, 'SHORT_VALUE' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 35, col 37, '$container' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 36, col 16, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 37, col 29, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 42, col 5, '$container' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 53, col 3, 'module' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 60, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 64, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 67, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 71, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 74, col 3, 'module' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 81, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 85, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 88, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 92, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 95, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 99, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 106, col 3, 'module' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 113, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 117, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 120, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 124, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 127, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 131, col 5, 'strictEqual' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 131, col 38, 'TRUNCATED_VALUE' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/plugins/autotooltips.js: line 134, col 4, 'jQuery' is not defined.
 
-SlickGrid/lib/firebugx.js: line 8, col 3, Don't make functions within a loop.
-SlickGrid/lib/firebugx.js: line 7, col 45, Missing semicolon.
+34 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 15, col 4, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 22, col 4, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 35, col 14, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 59, col 84, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 21, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 45, col 14, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 48, col 3, 'module' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 50, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 54, col 5, 'equal' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 57, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 58, col 5, 'expect' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 59, col 50, 'ok' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 62, col 5, 'equal' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 65, col 3, 'test' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 66, col 5, 'equal' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 69, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 7, col 11, 'drag' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 17, col 12, 'moved' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/grid/grid.js: line 34, col 21, 'col' is defined but never used.
 
-SlickGrid/slick.formatters.js: line 25, col 15, Use '===' to compare with 'null'.
-SlickGrid/slick.formatters.js: line 35, col 15, Use '===' to compare with 'null'.
+19 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 76, col 40, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 85, col 40, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 94, col 40, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 126, col 78, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 127, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 128, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 136, col 78, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 137, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 138, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 145, col 78, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 146, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 147, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 149, col 43, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 198, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 199, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 200, col 47, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 211, col 47, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 219, col 52, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 228, col 47, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 231, col 47, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 234, col 52, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 311, col 78, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 312, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 313, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 386, col 44, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 387, col 21, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 390, col 78, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 391, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 392, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 403, col 50, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 404, col 27, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 407, col 78, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 408, col 86, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 409, col 90, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 443, col 40, ['val'] is better written in dot notation.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 462, col 40, ['val'] is better written in dot notation.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 491, col 40, ['val'] is better written in dot notation.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 493, col 26, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 572, col 40, ['val'] is better written in dot notation.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 4, col 1, 'module' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 7, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 8, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 9, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 10, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 11, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 12, col 5, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 24, col 9, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 25, col 9, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 26, col 9, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 32, col 13, 'same' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/tests/dataview/dataview.js: line 32, col 13, Too many errors. (3% scanned).
 
-SlickGrid/controls/slick.pager.js: line 20, col 67, Use '!==' to compare with '0'.
-SlickGrid/controls/slick.pager.js: line 21, col 66, Use '!==' to compare with '0'.
-SlickGrid/controls/slick.pager.js: line 22, col 66, Use '!==' to compare with '0'.
-SlickGrid/controls/slick.pager.js: line 23, col 66, Use '!==' to compare with '0'.
-SlickGrid/controls/slick.pager.js: line 25, col 8, Missing semicolon.
-SlickGrid/controls/slick.pager.js: line 74, col 22, Use '!==' to compare with 'undefined'.
-SlickGrid/controls/slick.pager.js: line 89, col 57, Missing semicolon.
-SlickGrid/controls/slick.pager.js: line 135, col 31, Use '===' to compare with '0'.
+51 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 138, col 25, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 143, col 24, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 184, col 27, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 253, col 23, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 310, col 17, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 390, col 17, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 479, col 18, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 479, col 25, 'l' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 496, col 20, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 602, col 28, The Function constructor is a form of eval.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 640, col 28, The Function constructor is a form of eval.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 676, col 28, The Function constructor is a form of eval.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 766, col 15, Bad line breaking before '||'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 771, col 15, Bad line breaking before '||'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 772, col 15, Bad line breaking before '||'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 935, col 21, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1018, col 15, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1018, col 44, Use the isNaN function to compare with NaN.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1028, col 30, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1043, col 15, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1043, col 44, Use the isNaN function to compare with NaN.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1044, col 23, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1055, col 6, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1067, col 15, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1067, col 44, Use the isNaN function to compare with NaN.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1068, col 23, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1079, col 6, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1091, col 15, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1091, col 44, Use the isNaN function to compare with NaN.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1101, col 6, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 3, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 76, col 33, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 77, col 29, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 78, col 35, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 224, col 49, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 470, col 23, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 484, col 23, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 512, col 24, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 865, col 41, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 877, col 16, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 1107, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 427, col 35, 'varArgs' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 443, col 33, 'varArgs' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 892, col 60, 'args' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.dataview.js: line 892, col 54, 'e' is defined but never used.
 
-SlickGrid/controls/slick.columnpicker.js: line 18, col 43, Missing semicolon.
-SlickGrid/controls/slick.columnpicker.js: line 36, col 48, Use '!==' to compare with 'null'.
+45 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 19, col 43, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 37, col 48, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 16, col 116, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 145, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 146, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 18, col 43, 'e' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 25, col 45, 'args' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.columnpicker.js: line 118, col 48, 'e' is defined but never used.
 
-SlickGrid/slick.editors.js: line 72, col 30, Use '===' to compare with ''.
-SlickGrid/slick.editors.js: line 72, col 52, Use '===' to compare with 'null'.
-SlickGrid/slick.editors.js: line 134, col 30, Use '===' to compare with ''.
-SlickGrid/slick.editors.js: line 134, col 52, Use '===' to compare with 'null'.
-SlickGrid/slick.editors.js: line 169, col 30, Missing semicolon.
-SlickGrid/slick.editors.js: line 172, col 31, Missing semicolon.
-SlickGrid/slick.editors.js: line 226, col 30, Use '===' to compare with ''.
-SlickGrid/slick.editors.js: line 226, col 52, Use '===' to compare with 'null'.
-SlickGrid/slick.editors.js: line 357, col 31, Missing semicolon.
-SlickGrid/slick.editors.js: line 364, col 9, Missing semicolon.
-SlickGrid/slick.editors.js: line 390, col 30, Use '===' to compare with ''.
-SlickGrid/slick.editors.js: line 390, col 52, Use '===' to compare with 'null'.
-SlickGrid/slick.editors.js: line 475, col 42, Missing semicolon.
-SlickGrid/slick.editors.js: line 500, col 30, Use '===' to compare with ''.
-SlickGrid/slick.editors.js: line 500, col 52, Use '===' to compare with 'null'.
+8 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 21, col 67, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 22, col 66, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 23, col 66, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 24, col 66, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 26, col 8, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 75, col 22, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 90, col 57, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 136, col 31, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 16, col 34, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 154, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/controls/slick.pager.js: line 155, col 4, 'jQuery' is not defined.
 
-SlickGrid/tests/grid/grid.js: line 14, col 4, Missing semicolon.
-SlickGrid/tests/grid/grid.js: line 21, col 4, Missing semicolon.
-SlickGrid/tests/grid/grid.js: line 34, col 14, 'i' is already defined.
-SlickGrid/tests/grid/grid.js: line 58, col 84, Missing semicolon.
+11 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 461, col 64, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 486, col 15, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 650, col 43, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 963, col 20, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 965, col 48, Expected a conditional expression and instead saw an assignment.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 968, col 55, Expected a conditional expression and instead saw an assignment.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1146, col 25, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1150, col 25, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1356, col 17, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1670, col 14, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1670, col 32, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1691, col 23, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1694, col 24, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1773, col 51, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1819, col 54, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1856, col 51, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1859, col 63, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1911, col 18, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1911, col 26, 'ii' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2135, col 9, Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2408, col 15, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2408, col 31, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2485, col 26, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2489, col 26, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2609, col 70, Bad constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2692, col 35, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2760, col 53, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2932, col 15, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2932, col 31, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2964, col 15, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2964, col 31, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 3290, col 15, eval can be harmful.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 3291, col 14, eval can be harmful.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 24, col 6, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 34, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 74, col 19, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 332, col 13, 'navigator' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 333, col 13, 'navigator' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 441, col 22, 'navigator' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 442, col 60, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 461, col 42, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 940, col 31, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 946, col 22, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1013, col 20, 'Slick' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1851, col 15, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1908, col 15, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1924, col 7, 'clearTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 1925, col 22, 'setTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2009, col 11, 'clearTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2019, col 24, 'setTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.grid.js: line 2019, col 24, Too many errors. (59% scanned).
 
-SlickGrid/tests/plugins/autotooltips.js: line 14, col 39, Missing semicolon.
-SlickGrid/tests/plugins/autotooltips.js: line 18, col 39, Expected an assignment or function call and instead saw an expression.
-SlickGrid/tests/plugins/autotooltips.js: line 27, col 33, Use '===' to compare with '0'.
+51 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.core.js: line 73, col 6, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.core.js: line 169, col 6, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.core.js: line 253, col 6, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.core.js: line 10, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.core.js: line 458, col 4, 'jQuery' is not defined.
 
-SlickGrid/tests/dataview/dataview.js: line 75, col 40, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 84, col 40, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 93, col 40, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 125, col 78, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 126, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 127, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 135, col 78, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 136, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 137, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 144, col 78, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 145, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 146, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 148, col 43, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 197, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 198, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 199, col 47, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 210, col 47, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 218, col 52, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 227, col 47, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 230, col 47, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 233, col 52, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 310, col 78, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 311, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 312, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 385, col 44, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 386, col 21, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 389, col 78, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 390, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 391, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 402, col 50, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 403, col 27, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 406, col 78, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 407, col 86, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 408, col 90, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 442, col 40, ['val'] is better written in dot notation.
-SlickGrid/tests/dataview/dataview.js: line 461, col 40, ['val'] is better written in dot notation.
-SlickGrid/tests/dataview/dataview.js: line 490, col 40, ['val'] is better written in dot notation.
-SlickGrid/tests/dataview/dataview.js: line 492, col 26, Missing semicolon.
-SlickGrid/tests/dataview/dataview.js: line 571, col 40, ['val'] is better written in dot notation.
+5 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 2, col 1, Unnecessary semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 99, col 44, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 184, col 50, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 186, col 38, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 193, col 50, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 195, col 38, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 200, col 49, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 4, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/examples/slick.compositeeditor.js: line 212, col 4, 'jQuery' is not defined.
 
-SlickGrid/plugins/slick.headermenu.js: line 178, col 22, Use '===' to compare with 'false'.
-SlickGrid/plugins/slick.headermenu.js: line 253, col 19, Use '!==' to compare with 'null'.
-SlickGrid/plugins/slick.headermenu.js: line 253, col 38, Use '!==' to compare with ''.
+9 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 4, col 130, Use '===' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 4, col 178, Use '===' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 4, col 447, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 4, col 684, Use '===' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 5, col 70, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 6, col 429, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 8, col 246, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 11, col 25, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 12, col 25, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 13, col 21, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 13, col 57, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 20, col 42, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 20, col 166, 'height' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 23, col 10, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 28, col 69, 'x' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 29, col 51, 'x' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 29, col 384, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 29, col 594, 'width' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 30, col 105, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 31, col 25, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 32, col 20, Use '===' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 32, col 72, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 32, col 338, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 33, col 94, 'height' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 33, col 196, 'height' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 33, col 248, 'y' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 34, col 7, Use '===' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 34, col 29, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 19, 'y' used out of scope.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 191, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 315, 'width' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 684, 'height' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 756, 'y' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 769, 'height' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 793, 'color' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 825, 'y' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 850, 'height' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 36, col 862, 'color' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 37, col 33, 'color' used out of scope.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 38, col 19, 'y' used out of scope.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 38, col 49, 'color' used out of scope.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 38, col 55, 'color' used out of scope.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 38, col 191, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 38, col 770, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 39, col 25, Use '!==' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 40, col 408, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 40, col 852, Use '===' to compare with 'undefined'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 40, col 872, 'min' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 42, col 669, 'options' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 44, col 31, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.sparkline.min.js: line 44, col 31, Too many errors. (54% scanned).
 
-SlickGrid/plugins/slick.cellcopymanager.js: line 38, col 29, Use '!==' to compare with '0'.
+51 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 47, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 108, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 129, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 149, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 255, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 256, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 324, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 325, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 350, 'O' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 579, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 585, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 628, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 629, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 655, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 803, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1120, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1121, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1153, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1154, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1235, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1236, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1307, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1315, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1730, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1740, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1741, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1751, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1182, 'clearTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1281, 'setTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1514, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1550, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1604, 'location' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1744, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 510, 'X' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 512, 'V' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.jsonp-2.4.min.js: line 4, col 1177, 'e' is defined but never used.
 
-SlickGrid/plugins/slick.cellselectionmodel.js: line 79, col 49, Use '!==' to compare with 'null'.
-SlickGrid/plugins/slick.cellselectionmodel.js: line 79, col 70, Use '!==' to compare with 'null'.
+36 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 101, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 308, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 472, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 556, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 557, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 565, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 578, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 666, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 677, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 696, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 738, Did you mean to return a conditional instead of an assignment?
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 745, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 811, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 854, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 868, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 940, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1102, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1113, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1180, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1278, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1289, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1297, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1304, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1373, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1394, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1395, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1405, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1515, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1601, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1660, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1742, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1750, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1751, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1758, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1786, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1799, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1940, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1941, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 1957, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2035, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2142, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2162, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2163, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2223, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2378, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2418, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2428, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2495, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2669, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2670, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-1.7.min.js: line 3, col 2670, Too many errors. (50% scanned).
 
-SlickGrid/plugins/slick.rowselectionmodel.js: line 93, col 48, Use '!==' to compare with 'null'.
-SlickGrid/plugins/slick.rowselectionmodel.js: line 103, col 23, Missing semicolon.
+51 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 188, col 13, Bad line breaking before '&&'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 202, col 17, Bad line breaking before '*'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 210, col 74, A leading decimal point can be confused with a dot: '.5'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 210, col 105, A leading decimal point can be confused with a dot: '.5'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 230, col 41, Expected a conditional expression and instead saw an assignment.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 245, col 44, Expected a conditional expression and instead saw an assignment.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 260, col 37, Expected a conditional expression and instead saw an assignment.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 266, col 93, Mixed spaces and tabs.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 285, col 34, Mixed spaces and tabs.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 286, col 30, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 150, col 30, 'clearTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 291, col 26, 'setTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 303, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 64, col 23, 'obj' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drop-2.2.js: line 114, col 20, 'results' is defined but never used.
 
-SlickGrid/plugins/slick.checkboxselectcolumn.js: line 93, col 26, Missing semicolon.
-SlickGrid/plugins/slick.checkboxselectcolumn.js: line 140, col 13, Bad line breaking before '?'.
+15 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 31, col 2, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 126, col 16, 'el' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 49, col 69, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 57, col 26, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 58, col 19, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 62, col 46, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 63, col 20, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 64, col 19, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 73, col 67, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 78, col 26, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 80, col 23, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 85, col 23, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 92, col 20, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 93, col 19, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 119, col 28, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 121, col 28, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 122, col 28, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 151, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 55, col 26, 'relatedTarget' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 113, col 17, 'self' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.simulate.js: line 112, col 22, 'el' is defined but never used.
 
-SlickGrid/plugins/slick.rowmovemanager.js: line 55, col 31, Use '===' to compare with '0'.
+21 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 21, col 27, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 211, col 24, 'li' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 227, col 29, 'i' is already defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 417, col 22, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 530, col 14, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 806, col 22, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 911, col 6, Unnecessary semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 914, col 6, Unnecessary semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 924, col 6, Unnecessary semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 932, col 6, Unnecessary semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 942, col 4, Mixed spaces and tabs.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 943, col 4, Mixed spaces and tabs.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 135, col 21, 'start' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 151, col 104, 'reset' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 165, col 27, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 171, col 30, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 173, col 36, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 185, col 25, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 211, col 26, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 315, col 21, 'clearTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 343, col 13, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 344, col 13, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 345, col 13, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 358, col 14, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 359, col 21, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 426, col 12, 'exports' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 427, col 5, 'exports' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 430, col 41, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 444, col 31, 'navigator' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 451, col 22, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 456, col 22, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 465, col 21, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 470, col 23, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 475, col 22, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 484, col 17, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 541, col 22, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 602, col 13, 'setTimeout' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 624, col 9, 'ok' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 630, col 9, 'ok' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 651, col 44, 'console' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 651, col 61, 'console' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 652, col 9, 'console' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 653, col 9, 'console' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 654, col 9, 'console' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 656, col 33, 'opera' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 657, col 9, 'opera' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 680, col 50, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 680, col 62, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 681, col 9, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 375, col 35, 'total' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/qunit.js: line 375, col 35, Too many errors. (35% scanned).
 
-SlickGrid/plugins/slick.headerbuttons.js: line 153, col 19, Use '!==' to compare with 'null'.
+51 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/firebugx.js: line 9, col 3, Don't make functions within a loop.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/firebugx.js: line 8, col 45, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/firebugx.js: line 2, col 46, 'console' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/firebugx.js: line 6, col 3, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/firebugx.js: line 8, col 5, 'window' is not defined.
 
-380 errors
+5 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 113, col 26, Use '!==' to compare with '0'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 180, col 39, Expected a 'break' statement before 'case'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 188, col 39, Expected a 'break' statement before 'case'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 191, col 39, Expected a 'break' statement before 'case'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 203, col 17, Expected a 'break' statement before 'case'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 206, col 27, Expected a 'break' statement before 'default'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 245, col 43, Expected a conditional expression and instead saw an assignment.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 284, col 14, Don't make functions within a loop.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 294, col 28, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 388, col 17, Bad line breaking before '||'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 389, col 17, Bad line breaking before '||'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 155, col 25, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 211, col 36, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 342, col 12, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 345, col 9, 'document' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 403, col 5, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 61, col 50, 'def' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery.event.drag-2.2.js: line 236, col 39, '$elems' is defined but never used.
+
+18 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 11, col 208, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 11, col 299, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 11, col 438, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 11, col 447, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 52, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 53, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 57, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 93, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 268, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 440, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 13, col 488, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 75, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 90, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 149, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 401, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 414, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 14, col 424, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 67, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 69, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 140, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 389, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 15, col 400, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 183, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 185, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 337, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 339, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 340, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 408, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 16, col 472, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 48, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 330, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 17, col 469, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 97, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 98, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 216, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 396, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 18, col 442, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 19, col 23, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 19, col 26, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 20, col 1, Unnecessary semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 96, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 140, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 155, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 156, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 349, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 389, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 391, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 392, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 29, col 491, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 30, col 32, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/lib/jquery-ui-1.8.16.custom.min.js: line 30, col 32, Too many errors. (4% scanned).
+
+51 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 26, col 15, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 36, col 15, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 14, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 60, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 25, col 77, 'dataContext' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 25, col 64, 'columnDef' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 35, col 80, 'dataContext' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 35, col 67, 'columnDef' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 53, col 67, 'dataContext' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 53, col 54, 'columnDef' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 57, col 71, 'dataContext' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.formatters.js: line 57, col 58, 'columnDef' is defined but never used.
+
+12 errors
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 73, col 30, Use '===' to compare with ''.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 73, col 52, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 135, col 30, Use '===' to compare with ''.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 135, col 52, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 170, col 30, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 173, col 31, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 227, col 30, Use '===' to compare with ''.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 227, col 52, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 358, col 31, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 365, col 9, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 391, col 30, Use '===' to compare with ''.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 391, col 52, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 476, col 42, Missing semicolon.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 501, col 30, Use '===' to compare with ''.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 501, col 52, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 10, col 18, 'window' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 513, col 4, 'jQuery' is not defined.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 27, col 14, 'scope' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 96, col 14, 'scope' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 158, col 14, 'scope' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 243, col 14, 'scope' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 289, col 14, 'scope' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 339, col 14, 'scope' is defined but never used.
+/home/anusha/Desktop/cs527/modified_projects/jshint/slickgrid/slick.editors.js: line 362, col 87, 'e' is defined but never used.
+
+24 errors
