@@ -1,42 +1,43 @@
- Confusing use of '!'.     6
- 'prevElement' is already defined.     232
- Expected a 'break' statement before 'case'.     19
+ Expected a 'break' statement before 'default'.     19
+ Confusing use of '!'.     8
+ Bad line breaking before '?'.     620
  Bad escaping of EOL. Use option multistr if needed.     104
- Bad line breaking before '&&'.     620
- This character may get silently deleted by one or more browsers.     9
- Expected a single parameter in set head function.     14
- Too many errors. (100% scanned).     31
+ This character may get silently deleted by one or more browsers.     11
  Forgotten 'debugger' statement?     1
  The array literal notation [] is preferrable.     4
- ['name'] is better written in dot notation.     21
  Wrap the /regexp/ literal in parens to disambiguate the slash operator.     6
+ 'closeTo' used out of scope.     23
  Unnecessary semicolon.     73
- Missing '()' invoking a constructor.     43
+ 'hemi' is not defined.     3372
+ Missing '()' invoking a constructor.     42
+ 'setLoopProper' is defined but never used.     234
+ 'j' is already defined.     271
  Possible strict violation.     105
  A leading decimal point can be confused with a dot: '.5'.     11
  Missing "use strict" statement.     1
- Use '===' to compare with 'undefined'.     400
  Duplicate key 'ldquo'.     1
- Creating global 'for' variable. Should be 'for (var i ...'.     4
+ Expected an assignment or function call and instead saw an expression.     186
+ Use '===' to compare with 'null'.     399
  The Function constructor is a form of eval.     1
- Expected an assignment or function call and instead saw an expression.     170
  It's not necessary to initialize 'param' to 'undefined'.     1
  Comma warnings can be turned off with 'laxcomma'.     54
  Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     1
- 'g' used out of scope.     23
+ Expected a single parameter in set nodeName function.     14
  The '__proto__' property is deprecated.     30
  Don't make functions within a loop.     11
- Unreachable ';' after 'return'.     4
  'class' is only available in JavaScript 1.7.     1
- Unreachable 'break' after 'throw'.     3
+ Unreachable ';' after 'return'.     4
  Bad or unnecessary escaping.     4
- Did you mean to return a conditional instead of an assignment?     10
+ Did you mean to return a conditional instead of an assignment?     11
  Use the function form of "use strict".     3
+ Unreachable 'break' after 'break'.     3
+ Creating global 'for' variable. Should be 'for (var attr ...'.     4
  Missing 'new' prefix when invoking a constructor.     1
- Expected '}' to match '{' from line {c} and instead saw '     3
+ Expected '}' to match '{' from line {c} and instead saw '     1
  Mixed spaces and tabs.     498
- 'exports' is not defined.     24
+ ['rfc1867'] is better written in dot notation.     21
+ Too many errors. (26% scanned).     80
  Unexpected escaped character '<' in regular expression.     2
- Expected an identifier and instead saw 'class' (a reserved word).     2
- Missing semicolon.     1076
- You might be leaking a variable (exports) here.     7
+ Expected an identifier and instead saw 'class' (a reserved word).     1
+ You might be leaking a variable ($p) here.     7
+ Missing semicolon.     1041

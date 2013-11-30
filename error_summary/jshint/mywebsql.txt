@@ -1,0 +1,31 @@
+ 'lineElement' used out of scope.     27
+ Value of 'e' may be overwritten in IE 8 and earlier.     2
+ Confusing use of '!'.     3
+ Variables should not be deleted.     2
+ 'db_mysql' is defined but never used.     49
+ Expected a 'break' statement before 'case'.     1
+ Script URL.     5
+ This character may get silently deleted by one or more browsers.     3
+ Use '===' to compare with '0'.     181
+ eval can be harmful.     3
+ Wrap the /regexp/ literal in parens to disambiguate the slash operator.     4
+ Unnecessary semicolon.     12
+ Missing '()' invoking a constructor.     3
+ '$' is not defined.     570
+ Creating global 'for' variable. Should be 'for (var dlg ...'.     6
+ Expected an assignment or function call and instead saw an expression.     66
+ Unreachable 'break' after 'return'.     2
+ A leading decimal point can be confused with a dot: '.99'.     4
+ Comma warnings can be turned off with 'laxcomma'.     3
+ Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     10
+ Don't make functions within a loop.     7
+ The object literal notation {} is preferrable.     2
+ Did you mean to return a conditional instead of an assignment?     2
+ 'n' is already defined.     60
+ Missing 'new' prefix when invoking a constructor.     1
+ Mixed spaces and tabs.     84
+ Bad line breaking before '||'.     81
+ Read only.     1
+ Too many errors. (81% scanned).     21
+ ['wrkfrm'] is better written in dot notation.     18
+ Missing semicolon.     137

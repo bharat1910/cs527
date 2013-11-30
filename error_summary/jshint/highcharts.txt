@@ -1,33 +1,37 @@
  You might be leaking a variable (part) here.     2
  'lineElement' used out of scope.     20
  Value of 'e' may be overwritten in IE 8 and earlier.     1
+ col 1     50
  Strings must use doublequote.     63
- col 1     46
  Duplicate key 'tooltip'.     2
  Confusing use of '!'.     14
+ col 5     4
  Expected a 'break' statement before 'case'.     2
  ['closeTagEnabled'] is better written in dot notation.     40
+ Bad line breaking before '&&'.     57
+ 'ExportingTest' is not defined.     4095
+ 'minDate' is defined but never used.     210
  Unexpected comma.     1
- Creating global 'for' variable. Should be 'for (var name ...'.     2
- Bad line breaking before '     57
  col 8     1
+ Creating global 'for' variable. Should be 'for (var name ...'.     2
  Unmatched '{'.     2
  The array literal notation [] is preferrable.     1
- Use '===' to compare with '0'.     469
  Don't use extra leading zeros '000'.     4
  Wrap the /regexp/ literal in parens to disambiguate the slash operator.     6
  Unnecessary semicolon.     34
  Missing '()' invoking a constructor.     25
- 'id' is already defined.     106
+ 'arr' is already defined.     106
  Unmatched '('.     2
+ Expected an assignment or function call and instead saw an expression.     801
  The Function constructor is a form of eval.     8
- Expected an assignment or function call and instead saw an expression.     799
  Missing name in function declaration.     1
- Expected a JSON value.     19
+ A leading decimal point can be confused with a dot: '.99'.     4
+ Too many errors. (22% scanned).     58
  Comma warnings can be turned off with 'laxcomma'.     5
+ Expected a JSON value.     19
+ Use '!==' to compare with 'null'.     469
  Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     5
  document.write can be a form of eval.     23
- A leading decimal point can be confused with a dot: '.3'.     4
  Don't make functions within a loop.     10
  Weird construction. Is 'new' unnecessary?     1
  Bad or unnecessary escaping.     3
@@ -35,8 +39,6 @@
  Expected an identifier and instead saw 'undefined' (a reserved word).     2
  Missing 'new' prefix when invoking a constructor.     2
  'isArray' is a function.     1
- Too many errors. (68% scanned).     37
  Mixed spaces and tabs.     4247
- Expected '(end)' and instead saw '}'.     2
  Expected 'pathAnim' to have an indentation at 5 instead at 1.     136
  Missing semicolon.     408
