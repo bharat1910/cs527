@@ -18,6 +18,7 @@ public class GenerateModifiedFileJsHInt {
 	
 	static {
 		LINES_TO_ADD.add("/* jshint undef: false, unused: false, asi: true */");
+		LINES_TO_ADD.add("/* jshint maxerr:10000 */");
 	}
 	
 	private void writeModifiedFile(File f) throws IOException
