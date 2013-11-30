@@ -21,7 +21,7 @@ public class GenerateErrorFile
 	
 	static {
 		//commandForTool.put("jshint", "jshint ");
-		commandForTool.put("jslint", "jslint -maxerr 200 ");
+		commandForTool.put("jslint", "jslint -maxerr 1000 ");
 		//commandForTool.put("closure_linter", "gjslint ");
 		
 		projects.add("highcharts");

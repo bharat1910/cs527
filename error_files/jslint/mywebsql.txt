@@ -592,8 +592,230 @@
     if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 93
 #200 Missing space between ',' and 'whitelist'.
     if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 112
-#201 Too many errors. (76% scanned).
-     // Line 19, Pos 112
+#201 Missing space between ';' and 'if'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 123
+#202 Expected exactly one space between 'if' and '('.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 125
+#203 Expected exactly one space between ')' and '{'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 128
+#204 Missing space between ')' and '+'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 148
+#205 Missing space between '+' and ':'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 149
+#206 Missing space between ':' and '+'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 152
+#207 Missing space between '+' and 'v'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 153
+#208 Missing space between ';' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 156
+#209 Missing space between '}' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 157
+#210 Missing space between '}' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 158
+#211 Missing space between '}' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 159
+#212 Expected exactly one space between '}' and 'else'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 160
+#213 Expected exactly one space between 'else' and '{'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 164
+#214 Missing space between 'for' and '('.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 168
+#215 Missing space between ')' and '{'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 180
+#216 Expected exactly one space between 'if' and '('.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 183
+#217 Missing space between 'k' and '==='.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 192
+#218 Missing space between '===' and 'string'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 195
+#219 Expected exactly one space between ')' and '{'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 204
+#220 Missing space between 'v' and '='.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 206
+#221 Missing space between '=' and 'stringify'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 207
+#222 Missing space between ',' and 'whitelist'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 226
+#223 Missing space between ';' and 'if'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 237
+#224 Expected exactly one space between 'if' and '('.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 239
+#225 Expected exactly one space between ')' and '{'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 242
+#226 Missing space between ')' and '+'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 262
+#227 Missing space between '+' and ':'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 263
+#228 Missing space between ':' and '+'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 266
+#229 Missing space between '+' and 'v'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 267
+#230 Missing space between ';' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 270
+#231 Missing space between '}' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 271
+#232 Missing space between '}' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 272
+#233 The body of a for in should be wrapped in an if statement to filter unwanted properties from the prototype.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 165
+#234 Missing space between '}' and '}'.
+    if(whitelist){l=whitelist.length;for(i=0;i<l;i+=1){k=whitelist[i];if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}}else{for(k in value){if(typeof k==='string'){v=stringify(value[k],whitelist);if(v){a.push(stringify(k)+':'+v);}}}} // Line 19, Pos 273
+#235 Expected 'return' at column 5, not column 1.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 1
+#236 Expected exactly one space between 'return' and '{'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 7
+#237 Missing space between '{' and '+'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 10
+#238 Missing space between '+' and 'a'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 11
+#239 Missing space between ')' and '+'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 22
+#240 Missing space between '+' and '}'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 23
+#241 Missing space between ';' and '}'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 27
+#242 Missing space between '}' and '}'.
+    return'{'+a.join(',')+'}';}} // Line 20, Pos 28
+#243 Expected 'return' at column 5, not column 1.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 1
+#244 Expected exactly one space between 'return' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 7
+#245 Missing space between ':' and 'stringify'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 18
+#246 Missing space between ',' and 'parse'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 28
+#247 Missing space between ':' and 'function'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 34
+#248 Expected exactly one space between 'function' and '('.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 42
+#249 Missing space between ',' and 'filter'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 48
+#250 Expected exactly one space between ')' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 55
+#251 Missing space between ';' and 'function'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 62
+#252 Missing space between ',' and 'v'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 78
+#253 Expected exactly one space between ')' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 80
+#254 Missing space between ',' and 'n'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 87
+#255 Missing space between ';' and 'if'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 89
+#256 Expected exactly one space between 'if' and '('.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 91
+#257 Missing space between 'v' and '&&'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 93
+#258 Missing space between '&&' and 'typeof'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 95
+#259 Missing space between 'v' and '==='.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 103
+#260 Missing space between '===' and 'object'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 106
+#261 Expected exactly one space between ')' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 115
+#262 Missing space between 'for' and '('.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 119
+#263 Missing space between ')' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 127
+#264 Expected exactly one space between 'if' and '('.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 130
+#265 Missing space between ',' and '['.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 171
+#266 Expected exactly one space between ')' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 176
+#267 Missing space between 'n' and '='.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 178
+#268 Missing space between '=' and 'walk'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 179
+#269 Missing space between ',' and 'v'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 186
+#270 Missing space between ';' and 'if'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 192
+#271 Expected exactly one space between 'if' and '('.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 194
+#272 Missing space between 'n' and '!=='.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 196
+#273 Missing space between '!==' and 'undefined'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 199
+#274 Expected exactly one space between ')' and '{'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 209
+#275 Missing space between ']' and '='.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 214
+#276 Missing space between '=' and 'n'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 215
+#277 Missing space between ';' and '}'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 217
+#278 Missing space between '}' and '}'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 218
+#279 Missing space between '}' and '}'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 219
+#280 The body of a for in should be wrapped in an if statement to filter unwanted properties from the prototype.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 116
+#281 Missing space between '}' and '}'.
+    return{stringify:stringify,parse:function(text,filter){var j;function walk(k,v){var i,n;if(v&&typeof v==='object'){for(i in v){if(Object.prototype.hasOwnProperty.apply(v,[i])){n=walk(i,v[i]);if(n!==undefined){v[i]=n;}}}} // Line 21, Pos 220
+#282 Expected 'return' at column 9, not column 1.
+    return filter(k,v);} // Line 22, Pos 1
+#283 Missing space between ',' and 'v'.
+    return filter(k,v);} // Line 22, Pos 17
+#284 Missing space between ';' and '}'.
+    return filter(k,v);} // Line 22, Pos 20
+#285 Expected 'if' at column 9, not column 1.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 1
+#286 Expected exactly one space between 'if' and '('.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 3
+#287 Insecure '.'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 41
+#288 Missing space between ',' and '@'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 45
+#289 Insecure '^'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 61
+#290 Missing space between ',' and ']'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 125
+#291 Missing space between ',' and ''.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 161
+#292 Expected exactly one space between ')' and '{'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 166
+#293 Missing space between 'j' and '='.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 168
+#294 Missing space between '=' and 'eval'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 169
+#295 Missing space between '(' and '+'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 177
+#296 Missing space between '+' and 'text'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 178
+#297 Missing space between 'text' and '+'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 182
+#298 Missing space between '+' and ')'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 183
+#299 Missing space between ';' and 'return'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 188
+#300 Missing space between 'filter' and '==='.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 208
+#301 Missing space between '===' and 'function'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 211
+#302 Missing space between 'function' and '?'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 221
+#303 Missing space between '?' and 'walk'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 222
+#304 Missing space between ',' and 'j'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 230
+#305 Missing space between ')' and ':'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 232
+#306 Missing space between ':' and 'j'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 233
+#307 Missing space between ';' and '}'.
+    if(/^[\],:{}\s]*$/.test(text.replace(/\\./g,'@').replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,']').replace(/(?:^|:|,)(?:\s*\[)+/g,''))){j=eval('('+text+')');return typeof filter==='function'?walk('',j):j;} // Line 23, Pos 235
+#308 Expected 'throw' at column 9, not column 1.
+    throw new SyntaxError('parseJSON');}};}();} // Line 24, Pos 1
+#309 Missing space between ';' and '}'.
+    throw new SyntaxError('parseJSON');}};}();} // Line 24, Pos 36
+#310 Missing space between ';' and '}'.
+    throw new SyntaxError('parseJSON');}};}();} // Line 24, Pos 39
+#311 Wrap an immediate function invocation in parentheses to assist the reader in understanding that the expression is the result of a function, and not the function itself.
+    throw new SyntaxError('parseJSON');}};}();} // Line 24, Pos 41
+#312 Missing space between ';' and '}'.
+    throw new SyntaxError('parseJSON');}};}();} // Line 24, Pos 43
 
 /home/anusha/Desktop/cs527/modified_projects/jslint/mywebsql/js/texteditor.js
  #1 'textEditor' was used before it was defined.
@@ -2592,8 +2814,1608 @@
     //remember original state // Line 131, Pos 1
 #200 Use spaces, not tabs.
     .dialogExtend("_saveSnapshot") // Line 132, Pos 1
-#201 Too many errors. (24% scanned).
-     // Line 132, Pos 1
+#201 Expected '.' at column 21, not column 5.
+    .dialogExtend("_saveSnapshot") // Line 132, Pos 5
+#202 Use spaces, not tabs.
+    //mark new state // Line 133, Pos 1
+#203 Use spaces, not tabs.
+    .data("dialog-state", "maximized") // Line 134, Pos 1
+#204 Expected '.' at column 21, not column 5.
+    .data("dialog-state", "maximized") // Line 134, Pos 5
+#205 Use spaces, not tabs.
+    //modify dialog button // Line 135, Pos 1
+#206 Use spaces, not tabs.
+    .dialogExtend("_toggleButtons") // Line 136, Pos 1
+#207 Expected '.' at column 21, not column 5.
+    .dialogExtend("_toggleButtons") // Line 136, Pos 5
+#208 Use spaces, not tabs.
+    //fix dialog from scrolling // Line 137, Pos 1
+#209 Use spaces, not tabs.
+    .dialog("widget") // Line 138, Pos 1
+#210 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 138, Pos 5
+#211 Use spaces, not tabs.
+    .css("position", "fixed") // Line 139, Pos 1
+#212 Expected '.' at column 21, not column 6.
+    .css("position", "fixed") // Line 139, Pos 6
+#213 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 140, Pos 1
+#214 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 140, Pos 5
+#215 Use spaces, not tabs.
+    //show content // Line 141, Pos 1
+#216 Use spaces, not tabs.
+    //show button-pane (when minimized/collapsed) // Line 142, Pos 1
+#217 Use spaces, not tabs.
+    .show() // Line 143, Pos 1
+#218 Expected '.' at column 21, not column 5.
+    .show() // Line 143, Pos 5
+#219 Use spaces, not tabs.
+    .dialog("widget") // Line 144, Pos 1
+#220 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 144, Pos 5
+#221 Use spaces, not tabs.
+    .find(".ui-dialog-buttonpane").show().end() // Line 145, Pos 1
+#222 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-buttonpane").show().end() // Line 145, Pos 6
+#223 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 146, Pos 1
+#224 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 146, Pos 5
+#225 Use spaces, not tabs.
+    //modify dialog with new config // Line 147, Pos 1
+#226 Use spaces, not tabs.
+    .dialog("option", { // Line 148, Pos 1
+#227 Expected '.' at column 21, not column 5.
+    .dialog("option", { // Line 148, Pos 5
+#228 Use spaces, not tabs.
+    "resizable" : false, // Line 149, Pos 1
+#229 Expected 'resizable' at column 25, not column 6.
+    "resizable" : false, // Line 149, Pos 6
+#230 Use spaces, not tabs.
+    "draggable" : false, // Line 150, Pos 1
+#231 Expected 'draggable' at column 25, not column 6.
+    "draggable" : false, // Line 150, Pos 6
+#232 Use spaces, not tabs.
+    "height" : newHeight, // Line 151, Pos 1
+#233 Expected 'height' at column 25, not column 6.
+    "height" : newHeight, // Line 151, Pos 6
+#234 Use spaces, not tabs.
+    "width" : newWidth, // Line 152, Pos 1
+#235 Expected 'width' at column 25, not column 6.
+    "width" : newWidth, // Line 152, Pos 6
+#236 Use spaces, not tabs.
+    "position" : [1, 1] // Line 153, Pos 1
+#237 Expected 'position' at column 25, not column 6.
+    "position" : [1, 1] // Line 153, Pos 6
+#238 Use spaces, not tabs.
+    }) // Line 154, Pos 1
+#239 Expected '}' at column 21, not column 5.
+    }) // Line 154, Pos 5
+#240 Use spaces, not tabs.
+    //disable draggable-handle (for <titlebar=none> only) // Line 155, Pos 1
+#241 Use spaces, not tabs.
+    .dialog("widget") // Line 156, Pos 1
+#242 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 156, Pos 5
+#243 Use spaces, not tabs.
+    .draggable("option", "handle", null) // Line 157, Pos 1
+#244 Expected '.' at column 21, not column 6.
+    .draggable("option", "handle", null) // Line 157, Pos 6
+#245 Use spaces, not tabs.
+    .find(".ui-dialog-draggable-handle").css("cursor", "text").end() // Line 158, Pos 1
+#246 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-draggable-handle").css("cursor", "text").end() // Line 158, Pos 6
+#247 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 159, Pos 1
+#248 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 159, Pos 5
+#249 Use spaces, not tabs.
+    //trigger custom event // Line 160, Pos 1
+#250 Use spaces, not tabs.
+    .dialogExtend("_trigger", "maximize"); // Line 161, Pos 1
+#251 Expected '.' at column 21, not column 5.
+    .dialogExtend("_trigger", "maximize"); // Line 161, Pos 5
+#252 Use spaces, not tabs.
+    //maintain chainability // Line 162, Pos 1
+#253 Use spaces, not tabs.
+    return self; // Line 163, Pos 1
+#254 Expected 'return' at column 17, not column 4.
+    return self; // Line 163, Pos 4
+#255 Use spaces, not tabs.
+    }, // Line 164, Pos 1
+#256 Expected '}' at column 13, not column 3.
+    }, // Line 164, Pos 3
+#257 Use spaces, not tabs.
+    "minimize" : function(){ // Line 166, Pos 1
+#258 Expected 'minimize' at column 13, not column 3.
+    "minimize" : function(){ // Line 166, Pos 3
+#259 Expected exactly one space between 'function' and '('.
+    "minimize" : function(){ // Line 166, Pos 24
+#260 Expected exactly one space between ')' and '{'.
+    "minimize" : function(){ // Line 166, Pos 26
+#261 Use spaces, not tabs.
+    var self = this; // Line 167, Pos 1
+#262 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 167, Pos 4
+#263 Use spaces, not tabs.
+    //start! // Line 168, Pos 1
+#264 Use spaces, not tabs.
+    $(self) // Line 169, Pos 1
+#265 Expected '$' at column 17, not column 4.
+    $(self) // Line 169, Pos 4
+#266 Use spaces, not tabs.
+    //trigger custom event // Line 170, Pos 1
+#267 Use spaces, not tabs.
+    .dialogExtend("_trigger", "beforeMinimize") // Line 171, Pos 1
+#268 Expected '.' at column 21, not column 5.
+    .dialogExtend("_trigger", "beforeMinimize") // Line 171, Pos 5
+#269 Use spaces, not tabs.
+    //remember original state // Line 172, Pos 1
+#270 Use spaces, not tabs.
+    .dialogExtend("_saveSnapshot") // Line 173, Pos 1
+#271 Expected '.' at column 21, not column 5.
+    .dialogExtend("_saveSnapshot") // Line 173, Pos 5
+#272 Use spaces, not tabs.
+    //mark new state // Line 174, Pos 1
+#273 Use spaces, not tabs.
+    .data("dialog-state", "minimized") // Line 175, Pos 1
+#274 Expected '.' at column 21, not column 5.
+    .data("dialog-state", "minimized") // Line 175, Pos 5
+#275 Use spaces, not tabs.
+    //modify dialog button // Line 176, Pos 1
+#276 Use spaces, not tabs.
+    .dialogExtend("_toggleButtons") // Line 177, Pos 1
+#277 Expected '.' at column 21, not column 5.
+    .dialogExtend("_toggleButtons") // Line 177, Pos 5
+#278 Use spaces, not tabs.
+    .dialog("widget") // Line 178, Pos 1
+#279 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 178, Pos 5
+#280 Use spaces, not tabs.
+    .hide() // Line 179, Pos 1
+#281 Expected '.' at column 21, not column 5.
+    .hide() // Line 179, Pos 5
+#282 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 180, Pos 1
+#283 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 180, Pos 5
+#284 Use spaces, not tabs.
+    //trigger custom event // Line 181, Pos 1
+#285 Use spaces, not tabs.
+    .dialogExtend("_trigger", "minimize"); // Line 182, Pos 1
+#286 Expected '.' at column 21, not column 5.
+    .dialogExtend("_trigger", "minimize"); // Line 182, Pos 5
+#287 Use spaces, not tabs.
+    //maintain chainability // Line 183, Pos 1
+#288 Use spaces, not tabs.
+    return self; // Line 184, Pos 1
+#289 Expected 'return' at column 17, not column 4.
+    return self; // Line 184, Pos 4
+#290 Use spaces, not tabs.
+    }, // Line 185, Pos 1
+#291 Expected '}' at column 13, not column 3.
+    }, // Line 185, Pos 3
+#292 Use spaces, not tabs.
+    "restore" : function(){ // Line 187, Pos 1
+#293 Expected 'restore' at column 13, not column 3.
+    "restore" : function(){ // Line 187, Pos 3
+#294 Expected exactly one space between 'function' and '('.
+    "restore" : function(){ // Line 187, Pos 23
+#295 Expected exactly one space between ')' and '{'.
+    "restore" : function(){ // Line 187, Pos 25
+#296 Use spaces, not tabs.
+    var self = this; // Line 188, Pos 1
+#297 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 188, Pos 4
+#298 Use spaces, not tabs.
+    var beforeState = $(self).data("dialog-state"); // Line 189, Pos 1
+#299 Expected 'var' at column 17, not column 4.
+    var beforeState = $(self).data("dialog-state"); // Line 189, Pos 4
+#300 Combine this with the previous 'var' statement.
+    var beforeState = $(self).data("dialog-state"); // Line 189, Pos 8
+#301 Use spaces, not tabs.
+    //start! // Line 190, Pos 1
+#302 Use spaces, not tabs.
+    $(self) // Line 191, Pos 1
+#303 Expected '$' at column 17, not column 4.
+    $(self) // Line 191, Pos 4
+#304 Use spaces, not tabs.
+    //trigger custom event // Line 192, Pos 1
+#305 Use spaces, not tabs.
+    .dialogExtend("_trigger", "beforeRestore") // Line 193, Pos 1
+#306 Expected '.' at column 21, not column 5.
+    .dialogExtend("_trigger", "beforeRestore") // Line 193, Pos 5
+#307 Use spaces, not tabs.
+    //mark new state // Line 194, Pos 1
+#308 Use spaces, not tabs.
+    .data("dialog-state", "normal") // Line 195, Pos 1
+#309 Expected '.' at column 21, not column 5.
+    .data("dialog-state", "normal") // Line 195, Pos 5
+#310 Use spaces, not tabs.
+    //restore dialog button // Line 196, Pos 1
+#311 Use spaces, not tabs.
+    .dialogExtend("_toggleButtons") // Line 197, Pos 1
+#312 Expected '.' at column 21, not column 5.
+    .dialogExtend("_toggleButtons") // Line 197, Pos 5
+#313 Use spaces, not tabs.
+    //restore dialog according to previous state // Line 198, Pos 1
+#314 Use spaces, not tabs.
+    .dialogExtend( // Line 199, Pos 1
+#315 Expected '.' at column 21, not column 5.
+    .dialogExtend( // Line 199, Pos 5
+#316 Use spaces, not tabs.
+    beforeState == "maximized" ? "_restoreFromMaximized" : // Line 200, Pos 1
+#317 Expected 'beforeState' at column 25, not column 6.
+    beforeState == "maximized" ? "_restoreFromMaximized" : // Line 200, Pos 6
+#318 Expected '===' and instead saw '=='.
+    beforeState == "maximized" ? "_restoreFromMaximized" : // Line 200, Pos 18
+#319 Use spaces, not tabs.
+    beforeState == "minimized" ? "_restoreFromMinimized" : // Line 201, Pos 1
+#320 Expected 'beforeState' at column 33, not column 6.
+    beforeState == "minimized" ? "_restoreFromMinimized" : // Line 201, Pos 6
+#321 Expected '===' and instead saw '=='.
+    beforeState == "minimized" ? "_restoreFromMinimized" : // Line 201, Pos 18
+#322 Use spaces, not tabs.
+    beforeState == "collapsed" ? "_restoreFromCollapsed" : // Line 202, Pos 1
+#323 Expected 'beforeState' at column 41, not column 6.
+    beforeState == "collapsed" ? "_restoreFromCollapsed" : // Line 202, Pos 6
+#324 Expected '===' and instead saw '=='.
+    beforeState == "collapsed" ? "_restoreFromCollapsed" : // Line 202, Pos 18
+#325 Use spaces, not tabs.
+    $.error( "jQuery.dialogExtend Error : Cannot restore dialog from unknown state '" + beforeState +"'" ) // Line 203, Pos 1
+#326 Expected '$' at column 49, not column 6.
+    $.error( "jQuery.dialogExtend Error : Cannot restore dialog from unknown state '" + beforeState +"'" ) // Line 203, Pos 6
+#327 Unexpected space between '(' and 'jQuery.dialogExtend Error : Cannot restore dialog from unknown state ''.
+    $.error( "jQuery.dialogExtend Error : Cannot restore dialog from unknown state '" + beforeState +"'" ) // Line 203, Pos 15
+#328 Missing space between '+' and '''.
+    $.error( "jQuery.dialogExtend Error : Cannot restore dialog from unknown state '" + beforeState +"'" ) // Line 203, Pos 103
+#329 Unexpected space between ''' and ')'.
+    $.error( "jQuery.dialogExtend Error : Cannot restore dialog from unknown state '" + beforeState +"'" ) // Line 203, Pos 107
+#330 Use spaces, not tabs.
+    ) // Line 204, Pos 1
+#331 Expected ')' at column 21, not column 5.
+    ) // Line 204, Pos 5
+#332 Use spaces, not tabs.
+    .dialog("widget").show() // Line 205, Pos 1
+#333 Expected '.' at column 21, not column 5.
+    .dialog("widget").show() // Line 205, Pos 5
+#334 Use spaces, not tabs.
+    //trigger custom event // Line 206, Pos 1
+#335 Use spaces, not tabs.
+    .dialogExtend("_trigger", "restore"); // Line 207, Pos 1
+#336 Expected '.' at column 21, not column 5.
+    .dialogExtend("_trigger", "restore"); // Line 207, Pos 5
+#337 Use spaces, not tabs.
+    //maintain chainability // Line 208, Pos 1
+#338 Use spaces, not tabs.
+    return self; // Line 209, Pos 1
+#339 Expected 'return' at column 17, not column 4.
+    return self; // Line 209, Pos 4
+#340 Use spaces, not tabs.
+    }, // Line 210, Pos 1
+#341 Expected '}' at column 13, not column 3.
+    }, // Line 210, Pos 3
+#342 Use spaces, not tabs.
+    "_initButtons" : function(){ // Line 212, Pos 1
+#343 Expected '_initButtons' at column 13, not column 3.
+    "_initButtons" : function(){ // Line 212, Pos 3
+#344 Expected exactly one space between 'function' and '('.
+    "_initButtons" : function(){ // Line 212, Pos 28
+#345 Expected exactly one space between ')' and '{'.
+    "_initButtons" : function(){ // Line 212, Pos 30
+#346 Use spaces, not tabs.
+    var self = this; // Line 213, Pos 1
+#347 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 213, Pos 4
+#348 Use spaces, not tabs.
+    //start operation on titlebar // Line 214, Pos 1
+#349 Use spaces, not tabs.
+    var titlebar = $(self).dialog("widget").find(".ui-dialog-titlebar"); // Line 215, Pos 1
+#350 Expected 'var' at column 17, not column 4.
+    var titlebar = $(self).dialog("widget").find(".ui-dialog-titlebar"); // Line 215, Pos 4
+#351 Combine this with the previous 'var' statement.
+    var titlebar = $(self).dialog("widget").find(".ui-dialog-titlebar"); // Line 215, Pos 8
+#352 Use spaces, not tabs.
+    $(titlebar) // Line 216, Pos 1
+#353 Expected '$' at column 17, not column 4.
+    $(titlebar) // Line 216, Pos 4
+#354 Use spaces, not tabs.
+    .append('<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.maximize+'">maximize</span></a>') // Line 217, Pos 1
+#355 Expected '.' at column 21, not column 5.
+    .append('<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.maximize+'">maximize</span></a>') // Line 217, Pos 5
+#356 Missing space between '<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon ' and '+'.
+    .append('<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.maximize+'">maximize</span></a>') // Line 217, Pos 98
+#357 Missing space between '+' and 'settings'.
+    .append('<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.maximize+'">maximize</span></a>') // Line 217, Pos 99
+#358 Missing space between 'maximize' and '+'.
+    .append('<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.maximize+'">maximize</span></a>') // Line 217, Pos 122
+#359 Missing space between '+' and '">maximize</span></a>'.
+    .append('<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.maximize+'">maximize</span></a>') // Line 217, Pos 123
+#360 Use spaces, not tabs.
+    .append('<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.minimize+'">minimize</span></a>') // Line 218, Pos 1
+#361 Expected '.' at column 21, not column 5.
+    .append('<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.minimize+'">minimize</span></a>') // Line 218, Pos 5
+#362 Missing space between '<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon ' and '+'.
+    .append('<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.minimize+'">minimize</span></a>') // Line 218, Pos 98
+#363 Missing space between '+' and 'settings'.
+    .append('<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.minimize+'">minimize</span></a>') // Line 218, Pos 99
+#364 Missing space between 'minimize' and '+'.
+    .append('<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.minimize+'">minimize</span></a>') // Line 218, Pos 122
+#365 Missing space between '+' and '">minimize</span></a>'.
+    .append('<a class="ui-dialog-titlebar-minimize ui-corner-all" href="#"><span class="ui-icon '+settings.icons.minimize+'">minimize</span></a>') // Line 218, Pos 123
+#366 Use spaces, not tabs.
+    .append('<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon '+settings.icons.restore+'">restore</span></a>') // Line 219, Pos 1
+#367 Expected '.' at column 21, not column 5.
+    .append('<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon '+settings.icons.restore+'">restore</span></a>') // Line 219, Pos 5
+#368 Missing space between '<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon ' and '+'.
+    .append('<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon '+settings.icons.restore+'">restore</span></a>') // Line 219, Pos 97
+#369 Missing space between '+' and 'settings'.
+    .append('<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon '+settings.icons.restore+'">restore</span></a>') // Line 219, Pos 98
+#370 Missing space between 'restore' and '+'.
+    .append('<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon '+settings.icons.restore+'">restore</span></a>') // Line 219, Pos 120
+#371 Missing space between '+' and '">restore</span></a>'.
+    .append('<a class="ui-dialog-titlebar-restore ui-corner-all" href="#"><span class="ui-icon '+settings.icons.restore+'">restore</span></a>') // Line 219, Pos 121
+#372 Use spaces, not tabs.
+    //add effect to buttons // Line 220, Pos 1
+#373 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-maximize,.ui-dialog-titlebar-minimize,.ui-dialog-titlebar-restore") // Line 221, Pos 1
+#374 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-maximize,.ui-dialog-titlebar-minimize,.ui-dialog-titlebar-restore") // Line 221, Pos 5
+#375 Use spaces, not tabs.
+    .attr("role", "button") // Line 222, Pos 1
+#376 Expected '.' at column 21, not column 6.
+    .attr("role", "button") // Line 222, Pos 6
+#377 Use spaces, not tabs.
+    .mouseover(function(){ $(this).addClass("ui-state-hover"); }) // Line 223, Pos 1
+#378 Expected '.' at column 21, not column 6.
+    .mouseover(function(){ $(this).addClass("ui-state-hover"); }) // Line 223, Pos 6
+#379 Expected exactly one space between 'function' and '('.
+    .mouseover(function(){ $(this).addClass("ui-state-hover"); }) // Line 223, Pos 25
+#380 Expected exactly one space between ')' and '{'.
+    .mouseover(function(){ $(this).addClass("ui-state-hover"); }) // Line 223, Pos 27
+#381 Use spaces, not tabs.
+    .mouseout(function(){ $(this).removeClass("ui-state-hover"); }) // Line 224, Pos 1
+#382 Expected '.' at column 21, not column 6.
+    .mouseout(function(){ $(this).removeClass("ui-state-hover"); }) // Line 224, Pos 6
+#383 Expected exactly one space between 'function' and '('.
+    .mouseout(function(){ $(this).removeClass("ui-state-hover"); }) // Line 224, Pos 24
+#384 Expected exactly one space between ')' and '{'.
+    .mouseout(function(){ $(this).removeClass("ui-state-hover"); }) // Line 224, Pos 26
+#385 Use spaces, not tabs.
+    .focus(function(){ $(this).addClass("ui-state-focus"); }) // Line 225, Pos 1
+#386 Expected '.' at column 21, not column 6.
+    .focus(function(){ $(this).addClass("ui-state-focus"); }) // Line 225, Pos 6
+#387 Expected exactly one space between 'function' and '('.
+    .focus(function(){ $(this).addClass("ui-state-focus"); }) // Line 225, Pos 21
+#388 Expected exactly one space between ')' and '{'.
+    .focus(function(){ $(this).addClass("ui-state-focus"); }) // Line 225, Pos 23
+#389 Use spaces, not tabs.
+    .blur(function(){ $(this).removeClass("ui-state-focus"); }) // Line 226, Pos 1
+#390 Expected '.' at column 21, not column 6.
+    .blur(function(){ $(this).removeClass("ui-state-focus"); }) // Line 226, Pos 6
+#391 Expected exactly one space between 'function' and '('.
+    .blur(function(){ $(this).removeClass("ui-state-focus"); }) // Line 226, Pos 20
+#392 Expected exactly one space between ')' and '{'.
+    .blur(function(){ $(this).removeClass("ui-state-focus"); }) // Line 226, Pos 22
+#393 Use spaces, not tabs.
+    .end() // Line 227, Pos 1
+#394 Expected '.' at column 21, not column 5.
+    .end() // Line 227, Pos 5
+#395 Use spaces, not tabs.
+    //default show buttons // Line 228, Pos 1
+#396 Use spaces, not tabs.
+    //set button positions // Line 229, Pos 1
+#397 Use spaces, not tabs.
+    //on-click-button // Line 230, Pos 1
+#398 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-maximize") // Line 231, Pos 1
+#399 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-maximize") // Line 231, Pos 5
+#400 Use spaces, not tabs.
+    .toggle(settings.maximize) // Line 232, Pos 1
+#401 Expected '.' at column 21, not column 6.
+    .toggle(settings.maximize) // Line 232, Pos 6
+#402 Use spaces, not tabs.
+    .css({ "right" : settings.maximize ? "1.4em" : "-9999em" }) // Line 233, Pos 1
+#403 Expected '.' at column 21, not column 6.
+    .css({ "right" : settings.maximize ? "1.4em" : "-9999em" }) // Line 233, Pos 6
+#404 Use spaces, not tabs.
+    .click(function(e){ // Line 234, Pos 1
+#405 Expected '.' at column 21, not column 6.
+    .click(function(e){ // Line 234, Pos 6
+#406 Expected exactly one space between 'function' and '('.
+    .click(function(e){ // Line 234, Pos 21
+#407 Expected exactly one space between ')' and '{'.
+    .click(function(e){ // Line 234, Pos 24
+#408 Use spaces, not tabs.
+    e.preventDefault(); // Line 235, Pos 1
+#409 Expected 'e' at column 25, not column 7.
+    e.preventDefault(); // Line 235, Pos 7
+#410 Use spaces, not tabs.
+    $(self).dialogExtend("maximize"); // Line 236, Pos 1
+#411 Expected '$' at column 25, not column 7.
+    $(self).dialogExtend("maximize"); // Line 236, Pos 7
+#412 Use spaces, not tabs.
+    }) // Line 237, Pos 1
+#413 Expected '}' at column 21, not column 6.
+    }) // Line 237, Pos 6
+#414 Use spaces, not tabs.
+    .end() // Line 238, Pos 1
+#415 Expected '.' at column 21, not column 5.
+    .end() // Line 238, Pos 5
+#416 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-minimize") // Line 239, Pos 1
+#417 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-minimize") // Line 239, Pos 5
+#418 Use spaces, not tabs.
+    .toggle(settings.minimize) // Line 240, Pos 1
+#419 Expected '.' at column 21, not column 6.
+    .toggle(settings.minimize) // Line 240, Pos 6
+#420 Use spaces, not tabs.
+    .css({ "right" : settings.maximize ? "2.5em" : settings.minimize ? "1.4em" : "-9999em" }) // Line 241, Pos 1
+#421 Expected '.' at column 21, not column 6.
+    .css({ "right" : settings.maximize ? "2.5em" : settings.minimize ? "1.4em" : "-9999em" }) // Line 241, Pos 6
+#422 Use spaces, not tabs.
+    .click(function(e){ // Line 242, Pos 1
+#423 Expected '.' at column 21, not column 6.
+    .click(function(e){ // Line 242, Pos 6
+#424 Expected exactly one space between 'function' and '('.
+    .click(function(e){ // Line 242, Pos 21
+#425 Expected exactly one space between ')' and '{'.
+    .click(function(e){ // Line 242, Pos 24
+#426 Use spaces, not tabs.
+    e.preventDefault(); // Line 243, Pos 1
+#427 Expected 'e' at column 25, not column 7.
+    e.preventDefault(); // Line 243, Pos 7
+#428 Use spaces, not tabs.
+    $(self).dialogExtend("minimize"); // Line 244, Pos 1
+#429 Expected '$' at column 25, not column 7.
+    $(self).dialogExtend("minimize"); // Line 244, Pos 7
+#430 Use spaces, not tabs.
+    }) // Line 245, Pos 1
+#431 Expected '}' at column 21, not column 6.
+    }) // Line 245, Pos 6
+#432 Use spaces, not tabs.
+    .end() // Line 246, Pos 1
+#433 Expected '.' at column 21, not column 5.
+    .end() // Line 246, Pos 5
+#434 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-restore") // Line 247, Pos 1
+#435 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-restore") // Line 247, Pos 5
+#436 Use spaces, not tabs.
+    .hide() // Line 248, Pos 1
+#437 Expected '.' at column 21, not column 6.
+    .hide() // Line 248, Pos 6
+#438 Use spaces, not tabs.
+    .css({ "right" : "-9999em" }) // Line 249, Pos 1
+#439 Expected '.' at column 21, not column 6.
+    .css({ "right" : "-9999em" }) // Line 249, Pos 6
+#440 Use spaces, not tabs.
+    .click(function(e){ // Line 250, Pos 1
+#441 Expected '.' at column 21, not column 6.
+    .click(function(e){ // Line 250, Pos 6
+#442 Expected exactly one space between 'function' and '('.
+    .click(function(e){ // Line 250, Pos 21
+#443 Expected exactly one space between ')' and '{'.
+    .click(function(e){ // Line 250, Pos 24
+#444 Use spaces, not tabs.
+    e.preventDefault(); // Line 251, Pos 1
+#445 Expected 'e' at column 25, not column 7.
+    e.preventDefault(); // Line 251, Pos 7
+#446 Use spaces, not tabs.
+    $(self).dialogExtend("restore"); // Line 252, Pos 1
+#447 Expected '$' at column 25, not column 7.
+    $(self).dialogExtend("restore"); // Line 252, Pos 7
+#448 Use spaces, not tabs.
+    }) // Line 253, Pos 1
+#449 Expected '}' at column 21, not column 6.
+    }) // Line 253, Pos 6
+#450 Use spaces, not tabs.
+    .end() // Line 254, Pos 1
+#451 Expected '.' at column 21, not column 5.
+    .end() // Line 254, Pos 5
+#452 Use spaces, not tabs.
+    //on-dblclick-titlebar : maximize/minimize/collapse/restore // Line 255, Pos 1
+#453 Use spaces, not tabs.
+    .dblclick(function(evt){ // Line 256, Pos 1
+#454 Expected '.' at column 21, not column 5.
+    .dblclick(function(evt){ // Line 256, Pos 5
+#455 Expected exactly one space between 'function' and '('.
+    .dblclick(function(evt){ // Line 256, Pos 23
+#456 Expected exactly one space between ')' and '{'.
+    .dblclick(function(evt){ // Line 256, Pos 28
+#457 Use spaces, not tabs.
+    if ( settings.dblclick && settings.dblclick.length ) { // Line 257, Pos 1
+#458 Expected 'if' at column 25, not column 6.
+    if ( settings.dblclick && settings.dblclick.length ) { // Line 257, Pos 6
+#459 Unexpected space between '(' and 'settings'.
+    if ( settings.dblclick && settings.dblclick.length ) { // Line 257, Pos 11
+#460 Unexpected space between 'length' and ')'.
+    if ( settings.dblclick && settings.dblclick.length ) { // Line 257, Pos 57
+#461 Use spaces, not tabs.
+    $(self).dialogExtend( $(self).data("dialog-state") != "normal" ? "restore" : settings.dblclick ); // Line 258, Pos 1
+#462 Expected '$' at column 29, not column 7.
+    $(self).dialogExtend( $(self).data("dialog-state") != "normal" ? "restore" : settings.dblclick ); // Line 258, Pos 7
+#463 Unexpected space between '(' and '$'.
+    $(self).dialogExtend( $(self).data("dialog-state") != "normal" ? "restore" : settings.dblclick ); // Line 258, Pos 29
+#464 Expected '!==' and instead saw '!='.
+    $(self).dialogExtend( $(self).data("dialog-state") != "normal" ? "restore" : settings.dblclick ); // Line 258, Pos 58
+#465 Unexpected space between 'dblclick' and ')'.
+    $(self).dialogExtend( $(self).data("dialog-state") != "normal" ? "restore" : settings.dblclick ); // Line 258, Pos 102
+#466 Use spaces, not tabs.
+    } // Line 259, Pos 1
+#467 Expected '}' at column 25, not column 6.
+    } // Line 259, Pos 6
+#468 Use spaces, not tabs.
+    }) // Line 260, Pos 1
+#469 Expected '}' at column 21, not column 5.
+    }) // Line 260, Pos 5
+#470 Unused 'evt'.
+    .dblclick(function(evt){ // Line 256, Pos 24
+#471 Use spaces, not tabs.
+    //avoid text-highlight when double-click // Line 261, Pos 1
+#472 Use spaces, not tabs.
+    .each(function(){ // Line 262, Pos 1
+#473 Expected '.' at column 21, not column 5.
+    .each(function(){ // Line 262, Pos 5
+#474 Expected exactly one space between 'function' and '('.
+    .each(function(){ // Line 262, Pos 19
+#475 Expected exactly one space between ')' and '{'.
+    .each(function(){ // Line 262, Pos 21
+#476 Use spaces, not tabs.
+    $(this) // Line 263, Pos 1
+#477 Expected '$' at column 25, not column 6.
+    $(this) // Line 263, Pos 6
+#478 Use spaces, not tabs.
+    //.attr("unselectable", "on") // Line 264, Pos 1
+#479 Use spaces, not tabs.
+    //.css({ "-moz-user-select" : "none", "-khtml-user-select" : "none" }) // Line 265, Pos 1
+#480 Use spaces, not tabs.
+    .select(function(){ return false; }); // Line 266, Pos 1
+#481 Expected '.' at column 29, not column 7.
+    .select(function(){ return false; }); // Line 266, Pos 7
+#482 Expected exactly one space between 'function' and '('.
+    .select(function(){ return false; }); // Line 266, Pos 23
+#483 Expected exactly one space between ')' and '{'.
+    .select(function(){ return false; }); // Line 266, Pos 25
+#484 Use spaces, not tabs.
+    }); // Line 267, Pos 1
+#485 Expected '}' at column 21, not column 5.
+    }); // Line 267, Pos 5
+#486 Use spaces, not tabs.
+    //maintain chainability // Line 268, Pos 1
+#487 Use spaces, not tabs.
+    return self; // Line 269, Pos 1
+#488 Expected 'return' at column 17, not column 4.
+    return self; // Line 269, Pos 4
+#489 Use spaces, not tabs.
+    }, // Line 270, Pos 1
+#490 Expected '}' at column 13, not column 3.
+    }, // Line 270, Pos 3
+#491 Use spaces, not tabs.
+    "_initEvents" : function(){ // Line 272, Pos 1
+#492 Expected '_initEvents' at column 13, not column 3.
+    "_initEvents" : function(){ // Line 272, Pos 3
+#493 Expected exactly one space between 'function' and '('.
+    "_initEvents" : function(){ // Line 272, Pos 27
+#494 Expected exactly one space between ')' and '{'.
+    "_initEvents" : function(){ // Line 272, Pos 29
+#495 Use spaces, not tabs.
+    var self = this; // Line 273, Pos 1
+#496 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 273, Pos 4
+#497 Use spaces, not tabs.
+    //bind event callbacks which specified at init // Line 274, Pos 1
+#498 Use spaces, not tabs.
+    $.each(settings.events, function(type){ // Line 275, Pos 1
+#499 Expected '$' at column 17, not column 4.
+    $.each(settings.events, function(type){ // Line 275, Pos 4
+#500 Expected exactly one space between 'function' and '('.
+    $.each(settings.events, function(type){ // Line 275, Pos 36
+#501 Expected exactly one space between ')' and '{'.
+    $.each(settings.events, function(type){ // Line 275, Pos 42
+#502 Use spaces, not tabs.
+    if ( $.isFunction( settings.events[type] ) ) { // Line 276, Pos 1
+#503 Expected 'if' at column 21, not column 5.
+    if ( $.isFunction( settings.events[type] ) ) { // Line 276, Pos 5
+#504 Unexpected space between '(' and '$'.
+    if ( $.isFunction( settings.events[type] ) ) { // Line 276, Pos 10
+#505 Unexpected space between '(' and 'settings'.
+    if ( $.isFunction( settings.events[type] ) ) { // Line 276, Pos 24
+#506 Unexpected space between ']' and ')'.
+    if ( $.isFunction( settings.events[type] ) ) { // Line 276, Pos 46
+#507 Unexpected space between ')' and ')'.
+    if ( $.isFunction( settings.events[type] ) ) { // Line 276, Pos 48
+#508 Use spaces, not tabs.
+    $(self).bind(type+".dialogExtend", settings.events[type]); // Line 277, Pos 1
+#509 Expected '$' at column 25, not column 6.
+    $(self).bind(type+".dialogExtend", settings.events[type]); // Line 277, Pos 6
+#510 Missing space between 'type' and '+'.
+    $(self).bind(type+".dialogExtend", settings.events[type]); // Line 277, Pos 23
+#511 Missing space between '+' and '.dialogExtend'.
+    $(self).bind(type+".dialogExtend", settings.events[type]); // Line 277, Pos 24
+#512 Use spaces, not tabs.
+    } // Line 278, Pos 1
+#513 Expected '}' at column 21, not column 5.
+    } // Line 278, Pos 5
+#514 Use spaces, not tabs.
+    }); // Line 279, Pos 1
+#515 Expected '}' at column 17, not column 4.
+    }); // Line 279, Pos 4
+#516 Use spaces, not tabs.
+    //maintain chainability // Line 280, Pos 1
+#517 Use spaces, not tabs.
+    return self; // Line 281, Pos 1
+#518 Expected 'return' at column 17, not column 4.
+    return self; // Line 281, Pos 4
+#519 Use spaces, not tabs.
+    }, // Line 282, Pos 1
+#520 Expected '}' at column 13, not column 3.
+    }, // Line 282, Pos 3
+#521 Use spaces, not tabs.
+    "_initStyles" : function(){ // Line 284, Pos 1
+#522 Expected '_initStyles' at column 13, not column 3.
+    "_initStyles" : function(){ // Line 284, Pos 3
+#523 Expected exactly one space between 'function' and '('.
+    "_initStyles" : function(){ // Line 284, Pos 27
+#524 Expected exactly one space between ')' and '{'.
+    "_initStyles" : function(){ // Line 284, Pos 29
+#525 Use spaces, not tabs.
+    var self = this; // Line 285, Pos 1
+#526 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 285, Pos 4
+#527 Use spaces, not tabs.
+    //append styles for this plugin to body // Line 286, Pos 1
+#528 Use spaces, not tabs.
+    var style = ''; // Line 287, Pos 1
+#529 Expected 'var' at column 17, not column 4.
+    var style = ''; // Line 287, Pos 4
+#530 Combine this with the previous 'var' statement.
+    var style = ''; // Line 287, Pos 8
+#531 Use spaces, not tabs.
+    style += '<style type="text/css">'; // Line 288, Pos 1
+#532 Expected 'style' at column 17, not column 4.
+    style += '<style type="text/css">'; // Line 288, Pos 4
+#533 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize,'; // Line 289, Pos 1
+#534 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize,'; // Line 289, Pos 4
+#535 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize,'; // Line 290, Pos 1
+#536 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize,'; // Line 290, Pos 4
+#537 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-restore { position: absolute; top: 50%; width: 19px; margin: -10px 8px 0 0; padding: 1px; height: 18px; }'; // Line 291, Pos 1
+#538 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-restore { position: absolute; top: 50%; width: 19px; margin: -10px 8px 0 0; padding: 1px; height: 18px; }'; // Line 291, Pos 4
+#539 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize span,'; // Line 292, Pos 1
+#540 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize span,'; // Line 292, Pos 4
+#541 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize span,'; // Line 293, Pos 1
+#542 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize span,'; // Line 293, Pos 4
+#543 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-restore span { display: block; margin: 1px; }'; // Line 294, Pos 1
+#544 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-restore span { display: block; margin: 1px; }'; // Line 294, Pos 4
+#545 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize:hover,'; // Line 295, Pos 1
+#546 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize:hover,'; // Line 295, Pos 4
+#547 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize:focus,'; // Line 296, Pos 1
+#548 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-maximize:focus,'; // Line 296, Pos 4
+#549 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize:hover,'; // Line 297, Pos 1
+#550 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize:hover,'; // Line 297, Pos 4
+#551 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize:focus,'; // Line 298, Pos 1
+#552 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-minimize:focus,'; // Line 298, Pos 4
+#553 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-restore:hover,'; // Line 299, Pos 1
+#554 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-restore:hover,'; // Line 299, Pos 4
+#555 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar-restore:focus { padding: 0; }'; // Line 300, Pos 1
+#556 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar-restore:focus { padding: 0; }'; // Line 300, Pos 4
+#557 Use spaces, not tabs.
+    style += '.ui-dialog .ui-dialog-titlebar ::selection { background-color: transparent; }'; // Line 301, Pos 1
+#558 Expected 'style' at column 17, not column 4.
+    style += '.ui-dialog .ui-dialog-titlebar ::selection { background-color: transparent; }'; // Line 301, Pos 4
+#559 Use spaces, not tabs.
+    style += '</style>'; // Line 302, Pos 1
+#560 Expected 'style' at column 17, not column 4.
+    style += '</style>'; // Line 302, Pos 4
+#561 Use spaces, not tabs.
+    $(style).appendTo("body"); // Line 303, Pos 1
+#562 Expected '$' at column 17, not column 4.
+    $(style).appendTo("body"); // Line 303, Pos 4
+#563 Use spaces, not tabs.
+    //maintain chainability // Line 304, Pos 1
+#564 Use spaces, not tabs.
+    return self; // Line 305, Pos 1
+#565 Expected 'return' at column 17, not column 4.
+    return self; // Line 305, Pos 4
+#566 Use spaces, not tabs.
+    }, // Line 306, Pos 1
+#567 Expected '}' at column 13, not column 3.
+    }, // Line 306, Pos 3
+#568 Use spaces, not tabs.
+    "_initTitleBar" : function(){ // Line 308, Pos 1
+#569 Expected '_initTitleBar' at column 13, not column 3.
+    "_initTitleBar" : function(){ // Line 308, Pos 3
+#570 Expected exactly one space between 'function' and '('.
+    "_initTitleBar" : function(){ // Line 308, Pos 29
+#571 Expected exactly one space between ')' and '{'.
+    "_initTitleBar" : function(){ // Line 308, Pos 31
+#572 Use spaces, not tabs.
+    var self = this; // Line 309, Pos 1
+#573 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 309, Pos 4
+#574 Use spaces, not tabs.
+    //modify title bar // Line 310, Pos 1
+#575 Use spaces, not tabs.
+    switch ( settings.titlebar ) { // Line 311, Pos 1
+#576 Expected 'switch' at column 17, not column 4.
+    switch ( settings.titlebar ) { // Line 311, Pos 4
+#577 Unexpected space between '(' and 'settings'.
+    switch ( settings.titlebar ) { // Line 311, Pos 13
+#578 Unexpected space between 'titlebar' and ')'.
+    switch ( settings.titlebar ) { // Line 311, Pos 31
+#579 Use spaces, not tabs.
+    case false: // Line 312, Pos 1
+#580 Expected 'case' at column 4, not column 5.
+    case false: // Line 312, Pos 5
+#581 Use spaces, not tabs.
+    //do nothing // Line 313, Pos 1
+#582 Use spaces, not tabs.
+    break; // Line 314, Pos 1
+#583 Expected 'break' at column 21, not column 6.
+    break; // Line 314, Pos 6
+#584 Use spaces, not tabs.
+    case "none": // Line 315, Pos 1
+#585 Expected 'case' at column 17, not column 5.
+    case "none": // Line 315, Pos 5
+#586 Use spaces, not tabs.
+    //create new draggable-handle as substitute of title bar // Line 316, Pos 1
+#587 Use spaces, not tabs.
+    if ( $(self).dialog("option", "draggable") ) { // Line 317, Pos 1
+#588 Expected 'if' at column 21, not column 6.
+    if ( $(self).dialog("option", "draggable") ) { // Line 317, Pos 6
+#589 Unexpected space between '(' and '$'.
+    if ( $(self).dialog("option", "draggable") ) { // Line 317, Pos 11
+#590 Unexpected space between ')' and ')'.
+    if ( $(self).dialog("option", "draggable") ) { // Line 317, Pos 49
+#591 Use spaces, not tabs.
+    var handle = $("<div />").addClass("ui-dialog-draggable-handle").css("cursor", "move").height(5); // Line 318, Pos 1
+#592 Expected 'var' at column 25, not column 7.
+    var handle = $("<div />").addClass("ui-dialog-draggable-handle").css("cursor", "move").height(5); // Line 318, Pos 7
+#593 Combine this with the previous 'var' statement.
+    var handle = $("<div />").addClass("ui-dialog-draggable-handle").css("cursor", "move").height(5); // Line 318, Pos 11
+#594 Use spaces, not tabs.
+    $(self).dialog("widget").prepend(handle).draggable("option", "handle", handle); // Line 319, Pos 1
+#595 Expected '$' at column 25, not column 7.
+    $(self).dialog("widget").prepend(handle).draggable("option", "handle", handle); // Line 319, Pos 7
+#596 Use spaces, not tabs.
+    } // Line 320, Pos 1
+#597 Expected '}' at column 21, not column 6.
+    } // Line 320, Pos 6
+#598 Use spaces, not tabs.
+    //remove title bar and keep it draggable // Line 321, Pos 1
+#599 Use spaces, not tabs.
+    $(self) // Line 322, Pos 1
+#600 Expected '$' at column 21, not column 6.
+    $(self) // Line 322, Pos 6
+#601 Use spaces, not tabs.
+    .dialog("widget") // Line 323, Pos 1
+#602 Expected '.' at column 25, not column 7.
+    .dialog("widget") // Line 323, Pos 7
+#603 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar") // Line 324, Pos 1
+#604 Expected '.' at column 25, not column 7.
+    .find(".ui-dialog-titlebar") // Line 324, Pos 7
+#605 Use spaces, not tabs.
+    //clear title text // Line 325, Pos 1
+#606 Use spaces, not tabs.
+    .find(".ui-dialog-title").html("&nbsp;").end() // Line 326, Pos 1
+#607 Expected '.' at column 25, not column 8.
+    .find(".ui-dialog-title").html("&nbsp;").end() // Line 326, Pos 8
+#608 Use spaces, not tabs.
+    //keep buttons at upper-right-hand corner // Line 327, Pos 1
+#609 Use spaces, not tabs.
+    .css({ // Line 328, Pos 1
+#610 Expected '.' at column 25, not column 8.
+    .css({ // Line 328, Pos 8
+#611 Use spaces, not tabs.
+    "background-color" : "transparent", // Line 329, Pos 1
+#612 Expected 'background-color' at column 29, not column 9.
+    "background-color" : "transparent", // Line 329, Pos 9
+#613 Use spaces, not tabs.
+    "background-image" : "none", // Line 330, Pos 1
+#614 Expected 'background-image' at column 29, not column 9.
+    "background-image" : "none", // Line 330, Pos 9
+#615 Use spaces, not tabs.
+    "border" : 0, // Line 331, Pos 1
+#616 Expected 'border' at column 29, not column 9.
+    "border" : 0, // Line 331, Pos 9
+#617 Use spaces, not tabs.
+    "position" : "absolute", // Line 332, Pos 1
+#618 Expected 'position' at column 29, not column 9.
+    "position" : "absolute", // Line 332, Pos 9
+#619 Use spaces, not tabs.
+    "right" : 0, // Line 333, Pos 1
+#620 Expected 'right' at column 29, not column 9.
+    "right" : 0, // Line 333, Pos 9
+#621 Use spaces, not tabs.
+    "top" : 0, // Line 334, Pos 1
+#622 Expected 'top' at column 29, not column 9.
+    "top" : 0, // Line 334, Pos 9
+#623 Use spaces, not tabs.
+    "z-index" : 9999 // Line 335, Pos 1
+#624 Expected 'z-index' at column 29, not column 9.
+    "z-index" : 9999 // Line 335, Pos 9
+#625 Use spaces, not tabs.
+    }) // Line 336, Pos 1
+#626 Expected '}' at column 25, not column 8.
+    }) // Line 336, Pos 8
+#627 Use spaces, not tabs.
+    .end(); // Line 337, Pos 1
+#628 Expected '.' at column 25, not column 7.
+    .end(); // Line 337, Pos 7
+#629 Use spaces, not tabs.
+    break; // Line 338, Pos 1
+#630 Expected 'break' at column 21, not column 6.
+    break; // Line 338, Pos 6
+#631 Use spaces, not tabs.
+    case "transparent": // Line 339, Pos 1
+#632 Expected 'case' at column 17, not column 5.
+    case "transparent": // Line 339, Pos 5
+#633 Use spaces, not tabs.
+    //remove title style // Line 340, Pos 1
+#634 Use spaces, not tabs.
+    $(self) // Line 341, Pos 1
+#635 Expected '$' at column 21, not column 6.
+    $(self) // Line 341, Pos 6
+#636 Use spaces, not tabs.
+    .dialog("widget") // Line 342, Pos 1
+#637 Expected '.' at column 25, not column 7.
+    .dialog("widget") // Line 342, Pos 7
+#638 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar") // Line 343, Pos 1
+#639 Expected '.' at column 25, not column 7.
+    .find(".ui-dialog-titlebar") // Line 343, Pos 7
+#640 Use spaces, not tabs.
+    .css({ // Line 344, Pos 1
+#641 Expected '.' at column 25, not column 7.
+    .css({ // Line 344, Pos 7
+#642 Use spaces, not tabs.
+    "background-color" : "transparent", // Line 345, Pos 1
+#643 Expected 'background-color' at column 29, not column 8.
+    "background-color" : "transparent", // Line 345, Pos 8
+#644 Use spaces, not tabs.
+    "background-image" : "none", // Line 346, Pos 1
+#645 Expected 'background-image' at column 29, not column 8.
+    "background-image" : "none", // Line 346, Pos 8
+#646 Use spaces, not tabs.
+    "border" : 0 // Line 347, Pos 1
+#647 Expected 'border' at column 29, not column 8.
+    "border" : 0 // Line 347, Pos 8
+#648 Use spaces, not tabs.
+    }); // Line 348, Pos 1
+#649 Expected '}' at column 25, not column 7.
+    }); // Line 348, Pos 7
+#650 Use spaces, not tabs.
+    break; // Line 349, Pos 1
+#651 Expected 'break' at column 21, not column 6.
+    break; // Line 349, Pos 6
+#652 Use spaces, not tabs.
+    default: // Line 350, Pos 1
+#653 Expected 'default' at column 17, not column 5.
+    default: // Line 350, Pos 5
+#654 Use spaces, not tabs.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 351, Pos 1
+#655 Expected '$' at column 21, not column 6.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 351, Pos 6
+#656 Unexpected space between '(' and 'jQuery.dialogExtend Error : Invalid <titlebar> value ''.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 351, Pos 15
+#657 Unexpected space between ''' and ')'.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 351, Pos 98
+#658 Use spaces, not tabs.
+    } // Line 352, Pos 1
+#659 Expected '}' at column 17, not column 4.
+    } // Line 352, Pos 4
+#660 Use spaces, not tabs.
+    //maintain chainability // Line 353, Pos 1
+#661 Use spaces, not tabs.
+    return self; // Line 354, Pos 1
+#662 Expected 'return' at column 17, not column 4.
+    return self; // Line 354, Pos 4
+#663 Use spaces, not tabs.
+    }, // Line 355, Pos 1
+#664 Expected '}' at column 13, not column 3.
+    }, // Line 355, Pos 3
+#665 Use spaces, not tabs.
+    "_loadSnapshot" : function(){ // Line 357, Pos 1
+#666 Expected '_loadSnapshot' at column 13, not column 3.
+    "_loadSnapshot" : function(){ // Line 357, Pos 3
+#667 Expected exactly one space between 'function' and '('.
+    "_loadSnapshot" : function(){ // Line 357, Pos 29
+#668 Expected exactly one space between ')' and '{'.
+    "_loadSnapshot" : function(){ // Line 357, Pos 31
+#669 Use spaces, not tabs.
+    var self = this; // Line 358, Pos 1
+#670 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 358, Pos 4
+#671 Use spaces, not tabs.
+    return { // Line 359, Pos 1
+#672 Expected 'return' at column 17, not column 4.
+    return { // Line 359, Pos 4
+#673 Use spaces, not tabs.
+    "config" : { // Line 360, Pos 1
+#674 Expected 'config' at column 21, not column 5.
+    "config" : { // Line 360, Pos 5
+#675 Use spaces, not tabs.
+    "resizable" : $(self).data("original-config-resizable"), // Line 361, Pos 1
+#676 Expected 'resizable' at column 25, not column 6.
+    "resizable" : $(self).data("original-config-resizable"), // Line 361, Pos 6
+#677 Use spaces, not tabs.
+    "draggable" : $(self).data("original-config-draggable") // Line 362, Pos 1
+#678 Expected 'draggable' at column 25, not column 6.
+    "draggable" : $(self).data("original-config-draggable") // Line 362, Pos 6
+#679 Use spaces, not tabs.
+    }, // Line 363, Pos 1
+#680 Expected '}' at column 21, not column 5.
+    }, // Line 363, Pos 5
+#681 Use spaces, not tabs.
+    "size" : { // Line 364, Pos 1
+#682 Expected 'size' at column 21, not column 5.
+    "size" : { // Line 364, Pos 5
+#683 Use spaces, not tabs.
+    "height" : $(self).data("original-size-height"), // Line 365, Pos 1
+#684 Expected 'height' at column 25, not column 6.
+    "height" : $(self).data("original-size-height"), // Line 365, Pos 6
+#685 Use spaces, not tabs.
+    "width"  : $(self).data("original-size-width"), // Line 366, Pos 1
+#686 Expected 'width' at column 25, not column 6.
+    "width"  : $(self).data("original-size-width"), // Line 366, Pos 6
+#687 Use spaces, not tabs.
+    "maxHeight" : $(self).data("original-size-maxHeight") // Line 367, Pos 1
+#688 Expected 'maxHeight' at column 25, not column 6.
+    "maxHeight" : $(self).data("original-size-maxHeight") // Line 367, Pos 6
+#689 Use spaces, not tabs.
+    }, // Line 368, Pos 1
+#690 Expected '}' at column 21, not column 5.
+    }, // Line 368, Pos 5
+#691 Use spaces, not tabs.
+    "position" : { // Line 369, Pos 1
+#692 Expected 'position' at column 21, not column 5.
+    "position" : { // Line 369, Pos 5
+#693 Use spaces, not tabs.
+    "mode" : $(self).data("original-position-mode"), // Line 370, Pos 1
+#694 Expected 'mode' at column 25, not column 6.
+    "mode" : $(self).data("original-position-mode"), // Line 370, Pos 6
+#695 Use spaces, not tabs.
+    "left" : $(self).data("original-position-left"), // Line 371, Pos 1
+#696 Expected 'left' at column 25, not column 6.
+    "left" : $(self).data("original-position-left"), // Line 371, Pos 6
+#697 Use spaces, not tabs.
+    "top"  : $(self).data("original-position-top") // Line 372, Pos 1
+#698 Expected 'top' at column 25, not column 6.
+    "top"  : $(self).data("original-position-top") // Line 372, Pos 6
+#699 Use spaces, not tabs.
+    }, // Line 373, Pos 1
+#700 Expected '}' at column 21, not column 5.
+    }, // Line 373, Pos 5
+#701 Use spaces, not tabs.
+    "titlebar" : { // Line 374, Pos 1
+#702 Expected 'titlebar' at column 21, not column 5.
+    "titlebar" : { // Line 374, Pos 5
+#703 Use spaces, not tabs.
+    "wrap" : $(self).data("original-titlebar-wrap") // Line 375, Pos 1
+#704 Expected 'wrap' at column 25, not column 6.
+    "wrap" : $(self).data("original-titlebar-wrap") // Line 375, Pos 6
+#705 Use spaces, not tabs.
+    } // Line 376, Pos 1
+#706 Expected '}' at column 21, not column 5.
+    } // Line 376, Pos 5
+#707 Use spaces, not tabs.
+    }; // Line 377, Pos 1
+#708 Expected '}' at column 17, not column 4.
+    }; // Line 377, Pos 4
+#709 Use spaces, not tabs.
+    }, // Line 378, Pos 1
+#710 Expected '}' at column 13, not column 3.
+    }, // Line 378, Pos 3
+#711 Use spaces, not tabs.
+    "_restoreFromCollapsed" : function(){ // Line 380, Pos 1
+#712 Expected '_restoreFromCollapsed' at column 13, not column 3.
+    "_restoreFromCollapsed" : function(){ // Line 380, Pos 3
+#713 Expected exactly one space between 'function' and '('.
+    "_restoreFromCollapsed" : function(){ // Line 380, Pos 37
+#714 Expected exactly one space between ')' and '{'.
+    "_restoreFromCollapsed" : function(){ // Line 380, Pos 39
+#715 Use spaces, not tabs.
+    var self = this; // Line 381, Pos 1
+#716 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 381, Pos 4
+#717 Use spaces, not tabs.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 382, Pos 1
+#718 Expected 'var' at column 17, not column 4.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 382, Pos 4
+#719 Combine this with the previous 'var' statement.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 382, Pos 8
+#720 Use spaces, not tabs.
+    //restore dialog // Line 383, Pos 1
+#721 Use spaces, not tabs.
+    $(self) // Line 384, Pos 1
+#722 Expected '$' at column 17, not column 4.
+    $(self) // Line 384, Pos 4
+#723 Use spaces, not tabs.
+    //show content // Line 385, Pos 1
+#724 Use spaces, not tabs.
+    //show button-pane // Line 386, Pos 1
+#725 Use spaces, not tabs.
+    //fix title-bar wrap // Line 387, Pos 1
+#726 Use spaces, not tabs.
+    .show() // Line 388, Pos 1
+#727 Expected '.' at column 21, not column 5.
+    .show() // Line 388, Pos 5
+#728 Use spaces, not tabs.
+    .dialog("widget") // Line 389, Pos 1
+#729 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 389, Pos 5
+#730 Use spaces, not tabs.
+    .find(".ui-dialog-buttonpane:hidden").show().end() // Line 390, Pos 1
+#731 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-buttonpane:hidden").show().end() // Line 390, Pos 6
+#732 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar").css("white-space", original.titlebar.wrap).end() // Line 391, Pos 1
+#733 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-titlebar").css("white-space", original.titlebar.wrap).end() // Line 391, Pos 6
+#734 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 392, Pos 1
+#735 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 392, Pos 5
+#736 Use spaces, not tabs.
+    //restore config & size // Line 393, Pos 1
+#737 Use spaces, not tabs.
+    .dialog("option", { // Line 394, Pos 1
+#738 Expected '.' at column 21, not column 5.
+    .dialog("option", { // Line 394, Pos 5
+#739 Use spaces, not tabs.
+    "height" : original.size.height, // Line 395, Pos 1
+#740 Expected 'height' at column 25, not column 6.
+    "height" : original.size.height, // Line 395, Pos 6
+#741 Use spaces, not tabs.
+    "maxHeight" : original.size.maxHeight // Line 396, Pos 1
+#742 Expected 'maxHeight' at column 25, not column 6.
+    "maxHeight" : original.size.maxHeight // Line 396, Pos 6
+#743 Use spaces, not tabs.
+    }); // Line 397, Pos 1
+#744 Expected '}' at column 21, not column 5.
+    }); // Line 397, Pos 5
+#745 Use spaces, not tabs.
+    //maintain chainability // Line 398, Pos 1
+#746 Use spaces, not tabs.
+    return self; // Line 399, Pos 1
+#747 Expected 'return' at column 17, not column 4.
+    return self; // Line 399, Pos 4
+#748 Use spaces, not tabs.
+    }, // Line 400, Pos 1
+#749 Expected '}' at column 13, not column 3.
+    }, // Line 400, Pos 3
+#750 Use spaces, not tabs.
+    "_restoreFromMaximized" : function(){ // Line 402, Pos 1
+#751 Expected '_restoreFromMaximized' at column 13, not column 3.
+    "_restoreFromMaximized" : function(){ // Line 402, Pos 3
+#752 Expected exactly one space between 'function' and '('.
+    "_restoreFromMaximized" : function(){ // Line 402, Pos 37
+#753 Expected exactly one space between ')' and '{'.
+    "_restoreFromMaximized" : function(){ // Line 402, Pos 39
+#754 Use spaces, not tabs.
+    var self = this; // Line 403, Pos 1
+#755 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 403, Pos 4
+#756 Use spaces, not tabs.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 404, Pos 1
+#757 Expected 'var' at column 17, not column 4.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 404, Pos 4
+#758 Combine this with the previous 'var' statement.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 404, Pos 8
+#759 Use spaces, not tabs.
+    //restore dialog // Line 405, Pos 1
+#760 Use spaces, not tabs.
+    $(self) // Line 406, Pos 1
+#761 Expected '$' at column 17, not column 4.
+    $(self) // Line 406, Pos 4
+#762 Use spaces, not tabs.
+    //free dialog from scrolling // Line 407, Pos 1
+#763 Use spaces, not tabs.
+    //fix title-bar wrap (if dialog was minimized/collapsed) // Line 408, Pos 1
+#764 Use spaces, not tabs.
+    .dialog("widget") // Line 409, Pos 1
+#765 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 409, Pos 5
+#766 Use spaces, not tabs.
+    .css("position", original.position.mode) // Line 410, Pos 1
+#767 Expected '.' at column 21, not column 6.
+    .css("position", original.position.mode) // Line 410, Pos 6
+#768 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar").css("white-space", original.titlebar.wrap).end() // Line 411, Pos 1
+#769 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-titlebar").css("white-space", original.titlebar.wrap).end() // Line 411, Pos 6
+#770 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 412, Pos 1
+#771 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 412, Pos 5
+#772 Use spaces, not tabs.
+    //restore config & size & position // Line 413, Pos 1
+#773 Use spaces, not tabs.
+    .dialog("option", { // Line 414, Pos 1
+#774 Expected '.' at column 21, not column 5.
+    .dialog("option", { // Line 414, Pos 5
+#775 Use spaces, not tabs.
+    "resizable" : original.config.resizable, // Line 415, Pos 1
+#776 Expected 'resizable' at column 25, not column 6.
+    "resizable" : original.config.resizable, // Line 415, Pos 6
+#777 Use spaces, not tabs.
+    "draggable" : original.config.draggable, // Line 416, Pos 1
+#778 Expected 'draggable' at column 25, not column 6.
+    "draggable" : original.config.draggable, // Line 416, Pos 6
+#779 Use spaces, not tabs.
+    "height" : original.size.height, // Line 417, Pos 1
+#780 Expected 'height' at column 25, not column 6.
+    "height" : original.size.height, // Line 417, Pos 6
+#781 Use spaces, not tabs.
+    "width" : original.size.width, // Line 418, Pos 1
+#782 Expected 'width' at column 25, not column 6.
+    "width" : original.size.width, // Line 418, Pos 6
+#783 Use spaces, not tabs.
+    "maxHeight" : original.size.maxHeight, // Line 419, Pos 1
+#784 Expected 'maxHeight' at column 25, not column 6.
+    "maxHeight" : original.size.maxHeight, // Line 419, Pos 6
+#785 Use spaces, not tabs.
+    "position" : [ original.position.left, original.position.top ] // Line 420, Pos 1
+#786 Expected 'position' at column 25, not column 6.
+    "position" : [ original.position.left, original.position.top ] // Line 420, Pos 6
+#787 Use spaces, not tabs.
+    }) // Line 421, Pos 1
+#788 Expected '}' at column 21, not column 5.
+    }) // Line 421, Pos 5
+#789 Use spaces, not tabs.
+    //restore draggable-handle (for <titlebar=none> only) // Line 422, Pos 1
+#790 Use spaces, not tabs.
+    .dialog("widget") // Line 423, Pos 1
+#791 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 423, Pos 5
+#792 Use spaces, not tabs.
+    .draggable("option", "handle", $(this).find(".ui-dialog-draggable-handle")) // Line 424, Pos 1
+#793 Expected '.' at column 21, not column 6.
+    .draggable("option", "handle", $(this).find(".ui-dialog-draggable-handle")) // Line 424, Pos 6
+#794 Use spaces, not tabs.
+    .find(".ui-dialog-draggable-handle") // Line 425, Pos 1
+#795 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-draggable-handle") // Line 425, Pos 6
+#796 Use spaces, not tabs.
+    .css("cursor", "move"); // Line 426, Pos 1
+#797 Expected '.' at column 21, not column 6.
+    .css("cursor", "move"); // Line 426, Pos 6
+#798 Use spaces, not tabs.
+    //maintain chainability // Line 427, Pos 1
+#799 Use spaces, not tabs.
+    return self; // Line 428, Pos 1
+#800 Expected 'return' at column 17, not column 4.
+    return self; // Line 428, Pos 4
+#801 Use spaces, not tabs.
+    }, // Line 429, Pos 1
+#802 Expected '}' at column 13, not column 3.
+    }, // Line 429, Pos 3
+#803 Use spaces, not tabs.
+    "_restoreFromMinimized" : function(){ // Line 431, Pos 1
+#804 Expected '_restoreFromMinimized' at column 13, not column 3.
+    "_restoreFromMinimized" : function(){ // Line 431, Pos 3
+#805 Expected exactly one space between 'function' and '('.
+    "_restoreFromMinimized" : function(){ // Line 431, Pos 37
+#806 Expected exactly one space between ')' and '{'.
+    "_restoreFromMinimized" : function(){ // Line 431, Pos 39
+#807 Use spaces, not tabs.
+    var self = this; // Line 432, Pos 1
+#808 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 432, Pos 4
+#809 Use spaces, not tabs.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 433, Pos 1
+#810 Expected 'var' at column 17, not column 4.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 433, Pos 4
+#811 Combine this with the previous 'var' statement.
+    var original = $(this).dialogExtend("_loadSnapshot"); // Line 433, Pos 8
+#812 Use spaces, not tabs.
+    //restore dialog // Line 434, Pos 1
+#813 Use spaces, not tabs.
+    $(self) // Line 435, Pos 1
+#814 Expected '$' at column 17, not column 4.
+    $(self) // Line 435, Pos 4
+#815 Use spaces, not tabs.
+    .dialog("widget") // Line 436, Pos 1
+#816 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 436, Pos 5
+#817 Use spaces, not tabs.
+    .find(".ui-dialog-content") // Line 437, Pos 1
+#818 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-content") // Line 437, Pos 5
+#819 Use spaces, not tabs.
+    .dialog("widget") // Line 438, Pos 1
+#820 Expected '.' at column 21, not column 5.
+    .dialog("widget") // Line 438, Pos 5
+#821 Use spaces, not tabs.
+    .draggable("option", "handle", $(this).find(".ui-dialog-draggable-handle")) // Line 439, Pos 1
+#822 Expected '.' at column 21, not column 6.
+    .draggable("option", "handle", $(this).find(".ui-dialog-draggable-handle")) // Line 439, Pos 6
+#823 Use spaces, not tabs.
+    .find(".ui-dialog-draggable-handle") // Line 440, Pos 1
+#824 Expected '.' at column 21, not column 6.
+    .find(".ui-dialog-draggable-handle") // Line 440, Pos 6
+#825 Use spaces, not tabs.
+    .css("cursor", "move"); // Line 441, Pos 1
+#826 Expected '.' at column 21, not column 6.
+    .css("cursor", "move"); // Line 441, Pos 6
+#827 Use spaces, not tabs.
+    //maintain chainability // Line 442, Pos 1
+#828 Use spaces, not tabs.
+    return self; // Line 443, Pos 1
+#829 Expected 'return' at column 17, not column 4.
+    return self; // Line 443, Pos 4
+#830 Use spaces, not tabs.
+    }, // Line 444, Pos 1
+#831 Expected '}' at column 13, not column 3.
+    }, // Line 444, Pos 3
+#832 Use spaces, not tabs.
+    "_saveSnapshot" : function(){ // Line 446, Pos 1
+#833 Expected '_saveSnapshot' at column 13, not column 3.
+    "_saveSnapshot" : function(){ // Line 446, Pos 3
+#834 Expected exactly one space between 'function' and '('.
+    "_saveSnapshot" : function(){ // Line 446, Pos 29
+#835 Expected exactly one space between ')' and '{'.
+    "_saveSnapshot" : function(){ // Line 446, Pos 31
+#836 Use spaces, not tabs.
+    var self = this; // Line 447, Pos 1
+#837 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 447, Pos 4
+#838 Use spaces, not tabs.
+    //remember all configs under normal state // Line 448, Pos 1
+#839 Use spaces, not tabs.
+    if ( $(self).data("dialog-state") == "normal" ) { // Line 449, Pos 1
+#840 Expected 'if' at column 17, not column 4.
+    if ( $(self).data("dialog-state") == "normal" ) { // Line 449, Pos 4
+#841 Unexpected space between '(' and '$'.
+    if ( $(self).data("dialog-state") == "normal" ) { // Line 449, Pos 9
+#842 Expected '===' and instead saw '=='.
+    if ( $(self).data("dialog-state") == "normal" ) { // Line 449, Pos 38
+#843 Unexpected space between 'normal' and ')'.
+    if ( $(self).data("dialog-state") == "normal" ) { // Line 449, Pos 50
+#844 Use spaces, not tabs.
+    $(self) // Line 450, Pos 1
+#845 Expected '$' at column 21, not column 5.
+    $(self) // Line 450, Pos 5
+#846 Use spaces, not tabs.
+    .data("original-config-resizable", $(self).dialog("option", "resizable")) // Line 451, Pos 1
+#847 Expected '.' at column 25, not column 6.
+    .data("original-config-resizable", $(self).dialog("option", "resizable")) // Line 451, Pos 6
+#848 Use spaces, not tabs.
+    .data("original-config-draggable", $(self).dialog("option", "draggable")) // Line 452, Pos 1
+#849 Expected '.' at column 25, not column 6.
+    .data("original-config-draggable", $(self).dialog("option", "draggable")) // Line 452, Pos 6
+#850 Use spaces, not tabs.
+    .data("original-size-height", $(self).dialog("widget").height()) // Line 453, Pos 1
+#851 Expected '.' at column 25, not column 6.
+    .data("original-size-height", $(self).dialog("widget").height()) // Line 453, Pos 6
+#852 Use spaces, not tabs.
+    .data("original-size-width", $(self).dialog("option", "width")) // Line 454, Pos 1
+#853 Expected '.' at column 25, not column 6.
+    .data("original-size-width", $(self).dialog("option", "width")) // Line 454, Pos 6
+#854 Use spaces, not tabs.
+    .data("original-size-maxHeight", $(self).dialog("option", "maxHeight")) // Line 455, Pos 1
+#855 Expected '.' at column 25, not column 6.
+    .data("original-size-maxHeight", $(self).dialog("option", "maxHeight")) // Line 455, Pos 6
+#856 Use spaces, not tabs.
+    .data("original-position-mode", $(self).dialog("widget").css("position")) // Line 456, Pos 1
+#857 Expected '.' at column 25, not column 6.
+    .data("original-position-mode", $(self).dialog("widget").css("position")) // Line 456, Pos 6
+#858 Use spaces, not tabs.
+    .data("original-position-left", $(self).dialog("widget").offset().left) // Line 457, Pos 1
+#859 Expected '.' at column 25, not column 6.
+    .data("original-position-left", $(self).dialog("widget").offset().left) // Line 457, Pos 6
+#860 Use spaces, not tabs.
+    .data("original-position-top", $(self).dialog("widget").offset().top) // Line 458, Pos 1
+#861 Expected '.' at column 25, not column 6.
+    .data("original-position-top", $(self).dialog("widget").offset().top) // Line 458, Pos 6
+#862 Use spaces, not tabs.
+    .data("original-titlebar-wrap", $(self).dialog("widget").find(".ui-dialog-titlebar").css("white-space")); // Line 459, Pos 1
+#863 Expected '.' at column 25, not column 6.
+    .data("original-titlebar-wrap", $(self).dialog("widget").find(".ui-dialog-titlebar").css("white-space")); // Line 459, Pos 6
+#864 Use spaces, not tabs.
+    } // Line 460, Pos 1
+#865 Expected '}' at column 17, not column 4.
+    } // Line 460, Pos 4
+#866 Use spaces, not tabs.
+    //maintain chainability // Line 461, Pos 1
+#867 Use spaces, not tabs.
+    return self; // Line 462, Pos 1
+#868 Expected 'return' at column 17, not column 4.
+    return self; // Line 462, Pos 4
+#869 Use spaces, not tabs.
+    }, // Line 463, Pos 1
+#870 Expected '}' at column 13, not column 3.
+    }, // Line 463, Pos 3
+#871 Use spaces, not tabs.
+    "_toggleButtons" : function(){ // Line 465, Pos 1
+#872 Expected '_toggleButtons' at column 13, not column 3.
+    "_toggleButtons" : function(){ // Line 465, Pos 3
+#873 Expected exactly one space between 'function' and '('.
+    "_toggleButtons" : function(){ // Line 465, Pos 30
+#874 Expected exactly one space between ')' and '{'.
+    "_toggleButtons" : function(){ // Line 465, Pos 32
+#875 Use spaces, not tabs.
+    var self = this; // Line 466, Pos 1
+#876 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 466, Pos 4
+#877 Use spaces, not tabs.
+    //show or hide buttons & decide position // Line 467, Pos 1
+#878 Use spaces, not tabs.
+    $(self).dialog("widget") // Line 468, Pos 1
+#879 Expected '$' at column 17, not column 4.
+    $(self).dialog("widget") // Line 468, Pos 4
+#880 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-maximize") // Line 469, Pos 1
+#881 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-maximize") // Line 469, Pos 5
+#882 Use spaces, not tabs.
+    .toggle( $(self).data("dialog-state") != "maximized" && settings.maximize ) // Line 470, Pos 1
+#883 Expected '.' at column 21, not column 6.
+    .toggle( $(self).data("dialog-state") != "maximized" && settings.maximize ) // Line 470, Pos 6
+#884 Unexpected space between '(' and '$'.
+    .toggle( $(self).data("dialog-state") != "maximized" && settings.maximize ) // Line 470, Pos 15
+#885 Expected '!==' and instead saw '!='.
+    .toggle( $(self).data("dialog-state") != "maximized" && settings.maximize ) // Line 470, Pos 44
+#886 Unexpected space between 'maximize' and ')'.
+    .toggle( $(self).data("dialog-state") != "maximized" && settings.maximize ) // Line 470, Pos 80
+#887 Use spaces, not tabs.
+    .end() // Line 471, Pos 1
+#888 Expected '.' at column 21, not column 5.
+    .end() // Line 471, Pos 5
+#889 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-minimize") // Line 472, Pos 1
+#890 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-minimize") // Line 472, Pos 5
+#891 Use spaces, not tabs.
+    .toggle( $(self).data("dialog-state") != "minimized" && settings.minimize ) // Line 473, Pos 1
+#892 Expected '.' at column 21, not column 6.
+    .toggle( $(self).data("dialog-state") != "minimized" && settings.minimize ) // Line 473, Pos 6
+#893 Unexpected space between '(' and '$'.
+    .toggle( $(self).data("dialog-state") != "minimized" && settings.minimize ) // Line 473, Pos 15
+#894 Expected '!==' and instead saw '!='.
+    .toggle( $(self).data("dialog-state") != "minimized" && settings.minimize ) // Line 473, Pos 44
+#895 Unexpected space between 'minimize' and ')'.
+    .toggle( $(self).data("dialog-state") != "minimized" && settings.minimize ) // Line 473, Pos 80
+#896 Use spaces, not tabs.
+    .end() // Line 474, Pos 1
+#897 Expected '.' at column 21, not column 5.
+    .end() // Line 474, Pos 5
+#898 Use spaces, not tabs.
+    .find(".ui-dialog-titlebar-restore") // Line 475, Pos 1
+#899 Expected '.' at column 21, not column 5.
+    .find(".ui-dialog-titlebar-restore") // Line 475, Pos 5
+#900 Use spaces, not tabs.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 1
+#901 Expected '.' at column 21, not column 6.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 6
+#902 Unexpected space between '(' and '$'.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 15
+#903 Expected '!==' and instead saw '!='.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 44
+#904 Unexpected space between '(' and 'settings'.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 61
+#905 Unexpected space between 'minimize' and ')'.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 100
+#906 Unexpected space between ')' and ')'.
+    .toggle( $(self).data("dialog-state") != "normal" && ( settings.maximize || settings.minimize ) ) // Line 476, Pos 102
+#907 Use spaces, not tabs.
+    .css({ "right" : $(self).data("dialog-state") == "maximized" ? "24px" : $(self).data("dialog-state") == "minimized" ? !settings.maximize ? "24px" : "48px" : "-9999em" }) // Line 477, Pos 1
+#908 Expected '.' at column 21, not column 6.
+    .css({ "right" : $(self).data("dialog-state") == "maximized" ? "24px" : $(self).data("dialog-state") == "minimized" ? !settings.maximize ? "24px" : "48px" : "-9999em" }) // Line 477, Pos 6
+#909 Expected '===' and instead saw '=='.
+    .css({ "right" : $(self).data("dialog-state") == "maximized" ? "24px" : $(self).data("dialog-state") == "minimized" ? !settings.maximize ? "24px" : "48px" : "-9999em" }) // Line 477, Pos 52
+#910 Expected '===' and instead saw '=='.
+    .css({ "right" : $(self).data("dialog-state") == "maximized" ? "24px" : $(self).data("dialog-state") == "minimized" ? !settings.maximize ? "24px" : "48px" : "-9999em" }) // Line 477, Pos 107
+#911 Use spaces, not tabs.
+    .end(); // Line 478, Pos 1
+#912 Expected '.' at column 21, not column 5.
+    .end(); // Line 478, Pos 5
+#913 Use spaces, not tabs.
+    //maintain chainability // Line 479, Pos 1
+#914 Use spaces, not tabs.
+    return self; // Line 480, Pos 1
+#915 Expected 'return' at column 17, not column 4.
+    return self; // Line 480, Pos 4
+#916 Use spaces, not tabs.
+    }, // Line 481, Pos 1
+#917 Expected '}' at column 13, not column 3.
+    }, // Line 481, Pos 3
+#918 Use spaces, not tabs.
+    "_trigger" : function( type ){ // Line 483, Pos 1
+#919 Expected '_trigger' at column 13, not column 3.
+    "_trigger" : function( type ){ // Line 483, Pos 3
+#920 Expected exactly one space between 'function' and '('.
+    "_trigger" : function( type ){ // Line 483, Pos 24
+#921 Unexpected space between '(' and 'type'.
+    "_trigger" : function( type ){ // Line 483, Pos 26
+#922 Unexpected space between 'type' and ')'.
+    "_trigger" : function( type ){ // Line 483, Pos 31
+#923 Expected exactly one space between ')' and '{'.
+    "_trigger" : function( type ){ // Line 483, Pos 32
+#924 Use spaces, not tabs.
+    var self = this; // Line 484, Pos 1
+#925 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 484, Pos 4
+#926 Use spaces, not tabs.
+    //trigger event with namespace when user bind to it // Line 485, Pos 1
+#927 Use spaces, not tabs.
+    $(self).triggerHandler(type+".dialogExtend", this); // Line 486, Pos 1
+#928 Expected '$' at column 17, not column 4.
+    $(self).triggerHandler(type+".dialogExtend", this); // Line 486, Pos 4
+#929 Missing space between 'type' and '+'.
+    $(self).triggerHandler(type+".dialogExtend", this); // Line 486, Pos 31
+#930 Missing space between '+' and '.dialogExtend'.
+    $(self).triggerHandler(type+".dialogExtend", this); // Line 486, Pos 32
+#931 Use spaces, not tabs.
+    //maintain chainability // Line 487, Pos 1
+#932 Use spaces, not tabs.
+    return self; // Line 488, Pos 1
+#933 Expected 'return' at column 17, not column 4.
+    return self; // Line 488, Pos 4
+#934 Use spaces, not tabs.
+    }, // Line 489, Pos 1
+#935 Expected '}' at column 13, not column 3.
+    }, // Line 489, Pos 3
+#936 Use spaces, not tabs.
+    "_verifySettings" : function(){ // Line 491, Pos 1
+#937 Expected '_verifySettings' at column 13, not column 3.
+    "_verifySettings" : function(){ // Line 491, Pos 3
+#938 Expected exactly one space between 'function' and '('.
+    "_verifySettings" : function(){ // Line 491, Pos 31
+#939 Expected exactly one space between ')' and '{'.
+    "_verifySettings" : function(){ // Line 491, Pos 33
+#940 Use spaces, not tabs.
+    var self = this; // Line 492, Pos 1
+#941 Expected 'var' at column 17, not column 4.
+    var self = this; // Line 492, Pos 4
+#942 Use spaces, not tabs.
+    //check <dblclick> option // Line 493, Pos 1
+#943 Use spaces, not tabs.
+    if ( !settings.dblclick ) { // Line 494, Pos 1
+#944 Expected 'if' at column 17, not column 4.
+    if ( !settings.dblclick ) { // Line 494, Pos 4
+#945 Unexpected space between '(' and '!'.
+    if ( !settings.dblclick ) { // Line 494, Pos 9
+#946 Unexpected space between 'dblclick' and ')'.
+    if ( !settings.dblclick ) { // Line 494, Pos 28
+#947 Use spaces, not tabs.
+    } else if ( settings.dblclick == "maximize" ) { // Line 495, Pos 1
+#948 Expected '}' at column 17, not column 4.
+    } else if ( settings.dblclick == "maximize" ) { // Line 495, Pos 4
+#949 Empty block.
+    if ( !settings.dblclick ) { // Line 494, Pos 30
+#950 Unexpected space between '(' and 'settings'.
+    } else if ( settings.dblclick == "maximize" ) { // Line 495, Pos 16
+#951 Expected '===' and instead saw '=='.
+    } else if ( settings.dblclick == "maximize" ) { // Line 495, Pos 34
+#952 Unexpected space between 'maximize' and ')'.
+    } else if ( settings.dblclick == "maximize" ) { // Line 495, Pos 48
+#953 Use spaces, not tabs.
+    } else if ( settings.dblclick == "minimize" ) { // Line 496, Pos 1
+#954 Expected '}' at column 17, not column 4.
+    } else if ( settings.dblclick == "minimize" ) { // Line 496, Pos 4
+#955 Empty block.
+    } else if ( settings.dblclick == "maximize" ) { // Line 495, Pos 50
+#956 Unexpected space between '(' and 'settings'.
+    } else if ( settings.dblclick == "minimize" ) { // Line 496, Pos 16
+#957 Expected '===' and instead saw '=='.
+    } else if ( settings.dblclick == "minimize" ) { // Line 496, Pos 34
+#958 Unexpected space between 'minimize' and ')'.
+    } else if ( settings.dblclick == "minimize" ) { // Line 496, Pos 48
+#959 Use spaces, not tabs.
+    } else if ( settings.dblclick == "collapse" ) { // Line 497, Pos 1
+#960 Expected '}' at column 17, not column 4.
+    } else if ( settings.dblclick == "collapse" ) { // Line 497, Pos 4
+#961 Empty block.
+    } else if ( settings.dblclick == "minimize" ) { // Line 496, Pos 50
+#962 Unexpected space between '(' and 'settings'.
+    } else if ( settings.dblclick == "collapse" ) { // Line 497, Pos 16
+#963 Expected '===' and instead saw '=='.
+    } else if ( settings.dblclick == "collapse" ) { // Line 497, Pos 34
+#964 Unexpected space between 'collapse' and ')'.
+    } else if ( settings.dblclick == "collapse" ) { // Line 497, Pos 48
+#965 Use spaces, not tabs.
+    } else { // Line 498, Pos 1
+#966 Expected '}' at column 17, not column 4.
+    } else { // Line 498, Pos 4
+#967 Empty block.
+    } else if ( settings.dblclick == "collapse" ) { // Line 497, Pos 50
+#968 Use spaces, not tabs.
+    $.error( "jQuery.dialogExtend Error : Invalid <dblclick> value '" + settings.dblclick + "'" ); // Line 499, Pos 1
+#969 Expected '$' at column 21, not column 5.
+    $.error( "jQuery.dialogExtend Error : Invalid <dblclick> value '" + settings.dblclick + "'" ); // Line 499, Pos 5
+#970 Unexpected space between '(' and 'jQuery.dialogExtend Error : Invalid <dblclick> value ''.
+    $.error( "jQuery.dialogExtend Error : Invalid <dblclick> value '" + settings.dblclick + "'" ); // Line 499, Pos 14
+#971 Unexpected space between ''' and ')'.
+    $.error( "jQuery.dialogExtend Error : Invalid <dblclick> value '" + settings.dblclick + "'" ); // Line 499, Pos 97
+#972 Use spaces, not tabs.
+    settings.dblclick = false; // Line 500, Pos 1
+#973 Expected 'settings' at column 21, not column 5.
+    settings.dblclick = false; // Line 500, Pos 5
+#974 Use spaces, not tabs.
+    } // Line 501, Pos 1
+#975 Expected '}' at column 17, not column 4.
+    } // Line 501, Pos 4
+#976 Use spaces, not tabs.
+    //check <titlebar> option // Line 502, Pos 1
+#977 Use spaces, not tabs.
+    if ( !settings.titlebar ) { // Line 503, Pos 1
+#978 Expected 'if' at column 17, not column 4.
+    if ( !settings.titlebar ) { // Line 503, Pos 4
+#979 Unexpected space between '(' and '!'.
+    if ( !settings.titlebar ) { // Line 503, Pos 9
+#980 Unexpected space between 'titlebar' and ')'.
+    if ( !settings.titlebar ) { // Line 503, Pos 28
+#981 Use spaces, not tabs.
+    } else if ( settings.titlebar == "none" ) { // Line 504, Pos 1
+#982 Expected '}' at column 17, not column 4.
+    } else if ( settings.titlebar == "none" ) { // Line 504, Pos 4
+#983 Empty block.
+    if ( !settings.titlebar ) { // Line 503, Pos 30
+#984 Unexpected space between '(' and 'settings'.
+    } else if ( settings.titlebar == "none" ) { // Line 504, Pos 16
+#985 Expected '===' and instead saw '=='.
+    } else if ( settings.titlebar == "none" ) { // Line 504, Pos 34
+#986 Unexpected space between 'none' and ')'.
+    } else if ( settings.titlebar == "none" ) { // Line 504, Pos 44
+#987 Use spaces, not tabs.
+    } else if ( settings.titlebar == "transparent" ) { // Line 505, Pos 1
+#988 Expected '}' at column 17, not column 4.
+    } else if ( settings.titlebar == "transparent" ) { // Line 505, Pos 4
+#989 Empty block.
+    } else if ( settings.titlebar == "none" ) { // Line 504, Pos 46
+#990 Unexpected space between '(' and 'settings'.
+    } else if ( settings.titlebar == "transparent" ) { // Line 505, Pos 16
+#991 Expected '===' and instead saw '=='.
+    } else if ( settings.titlebar == "transparent" ) { // Line 505, Pos 34
+#992 Unexpected space between 'transparent' and ')'.
+    } else if ( settings.titlebar == "transparent" ) { // Line 505, Pos 51
+#993 Use spaces, not tabs.
+    } else { // Line 506, Pos 1
+#994 Expected '}' at column 17, not column 4.
+    } else { // Line 506, Pos 4
+#995 Empty block.
+    } else if ( settings.titlebar == "transparent" ) { // Line 505, Pos 53
+#996 Use spaces, not tabs.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 507, Pos 1
+#997 Expected '$' at column 21, not column 5.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 507, Pos 5
+#998 Unexpected space between '(' and 'jQuery.dialogExtend Error : Invalid <titlebar> value ''.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 507, Pos 14
+#999 Unexpected space between ''' and ')'.
+    $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 507, Pos 97
+#1000 Use spaces, not tabs.
+    settings.titlebar = false; // Line 508, Pos 1
+#1001 Too many errors. (96% scanned).
+     // Line 508, Pos 1
 
 /home/anusha/Desktop/cs527/modified_projects/jslint/mywebsql/js/options.js
  #1 Use spaces, not tabs.
@@ -3048,8 +4870,122 @@
     {'id':'fsign', 'type':'check', 'list':[], 'desc': __('Unsigned numbered field only')}, // Line 63, Pos 8
 #200 Missing space between ':' and 'check'.
     {'id':'fsign', 'type':'check', 'list':[], 'desc': __('Unsigned numbered field only')}, // Line 63, Pos 24
-#201 Too many errors. (10% scanned).
-     // Line 63, Pos 24
+#201 Missing space between ':' and '['.
+    {'id':'fsign', 'type':'check', 'list':[], 'desc': __('Unsigned numbered field only')}, // Line 63, Pos 40
+#202 Unexpected dangling '_' in '__'.
+    {'id':'fsign', 'type':'check', 'list':[], 'desc': __('Unsigned numbered field only')}, // Line 63, Pos 52
+#203 '__' was used before it was defined.
+    {'id':'fsign', 'type':'check', 'list':[], 'desc': __('Unsigned numbered field only')}, // Line 63, Pos 52
+#204 Use spaces, not tabs.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 1
+#205 Expected '{' at column 9, not column 2.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 2
+#206 Missing space between ':' and 'fzero'.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 8
+#207 Missing space between ':' and 'check'.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 24
+#208 Missing space between ':' and '['.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 40
+#209 Unexpected dangling '_' in '__'.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 52
+#210 '__' was used before it was defined.
+    {'id':'fzero', 'type':'check', 'list':[], 'desc': __('Pad field values with leading zeros')}, // Line 64, Pos 52
+#211 Use spaces, not tabs.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 1
+#212 Expected '{' at column 9, not column 2.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 2
+#213 Missing space between ':' and 'fpkey'.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 8
+#214 Missing space between ':' and 'check'.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 24
+#215 Missing space between ':' and '['.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 40
+#216 Unexpected dangling '_' in '__'.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 52
+#217 '__' was used before it was defined.
+    {'id':'fpkey', 'type':'check', 'list':[], 'desc': __('Create Primary Index on this field')}, // Line 65, Pos 52
+#218 Use spaces, not tabs.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 1
+#219 Expected '{' at column 9, not column 2.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 2
+#220 Missing space between ':' and 'fauto'.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 8
+#221 Missing space between ':' and 'check'.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 24
+#222 Missing space between ':' and '['.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 40
+#223 Unexpected dangling '_' in '__'.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 52
+#224 '__' was used before it was defined.
+    {'id':'fauto', 'type':'check', 'list':[], 'desc': __('Field value is Auto Incremented')}, // Line 66, Pos 52
+#225 Use spaces, not tabs.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 1
+#226 Expected '{' at column 9, not column 2.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 2
+#227 Missing space between ':' and 'fnull'.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 8
+#228 Missing space between ':' and 'check'.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 24
+#229 Missing space between ':' and '['.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 40
+#230 Unexpected dangling '_' in '__'.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 52
+#231 '__' was used before it was defined.
+    {'id':'fnull', 'type':'check', 'list':[], 'desc': __('Disallow NULL values in Field')} // Line 67, Pos 52
+#232 Expected ']' at column 5, not column 1.
+    ]; // Line 68, Pos 1
+#233 Use spaces, not tabs.
+    for (i=0; i<n; i++) { // Line 71, Pos 1
+#234 Missing 'use strict' statement.
+    for (i=0; i<n; i++) { // Line 71, Pos 2
+#235 'i' was used before it was defined.
+    for (i=0; i<n; i++) { // Line 71, Pos 7
+#236 Missing space between 'i' and '='.
+    for (i=0; i<n; i++) { // Line 71, Pos 8
+#237 Missing space between '=' and '0'.
+    for (i=0; i<n; i++) { // Line 71, Pos 9
+#238 'i' was used before it was defined.
+    for (i=0; i<n; i++) { // Line 71, Pos 12
+#239 Missing space between 'i' and '<'.
+    for (i=0; i<n; i++) { // Line 71, Pos 13
+#240 Missing space between '<' and 'n'.
+    for (i=0; i<n; i++) { // Line 71, Pos 14
+#241 'i' was used before it was defined.
+    for (i=0; i<n; i++) { // Line 71, Pos 17
+#242 Unexpected '++'.
+    for (i=0; i<n; i++) { // Line 71, Pos 18
+#243 Use spaces, not tabs.
+    rows = '<tr>'; // Line 72, Pos 1
+#244 Expected 'rows' at column 9, not column 3.
+    rows = '<tr>'; // Line 72, Pos 3
+#245 Use spaces, not tabs.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 1
+#246 Expected 'for' at column 9, not column 3.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 3
+#247 'j' was used before it was defined.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 8
+#248 Missing space between 'j' and '='.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 9
+#249 Missing space between '=' and '0'.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 10
+#250 'j' was used before it was defined.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 13
+#251 Missing space between 'j' and '<'.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 14
+#252 Missing space between '<' and 'fieldInfo'.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 15
+#253 'j' was used before it was defined.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 33
+#254 Unexpected '++'.
+    for (j=0; j<fieldInfo.length; j++) // Line 73, Pos 34
+#255 Use spaces, not tabs.
+    rows += '<td class="edit ' + fieldInfo[j].type + ' n"></td>'; // add new class 'n' to the field // Line 74, Pos 1
+#256 Expected exactly one space between ')' and 'rows'.
+    rows += '<td class="edit ' + fieldInfo[j].type + ' n"></td>'; // add new class 'n' to the field // Line 74, Pos 4
+#257 Expected '{' and instead saw 'rows'.
+    rows += '<td class="edit ' + fieldInfo[j].type + ' n"></td>'; // add new class 'n' to the field // Line 74, Pos 4
+#258 Stopping. (12% scanned).
+     // Line 74, Pos 4
 
 /home/anusha/Desktop/cs527/modified_projects/jslint/mywebsql/js/tables.js
  #1 Use spaces, not tabs.
@@ -4344,8 +6280,1416 @@
     name = pair[0].replace( /^\s*/, '' ).replace( /\s*$/, '' ); // Line 105, Pos 28
 #200 Unexpected space between ')' and ')'.
     name = pair[0].replace( /^\s*/, '' ).replace( /\s*$/, '' ); // Line 105, Pos 39
-#201 Too many errors. (23% scanned).
-     // Line 105, Pos 39
+#201 Unexpected space between '(' and '\s*$'.
+    name = pair[0].replace( /^\s*/, '' ).replace( /\s*$/, '' ); // Line 105, Pos 50
+#202 Unexpected space between ')' and ')'.
+    name = pair[0].replace( /^\s*/, '' ).replace( /\s*$/, '' ); // Line 105, Pos 61
+#203 Use spaces, not tabs.
+    try // Line 107, Pos 1
+#204 Expected 'try' at column 25, not column 4.
+    try // Line 107, Pos 4
+#205 Use spaces, not tabs.
+    { // Line 108, Pos 1
+#206 Expected exactly one space between 'try' and '{'.
+    { // Line 108, Pos 4
+#207 Use spaces, not tabs.
+    value = decodeURIComponent( pair[1] ); // Line 109, Pos 1
+#208 Expected 'value' at column 33, not column 5.
+    value = decodeURIComponent( pair[1] ); // Line 109, Pos 5
+#209 Unexpected space between '(' and 'pair'.
+    value = decodeURIComponent( pair[1] ); // Line 109, Pos 33
+#210 Unexpected space between ']' and ')'.
+    value = decodeURIComponent( pair[1] ); // Line 109, Pos 41
+#211 Use spaces, not tabs.
+    } // Line 110, Pos 1
+#212 Expected '}' at column 29, not column 4.
+    } // Line 110, Pos 4
+#213 Use spaces, not tabs.
+    catch( e1 ) // Line 111, Pos 1
+#214 Expected exactly one space between '}' and 'catch'.
+    catch( e1 ) // Line 111, Pos 4
+#215 Expected exactly one space between 'catch' and '('.
+    catch( e1 ) // Line 111, Pos 9
+#216 Unexpected space between '(' and 'e1'.
+    catch( e1 ) // Line 111, Pos 11
+#217 Unexpected space between 'e1' and ')'.
+    catch( e1 ) // Line 111, Pos 14
+#218 Use spaces, not tabs.
+    { // Line 112, Pos 1
+#219 Expected exactly one space between ')' and '{'.
+    { // Line 112, Pos 4
+#220 Use spaces, not tabs.
+    value = pair[1]; // Line 113, Pos 1
+#221 Expected 'value' at column 33, not column 5.
+    value = pair[1]; // Line 113, Pos 5
+#222 Use spaces, not tabs.
+    } // Line 114, Pos 1
+#223 Expected '}' at column 29, not column 4.
+    } // Line 114, Pos 4
+#224 Use spaces, not tabs.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.parse === 'function' ) // Line 116, Pos 1
+#225 Expected 'if' at column 25, not column 4.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.parse === 'function' ) // Line 116, Pos 4
+#226 Expected exactly one space between 'if' and '('.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.parse === 'function' ) // Line 116, Pos 6
+#227 Unexpected space between '(' and 'typeof'.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.parse === 'function' ) // Line 116, Pos 8
+#228 Unexpected space between 'function' and ')'.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.parse === 'function' ) // Line 116, Pos 86
+#229 Use spaces, not tabs.
+    { // Line 117, Pos 1
+#230 Expected exactly one space between ')' and '{'.
+    { // Line 117, Pos 4
+#231 Use spaces, not tabs.
+    try // Line 118, Pos 1
+#232 Expected 'try' at column 33, not column 5.
+    try // Line 118, Pos 5
+#233 Use spaces, not tabs.
+    { // Line 119, Pos 1
+#234 Expected exactly one space between 'try' and '{'.
+    { // Line 119, Pos 5
+#235 Use spaces, not tabs.
+    unparsedValue = value; // Line 120, Pos 1
+#236 Expected 'unparsedValue' at column 41, not column 6.
+    unparsedValue = value; // Line 120, Pos 6
+#237 Use spaces, not tabs.
+    value = JSON.parse( value ); // Line 121, Pos 1
+#238 Expected 'value' at column 41, not column 6.
+    value = JSON.parse( value ); // Line 121, Pos 6
+#239 Unexpected space between '(' and 'value'.
+    value = JSON.parse( value ); // Line 121, Pos 26
+#240 Unexpected space between 'value' and ')'.
+    value = JSON.parse( value ); // Line 121, Pos 32
+#241 Use spaces, not tabs.
+    } // Line 122, Pos 1
+#242 Expected '}' at column 37, not column 5.
+    } // Line 122, Pos 5
+#243 Use spaces, not tabs.
+    catch( e2 ) // Line 123, Pos 1
+#244 Expected exactly one space between '}' and 'catch'.
+    catch( e2 ) // Line 123, Pos 5
+#245 Expected exactly one space between 'catch' and '('.
+    catch( e2 ) // Line 123, Pos 10
+#246 Unexpected space between '(' and 'e2'.
+    catch( e2 ) // Line 123, Pos 12
+#247 Unexpected space between 'e2' and ')'.
+    catch( e2 ) // Line 123, Pos 15
+#248 Use spaces, not tabs.
+    { // Line 124, Pos 1
+#249 Expected exactly one space between ')' and '{'.
+    { // Line 124, Pos 5
+#250 Use spaces, not tabs.
+    value = unparsedValue; // Line 125, Pos 1
+#251 Expected 'value' at column 41, not column 6.
+    value = unparsedValue; // Line 125, Pos 6
+#252 Use spaces, not tabs.
+    } // Line 126, Pos 1
+#253 Expected '}' at column 37, not column 5.
+    } // Line 126, Pos 5
+#254 Use spaces, not tabs.
+    } // Line 127, Pos 1
+#255 Expected '}' at column 29, not column 4.
+    } // Line 127, Pos 4
+#256 Use spaces, not tabs.
+    cookies[name] = value; // Line 129, Pos 1
+#257 Expected 'cookies' at column 25, not column 4.
+    cookies[name] = value; // Line 129, Pos 4
+#258 Use spaces, not tabs.
+    } // Line 130, Pos 1
+#259 Expected '}' at column 21, not column 3.
+    } // Line 130, Pos 3
+#260 Use spaces, not tabs.
+    return cookies; // Line 131, Pos 1
+#261 Expected 'return' at column 17, not column 3.
+    return cookies; // Line 131, Pos 3
+#262 Use spaces, not tabs.
+    }; // Line 132, Pos 1
+#263 Expected '}' at column 13, not column 2.
+    }; // Line 132, Pos 2
+#264 Use spaces, not tabs.
+    constructor = function(){}; // Line 134, Pos 1
+#265 Expected 'constructor' at column 9, not column 2.
+    constructor = function(){}; // Line 134, Pos 2
+#266 Expected exactly one space between 'function' and '('.
+    constructor = function(){}; // Line 134, Pos 24
+#267 Expected exactly one space between ')' and '{'.
+    constructor = function(){}; // Line 134, Pos 26
+#268 Use spaces, not tabs.
+    /** // Line 136, Pos 1
+#269 Use spaces, not tabs.
+    * get - get one, several, or all cookies // Line 137, Pos 1
+#270 Use spaces, not tabs.
+    * // Line 138, Pos 1
+#271 Use spaces, not tabs.
+    * @access public // Line 139, Pos 1
+#272 Use spaces, not tabs.
+    * @paramater Mixed cookieName - String:name of single cookie; Array:list of multiple cookie names; Void (no param):if you want all cookies // Line 140, Pos 1
+#273 Use spaces, not tabs.
+    * @return Mixed - Value of cookie as set; Null:if only one cookie is requested and is not found; Object:hash of multiple or all cookies (if multiple or all requested); // Line 141, Pos 1
+#274 Use spaces, not tabs.
+    */ // Line 142, Pos 1
+#275 Use spaces, not tabs.
+    constructor.prototype.get = function( cookieName ) // Line 143, Pos 1
+#276 Expected 'constructor' at column 9, not column 2.
+    constructor.prototype.get = function( cookieName ) // Line 143, Pos 2
+#277 Expected exactly one space between 'function' and '('.
+    constructor.prototype.get = function( cookieName ) // Line 143, Pos 38
+#278 Unexpected space between '(' and 'cookieName'.
+    constructor.prototype.get = function( cookieName ) // Line 143, Pos 40
+#279 Unexpected space between 'cookieName' and ')'.
+    constructor.prototype.get = function( cookieName ) // Line 143, Pos 51
+#280 Use spaces, not tabs.
+    { // Line 144, Pos 1
+#281 Expected exactly one space between ')' and '{'.
+    { // Line 144, Pos 2
+#282 Use spaces, not tabs.
+    var returnValue, item, cookies = parseCookies(); // Line 145, Pos 1
+#283 Expected 'var' at column 17, not column 3.
+    var returnValue, item, cookies = parseCookies(); // Line 145, Pos 3
+#284 Use spaces, not tabs.
+    if( typeof cookieName === 'string' ) // Line 147, Pos 1
+#285 Expected 'if' at column 17, not column 3.
+    if( typeof cookieName === 'string' ) // Line 147, Pos 3
+#286 Expected exactly one space between 'if' and '('.
+    if( typeof cookieName === 'string' ) // Line 147, Pos 5
+#287 Unexpected space between '(' and 'typeof'.
+    if( typeof cookieName === 'string' ) // Line 147, Pos 7
+#288 Unexpected space between 'string' and ')'.
+    if( typeof cookieName === 'string' ) // Line 147, Pos 38
+#289 Use spaces, not tabs.
+    { // Line 148, Pos 1
+#290 Expected exactly one space between ')' and '{'.
+    { // Line 148, Pos 3
+#291 Use spaces, not tabs.
+    returnValue = ( typeof cookies[cookieName] !== 'undefined' ) ? cookies[cookieName] : null; // Line 149, Pos 1
+#292 Expected 'returnValue' at column 25, not column 4.
+    returnValue = ( typeof cookies[cookieName] !== 'undefined' ) ? cookies[cookieName] : null; // Line 149, Pos 4
+#293 Unexpected space between '(' and 'typeof'.
+    returnValue = ( typeof cookies[cookieName] !== 'undefined' ) ? cookies[cookieName] : null; // Line 149, Pos 20
+#294 Unexpected space between 'undefined' and ')'.
+    returnValue = ( typeof cookies[cookieName] !== 'undefined' ) ? cookies[cookieName] : null; // Line 149, Pos 63
+#295 Use spaces, not tabs.
+    } // Line 150, Pos 1
+#296 Expected '}' at column 21, not column 3.
+    } // Line 150, Pos 3
+#297 Use spaces, not tabs.
+    else if( typeof cookieName === 'object' && cookieName !== null ) // Line 151, Pos 1
+#298 Expected exactly one space between '}' and 'else'.
+    else if( typeof cookieName === 'object' && cookieName !== null ) // Line 151, Pos 3
+#299 Expected exactly one space between 'if' and '('.
+    else if( typeof cookieName === 'object' && cookieName !== null ) // Line 151, Pos 10
+#300 Unexpected space between '(' and 'typeof'.
+    else if( typeof cookieName === 'object' && cookieName !== null ) // Line 151, Pos 12
+#301 Unexpected space between 'null' and ')'.
+    else if( typeof cookieName === 'object' && cookieName !== null ) // Line 151, Pos 66
+#302 Use spaces, not tabs.
+    { // Line 152, Pos 1
+#303 Expected exactly one space between ')' and '{'.
+    { // Line 152, Pos 3
+#304 Use spaces, not tabs.
+    returnValue = {}; // Line 153, Pos 1
+#305 Expected 'returnValue' at column 25, not column 4.
+    returnValue = {}; // Line 153, Pos 4
+#306 Use spaces, not tabs.
+    for( item in cookieName ) // Line 154, Pos 1
+#307 Expected 'for' at column 25, not column 4.
+    for( item in cookieName ) // Line 154, Pos 4
+#308 Missing space between 'for' and '('.
+    for( item in cookieName ) // Line 154, Pos 7
+#309 Unexpected space between '(' and 'item'.
+    for( item in cookieName ) // Line 154, Pos 9
+#310 Use spaces, not tabs.
+    { // Line 155, Pos 1
+#311 Expected '{' at column 29, not column 4.
+    { // Line 155, Pos 4
+#312 Use spaces, not tabs.
+    if( typeof cookies[cookieName[item]] !== 'undefined' ) // Line 156, Pos 1
+#313 Expected 'if' at column 33, not column 5.
+    if( typeof cookies[cookieName[item]] !== 'undefined' ) // Line 156, Pos 5
+#314 Expected exactly one space between 'if' and '('.
+    if( typeof cookies[cookieName[item]] !== 'undefined' ) // Line 156, Pos 7
+#315 Unexpected space between '(' and 'typeof'.
+    if( typeof cookies[cookieName[item]] !== 'undefined' ) // Line 156, Pos 9
+#316 Unexpected space between 'undefined' and ')'.
+    if( typeof cookies[cookieName[item]] !== 'undefined' ) // Line 156, Pos 58
+#317 Use spaces, not tabs.
+    { // Line 157, Pos 1
+#318 Expected exactly one space between ')' and '{'.
+    { // Line 157, Pos 5
+#319 Use spaces, not tabs.
+    returnValue[cookieName[item]] = cookies[cookieName[item]]; // Line 158, Pos 1
+#320 Expected 'returnValue' at column 41, not column 6.
+    returnValue[cookieName[item]] = cookies[cookieName[item]]; // Line 158, Pos 6
+#321 Use spaces, not tabs.
+    } // Line 159, Pos 1
+#322 Expected '}' at column 37, not column 5.
+    } // Line 159, Pos 5
+#323 Use spaces, not tabs.
+    else // Line 160, Pos 1
+#324 Expected exactly one space between '}' and 'else'.
+    else // Line 160, Pos 5
+#325 Use spaces, not tabs.
+    { // Line 161, Pos 1
+#326 Expected exactly one space between 'else' and '{'.
+    { // Line 161, Pos 5
+#327 Use spaces, not tabs.
+    returnValue[cookieName[item]] = null; // Line 162, Pos 1
+#328 Expected 'returnValue' at column 41, not column 6.
+    returnValue[cookieName[item]] = null; // Line 162, Pos 6
+#329 Use spaces, not tabs.
+    } // Line 163, Pos 1
+#330 Expected '}' at column 37, not column 5.
+    } // Line 163, Pos 5
+#331 Use spaces, not tabs.
+    } // Line 164, Pos 1
+#332 Expected '}' at column 29, not column 4.
+    } // Line 164, Pos 4
+#333 Use spaces, not tabs.
+    } // Line 165, Pos 1
+#334 Expected '}' at column 21, not column 3.
+    } // Line 165, Pos 3
+#335 Use spaces, not tabs.
+    else // Line 166, Pos 1
+#336 Expected exactly one space between '}' and 'else'.
+    else // Line 166, Pos 3
+#337 Use spaces, not tabs.
+    { // Line 167, Pos 1
+#338 Expected exactly one space between 'else' and '{'.
+    { // Line 167, Pos 3
+#339 Use spaces, not tabs.
+    returnValue = cookies; // Line 168, Pos 1
+#340 Expected 'returnValue' at column 25, not column 4.
+    returnValue = cookies; // Line 168, Pos 4
+#341 Use spaces, not tabs.
+    } // Line 169, Pos 1
+#342 Expected '}' at column 21, not column 3.
+    } // Line 169, Pos 3
+#343 Use spaces, not tabs.
+    return returnValue; // Line 171, Pos 1
+#344 Expected 'return' at column 17, not column 3.
+    return returnValue; // Line 171, Pos 3
+#345 Use spaces, not tabs.
+    }; // Line 172, Pos 1
+#346 Expected '}' at column 13, not column 2.
+    }; // Line 172, Pos 2
+#347 Use spaces, not tabs.
+    /** // Line 173, Pos 1
+#348 Use spaces, not tabs.
+    * filter - get array of cookies whose names match the provided RegExp // Line 174, Pos 1
+#349 Use spaces, not tabs.
+    * // Line 175, Pos 1
+#350 Use spaces, not tabs.
+    * @access public // Line 176, Pos 1
+#351 Use spaces, not tabs.
+    * @paramater Object RegExp - The regular expression to match against cookie names // Line 177, Pos 1
+#352 Use spaces, not tabs.
+    * @return Mixed - Object:hash of cookies whose names match the RegExp // Line 178, Pos 1
+#353 Use spaces, not tabs.
+    */ // Line 179, Pos 1
+#354 Use spaces, not tabs.
+    constructor.prototype.filter = function( cookieNameRegExp ) // Line 180, Pos 1
+#355 Expected 'constructor' at column 9, not column 2.
+    constructor.prototype.filter = function( cookieNameRegExp ) // Line 180, Pos 2
+#356 Expected exactly one space between 'function' and '('.
+    constructor.prototype.filter = function( cookieNameRegExp ) // Line 180, Pos 41
+#357 Unexpected space between '(' and 'cookieNameRegExp'.
+    constructor.prototype.filter = function( cookieNameRegExp ) // Line 180, Pos 43
+#358 Unexpected space between 'cookieNameRegExp' and ')'.
+    constructor.prototype.filter = function( cookieNameRegExp ) // Line 180, Pos 60
+#359 Use spaces, not tabs.
+    { // Line 181, Pos 1
+#360 Expected exactly one space between ')' and '{'.
+    { // Line 181, Pos 2
+#361 Use spaces, not tabs.
+    var cookieName, returnValue = {}, cookies = parseCookies(); // Line 182, Pos 1
+#362 Expected 'var' at column 17, not column 3.
+    var cookieName, returnValue = {}, cookies = parseCookies(); // Line 182, Pos 3
+#363 Use spaces, not tabs.
+    if( typeof cookieNameRegExp === 'string' ) // Line 184, Pos 1
+#364 Expected 'if' at column 17, not column 3.
+    if( typeof cookieNameRegExp === 'string' ) // Line 184, Pos 3
+#365 Expected exactly one space between 'if' and '('.
+    if( typeof cookieNameRegExp === 'string' ) // Line 184, Pos 5
+#366 Unexpected space between '(' and 'typeof'.
+    if( typeof cookieNameRegExp === 'string' ) // Line 184, Pos 7
+#367 Unexpected space between 'string' and ')'.
+    if( typeof cookieNameRegExp === 'string' ) // Line 184, Pos 44
+#368 Use spaces, not tabs.
+    { // Line 185, Pos 1
+#369 Expected exactly one space between ')' and '{'.
+    { // Line 185, Pos 3
+#370 Use spaces, not tabs.
+    cookieNameRegExp = new RegExp( cookieNameRegExp ); // Line 186, Pos 1
+#371 Expected 'cookieNameRegExp' at column 25, not column 4.
+    cookieNameRegExp = new RegExp( cookieNameRegExp ); // Line 186, Pos 4
+#372 Unexpected space between '(' and 'cookieNameRegExp'.
+    cookieNameRegExp = new RegExp( cookieNameRegExp ); // Line 186, Pos 35
+#373 Unexpected space between 'cookieNameRegExp' and ')'.
+    cookieNameRegExp = new RegExp( cookieNameRegExp ); // Line 186, Pos 52
+#374 Use spaces, not tabs.
+    } // Line 187, Pos 1
+#375 Expected '}' at column 21, not column 3.
+    } // Line 187, Pos 3
+#376 Use spaces, not tabs.
+    for( cookieName in cookies ) // Line 189, Pos 1
+#377 Expected 'for' at column 17, not column 3.
+    for( cookieName in cookies ) // Line 189, Pos 3
+#378 Missing space between 'for' and '('.
+    for( cookieName in cookies ) // Line 189, Pos 6
+#379 Unexpected space between '(' and 'cookieName'.
+    for( cookieName in cookies ) // Line 189, Pos 8
+#380 Use spaces, not tabs.
+    { // Line 190, Pos 1
+#381 Expected '{' at column 21, not column 3.
+    { // Line 190, Pos 3
+#382 Use spaces, not tabs.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 1
+#383 Expected 'if' at column 25, not column 4.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 4
+#384 Expected exactly one space between 'if' and '('.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 6
+#385 Unexpected space between '(' and 'cookieName'.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 8
+#386 Unexpected space between '(' and 'cookieNameRegExp'.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 26
+#387 Unexpected space between 'cookieNameRegExp' and ')'.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 43
+#388 Unexpected space between ')' and ')'.
+    if( cookieName.match( cookieNameRegExp ) ) // Line 191, Pos 45
+#389 Use spaces, not tabs.
+    { // Line 192, Pos 1
+#390 Expected exactly one space between ')' and '{'.
+    { // Line 192, Pos 4
+#391 Use spaces, not tabs.
+    returnValue[cookieName] = cookies[cookieName]; // Line 193, Pos 1
+#392 Expected 'returnValue' at column 33, not column 5.
+    returnValue[cookieName] = cookies[cookieName]; // Line 193, Pos 5
+#393 Use spaces, not tabs.
+    } // Line 194, Pos 1
+#394 Expected '}' at column 29, not column 4.
+    } // Line 194, Pos 4
+#395 Use spaces, not tabs.
+    } // Line 195, Pos 1
+#396 Expected '}' at column 21, not column 3.
+    } // Line 195, Pos 3
+#397 Use spaces, not tabs.
+    return returnValue; // Line 197, Pos 1
+#398 Expected 'return' at column 17, not column 3.
+    return returnValue; // Line 197, Pos 3
+#399 Use spaces, not tabs.
+    }; // Line 198, Pos 1
+#400 Expected '}' at column 13, not column 2.
+    }; // Line 198, Pos 2
+#401 Use spaces, not tabs.
+    /** // Line 199, Pos 1
+#402 Use spaces, not tabs.
+    * set - set or delete a cookie with desired options // Line 200, Pos 1
+#403 Use spaces, not tabs.
+    * // Line 201, Pos 1
+#404 Use spaces, not tabs.
+    * @access public // Line 202, Pos 1
+#405 Use spaces, not tabs.
+    * @paramater String cookieName - name of cookie to set // Line 203, Pos 1
+#406 Use spaces, not tabs.
+    * @paramater Mixed value - Any JS value. If not a string, will be JSON encoded; NULL to delete // Line 204, Pos 1
+#407 Use spaces, not tabs.
+    * @paramater Object options - optional list of cookie options to specify // Line 205, Pos 1
+#408 Use spaces, not tabs.
+    * @return void // Line 206, Pos 1
+#409 Use spaces, not tabs.
+    */ // Line 207, Pos 1
+#410 Use spaces, not tabs.
+    constructor.prototype.set = function( cookieName, value, options ) // Line 208, Pos 1
+#411 Expected 'constructor' at column 9, not column 2.
+    constructor.prototype.set = function( cookieName, value, options ) // Line 208, Pos 2
+#412 Expected exactly one space between 'function' and '('.
+    constructor.prototype.set = function( cookieName, value, options ) // Line 208, Pos 38
+#413 Unexpected space between '(' and 'cookieName'.
+    constructor.prototype.set = function( cookieName, value, options ) // Line 208, Pos 40
+#414 Unexpected space between 'options' and ')'.
+    constructor.prototype.set = function( cookieName, value, options ) // Line 208, Pos 67
+#415 Use spaces, not tabs.
+    { // Line 209, Pos 1
+#416 Expected exactly one space between ')' and '{'.
+    { // Line 209, Pos 2
+#417 Use spaces, not tabs.
+    if( typeof options !== 'object' || options === null ) // Line 210, Pos 1
+#418 Expected 'if' at column 17, not column 3.
+    if( typeof options !== 'object' || options === null ) // Line 210, Pos 3
+#419 Expected exactly one space between 'if' and '('.
+    if( typeof options !== 'object' || options === null ) // Line 210, Pos 5
+#420 Unexpected space between '(' and 'typeof'.
+    if( typeof options !== 'object' || options === null ) // Line 210, Pos 7
+#421 Unexpected space between 'null' and ')'.
+    if( typeof options !== 'object' || options === null ) // Line 210, Pos 55
+#422 Use spaces, not tabs.
+    { // Line 211, Pos 1
+#423 Expected exactly one space between ')' and '{'.
+    { // Line 211, Pos 3
+#424 Use spaces, not tabs.
+    options = {}; // Line 212, Pos 1
+#425 Expected 'options' at column 25, not column 4.
+    options = {}; // Line 212, Pos 4
+#426 Use spaces, not tabs.
+    } // Line 213, Pos 1
+#427 Expected '}' at column 21, not column 3.
+    } // Line 213, Pos 3
+#428 Use spaces, not tabs.
+    if( typeof value === 'undefined' || value === null ) // Line 215, Pos 1
+#429 Expected 'if' at column 17, not column 3.
+    if( typeof value === 'undefined' || value === null ) // Line 215, Pos 3
+#430 Expected exactly one space between 'if' and '('.
+    if( typeof value === 'undefined' || value === null ) // Line 215, Pos 5
+#431 Unexpected space between '(' and 'typeof'.
+    if( typeof value === 'undefined' || value === null ) // Line 215, Pos 7
+#432 Unexpected space between 'null' and ')'.
+    if( typeof value === 'undefined' || value === null ) // Line 215, Pos 54
+#433 Use spaces, not tabs.
+    { // Line 216, Pos 1
+#434 Expected exactly one space between ')' and '{'.
+    { // Line 216, Pos 3
+#435 Use spaces, not tabs.
+    value = ''; // Line 217, Pos 1
+#436 Expected 'value' at column 25, not column 4.
+    value = ''; // Line 217, Pos 4
+#437 Use spaces, not tabs.
+    options.hoursToLive = -8760; // Line 218, Pos 1
+#438 Expected 'options' at column 25, not column 4.
+    options.hoursToLive = -8760; // Line 218, Pos 4
+#439 Use spaces, not tabs.
+    } // Line 219, Pos 1
+#440 Expected '}' at column 21, not column 3.
+    } // Line 219, Pos 3
+#441 Use spaces, not tabs.
+    else if( typeof value !== 'string' ) // Line 221, Pos 1
+#442 Expected exactly one space between '}' and 'else'.
+    else if( typeof value !== 'string' ) // Line 221, Pos 3
+#443 Expected exactly one space between 'if' and '('.
+    else if( typeof value !== 'string' ) // Line 221, Pos 10
+#444 Unexpected space between '(' and 'typeof'.
+    else if( typeof value !== 'string' ) // Line 221, Pos 12
+#445 Unexpected space between 'string' and ')'.
+    else if( typeof value !== 'string' ) // Line 221, Pos 38
+#446 Use spaces, not tabs.
+    { // Line 222, Pos 1
+#447 Expected exactly one space between ')' and '{'.
+    { // Line 222, Pos 3
+#448 Use spaces, not tabs.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.stringify === 'function' ) // Line 223, Pos 1
+#449 Expected 'if' at column 25, not column 4.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.stringify === 'function' ) // Line 223, Pos 4
+#450 Expected exactly one space between 'if' and '('.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.stringify === 'function' ) // Line 223, Pos 6
+#451 Unexpected space between '(' and 'typeof'.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.stringify === 'function' ) // Line 223, Pos 8
+#452 Unexpected space between 'function' and ')'.
+    if( typeof JSON === 'object' && JSON !== null && typeof JSON.stringify === 'function' ) // Line 223, Pos 90
+#453 Use spaces, not tabs.
+    { // Line 224, Pos 1
+#454 Expected exactly one space between ')' and '{'.
+    { // Line 224, Pos 4
+#455 Use spaces, not tabs.
+    value = JSON.stringify( value ); // Line 225, Pos 1
+#456 Expected 'value' at column 33, not column 5.
+    value = JSON.stringify( value ); // Line 225, Pos 5
+#457 Unexpected space between '(' and 'value'.
+    value = JSON.stringify( value ); // Line 225, Pos 29
+#458 Unexpected space between 'value' and ')'.
+    value = JSON.stringify( value ); // Line 225, Pos 35
+#459 Use spaces, not tabs.
+    } // Line 226, Pos 1
+#460 Expected '}' at column 29, not column 4.
+    } // Line 226, Pos 4
+#461 Use spaces, not tabs.
+    else // Line 227, Pos 1
+#462 Expected exactly one space between '}' and 'else'.
+    else // Line 227, Pos 4
+#463 Use spaces, not tabs.
+    { // Line 228, Pos 1
+#464 Expected exactly one space between 'else' and '{'.
+    { // Line 228, Pos 4
+#465 Use spaces, not tabs.
+    throw new Error( 'cookies.set() received non-string value and could not serialize.' ); // Line 229, Pos 1
+#466 Expected 'throw' at column 33, not column 5.
+    throw new Error( 'cookies.set() received non-string value and could not serialize.' ); // Line 229, Pos 5
+#467 Unexpected space between '(' and 'cookies.set() received non-string value and could not serialize.'.
+    throw new Error( 'cookies.set() received non-string value and could not serialize.' ); // Line 229, Pos 22
+#468 Unexpected space between 'cookies.set() received non-string value and could not serialize.' and ')'.
+    throw new Error( 'cookies.set() received non-string value and could not serialize.' ); // Line 229, Pos 89
+#469 Use spaces, not tabs.
+    } // Line 230, Pos 1
+#470 Expected '}' at column 29, not column 4.
+    } // Line 230, Pos 4
+#471 Use spaces, not tabs.
+    } // Line 231, Pos 1
+#472 Expected '}' at column 21, not column 3.
+    } // Line 231, Pos 3
+#473 Use spaces, not tabs.
+    var optionsString = assembleOptionsString( options ); // Line 234, Pos 1
+#474 Expected 'var' at column 17, not column 3.
+    var optionsString = assembleOptionsString( options ); // Line 234, Pos 3
+#475 Unexpected space between '(' and 'options'.
+    var optionsString = assembleOptionsString( options ); // Line 234, Pos 46
+#476 Unexpected space between 'options' and ')'.
+    var optionsString = assembleOptionsString( options ); // Line 234, Pos 54
+#477 Use spaces, not tabs.
+    document.cookie = cookieName + '=' + encodeURIComponent( value ) + optionsString; // Line 236, Pos 1
+#478 Expected 'document' at column 17, not column 3.
+    document.cookie = cookieName + '=' + encodeURIComponent( value ) + optionsString; // Line 236, Pos 3
+#479 Unexpected space between '(' and 'value'.
+    document.cookie = cookieName + '=' + encodeURIComponent( value ) + optionsString; // Line 236, Pos 60
+#480 Unexpected space between 'value' and ')'.
+    document.cookie = cookieName + '=' + encodeURIComponent( value ) + optionsString; // Line 236, Pos 66
+#481 Use spaces, not tabs.
+    }; // Line 237, Pos 1
+#482 Expected '}' at column 13, not column 2.
+    }; // Line 237, Pos 2
+#483 Use spaces, not tabs.
+    /** // Line 238, Pos 1
+#484 Use spaces, not tabs.
+    * del - delete a cookie (domain and path options must match those with which the cookie was set; this is really an alias for set() with parameters simplified for this use) // Line 239, Pos 1
+#485 Use spaces, not tabs.
+    * // Line 240, Pos 1
+#486 Use spaces, not tabs.
+    * @access public // Line 241, Pos 1
+#487 Use spaces, not tabs.
+    * @paramater MIxed cookieName - String name of cookie to delete, or Bool true to delete all // Line 242, Pos 1
+#488 Use spaces, not tabs.
+    * @paramater Object options - optional list of cookie options to specify ( path, domain ) // Line 243, Pos 1
+#489 Use spaces, not tabs.
+    * @return void // Line 244, Pos 1
+#490 Use spaces, not tabs.
+    */ // Line 245, Pos 1
+#491 Use spaces, not tabs.
+    constructor.prototype.del = function( cookieName, options ) // Line 246, Pos 1
+#492 Expected 'constructor' at column 9, not column 2.
+    constructor.prototype.del = function( cookieName, options ) // Line 246, Pos 2
+#493 Expected exactly one space between 'function' and '('.
+    constructor.prototype.del = function( cookieName, options ) // Line 246, Pos 38
+#494 Unexpected space between '(' and 'cookieName'.
+    constructor.prototype.del = function( cookieName, options ) // Line 246, Pos 40
+#495 Unexpected space between 'options' and ')'.
+    constructor.prototype.del = function( cookieName, options ) // Line 246, Pos 60
+#496 Use spaces, not tabs.
+    { // Line 247, Pos 1
+#497 Expected exactly one space between ')' and '{'.
+    { // Line 247, Pos 2
+#498 Use spaces, not tabs.
+    var allCookies = {}, name; // Line 248, Pos 1
+#499 Expected 'var' at column 17, not column 3.
+    var allCookies = {}, name; // Line 248, Pos 3
+#500 Use spaces, not tabs.
+    if( typeof options !== 'object' || options === null ) // Line 250, Pos 1
+#501 Expected 'if' at column 17, not column 3.
+    if( typeof options !== 'object' || options === null ) // Line 250, Pos 3
+#502 Expected exactly one space between 'if' and '('.
+    if( typeof options !== 'object' || options === null ) // Line 250, Pos 5
+#503 Unexpected space between '(' and 'typeof'.
+    if( typeof options !== 'object' || options === null ) // Line 250, Pos 7
+#504 Unexpected space between 'null' and ')'.
+    if( typeof options !== 'object' || options === null ) // Line 250, Pos 55
+#505 Use spaces, not tabs.
+    { // Line 251, Pos 1
+#506 Expected exactly one space between ')' and '{'.
+    { // Line 251, Pos 3
+#507 Use spaces, not tabs.
+    options = {}; // Line 252, Pos 1
+#508 Expected 'options' at column 25, not column 4.
+    options = {}; // Line 252, Pos 4
+#509 Use spaces, not tabs.
+    } // Line 253, Pos 1
+#510 Expected '}' at column 21, not column 3.
+    } // Line 253, Pos 3
+#511 Use spaces, not tabs.
+    if( typeof cookieName === 'boolean' && cookieName === true ) // Line 255, Pos 1
+#512 Expected 'if' at column 17, not column 3.
+    if( typeof cookieName === 'boolean' && cookieName === true ) // Line 255, Pos 3
+#513 Expected exactly one space between 'if' and '('.
+    if( typeof cookieName === 'boolean' && cookieName === true ) // Line 255, Pos 5
+#514 Unexpected space between '(' and 'typeof'.
+    if( typeof cookieName === 'boolean' && cookieName === true ) // Line 255, Pos 7
+#515 Unexpected space between 'true' and ')'.
+    if( typeof cookieName === 'boolean' && cookieName === true ) // Line 255, Pos 62
+#516 Use spaces, not tabs.
+    { // Line 256, Pos 1
+#517 Expected exactly one space between ')' and '{'.
+    { // Line 256, Pos 3
+#518 Use spaces, not tabs.
+    allCookies = this.get(); // Line 257, Pos 1
+#519 Expected 'allCookies' at column 25, not column 4.
+    allCookies = this.get(); // Line 257, Pos 4
+#520 Use spaces, not tabs.
+    } // Line 258, Pos 1
+#521 Expected '}' at column 21, not column 3.
+    } // Line 258, Pos 3
+#522 Use spaces, not tabs.
+    else if( typeof cookieName === 'string' ) // Line 259, Pos 1
+#523 Expected exactly one space between '}' and 'else'.
+    else if( typeof cookieName === 'string' ) // Line 259, Pos 3
+#524 Expected exactly one space between 'if' and '('.
+    else if( typeof cookieName === 'string' ) // Line 259, Pos 10
+#525 Unexpected space between '(' and 'typeof'.
+    else if( typeof cookieName === 'string' ) // Line 259, Pos 12
+#526 Unexpected space between 'string' and ')'.
+    else if( typeof cookieName === 'string' ) // Line 259, Pos 43
+#527 Use spaces, not tabs.
+    { // Line 260, Pos 1
+#528 Expected exactly one space between ')' and '{'.
+    { // Line 260, Pos 3
+#529 Use spaces, not tabs.
+    allCookies[cookieName] = true; // Line 261, Pos 1
+#530 Expected 'allCookies' at column 25, not column 4.
+    allCookies[cookieName] = true; // Line 261, Pos 4
+#531 Use spaces, not tabs.
+    } // Line 262, Pos 1
+#532 Expected '}' at column 21, not column 3.
+    } // Line 262, Pos 3
+#533 Use spaces, not tabs.
+    for( name in allCookies ) // Line 264, Pos 1
+#534 Expected 'for' at column 17, not column 3.
+    for( name in allCookies ) // Line 264, Pos 3
+#535 Missing space between 'for' and '('.
+    for( name in allCookies ) // Line 264, Pos 6
+#536 Unexpected space between '(' and 'name'.
+    for( name in allCookies ) // Line 264, Pos 8
+#537 Use spaces, not tabs.
+    { // Line 265, Pos 1
+#538 Expected '{' at column 21, not column 3.
+    { // Line 265, Pos 3
+#539 Use spaces, not tabs.
+    if( typeof name === 'string' && name !== '' ) // Line 266, Pos 1
+#540 Expected 'if' at column 25, not column 4.
+    if( typeof name === 'string' && name !== '' ) // Line 266, Pos 4
+#541 Expected exactly one space between 'if' and '('.
+    if( typeof name === 'string' && name !== '' ) // Line 266, Pos 6
+#542 Unexpected space between '(' and 'typeof'.
+    if( typeof name === 'string' && name !== '' ) // Line 266, Pos 8
+#543 Unexpected space between ')' and ')'.
+    if( typeof name === 'string' && name !== '' ) // Line 266, Pos 48
+#544 Use spaces, not tabs.
+    { // Line 267, Pos 1
+#545 Expected exactly one space between ')' and '{'.
+    { // Line 267, Pos 4
+#546 Use spaces, not tabs.
+    this.set( name, null, options ); // Line 268, Pos 1
+#547 Expected 'this' at column 33, not column 5.
+    this.set( name, null, options ); // Line 268, Pos 5
+#548 Unexpected space between '(' and 'name'.
+    this.set( name, null, options ); // Line 268, Pos 15
+#549 Unexpected space between 'options' and ')'.
+    this.set( name, null, options ); // Line 268, Pos 35
+#550 Use spaces, not tabs.
+    } // Line 269, Pos 1
+#551 Expected '}' at column 29, not column 4.
+    } // Line 269, Pos 4
+#552 Use spaces, not tabs.
+    } // Line 270, Pos 1
+#553 Expected '}' at column 21, not column 3.
+    } // Line 270, Pos 3
+#554 Use spaces, not tabs.
+    }; // Line 271, Pos 1
+#555 Expected '}' at column 13, not column 2.
+    }; // Line 271, Pos 2
+#556 Use spaces, not tabs.
+    /** // Line 272, Pos 1
+#557 Use spaces, not tabs.
+    * test - test whether the browser is accepting cookies // Line 273, Pos 1
+#558 Use spaces, not tabs.
+    * // Line 274, Pos 1
+#559 Use spaces, not tabs.
+    * @access public // Line 275, Pos 1
+#560 Use spaces, not tabs.
+    * @return Boolean // Line 276, Pos 1
+#561 Use spaces, not tabs.
+    */ // Line 277, Pos 1
+#562 Use spaces, not tabs.
+    constructor.prototype.test = function() // Line 278, Pos 1
+#563 Expected 'constructor' at column 9, not column 2.
+    constructor.prototype.test = function() // Line 278, Pos 2
+#564 Expected exactly one space between 'function' and '('.
+    constructor.prototype.test = function() // Line 278, Pos 39
+#565 Use spaces, not tabs.
+    { // Line 279, Pos 1
+#566 Expected exactly one space between ')' and '{'.
+    { // Line 279, Pos 2
+#567 Use spaces, not tabs.
+    var returnValue = false, testName = 'cT', testValue = 'data'; // Line 280, Pos 1
+#568 Expected 'var' at column 17, not column 3.
+    var returnValue = false, testName = 'cT', testValue = 'data'; // Line 280, Pos 3
+#569 Use spaces, not tabs.
+    this.set( testName, testValue ); // Line 282, Pos 1
+#570 Expected 'this' at column 17, not column 3.
+    this.set( testName, testValue ); // Line 282, Pos 3
+#571 Unexpected space between '(' and 'testName'.
+    this.set( testName, testValue ); // Line 282, Pos 13
+#572 Unexpected space between 'testValue' and ')'.
+    this.set( testName, testValue ); // Line 282, Pos 33
+#573 Use spaces, not tabs.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 1
+#574 Expected 'if' at column 17, not column 3.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 3
+#575 Expected exactly one space between 'if' and '('.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 5
+#576 Unexpected space between '(' and 'this'.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 7
+#577 Unexpected space between '(' and 'testName'.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 17
+#578 Unexpected space between 'testName' and ')'.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 26
+#579 Unexpected space between 'testValue' and ')'.
+    if( this.get( testName ) === testValue ) // Line 284, Pos 42
+#580 Use spaces, not tabs.
+    { // Line 285, Pos 1
+#581 Expected exactly one space between ')' and '{'.
+    { // Line 285, Pos 3
+#582 Use spaces, not tabs.
+    this.del( testName ); // Line 286, Pos 1
+#583 Expected 'this' at column 25, not column 4.
+    this.del( testName ); // Line 286, Pos 4
+#584 Unexpected space between '(' and 'testName'.
+    this.del( testName ); // Line 286, Pos 14
+#585 Unexpected space between 'testName' and ')'.
+    this.del( testName ); // Line 286, Pos 23
+#586 Use spaces, not tabs.
+    returnValue = true; // Line 287, Pos 1
+#587 Expected 'returnValue' at column 25, not column 4.
+    returnValue = true; // Line 287, Pos 4
+#588 Use spaces, not tabs.
+    } // Line 288, Pos 1
+#589 Expected '}' at column 21, not column 3.
+    } // Line 288, Pos 3
+#590 Use spaces, not tabs.
+    return returnValue; // Line 290, Pos 1
+#591 Expected 'return' at column 17, not column 3.
+    return returnValue; // Line 290, Pos 3
+#592 Use spaces, not tabs.
+    }; // Line 291, Pos 1
+#593 Expected '}' at column 13, not column 2.
+    }; // Line 291, Pos 2
+#594 Use spaces, not tabs.
+    /** // Line 292, Pos 1
+#595 Use spaces, not tabs.
+    * setOptions - set default options for calls to cookie methods // Line 293, Pos 1
+#596 Use spaces, not tabs.
+    * // Line 294, Pos 1
+#597 Use spaces, not tabs.
+    * @access public // Line 295, Pos 1
+#598 Use spaces, not tabs.
+    * @param Object options - list of cookie options to specify // Line 296, Pos 1
+#599 Use spaces, not tabs.
+    * @return void // Line 297, Pos 1
+#600 Use spaces, not tabs.
+    */ // Line 298, Pos 1
+#601 Use spaces, not tabs.
+    constructor.prototype.setOptions = function( options ) // Line 299, Pos 1
+#602 Expected 'constructor' at column 9, not column 2.
+    constructor.prototype.setOptions = function( options ) // Line 299, Pos 2
+#603 Expected exactly one space between 'function' and '('.
+    constructor.prototype.setOptions = function( options ) // Line 299, Pos 45
+#604 Unexpected space between '(' and 'options'.
+    constructor.prototype.setOptions = function( options ) // Line 299, Pos 47
+#605 Unexpected space between 'options' and ')'.
+    constructor.prototype.setOptions = function( options ) // Line 299, Pos 55
+#606 Use spaces, not tabs.
+    { // Line 300, Pos 1
+#607 Expected exactly one space between ')' and '{'.
+    { // Line 300, Pos 2
+#608 Use spaces, not tabs.
+    if( typeof options !== 'object' ) // Line 301, Pos 1
+#609 Expected 'if' at column 17, not column 3.
+    if( typeof options !== 'object' ) // Line 301, Pos 3
+#610 Expected exactly one space between 'if' and '('.
+    if( typeof options !== 'object' ) // Line 301, Pos 5
+#611 Unexpected space between '(' and 'typeof'.
+    if( typeof options !== 'object' ) // Line 301, Pos 7
+#612 Unexpected space between 'object' and ')'.
+    if( typeof options !== 'object' ) // Line 301, Pos 35
+#613 Use spaces, not tabs.
+    { // Line 302, Pos 1
+#614 Expected exactly one space between ')' and '{'.
+    { // Line 302, Pos 3
+#615 Use spaces, not tabs.
+    options = null; // Line 303, Pos 1
+#616 Expected 'options' at column 25, not column 4.
+    options = null; // Line 303, Pos 4
+#617 Use spaces, not tabs.
+    } // Line 304, Pos 1
+#618 Expected '}' at column 21, not column 3.
+    } // Line 304, Pos 3
+#619 Use spaces, not tabs.
+    defaultOptions = resolveOptions( options ); // Line 306, Pos 1
+#620 Expected 'defaultOptions' at column 17, not column 3.
+    defaultOptions = resolveOptions( options ); // Line 306, Pos 3
+#621 Unexpected space between '(' and 'options'.
+    defaultOptions = resolveOptions( options ); // Line 306, Pos 36
+#622 Unexpected space between 'options' and ')'.
+    defaultOptions = resolveOptions( options ); // Line 306, Pos 44
+#623 Use spaces, not tabs.
+    }; // Line 307, Pos 1
+#624 Expected '}' at column 13, not column 2.
+    }; // Line 307, Pos 2
+#625 Use spaces, not tabs.
+    return new constructor(); // Line 309, Pos 1
+#626 Expected 'return' at column 9, not column 2.
+    return new constructor(); // Line 309, Pos 2
+#627 A constructor name 'constructor' should start with an uppercase letter.
+    return new constructor(); // Line 309, Pos 13
+#628 Expected '}' at column 5, not column 1.
+    } )(); // Line 310, Pos 1
+#629 Unexpected space between '}' and ')'.
+    } )(); // Line 310, Pos 3
+#630 Move the invocation into the parens that contain the function.
+    } )(); // Line 310, Pos 4
+#631 Unexpected space between '(' and 'function'.
+    ( function() // Line 312, Pos 3
+#632 Expected exactly one space between 'function' and '('.
+    ( function() // Line 312, Pos 11
+#633 Expected exactly one space between ')' and '{'.
+    { // Line 313, Pos 1
+#634 Use spaces, not tabs.
+    if( window.jQuery ) // Line 314, Pos 1
+#635 Missing 'use strict' statement.
+    if( window.jQuery ) // Line 314, Pos 2
+#636 Expected exactly one space between 'if' and '('.
+    if( window.jQuery ) // Line 314, Pos 4
+#637 Unexpected space between '(' and 'window'.
+    if( window.jQuery ) // Line 314, Pos 6
+#638 Unexpected space between 'jQuery' and ')'.
+    if( window.jQuery ) // Line 314, Pos 20
+#639 Use spaces, not tabs.
+    { // Line 315, Pos 1
+#640 Expected exactly one space between ')' and '{'.
+    { // Line 315, Pos 2
+#641 Use spaces, not tabs.
+    ( function( $ ) // Line 316, Pos 1
+#642 Expected '(' at column 17, not column 3.
+    ( function( $ ) // Line 316, Pos 3
+#643 Unexpected space between '(' and 'function'.
+    ( function( $ ) // Line 316, Pos 5
+#644 Expected exactly one space between 'function' and '('.
+    ( function( $ ) // Line 316, Pos 13
+#645 Unexpected space between '(' and '$'.
+    ( function( $ ) // Line 316, Pos 15
+#646 Unexpected space between '$' and ')'.
+    ( function( $ ) // Line 316, Pos 17
+#647 Use spaces, not tabs.
+    { // Line 317, Pos 1
+#648 Expected exactly one space between ')' and '{'.
+    { // Line 317, Pos 3
+#649 Use spaces, not tabs.
+    $.cookies = jaaulde.utils.cookies; // Line 318, Pos 1
+#650 Expected '$' at column 25, not column 4.
+    $.cookies = jaaulde.utils.cookies; // Line 318, Pos 4
+#651 Use spaces, not tabs.
+    var extensions = { // Line 320, Pos 1
+#652 Expected 'var' at column 25, not column 4.
+    var extensions = { // Line 320, Pos 4
+#653 Use spaces, not tabs.
+    /** // Line 321, Pos 1
+#654 Use spaces, not tabs.
+    * $( 'selector' ).cookify - set the value of an input field, or the innerHTML of an element, to a cookie by the name or id of the field or element // Line 322, Pos 1
+#655 Use spaces, not tabs.
+    *                           (field or element MUST have name or id attribute) // Line 323, Pos 1
+#656 Use spaces, not tabs.
+    * // Line 324, Pos 1
+#657 Use spaces, not tabs.
+    * @access public // Line 325, Pos 1
+#658 Use spaces, not tabs.
+    * @param options OBJECT - list of cookie options to specify // Line 326, Pos 1
+#659 Use spaces, not tabs.
+    * @return jQuery // Line 327, Pos 1
+#660 Use spaces, not tabs.
+    */ // Line 328, Pos 1
+#661 Use spaces, not tabs.
+    cookify: function( options ) // Line 329, Pos 1
+#662 Expected 'cookify' at column 33, not column 5.
+    cookify: function( options ) // Line 329, Pos 5
+#663 Expected exactly one space between 'function' and '('.
+    cookify: function( options ) // Line 329, Pos 22
+#664 Unexpected space between '(' and 'options'.
+    cookify: function( options ) // Line 329, Pos 24
+#665 Unexpected space between 'options' and ')'.
+    cookify: function( options ) // Line 329, Pos 32
+#666 Use spaces, not tabs.
+    { // Line 330, Pos 1
+#667 Expected exactly one space between ')' and '{'.
+    { // Line 330, Pos 5
+#668 Use spaces, not tabs.
+    return this.each( function() // Line 331, Pos 1
+#669 Expected 'return' at column 41, not column 6.
+    return this.each( function() // Line 331, Pos 6
+#670 Unexpected space between '(' and 'function'.
+    return this.each( function() // Line 331, Pos 24
+#671 Expected exactly one space between 'function' and '('.
+    return this.each( function() // Line 331, Pos 32
+#672 Use spaces, not tabs.
+    { // Line 332, Pos 1
+#673 Expected exactly one space between ')' and '{'.
+    { // Line 332, Pos 6
+#674 Use spaces, not tabs.
+    var i, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 333, Pos 1
+#675 Expected 'var' at column 49, not column 7.
+    var i, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 333, Pos 7
+#676 Unexpected space between '(' and 'this'.
+    var i, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 333, Pos 59
+#677 Unexpected space between 'this' and ')'.
+    var i, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 333, Pos 64
+#678 Use spaces, not tabs.
+    for( i in nameAttrs ) // Line 335, Pos 1
+#679 Expected 'for' at column 49, not column 7.
+    for( i in nameAttrs ) // Line 335, Pos 7
+#680 Missing space between 'for' and '('.
+    for( i in nameAttrs ) // Line 335, Pos 10
+#681 Unexpected space between '(' and 'i'.
+    for( i in nameAttrs ) // Line 335, Pos 12
+#682 Use spaces, not tabs.
+    { // Line 336, Pos 1
+#683 Expected '{' at column 53, not column 7.
+    { // Line 336, Pos 7
+#684 Use spaces, not tabs.
+    if( ! isNaN( i ) ) // Line 337, Pos 1
+#685 Expected 'if' at column 57, not column 8.
+    if( ! isNaN( i ) ) // Line 337, Pos 8
+#686 Expected exactly one space between 'if' and '('.
+    if( ! isNaN( i ) ) // Line 337, Pos 10
+#687 Unexpected space between '(' and '!'.
+    if( ! isNaN( i ) ) // Line 337, Pos 12
+#688 Unexpected space between '!' and 'isNaN'.
+    if( ! isNaN( i ) ) // Line 337, Pos 14
+#689 Unexpected space between '(' and 'i'.
+    if( ! isNaN( i ) ) // Line 337, Pos 21
+#690 Unexpected space between 'i' and ')'.
+    if( ! isNaN( i ) ) // Line 337, Pos 23
+#691 Unexpected space between ')' and ')'.
+    if( ! isNaN( i ) ) // Line 337, Pos 25
+#692 Use spaces, not tabs.
+    { // Line 338, Pos 1
+#693 Expected exactly one space between ')' and '{'.
+    { // Line 338, Pos 8
+#694 Use spaces, not tabs.
+    name = $this.attr( nameAttrs[ i ] ); // Line 339, Pos 1
+#695 Expected 'name' at column 65, not column 9.
+    name = $this.attr( nameAttrs[ i ] ); // Line 339, Pos 9
+#696 Unexpected space between '(' and 'nameAttrs'.
+    name = $this.attr( nameAttrs[ i ] ); // Line 339, Pos 28
+#697 Unexpected space between '[' and 'i'.
+    name = $this.attr( nameAttrs[ i ] ); // Line 339, Pos 39
+#698 Unexpected space between 'i' and ']'.
+    name = $this.attr( nameAttrs[ i ] ); // Line 339, Pos 41
+#699 Unexpected space between ']' and ')'.
+    name = $this.attr( nameAttrs[ i ] ); // Line 339, Pos 43
+#700 Use spaces, not tabs.
+    if( typeof name === 'string' && name !== '' ) // Line 340, Pos 1
+#701 Expected 'if' at column 65, not column 9.
+    if( typeof name === 'string' && name !== '' ) // Line 340, Pos 9
+#702 Expected exactly one space between 'if' and '('.
+    if( typeof name === 'string' && name !== '' ) // Line 340, Pos 11
+#703 Unexpected space between '(' and 'typeof'.
+    if( typeof name === 'string' && name !== '' ) // Line 340, Pos 13
+#704 Unexpected space between ')' and ')'.
+    if( typeof name === 'string' && name !== '' ) // Line 340, Pos 53
+#705 Use spaces, not tabs.
+    { // Line 341, Pos 1
+#706 Expected exactly one space between ')' and '{'.
+    { // Line 341, Pos 9
+#707 Use spaces, not tabs.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 1
+#708 Expected 'if' at column 73, not column 10.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 10
+#709 Expected exactly one space between 'if' and '('.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 12
+#710 Unexpected space between '(' and '$this'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 14
+#711 Unexpected space between '(' and ':checkbox, :radio'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 24
+#712 Unexpected space between ':checkbox, :radio' and ')'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 44
+#713 Unexpected space between ')' and ')'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 342, Pos 46
+#714 Use spaces, not tabs.
+    { // Line 343, Pos 1
+#715 Expected exactly one space between ')' and '{'.
+    { // Line 343, Pos 10
+#716 Use spaces, not tabs.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 1
+#717 Expected 'if' at column 81, not column 11.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 11
+#718 Expected exactly one space between 'if' and '('.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 13
+#719 Unexpected space between '(' and '$this'.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 15
+#720 Unexpected space between '(' and 'checked'.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 27
+#721 Unexpected space between 'checked' and ')'.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 37
+#722 Unexpected space between ')' and ')'.
+    if( $this.attr( 'checked' ) ) // Line 344, Pos 39
+#723 Use spaces, not tabs.
+    { // Line 345, Pos 1
+#724 Expected exactly one space between ')' and '{'.
+    { // Line 345, Pos 11
+#725 Use spaces, not tabs.
+    value = $this.val(); // Line 346, Pos 1
+#726 Expected 'value' at column 89, not column 12.
+    value = $this.val(); // Line 346, Pos 12
+#727 Use spaces, not tabs.
+    } // Line 347, Pos 1
+#728 Expected '}' at column 85, not column 11.
+    } // Line 347, Pos 11
+#729 Use spaces, not tabs.
+    } // Line 348, Pos 1
+#730 Expected '}' at column 77, not column 10.
+    } // Line 348, Pos 10
+#731 Use spaces, not tabs.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 1
+#732 Expected exactly one space between '}' and 'else'.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 10
+#733 Expected exactly one space between 'if' and '('.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 17
+#734 Unexpected space between '(' and '$this'.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 19
+#735 Unexpected space between '(' and ':input'.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 29
+#736 Unexpected space between ':input' and ')'.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 38
+#737 Unexpected space between ')' and ')'.
+    else if( $this.is( ':input' ) ) // Line 349, Pos 40
+#738 Use spaces, not tabs.
+    { // Line 350, Pos 1
+#739 Expected exactly one space between ')' and '{'.
+    { // Line 350, Pos 10
+#740 Use spaces, not tabs.
+    value = $this.val(); // Line 351, Pos 1
+#741 Expected 'value' at column 81, not column 11.
+    value = $this.val(); // Line 351, Pos 11
+#742 Use spaces, not tabs.
+    } // Line 352, Pos 1
+#743 Expected '}' at column 77, not column 10.
+    } // Line 352, Pos 10
+#744 Use spaces, not tabs.
+    else // Line 353, Pos 1
+#745 Expected exactly one space between '}' and 'else'.
+    else // Line 353, Pos 10
+#746 Use spaces, not tabs.
+    { // Line 354, Pos 1
+#747 Expected exactly one space between 'else' and '{'.
+    { // Line 354, Pos 10
+#748 Use spaces, not tabs.
+    value = $this.html(); // Line 355, Pos 1
+#749 Expected 'value' at column 81, not column 11.
+    value = $this.html(); // Line 355, Pos 11
+#750 Use spaces, not tabs.
+    } // Line 356, Pos 1
+#751 Expected '}' at column 77, not column 10.
+    } // Line 356, Pos 10
+#752 Use spaces, not tabs.
+    if( typeof value !== 'string' || value === '' ) // Line 358, Pos 1
+#753 Expected 'if' at column 73, not column 10.
+    if( typeof value !== 'string' || value === '' ) // Line 358, Pos 10
+#754 Expected exactly one space between 'if' and '('.
+    if( typeof value !== 'string' || value === '' ) // Line 358, Pos 12
+#755 Unexpected space between '(' and 'typeof'.
+    if( typeof value !== 'string' || value === '' ) // Line 358, Pos 14
+#756 Unexpected space between ')' and ')'.
+    if( typeof value !== 'string' || value === '' ) // Line 358, Pos 56
+#757 Use spaces, not tabs.
+    { // Line 359, Pos 1
+#758 Expected exactly one space between ')' and '{'.
+    { // Line 359, Pos 10
+#759 Use spaces, not tabs.
+    value = null; // Line 360, Pos 1
+#760 Expected 'value' at column 81, not column 11.
+    value = null; // Line 360, Pos 11
+#761 Use spaces, not tabs.
+    } // Line 361, Pos 1
+#762 Expected '}' at column 77, not column 10.
+    } // Line 361, Pos 10
+#763 Use spaces, not tabs.
+    $.cookies.set( name, value, options ); // Line 363, Pos 1
+#764 Expected '$' at column 73, not column 10.
+    $.cookies.set( name, value, options ); // Line 363, Pos 10
+#765 Unexpected space between '(' and 'name'.
+    $.cookies.set( name, value, options ); // Line 363, Pos 25
+#766 Unexpected space between 'options' and ')'.
+    $.cookies.set( name, value, options ); // Line 363, Pos 46
+#767 Use spaces, not tabs.
+    break; // Line 365, Pos 1
+#768 Expected 'break' at column 73, not column 10.
+    break; // Line 365, Pos 10
+#769 Use spaces, not tabs.
+    } // Line 366, Pos 1
+#770 Expected '}' at column 69, not column 9.
+    } // Line 366, Pos 9
+#771 Use spaces, not tabs.
+    } // Line 367, Pos 1
+#772 Expected '}' at column 61, not column 8.
+    } // Line 367, Pos 8
+#773 Use spaces, not tabs.
+    } // Line 368, Pos 1
+#774 Expected '}' at column 53, not column 7.
+    } // Line 368, Pos 7
+#775 Use spaces, not tabs.
+    } ); // Line 369, Pos 1
+#776 Expected '}' at column 45, not column 6.
+    } ); // Line 369, Pos 6
+#777 Unexpected space between '}' and ')'.
+    } ); // Line 369, Pos 8
+#778 Use spaces, not tabs.
+    }, // Line 370, Pos 1
+#779 Expected '}' at column 37, not column 5.
+    }, // Line 370, Pos 5
+#780 Use spaces, not tabs.
+    /** // Line 371, Pos 1
+#781 Use spaces, not tabs.
+    * $( 'selector' ).cookieFill - set the value of an input field or the innerHTML of an element from a cookie by the name or id of the field or element // Line 372, Pos 1
+#782 Use spaces, not tabs.
+    * // Line 373, Pos 1
+#783 Use spaces, not tabs.
+    * @access public // Line 374, Pos 1
+#784 Use spaces, not tabs.
+    * @return jQuery // Line 375, Pos 1
+#785 Use spaces, not tabs.
+    */ // Line 376, Pos 1
+#786 Use spaces, not tabs.
+    cookieFill: function() // Line 377, Pos 1
+#787 Expected 'cookieFill' at column 33, not column 5.
+    cookieFill: function() // Line 377, Pos 5
+#788 Expected exactly one space between 'function' and '('.
+    cookieFill: function() // Line 377, Pos 25
+#789 Use spaces, not tabs.
+    { // Line 378, Pos 1
+#790 Expected exactly one space between ')' and '{'.
+    { // Line 378, Pos 5
+#791 Use spaces, not tabs.
+    return this.each( function() // Line 379, Pos 1
+#792 Expected 'return' at column 41, not column 6.
+    return this.each( function() // Line 379, Pos 6
+#793 Unexpected space between '(' and 'function'.
+    return this.each( function() // Line 379, Pos 24
+#794 Expected exactly one space between 'function' and '('.
+    return this.each( function() // Line 379, Pos 32
+#795 Use spaces, not tabs.
+    { // Line 380, Pos 1
+#796 Expected exactly one space between ')' and '{'.
+    { // Line 380, Pos 6
+#797 Use spaces, not tabs.
+    var n, getN, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 381, Pos 1
+#798 Expected 'var' at column 49, not column 7.
+    var n, getN, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 381, Pos 7
+#799 Unexpected space between '(' and 'this'.
+    var n, getN, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 381, Pos 65
+#800 Unexpected space between 'this' and ')'.
+    var n, getN, nameAttrs = ['name', 'id'], name, $this = $( this ), value; // Line 381, Pos 70
+#801 Use spaces, not tabs.
+    getN = function() // Line 383, Pos 1
+#802 Expected 'getN' at column 49, not column 7.
+    getN = function() // Line 383, Pos 7
+#803 Expected exactly one space between 'function' and '('.
+    getN = function() // Line 383, Pos 22
+#804 Use spaces, not tabs.
+    { // Line 384, Pos 1
+#805 Expected exactly one space between ')' and '{'.
+    { // Line 384, Pos 7
+#806 Use spaces, not tabs.
+    n = nameAttrs.pop(); // Line 385, Pos 1
+#807 Expected 'n' at column 57, not column 8.
+    n = nameAttrs.pop(); // Line 385, Pos 8
+#808 Use spaces, not tabs.
+    return !! n; // Line 386, Pos 1
+#809 Expected 'return' at column 57, not column 8.
+    return !! n; // Line 386, Pos 8
+#810 Unexpected space between '!!' and 'n'.
+    return !! n; // Line 386, Pos 18
+#811 Use spaces, not tabs.
+    }; // Line 387, Pos 1
+#812 Expected '}' at column 53, not column 7.
+    }; // Line 387, Pos 7
+#813 Use spaces, not tabs.
+    while( getN() ) // Line 389, Pos 1
+#814 Expected 'while' at column 49, not column 7.
+    while( getN() ) // Line 389, Pos 7
+#815 Expected exactly one space between 'while' and '('.
+    while( getN() ) // Line 389, Pos 12
+#816 Unexpected space between '(' and 'getN'.
+    while( getN() ) // Line 389, Pos 14
+#817 Unexpected space between ')' and ')'.
+    while( getN() ) // Line 389, Pos 21
+#818 Use spaces, not tabs.
+    { // Line 390, Pos 1
+#819 Expected exactly one space between ')' and '{'.
+    { // Line 390, Pos 7
+#820 Use spaces, not tabs.
+    name = $this.attr( n ); // Line 391, Pos 1
+#821 Expected 'name' at column 57, not column 8.
+    name = $this.attr( n ); // Line 391, Pos 8
+#822 Unexpected space between '(' and 'n'.
+    name = $this.attr( n ); // Line 391, Pos 27
+#823 Unexpected space between 'n' and ')'.
+    name = $this.attr( n ); // Line 391, Pos 29
+#824 Use spaces, not tabs.
+    if( typeof name === 'string' && name !== '' ) // Line 392, Pos 1
+#825 Expected 'if' at column 57, not column 8.
+    if( typeof name === 'string' && name !== '' ) // Line 392, Pos 8
+#826 Expected exactly one space between 'if' and '('.
+    if( typeof name === 'string' && name !== '' ) // Line 392, Pos 10
+#827 Unexpected space between '(' and 'typeof'.
+    if( typeof name === 'string' && name !== '' ) // Line 392, Pos 12
+#828 Unexpected space between ')' and ')'.
+    if( typeof name === 'string' && name !== '' ) // Line 392, Pos 52
+#829 Use spaces, not tabs.
+    { // Line 393, Pos 1
+#830 Expected exactly one space between ')' and '{'.
+    { // Line 393, Pos 8
+#831 Use spaces, not tabs.
+    value = $.cookies.get( name ); // Line 394, Pos 1
+#832 Expected 'value' at column 65, not column 9.
+    value = $.cookies.get( name ); // Line 394, Pos 9
+#833 Unexpected space between '(' and 'name'.
+    value = $.cookies.get( name ); // Line 394, Pos 32
+#834 Unexpected space between 'name' and ')'.
+    value = $.cookies.get( name ); // Line 394, Pos 37
+#835 Use spaces, not tabs.
+    if( value !== null ) // Line 395, Pos 1
+#836 Expected 'if' at column 65, not column 9.
+    if( value !== null ) // Line 395, Pos 9
+#837 Expected exactly one space between 'if' and '('.
+    if( value !== null ) // Line 395, Pos 11
+#838 Unexpected space between '(' and 'value'.
+    if( value !== null ) // Line 395, Pos 13
+#839 Unexpected space between 'null' and ')'.
+    if( value !== null ) // Line 395, Pos 28
+#840 Use spaces, not tabs.
+    { // Line 396, Pos 1
+#841 Expected exactly one space between ')' and '{'.
+    { // Line 396, Pos 9
+#842 Use spaces, not tabs.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 1
+#843 Expected 'if' at column 73, not column 10.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 10
+#844 Expected exactly one space between 'if' and '('.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 12
+#845 Unexpected space between '(' and '$this'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 14
+#846 Unexpected space between '(' and ':checkbox, :radio'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 24
+#847 Unexpected space between ':checkbox, :radio' and ')'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 44
+#848 Unexpected space between ')' and ')'.
+    if( $this.is( ':checkbox, :radio' ) ) // Line 397, Pos 46
+#849 Use spaces, not tabs.
+    { // Line 398, Pos 1
+#850 Expected exactly one space between ')' and '{'.
+    { // Line 398, Pos 10
+#851 Use spaces, not tabs.
+    if( $this.val() === value ) // Line 399, Pos 1
+#852 Expected 'if' at column 81, not column 11.
+    if( $this.val() === value ) // Line 399, Pos 11
+#853 Expected exactly one space between 'if' and '('.
+    if( $this.val() === value ) // Line 399, Pos 13
+#854 Unexpected space between '(' and '$this'.
+    if( $this.val() === value ) // Line 399, Pos 15
+#855 Unexpected space between 'value' and ')'.
+    if( $this.val() === value ) // Line 399, Pos 37
+#856 Use spaces, not tabs.
+    { // Line 400, Pos 1
+#857 Expected exactly one space between ')' and '{'.
+    { // Line 400, Pos 11
+#858 Use spaces, not tabs.
+    $this.attr( 'checked', 'checked' ); // Line 401, Pos 1
+#859 Expected '$this' at column 89, not column 12.
+    $this.attr( 'checked', 'checked' ); // Line 401, Pos 12
+#860 Unexpected space between '(' and 'checked'.
+    $this.attr( 'checked', 'checked' ); // Line 401, Pos 24
+#861 Unexpected space between 'checked' and ')'.
+    $this.attr( 'checked', 'checked' ); // Line 401, Pos 45
+#862 Use spaces, not tabs.
+    } // Line 402, Pos 1
+#863 Expected '}' at column 85, not column 11.
+    } // Line 402, Pos 11
+#864 Use spaces, not tabs.
+    else // Line 403, Pos 1
+#865 Expected exactly one space between '}' and 'else'.
+    else // Line 403, Pos 11
+#866 Use spaces, not tabs.
+    { // Line 404, Pos 1
+#867 Expected exactly one space between 'else' and '{'.
+    { // Line 404, Pos 11
+#868 Use spaces, not tabs.
+    $this.removeAttr( 'checked' ); // Line 405, Pos 1
+#869 Expected '$this' at column 89, not column 12.
+    $this.removeAttr( 'checked' ); // Line 405, Pos 12
+#870 Unexpected space between '(' and 'checked'.
+    $this.removeAttr( 'checked' ); // Line 405, Pos 30
+#871 Unexpected space between 'checked' and ')'.
+    $this.removeAttr( 'checked' ); // Line 405, Pos 40
+#872 Use spaces, not tabs.
+    } // Line 406, Pos 1
+#873 Expected '}' at column 85, not column 11.
+    } // Line 406, Pos 11
+#874 Use spaces, not tabs.
+    } // Line 407, Pos 1
+#875 Expected '}' at column 77, not column 10.
+    } // Line 407, Pos 10
+#876 Use spaces, not tabs.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 1
+#877 Expected exactly one space between '}' and 'else'.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 10
+#878 Expected exactly one space between 'if' and '('.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 17
+#879 Unexpected space between '(' and '$this'.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 19
+#880 Unexpected space between '(' and ':input'.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 29
+#881 Unexpected space between ':input' and ')'.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 38
+#882 Unexpected space between ')' and ')'.
+    else if( $this.is( ':input' ) ) // Line 408, Pos 40
+#883 Use spaces, not tabs.
+    { // Line 409, Pos 1
+#884 Expected exactly one space between ')' and '{'.
+    { // Line 409, Pos 10
+#885 Use spaces, not tabs.
+    $this.val( value ); // Line 410, Pos 1
+#886 Expected '$this' at column 81, not column 11.
+    $this.val( value ); // Line 410, Pos 11
+#887 Unexpected space between '(' and 'value'.
+    $this.val( value ); // Line 410, Pos 22
+#888 Unexpected space between 'value' and ')'.
+    $this.val( value ); // Line 410, Pos 28
+#889 Use spaces, not tabs.
+    } // Line 411, Pos 1
+#890 Expected '}' at column 77, not column 10.
+    } // Line 411, Pos 10
+#891 Use spaces, not tabs.
+    else // Line 412, Pos 1
+#892 Expected exactly one space between '}' and 'else'.
+    else // Line 412, Pos 10
+#893 Use spaces, not tabs.
+    { // Line 413, Pos 1
+#894 Expected exactly one space between 'else' and '{'.
+    { // Line 413, Pos 10
+#895 Use spaces, not tabs.
+    $this.html( value ); // Line 414, Pos 1
+#896 Expected '$this' at column 81, not column 11.
+    $this.html( value ); // Line 414, Pos 11
+#897 Unexpected space between '(' and 'value'.
+    $this.html( value ); // Line 414, Pos 23
+#898 Unexpected space between 'value' and ')'.
+    $this.html( value ); // Line 414, Pos 29
+#899 Use spaces, not tabs.
+    } // Line 415, Pos 1
+#900 Expected '}' at column 77, not column 10.
+    } // Line 415, Pos 10
+#901 Use spaces, not tabs.
+    } // Line 416, Pos 1
+#902 Expected '}' at column 69, not column 9.
+    } // Line 416, Pos 9
+#903 Use spaces, not tabs.
+     // Line 417, Pos 1
+#904 Unexpected character '	'.
+     // Line 417, Pos 1
+#905 Stopping. (92% scanned).
+     // Line 417, Pos 1
 
 /home/anusha/Desktop/cs527/modified_projects/jslint/mywebsql/js/blobs.js
  #1 Use spaces, not tabs.

@@ -3676,8 +3676,22 @@
     maxSupportedCssHeight = maxSupportedCssHeight || getMaxSupportedCssHeight(); // Line 196, Pos 56
 #200 Expected 'scrollbarDimensions' at column 13, not column 7.
     scrollbarDimensions = scrollbarDimensions || measureScrollbar(); // Line 197, Pos 7
-#201 Too many errors. (5% scanned).
-     // Line 197, Pos 7
+#201 'measureScrollbar' was used before it was defined.
+    scrollbarDimensions = scrollbarDimensions || measureScrollbar(); // Line 197, Pos 52
+#202 Expected 'options' at column 13, not column 7.
+    options = $.extend({}, defaults, options); // Line 199, Pos 7
+#203 Expected 'validateAndEnforceOptions' at column 13, not column 7.
+    validateAndEnforceOptions(); // Line 200, Pos 7
+#204 Expected 'columnDefaults' at column 13, not column 7.
+    columnDefaults.width = options.defaultColumnWidth; // Line 201, Pos 7
+#205 Expected 'columnsById' at column 13, not column 7.
+    columnsById = {}; // Line 203, Pos 7
+#206 Expected 'for' at column 13, not column 7.
+    for (var i = 0; i < columns.length; i++) { // Line 204, Pos 7
+#207 Move 'var' declarations to the top of the function.
+    for (var i = 0; i < columns.length; i++) { // Line 204, Pos 12
+#208 Stopping. (5% scanned).
+     // Line 204, Pos 12
 
 /home/anusha/Desktop/cs527/modified_projects/jslint/slickgrid/slick.core.js
  #1 Missing 'use strict' statement.
@@ -5352,5 +5366,533 @@
     }; // Line 219, Pos 5
 #200 Expected 'this' at column 9, not column 5.
     this.applyValue = function (item, state) { // Line 221, Pos 5
-#201 Too many errors. (43% scanned).
-     // Line 221, Pos 5
+#201 Expected 'item' at column 13, not column 7.
+    item[args.column.field] = state; // Line 222, Pos 7
+#202 Expected '}' at column 9, not column 5.
+    }; // Line 223, Pos 5
+#203 Expected 'this' at column 9, not column 5.
+    this.isValueChanged = function () { // Line 225, Pos 5
+#204 Expected 'return' at column 13, not column 7.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 226, Pos 7
+#205 Expected '===' and instead saw '=='.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 226, Pos 30
+#206 Expected '===' and instead saw '=='.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 226, Pos 52
+#207 Expected '!==' and instead saw '!='.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 226, Pos 79
+#208 Expected '}' at column 9, not column 5.
+    }; // Line 227, Pos 5
+#209 Expected 'this' at column 9, not column 5.
+    this.validate = function () { // Line 229, Pos 5
+#210 Expected 'return' at column 13, not column 7.
+    return { // Line 230, Pos 7
+#211 Expected 'valid' at column 17, not column 9.
+    valid: true, // Line 231, Pos 9
+#212 Expected 'msg' at column 17, not column 9.
+    msg: null // Line 232, Pos 9
+#213 Expected '}' at column 13, not column 7.
+    }; // Line 233, Pos 7
+#214 Expected '}' at column 9, not column 5.
+    }; // Line 234, Pos 5
+#215 Expected 'this' at column 9, not column 5.
+    this.init(); // Line 236, Pos 5
+#216 Expected '}' at column 5, not column 3.
+    } // Line 237, Pos 3
+#217 Expected 'function' at column 5, not column 3.
+    function YesNoSelectEditor(args) { // Line 239, Pos 3
+#218 Expected 'var' at column 9, not column 5.
+    var $select; // Line 240, Pos 5
+#219 Expected 'var' at column 9, not column 5.
+    var defaultValue; // Line 241, Pos 5
+#220 Combine this with the previous 'var' statement.
+    var defaultValue; // Line 241, Pos 9
+#221 Expected 'var' at column 9, not column 5.
+    var scope = this; // Line 242, Pos 5
+#222 Combine this with the previous 'var' statement.
+    var scope = this; // Line 242, Pos 9
+#223 Expected 'this' at column 9, not column 5.
+    this.init = function () { // Line 244, Pos 5
+#224 Expected '$select' at column 13, not column 7.
+    $select = $("<SELECT tabIndex='0' class='editor-yesno'><OPTION value='yes'>Yes</OPTION><OPTION value='no'>No</OPTION></SELECT>"); // Line 245, Pos 7
+#225 Expected '$select' at column 13, not column 7.
+    $select.appendTo(args.container); // Line 246, Pos 7
+#226 Expected '$select' at column 13, not column 7.
+    $select.focus(); // Line 247, Pos 7
+#227 Expected '}' at column 9, not column 5.
+    }; // Line 248, Pos 5
+#228 Expected 'this' at column 9, not column 5.
+    this.destroy = function () { // Line 250, Pos 5
+#229 Expected '$select' at column 13, not column 7.
+    $select.remove(); // Line 251, Pos 7
+#230 Expected '}' at column 9, not column 5.
+    }; // Line 252, Pos 5
+#231 Expected 'this' at column 9, not column 5.
+    this.focus = function () { // Line 254, Pos 5
+#232 Expected '$select' at column 13, not column 7.
+    $select.focus(); // Line 255, Pos 7
+#233 Expected '}' at column 9, not column 5.
+    }; // Line 256, Pos 5
+#234 Expected 'this' at column 9, not column 5.
+    this.loadValue = function (item) { // Line 258, Pos 5
+#235 Expected '$select' at column 13, not column 7.
+    $select.val((defaultValue = item[args.column.field]) ? "yes" : "no"); // Line 259, Pos 7
+#236 Unexpected assignment expression.
+    $select.val((defaultValue = item[args.column.field]) ? "yes" : "no"); // Line 259, Pos 33
+#237 Expected '$select' at column 13, not column 7.
+    $select.select(); // Line 260, Pos 7
+#238 Expected '}' at column 9, not column 5.
+    }; // Line 261, Pos 5
+#239 Expected 'this' at column 9, not column 5.
+    this.serializeValue = function () { // Line 263, Pos 5
+#240 Expected 'return' at column 13, not column 7.
+    return ($select.val() == "yes"); // Line 264, Pos 7
+#241 Expected '===' and instead saw '=='.
+    return ($select.val() == "yes"); // Line 264, Pos 29
+#242 Expected '}' at column 9, not column 5.
+    }; // Line 265, Pos 5
+#243 Expected 'this' at column 9, not column 5.
+    this.applyValue = function (item, state) { // Line 267, Pos 5
+#244 Expected 'item' at column 13, not column 7.
+    item[args.column.field] = state; // Line 268, Pos 7
+#245 Expected '}' at column 9, not column 5.
+    }; // Line 269, Pos 5
+#246 Expected 'this' at column 9, not column 5.
+    this.isValueChanged = function () { // Line 271, Pos 5
+#247 Expected 'return' at column 13, not column 7.
+    return ($select.val() != defaultValue); // Line 272, Pos 7
+#248 Expected '!==' and instead saw '!='.
+    return ($select.val() != defaultValue); // Line 272, Pos 29
+#249 Expected '}' at column 9, not column 5.
+    }; // Line 273, Pos 5
+#250 Expected 'this' at column 9, not column 5.
+    this.validate = function () { // Line 275, Pos 5
+#251 Expected 'return' at column 13, not column 7.
+    return { // Line 276, Pos 7
+#252 Expected 'valid' at column 17, not column 9.
+    valid: true, // Line 277, Pos 9
+#253 Expected 'msg' at column 17, not column 9.
+    msg: null // Line 278, Pos 9
+#254 Expected '}' at column 13, not column 7.
+    }; // Line 279, Pos 7
+#255 Expected '}' at column 9, not column 5.
+    }; // Line 280, Pos 5
+#256 Expected 'this' at column 9, not column 5.
+    this.init(); // Line 282, Pos 5
+#257 Expected '}' at column 5, not column 3.
+    } // Line 283, Pos 3
+#258 Expected 'function' at column 5, not column 3.
+    function CheckboxEditor(args) { // Line 285, Pos 3
+#259 Expected 'var' at column 9, not column 5.
+    var $select; // Line 286, Pos 5
+#260 Expected 'var' at column 9, not column 5.
+    var defaultValue; // Line 287, Pos 5
+#261 Combine this with the previous 'var' statement.
+    var defaultValue; // Line 287, Pos 9
+#262 Expected 'var' at column 9, not column 5.
+    var scope = this; // Line 288, Pos 5
+#263 Combine this with the previous 'var' statement.
+    var scope = this; // Line 288, Pos 9
+#264 Expected 'this' at column 9, not column 5.
+    this.init = function () { // Line 290, Pos 5
+#265 Expected '$select' at column 13, not column 7.
+    $select = $("<INPUT type=checkbox value='true' class='editor-checkbox' hideFocus>"); // Line 291, Pos 7
+#266 Expected '$select' at column 13, not column 7.
+    $select.appendTo(args.container); // Line 292, Pos 7
+#267 Expected '$select' at column 13, not column 7.
+    $select.focus(); // Line 293, Pos 7
+#268 Expected '}' at column 9, not column 5.
+    }; // Line 294, Pos 5
+#269 Expected 'this' at column 9, not column 5.
+    this.destroy = function () { // Line 296, Pos 5
+#270 Expected '$select' at column 13, not column 7.
+    $select.remove(); // Line 297, Pos 7
+#271 Expected '}' at column 9, not column 5.
+    }; // Line 298, Pos 5
+#272 Expected 'this' at column 9, not column 5.
+    this.focus = function () { // Line 300, Pos 5
+#273 Expected '$select' at column 13, not column 7.
+    $select.focus(); // Line 301, Pos 7
+#274 Expected '}' at column 9, not column 5.
+    }; // Line 302, Pos 5
+#275 Expected 'this' at column 9, not column 5.
+    this.loadValue = function (item) { // Line 304, Pos 5
+#276 Expected 'defaultValue' at column 13, not column 7.
+    defaultValue = !!item[args.column.field]; // Line 305, Pos 7
+#277 Expected 'if' at column 13, not column 7.
+    if (defaultValue) { // Line 306, Pos 7
+#278 Expected '$select' at column 17, not column 9.
+    $select.prop('checked', true); // Line 307, Pos 9
+#279 Expected '}' at column 13, not column 7.
+    } else { // Line 308, Pos 7
+#280 Expected '$select' at column 17, not column 9.
+    $select.prop('checked', false); // Line 309, Pos 9
+#281 Expected '}' at column 13, not column 7.
+    } // Line 310, Pos 7
+#282 Expected '}' at column 9, not column 5.
+    }; // Line 311, Pos 5
+#283 Expected 'this' at column 9, not column 5.
+    this.serializeValue = function () { // Line 313, Pos 5
+#284 Expected 'return' at column 13, not column 7.
+    return $select.prop('checked'); // Line 314, Pos 7
+#285 Expected '}' at column 9, not column 5.
+    }; // Line 315, Pos 5
+#286 Expected 'this' at column 9, not column 5.
+    this.applyValue = function (item, state) { // Line 317, Pos 5
+#287 Expected 'item' at column 13, not column 7.
+    item[args.column.field] = state; // Line 318, Pos 7
+#288 Expected '}' at column 9, not column 5.
+    }; // Line 319, Pos 5
+#289 Expected 'this' at column 9, not column 5.
+    this.isValueChanged = function () { // Line 321, Pos 5
+#290 Expected 'return' at column 13, not column 7.
+    return (this.serializeValue() !== defaultValue); // Line 322, Pos 7
+#291 Expected '}' at column 9, not column 5.
+    }; // Line 323, Pos 5
+#292 Expected 'this' at column 9, not column 5.
+    this.validate = function () { // Line 325, Pos 5
+#293 Expected 'return' at column 13, not column 7.
+    return { // Line 326, Pos 7
+#294 Expected 'valid' at column 17, not column 9.
+    valid: true, // Line 327, Pos 9
+#295 Expected 'msg' at column 17, not column 9.
+    msg: null // Line 328, Pos 9
+#296 Expected '}' at column 13, not column 7.
+    }; // Line 329, Pos 7
+#297 Expected '}' at column 9, not column 5.
+    }; // Line 330, Pos 5
+#298 Expected 'this' at column 9, not column 5.
+    this.init(); // Line 332, Pos 5
+#299 Expected '}' at column 5, not column 3.
+    } // Line 333, Pos 3
+#300 Expected 'function' at column 5, not column 3.
+    function PercentCompleteEditor(args) { // Line 335, Pos 3
+#301 Expected 'var' at column 9, not column 5.
+    var $input, $picker; // Line 336, Pos 5
+#302 Expected 'var' at column 9, not column 5.
+    var defaultValue; // Line 337, Pos 5
+#303 Combine this with the previous 'var' statement.
+    var defaultValue; // Line 337, Pos 9
+#304 Expected 'var' at column 9, not column 5.
+    var scope = this; // Line 338, Pos 5
+#305 Combine this with the previous 'var' statement.
+    var scope = this; // Line 338, Pos 9
+#306 Expected 'this' at column 9, not column 5.
+    this.init = function () { // Line 340, Pos 5
+#307 Expected '$input' at column 13, not column 7.
+    $input = $("<INPUT type=text class='editor-percentcomplete' />"); // Line 341, Pos 7
+#308 Expected '$input' at column 13, not column 7.
+    $input.width($(args.container).innerWidth() - 25); // Line 342, Pos 7
+#309 Expected '$input' at column 13, not column 7.
+    $input.appendTo(args.container); // Line 343, Pos 7
+#310 Expected '$picker' at column 13, not column 7.
+    $picker = $("<div class='editor-percentcomplete-picker' />").appendTo(args.container); // Line 345, Pos 7
+#311 Expected '$picker' at column 13, not column 7.
+    $picker.append("<div class='editor-percentcomplete-helper'><div class='editor-percentcomplete-wrapper'><div class='editor-percentcomplete-slider' /><div class='editor-percentcomplete-buttons' /></div></div>"); // Line 346, Pos 7
+#312 Expected '$picker' at column 13, not column 7.
+    $picker.find(".editor-percentcomplete-buttons").append("<button val=0>Not started</button><br/><button val=50>In Progress</button><br/><button val=100>Complete</button>"); // Line 348, Pos 7
+#313 Expected '$input' at column 13, not column 7.
+    $input.focus().select(); // Line 350, Pos 7
+#314 Expected '$picker' at column 13, not column 7.
+    $picker.find(".editor-percentcomplete-slider").slider({ // Line 352, Pos 7
+#315 Expected 'orientation' at column 17, not column 9.
+    orientation: "vertical", // Line 353, Pos 9
+#316 Expected 'range' at column 17, not column 9.
+    range: "min", // Line 354, Pos 9
+#317 Expected 'value' at column 17, not column 9.
+    value: defaultValue, // Line 355, Pos 9
+#318 Expected 'slide' at column 17, not column 9.
+    slide: function (event, ui) { // Line 356, Pos 9
+#319 Expected '$input' at column 21, not column 11.
+    $input.val(ui.value) // Line 357, Pos 11
+#320 Expected ';' and instead saw '}'.
+    $input.val(ui.value) // Line 357, Pos 31
+#321 Expected '}' at column 17, not column 9.
+    } // Line 358, Pos 9
+#322 Unused 'event'.
+    slide: function (event, ui) { // Line 356, Pos 26
+#323 Expected '}' at column 13, not column 7.
+    }); // Line 359, Pos 7
+#324 Expected '$picker' at column 13, not column 7.
+    $picker.find(".editor-percentcomplete-buttons button").bind("click", function (e) { // Line 361, Pos 7
+#325 Expected '$input' at column 17, not column 9.
+    $input.val($(this).attr("val")); // Line 362, Pos 9
+#326 Expected '$picker' at column 17, not column 9.
+    $picker.find(".editor-percentcomplete-slider").slider("value", $(this).attr("val")); // Line 363, Pos 9
+#327 Expected '}' at column 13, not column 7.
+    }) // Line 364, Pos 7
+#328 Unused 'e'.
+    $picker.find(".editor-percentcomplete-buttons button").bind("click", function (e) { // Line 361, Pos 86
+#329 Expected ';' and instead saw '}'.
+    }) // Line 364, Pos 9
+#330 Expected '}' at column 9, not column 5.
+    }; // Line 365, Pos 5
+#331 Expected 'this' at column 9, not column 5.
+    this.destroy = function () { // Line 367, Pos 5
+#332 Expected '$input' at column 13, not column 7.
+    $input.remove(); // Line 368, Pos 7
+#333 Expected '$picker' at column 13, not column 7.
+    $picker.remove(); // Line 369, Pos 7
+#334 Expected '}' at column 9, not column 5.
+    }; // Line 370, Pos 5
+#335 Expected 'this' at column 9, not column 5.
+    this.focus = function () { // Line 372, Pos 5
+#336 Expected '$input' at column 13, not column 7.
+    $input.focus(); // Line 373, Pos 7
+#337 Expected '}' at column 9, not column 5.
+    }; // Line 374, Pos 5
+#338 Expected 'this' at column 9, not column 5.
+    this.loadValue = function (item) { // Line 376, Pos 5
+#339 Expected '$input' at column 13, not column 7.
+    $input.val(defaultValue = item[args.column.field]); // Line 377, Pos 7
+#340 Unexpected assignment expression.
+    $input.val(defaultValue = item[args.column.field]); // Line 377, Pos 31
+#341 Expected '$input' at column 13, not column 7.
+    $input.select(); // Line 378, Pos 7
+#342 Expected '}' at column 9, not column 5.
+    }; // Line 379, Pos 5
+#343 Expected 'this' at column 9, not column 5.
+    this.serializeValue = function () { // Line 381, Pos 5
+#344 Expected 'return' at column 13, not column 7.
+    return parseInt($input.val(), 10) || 0; // Line 382, Pos 7
+#345 Expected '}' at column 9, not column 5.
+    }; // Line 383, Pos 5
+#346 Expected 'this' at column 9, not column 5.
+    this.applyValue = function (item, state) { // Line 385, Pos 5
+#347 Expected 'item' at column 13, not column 7.
+    item[args.column.field] = state; // Line 386, Pos 7
+#348 Expected '}' at column 9, not column 5.
+    }; // Line 387, Pos 5
+#349 Expected 'this' at column 9, not column 5.
+    this.isValueChanged = function () { // Line 389, Pos 5
+#350 Expected 'return' at column 13, not column 7.
+    return (!($input.val() == "" && defaultValue == null)) && ((parseInt($input.val(), 10) || 0) != defaultValue); // Line 390, Pos 7
+#351 Expected '===' and instead saw '=='.
+    return (!($input.val() == "" && defaultValue == null)) && ((parseInt($input.val(), 10) || 0) != defaultValue); // Line 390, Pos 30
+#352 Expected '===' and instead saw '=='.
+    return (!($input.val() == "" && defaultValue == null)) && ((parseInt($input.val(), 10) || 0) != defaultValue); // Line 390, Pos 52
+#353 Expected '!==' and instead saw '!='.
+    return (!($input.val() == "" && defaultValue == null)) && ((parseInt($input.val(), 10) || 0) != defaultValue); // Line 390, Pos 100
+#354 Expected '}' at column 9, not column 5.
+    }; // Line 391, Pos 5
+#355 Expected 'this' at column 9, not column 5.
+    this.validate = function () { // Line 393, Pos 5
+#356 Expected 'if' at column 13, not column 7.
+    if (isNaN(parseInt($input.val(), 10))) { // Line 394, Pos 7
+#357 Expected 'return' at column 17, not column 9.
+    return { // Line 395, Pos 9
+#358 Expected 'valid' at column 21, not column 11.
+    valid: false, // Line 396, Pos 11
+#359 Expected 'msg' at column 21, not column 11.
+    msg: "Please enter a valid positive number" // Line 397, Pos 11
+#360 Expected '}' at column 17, not column 9.
+    }; // Line 398, Pos 9
+#361 Expected '}' at column 13, not column 7.
+    } // Line 399, Pos 7
+#362 Expected 'return' at column 13, not column 7.
+    return { // Line 401, Pos 7
+#363 Expected 'valid' at column 17, not column 9.
+    valid: true, // Line 402, Pos 9
+#364 Expected 'msg' at column 17, not column 9.
+    msg: null // Line 403, Pos 9
+#365 Expected '}' at column 13, not column 7.
+    }; // Line 404, Pos 7
+#366 Expected '}' at column 9, not column 5.
+    }; // Line 405, Pos 5
+#367 Expected 'this' at column 9, not column 5.
+    this.init(); // Line 407, Pos 5
+#368 Expected '}' at column 5, not column 3.
+    } // Line 408, Pos 3
+#369 Expected 'function' at column 5, not column 3.
+    function LongTextEditor(args) { // Line 415, Pos 3
+#370 Expected 'var' at column 9, not column 5.
+    var $input, $wrapper; // Line 416, Pos 5
+#371 Expected 'var' at column 9, not column 5.
+    var defaultValue; // Line 417, Pos 5
+#372 Combine this with the previous 'var' statement.
+    var defaultValue; // Line 417, Pos 9
+#373 Expected 'var' at column 9, not column 5.
+    var scope = this; // Line 418, Pos 5
+#374 Combine this with the previous 'var' statement.
+    var scope = this; // Line 418, Pos 9
+#375 Expected 'this' at column 9, not column 5.
+    this.init = function () { // Line 420, Pos 5
+#376 Expected 'var' at column 13, not column 7.
+    var $container = $("body"); // Line 421, Pos 7
+#377 Expected '$wrapper' at column 13, not column 7.
+    $wrapper = $("<DIV style='z-index:10000;position:absolute;background:white;padding:5px;border:3px solid gray; -moz-border-radius:10px; border-radius:10px;'/>") // Line 423, Pos 7
+#378 Expected '.' at column 17, not column 11.
+    .appendTo($container); // Line 424, Pos 11
+#379 Expected '$input' at column 13, not column 7.
+    $input = $("<TEXTAREA hidefocus rows=5 style='backround:white;width:250px;height:80px;border:0;outline:0'>") // Line 426, Pos 7
+#380 Expected '.' at column 17, not column 11.
+    .appendTo($wrapper); // Line 427, Pos 11
+#381 Expected '$' at column 13, not column 7.
+    $("<DIV style='text-align:right'><BUTTON>Save</BUTTON><BUTTON>Cancel</BUTTON></DIV>") // Line 429, Pos 7
+#382 Expected '.' at column 17, not column 11.
+    .appendTo($wrapper); // Line 430, Pos 11
+#383 Expected '$wrapper' at column 13, not column 7.
+    $wrapper.find("button:first").bind("click", this.save); // Line 432, Pos 7
+#384 Expected '$wrapper' at column 13, not column 7.
+    $wrapper.find("button:last").bind("click", this.cancel); // Line 433, Pos 7
+#385 Expected '$input' at column 13, not column 7.
+    $input.bind("keydown", this.handleKeyDown); // Line 434, Pos 7
+#386 Expected 'scope' at column 13, not column 7.
+    scope.position(args.position); // Line 436, Pos 7
+#387 Expected '$input' at column 13, not column 7.
+    $input.focus().select(); // Line 437, Pos 7
+#388 Expected '}' at column 9, not column 5.
+    }; // Line 438, Pos 5
+#389 Expected 'this' at column 9, not column 5.
+    this.handleKeyDown = function (e) { // Line 440, Pos 5
+#390 Expected 'if' at column 13, not column 7.
+    if (e.which == $.ui.keyCode.ENTER && e.ctrlKey) { // Line 441, Pos 7
+#391 Expected '===' and instead saw '=='.
+    if (e.which == $.ui.keyCode.ENTER && e.ctrlKey) { // Line 441, Pos 19
+#392 Expected 'scope' at column 17, not column 9.
+    scope.save(); // Line 442, Pos 9
+#393 Expected '}' at column 13, not column 7.
+    } else if (e.which == $.ui.keyCode.ESCAPE) { // Line 443, Pos 7
+#394 Expected '===' and instead saw '=='.
+    } else if (e.which == $.ui.keyCode.ESCAPE) { // Line 443, Pos 26
+#395 Expected 'e' at column 17, not column 9.
+    e.preventDefault(); // Line 444, Pos 9
+#396 Expected 'scope' at column 17, not column 9.
+    scope.cancel(); // Line 445, Pos 9
+#397 Expected '}' at column 13, not column 7.
+    } else if (e.which == $.ui.keyCode.TAB && e.shiftKey) { // Line 446, Pos 7
+#398 Expected '===' and instead saw '=='.
+    } else if (e.which == $.ui.keyCode.TAB && e.shiftKey) { // Line 446, Pos 26
+#399 Expected 'e' at column 17, not column 9.
+    e.preventDefault(); // Line 447, Pos 9
+#400 Expected 'args' at column 17, not column 9.
+    args.grid.navigatePrev(); // Line 448, Pos 9
+#401 Expected '}' at column 13, not column 7.
+    } else if (e.which == $.ui.keyCode.TAB) { // Line 449, Pos 7
+#402 Expected '===' and instead saw '=='.
+    } else if (e.which == $.ui.keyCode.TAB) { // Line 449, Pos 26
+#403 Expected 'e' at column 17, not column 9.
+    e.preventDefault(); // Line 450, Pos 9
+#404 Expected 'args' at column 17, not column 9.
+    args.grid.navigateNext(); // Line 451, Pos 9
+#405 Expected '}' at column 13, not column 7.
+    } // Line 452, Pos 7
+#406 Expected '}' at column 9, not column 5.
+    }; // Line 453, Pos 5
+#407 Expected 'this' at column 9, not column 5.
+    this.save = function () { // Line 455, Pos 5
+#408 Expected 'args' at column 13, not column 7.
+    args.commitChanges(); // Line 456, Pos 7
+#409 Expected '}' at column 9, not column 5.
+    }; // Line 457, Pos 5
+#410 Expected 'this' at column 9, not column 5.
+    this.cancel = function () { // Line 459, Pos 5
+#411 Expected '$input' at column 13, not column 7.
+    $input.val(defaultValue); // Line 460, Pos 7
+#412 Expected 'args' at column 13, not column 7.
+    args.cancelChanges(); // Line 461, Pos 7
+#413 Expected '}' at column 9, not column 5.
+    }; // Line 462, Pos 5
+#414 Expected 'this' at column 9, not column 5.
+    this.hide = function () { // Line 464, Pos 5
+#415 Expected '$wrapper' at column 13, not column 7.
+    $wrapper.hide(); // Line 465, Pos 7
+#416 Expected '}' at column 9, not column 5.
+    }; // Line 466, Pos 5
+#417 Expected 'this' at column 9, not column 5.
+    this.show = function () { // Line 468, Pos 5
+#418 Expected '$wrapper' at column 13, not column 7.
+    $wrapper.show(); // Line 469, Pos 7
+#419 Expected '}' at column 9, not column 5.
+    }; // Line 470, Pos 5
+#420 Expected 'this' at column 9, not column 5.
+    this.position = function (position) { // Line 472, Pos 5
+#421 Expected '$wrapper' at column 13, not column 7.
+    $wrapper // Line 473, Pos 7
+#422 Expected '.' at column 17, not column 11.
+    .css("top", position.top - 5) // Line 474, Pos 11
+#423 Expected '.' at column 17, not column 11.
+    .css("left", position.left - 5) // Line 475, Pos 11
+#424 Expected ';' and instead saw '}'.
+    .css("left", position.left - 5) // Line 475, Pos 42
+#425 Expected '}' at column 9, not column 5.
+    }; // Line 476, Pos 5
+#426 Expected 'this' at column 9, not column 5.
+    this.destroy = function () { // Line 478, Pos 5
+#427 Expected '$wrapper' at column 13, not column 7.
+    $wrapper.remove(); // Line 479, Pos 7
+#428 Expected '}' at column 9, not column 5.
+    }; // Line 480, Pos 5
+#429 Expected 'this' at column 9, not column 5.
+    this.focus = function () { // Line 482, Pos 5
+#430 Expected '$input' at column 13, not column 7.
+    $input.focus(); // Line 483, Pos 7
+#431 Expected '}' at column 9, not column 5.
+    }; // Line 484, Pos 5
+#432 Expected 'this' at column 9, not column 5.
+    this.loadValue = function (item) { // Line 486, Pos 5
+#433 Expected '$input' at column 13, not column 7.
+    $input.val(defaultValue = item[args.column.field]); // Line 487, Pos 7
+#434 Unexpected assignment expression.
+    $input.val(defaultValue = item[args.column.field]); // Line 487, Pos 31
+#435 Expected '$input' at column 13, not column 7.
+    $input.select(); // Line 488, Pos 7
+#436 Expected '}' at column 9, not column 5.
+    }; // Line 489, Pos 5
+#437 Expected 'this' at column 9, not column 5.
+    this.serializeValue = function () { // Line 491, Pos 5
+#438 Expected 'return' at column 13, not column 7.
+    return $input.val(); // Line 492, Pos 7
+#439 Expected '}' at column 9, not column 5.
+    }; // Line 493, Pos 5
+#440 Expected 'this' at column 9, not column 5.
+    this.applyValue = function (item, state) { // Line 495, Pos 5
+#441 Expected 'item' at column 13, not column 7.
+    item[args.column.field] = state; // Line 496, Pos 7
+#442 Expected '}' at column 9, not column 5.
+    }; // Line 497, Pos 5
+#443 Expected 'this' at column 9, not column 5.
+    this.isValueChanged = function () { // Line 499, Pos 5
+#444 Expected 'return' at column 13, not column 7.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 500, Pos 7
+#445 Expected '===' and instead saw '=='.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 500, Pos 30
+#446 Expected '===' and instead saw '=='.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 500, Pos 52
+#447 Expected '!==' and instead saw '!='.
+    return (!($input.val() == "" && defaultValue == null)) && ($input.val() != defaultValue); // Line 500, Pos 79
+#448 Expected '}' at column 9, not column 5.
+    }; // Line 501, Pos 5
+#449 Expected 'this' at column 9, not column 5.
+    this.validate = function () { // Line 503, Pos 5
+#450 Expected 'return' at column 13, not column 7.
+    return { // Line 504, Pos 7
+#451 Expected 'valid' at column 17, not column 9.
+    valid: true, // Line 505, Pos 9
+#452 Expected 'msg' at column 17, not column 9.
+    msg: null // Line 506, Pos 9
+#453 Expected '}' at column 13, not column 7.
+    }; // Line 507, Pos 7
+#454 Expected '}' at column 9, not column 5.
+    }; // Line 508, Pos 5
+#455 Expected 'this' at column 9, not column 5.
+    this.init(); // Line 510, Pos 5
+#456 Expected '}' at column 5, not column 3.
+    } // Line 511, Pos 3
+#457 Unused 'TextEditor'.
+    function TextEditor(args) { // Line 23, Pos 12
+#458 Unused 'IntegerEditor'.
+    function IntegerEditor(args) { // Line 92, Pos 12
+#459 Unused 'DateEditor'.
+    function DateEditor(args) { // Line 154, Pos 12
+#460 Unused 'YesNoSelectEditor'.
+    function YesNoSelectEditor(args) { // Line 239, Pos 12
+#461 Unused 'CheckboxEditor'.
+    function CheckboxEditor(args) { // Line 285, Pos 12
+#462 Unused 'PercentCompleteEditor'.
+    function PercentCompleteEditor(args) { // Line 335, Pos 12
+#463 Unused 'LongTextEditor'.
+    function LongTextEditor(args) { // Line 415, Pos 12
+#464 Move the invocation into the parens that contain the function.
+    })(jQuery); // Line 512, Pos 3
+#465 'jQuery' was used before it was defined.
+    })(jQuery); // Line 512, Pos 4
