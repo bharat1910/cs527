@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 $(function () {
     $.getJSON('http://www.highcharts.com/samples/data/jsonp.php?filename=range.json&callback=?', function(data) {
     	

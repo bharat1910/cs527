@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // Copyright 2012 The Closure Library Authors. All Rights Reserved
 //
 // Licensed under the Apache License, Version 2.0 (the "License");

@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 describe('changelog.js', function() {
   var ch = require('./changelog');
 

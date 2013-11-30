@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 $(function () {
 
     	// First, let's make the colors transparent

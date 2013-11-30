@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 'use strict';
 
 // Wrapper to abstract over using touch events or mouse events.

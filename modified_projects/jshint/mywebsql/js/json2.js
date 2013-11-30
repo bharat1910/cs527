@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /* json2.js 
  * 2008-01-17
  * Public Domain

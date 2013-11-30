@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var DOM = require('../src/dom.js').DOM;
 var normalizeHeaderToId = require('../src/dom.js').normalizeHeaderToId;
 

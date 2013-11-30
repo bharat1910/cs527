@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * This script allows debugging by including the raw parts files without using a server backend
  */

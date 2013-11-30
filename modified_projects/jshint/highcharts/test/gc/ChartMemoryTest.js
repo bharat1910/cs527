@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var ChartMemoryTest = TestCase("ChartMemoryTest");
 
 ChartMemoryTest.prototype.randomData = function (len) {

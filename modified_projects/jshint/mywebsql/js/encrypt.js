@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * jCryption JavaScript data encryption v1.2
  * http://www.jcryption.org/

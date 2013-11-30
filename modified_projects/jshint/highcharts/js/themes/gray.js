@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * Gray theme for Highcharts JS
  * @author Torstein Hønsi

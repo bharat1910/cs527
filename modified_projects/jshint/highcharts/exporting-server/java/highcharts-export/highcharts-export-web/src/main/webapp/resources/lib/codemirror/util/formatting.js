@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // ============== Formatting extensions ============================
 (function() {
   // Define extensions for a few modes

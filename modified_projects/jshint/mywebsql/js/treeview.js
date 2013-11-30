@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * Treeview 1.5pre - jQuery plugin to hide and show branches of a tree
  * 

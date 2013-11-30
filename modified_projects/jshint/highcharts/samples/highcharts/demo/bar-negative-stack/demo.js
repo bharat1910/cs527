@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 $(function () {
     var chart,
         categories = ['0-4', '5-9', '10-14', '15-19',

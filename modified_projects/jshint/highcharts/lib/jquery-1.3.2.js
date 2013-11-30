@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*!
  * jQuery JavaScript Library v1.3.2
  * http://jquery.com/

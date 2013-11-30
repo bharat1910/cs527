@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * The ElementMonitor class is a helper class that keeps count of adds and removes of
  * SVG/VMLElements and that their destroy method is called. This is to avoid memory leaks.

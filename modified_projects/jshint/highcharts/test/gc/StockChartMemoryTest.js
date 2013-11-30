@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var StockChartMemoryTest = TestCase("StockChartMemoryTest");
 
 StockChartMemoryTest.prototype.randomData = function (len) {

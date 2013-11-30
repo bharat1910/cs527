@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * @preserve jquery.layout 1.3.0 - Release Candidate 29.8
  * $Date: 2010-09-27 08:00:00 (Mon, 27 Sep 2010) $

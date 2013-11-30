@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * jsTree 1.0-rc1
  * http://jstree.com/

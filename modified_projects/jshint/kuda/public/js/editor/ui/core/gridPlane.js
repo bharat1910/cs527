@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /* 
  * Kuda includes a library and editor for authoring interactive 3D content for the web.
  * Copyright (C) 2011 SRI International.

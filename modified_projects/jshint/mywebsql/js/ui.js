@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*! jQuery UI - v1.8.19 - 2012-04-16
 * https://github.com/jquery/jquery-ui
 * Includes: jquery.ui.core.js

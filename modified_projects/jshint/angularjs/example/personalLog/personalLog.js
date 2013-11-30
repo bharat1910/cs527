@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * @fileOverview Very simple personal log demo application to demonstrate angular functionality,
  *               especially:

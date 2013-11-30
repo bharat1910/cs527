@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 
 /**
  * Set the tick positions to a time unit that makes sense, for example

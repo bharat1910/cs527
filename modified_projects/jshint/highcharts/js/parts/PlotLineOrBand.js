@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * The object wrapper for plot lines and plot bands
  * @param {Object} options

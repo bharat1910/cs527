@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // Three.js - http://github.com/mrdoob/three.js
 /* jshint asi:true */
 /* jshint supernew:true */

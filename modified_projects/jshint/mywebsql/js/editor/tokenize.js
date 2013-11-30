@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // A framework for simple tokenizers. Takes care of newlines and
 // white-space, and of getting the text from the source stream into
 // the token object. A state is a function of two arguments -- a

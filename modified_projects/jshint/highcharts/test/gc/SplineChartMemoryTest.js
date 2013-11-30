@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var SplineChartMemoryTest = TestCase("SplineChartMemoryTest");
 
 SplineChartMemoryTest.prototype = new ChartMemoryTest();

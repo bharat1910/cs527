@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * @license Highcharts JS v3.0.1 (2012-11-02)
  *

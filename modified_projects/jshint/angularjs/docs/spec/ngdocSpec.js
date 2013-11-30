@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var ngdoc = require('../src/ngdoc.js');
 var DOM = require('../src/dom.js').DOM;
 

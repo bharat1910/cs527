@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * Storage and control for undo information within a CodeMirror
  * editor. 'Why on earth is such a complicated mess required for

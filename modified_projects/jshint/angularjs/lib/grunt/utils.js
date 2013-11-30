@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var fs = require('fs');
 var shell = require('shelljs');
 var grunt = require('grunt');

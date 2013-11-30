@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * after obtaining data from closure files, use converter to massage the data into the formats
  * we want

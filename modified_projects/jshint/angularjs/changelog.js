@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 #!/usr/bin/env node
 
 // TODO(vojta): pre-commit hook for validating messages

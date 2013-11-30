@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /* Just enough of CodeMirror to run runMode under node.js */
 
 function splitLines(string){ return string.split(/\r?\n|\r/); };

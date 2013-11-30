@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 (function() {
   CodeMirror.simpleHint = function(editor, getHints, givenOptions) {
     // Determine effective options based on given values and defaults.

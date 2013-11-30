@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 
 var axisProto = Axis.prototype,
 	tickProto = Tick.prototype;

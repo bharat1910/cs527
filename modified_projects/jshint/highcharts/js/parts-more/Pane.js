@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * The Pane object allows options that are common to a set of X and Y axes.
  * 

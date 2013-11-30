@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * Highcharts paths for US states. Parsed from http://commons.wikimedia.org/wiki/File:Blank_US_Map.svg
  */

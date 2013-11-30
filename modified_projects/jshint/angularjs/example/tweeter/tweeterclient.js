@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 function noop() {}
 $(document).ready(function() {
   function xhr(method, url, data, callback){

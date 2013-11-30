@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var angularFiles = require('./angularFiles');
 var sharedConfig = require('./karma-shared.conf');
 

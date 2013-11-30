@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /* String streams are the things fed to parsers (which can feed them
  * to a tokenizer if they want). They provide peek and next methods
  * for looking at the current character (next 'consumes' this

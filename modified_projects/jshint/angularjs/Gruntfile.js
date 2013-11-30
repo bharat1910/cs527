@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var files = require('./angularFiles').files;
 var util = require('./lib/grunt/utils.js');
 var path = require('path');

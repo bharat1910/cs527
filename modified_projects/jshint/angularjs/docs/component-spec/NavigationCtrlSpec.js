@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 describe("DocsNavigationCtrl", function() {
 
   beforeEach(module('docsApp'));

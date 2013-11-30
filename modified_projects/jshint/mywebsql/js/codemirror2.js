@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // CodeMirror version 2.34
 
 // All functions that need access to the editor's state live inside

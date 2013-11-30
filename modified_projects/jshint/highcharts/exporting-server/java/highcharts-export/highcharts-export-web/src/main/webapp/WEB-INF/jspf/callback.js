@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 function(chart) {
 	chart.renderer.arc(200, 150, 100, 50, -Math.PI, 0).attr({
 		fill : '#FCFFC5',

@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * EmbeddedHelp v1.1.4 - jQuery help plugin
  * file: jquery.ehelp-1.1.4.js

@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 describe('$cacheFactory', function() {
 
   it('should be injected', inject(function($cacheFactory) {

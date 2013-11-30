@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 (function($){
 	/* hoverIntent by Brian Cherne */
 	$.fn.hoverIntent = function(f,g) {

@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * Copyright (c) 2005 - 2010, James Auldridge
  * All rights reserved.

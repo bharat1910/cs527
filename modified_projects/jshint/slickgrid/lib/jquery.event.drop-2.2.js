@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*! 
  * jquery.event.drop - v 2.2
  * Copyright (c) 2010 Three Dub Media - http://threedubmedia.com

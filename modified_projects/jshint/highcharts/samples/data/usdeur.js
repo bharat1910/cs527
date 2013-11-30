@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var usdeur = [
 [Date.UTC(2003,8,24),0.8709],
 [Date.UTC(2003,8,25),0.872],

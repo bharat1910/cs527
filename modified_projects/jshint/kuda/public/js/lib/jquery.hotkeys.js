@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * jQuery Hotkeys Plugin
  * Copyright 2010, John Resig

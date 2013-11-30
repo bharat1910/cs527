@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * All parsing/transformation code goes here. All code here should be sync to ease testing.
  */

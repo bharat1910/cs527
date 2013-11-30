@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 describe('DocsApp', function() {
 
   // Do not run this suite on Internet Explorer.

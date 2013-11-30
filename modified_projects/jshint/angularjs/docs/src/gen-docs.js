@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var reader = require('./reader.js'),
     ngdoc = require('./ngdoc.js'),
     writer = require('./writer.js'),

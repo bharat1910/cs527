@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /*
  * Port of O3D's gpu-enabled particle system to Three.js with minor modifications.
  * @author Erik Kitson

@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 /**
  * @license @product.name@ JS v@product.version@ (@product.date@)
  * Plugin for displaying a message when there is no data visible in chart.

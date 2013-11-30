@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 'use strict';
 
 /* We need to tell jshint what variables are being exported */

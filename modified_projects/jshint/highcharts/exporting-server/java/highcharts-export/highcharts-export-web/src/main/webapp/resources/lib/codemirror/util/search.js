@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // Define search commands. Depends on dialog.js or another
 // implementation of the openDialog method.
 

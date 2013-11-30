@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var shapes = {
 	"ad": "M 4687 2398 L 4679 2402 4679 2398 Z",
 	"ae": "M 5995 2942 L 6059 2942 6115 2890 6119 2902 6119 2922 6107 2922 6107 2946 6099 2946 6087 2986 6023 2978 Z",

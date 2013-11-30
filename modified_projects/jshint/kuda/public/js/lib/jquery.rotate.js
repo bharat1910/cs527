@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 // VERSION: 1.3 LAST UPDATE: 26.05.2010
 /*
  * THIS IS FREE SCRIPT BUT LEAVE THIS COMMENT IF

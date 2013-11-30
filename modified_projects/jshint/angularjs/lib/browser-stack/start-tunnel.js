@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 var fs = require('fs');
 var http = require('http');
 var BrowserStackTunnel = require('browserstacktunnel-wrapper');

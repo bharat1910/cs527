@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 'use strict';
 
 /* jshint -W060 */ /* we really do want to write to the document here */

@@ -1,4 +1,5 @@
 /* jshint undef: false, unused: false, asi: true */
+/* jshint maxerr:10000 */
 AxisTest = TestCase("AxisTest");
 
 AxisTest.prototype.setUp = function() {
