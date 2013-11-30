@@ -1,24 +1,26 @@
+ It's not necessary to initialize 'lwhisker' to 'undefined'.     2
+ Confusing use of '!'.     55
+ Unreachable 'var' after 'return'.     7
+ Expected a 'break' statement before 'case'.     6
+ Bad line breaking before '?'.     23
+ 'y' used out of scope.     147
+ 'i' is already defined.     56
+ eval can be harmful.     5
+ Wrap the /regexp/ literal in parens to disambiguate the slash operator.     6
+ Unnecessary semicolon.     32
+ Missing '()' invoking a constructor.     26
+ A leading decimal point can be confused with a dot: '.5'.     3
+ You might be leaking a variable (c) here.     1
+ Use '===' to compare with 'undefined'.     106
+ 'a' is a statement label.     3
+ The Function constructor is a form of eval.     4
+ Expected an assignment or function call and instead saw an expression.     661
  Bad constructor.     1
- Confusing use of '!'.     6
- ['val'] is better written in dot notation.     4
+ Comma warnings can be turned off with 'laxcomma'.     1
  Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     1
- Expected a 'break' statement before 'case'.     5
- Don't make functions within a loop.     2
- Bad line breaking before '?'.     8
- Use the isNaN function to compare with NaN.     22
- 'y' used out of scope.     5
- 'i' is already defined.     37
- Did you mean to return a conditional instead of an assignment?     1
- eval can be harmful.     2
- Too many errors. (3% scanned).     6
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     4
- Unnecessary semicolon.     6
- Missing '()' invoking a constructor.     4
- A leading decimal point can be confused with a dot: '.5'.     2
+ ['val'] is better written in dot notation.     5
+ Don't make functions within a loop.     14
+ Use the isNaN function to compare with NaN.     93
+ Did you mean to return a conditional instead of an assignment?     10
+ Expected ')' to match '(' from line 416 and instead saw 'e'.     10
  Mixed spaces and tabs.     4
- Use '===' to compare with 'undefined'.     72
- 'args' is defined but never used.     48
- Expected an assignment or function call and instead saw an expression.     44
- The Function constructor is a form of eval.     3
- 'window' is not defined.     228
- Missing semicolon.     144

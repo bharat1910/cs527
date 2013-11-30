@@ -1,22 +1,21 @@
  Creating global 'for' variable. Should be 'for (var cookieName ...'.     1
- Confusing pluses.     1
  Value of 'e' may be overwritten in IE 8 and earlier.     1
+ Confusing pluses.     1
  Confusing use of '!'.     3
  Bad line breaking before '?'.     73
- This character may get silently deleted by one or more browsers.     78
+ This character may get silently deleted by one or more browsers.     109
  'pos' used out of scope.     3
- Script URL.     17
+ Script URL.     39
  eval can be harmful.     10
  Use '===' to compare with '0'.     83
  The array literal notation [] is preferrable.     1
  Unnecessary semicolon.     36
  Possible strict violation.     1
- 'module' is not defined.     5060
  Do not assign to the exception parameter.     1
+ Expected an assignment or function call and instead saw an expression.     215
  Confusing minuses.     2
- Expected an assignment or function call and instead saw an expression.     161
- '_jQuery' is defined but never used.     185
  Comma warnings can be turned off with 'laxcomma'.     1
+ document.write can be a form of eval.     1
  The '__proto__' property is deprecated.     2
  Don't make functions within a loop.     16
  Bad or unnecessary escaping.     3
@@ -24,12 +23,11 @@
  Use the function form of "use strict".     425
  Missing 'new' prefix when invoking a constructor.     17
  A constructor name should start with an uppercase letter.     4
- ['describe'] is better written in dot notation.     197
+ ['describe'] is better written in dot notation.     517
+ 'describe' is not defined.     12628
  Mixed spaces and tabs.     21
- Too many errors. (32% scanned).     67
  'hasOwnProperty' is a really bad name.     3
  Bad operand.     2
  Unexpected escaped character '<' in regular expression.     2
+ 'html' is already defined.     43
  A leading decimal point can be confused with a dot: '.1'.     8
- 'html' is already defined.     42
- Missing semicolon.     322

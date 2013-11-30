@@ -1,119 +1,200 @@
-#35 Missing 'new'.     24
-#29 Stopping. (13% scanned).     10
-#14 Stopping. (1% scanned).     23
- #7 Missing space between 'content-disposition: form-data; name="field1"     18
-#11 Stopping. (24% scanned).     3
-#17 Unexpected TODO comment.     17
-#12 Expected an assignment or function call and instead saw an expression.     309
-#38 Stopping. (82% scanned).     1
- #6 Unexpected 'Dog'.     1
-#28 Stopping. (14% scanned).     1
-#12 Expected '#_fileName with unescaped quote' at column 5, not column 3.     860
-#26 Use the || operator.     10
-#31 Unused 'body'.     2
-#32 Stopping. (9% scanned).     3
+#131 Stopping. (17% scanned).     12
+#167 Expected '  v_texcoord = vec2(u, uv.y + 0.5);     89
+#166 Stopping. (13% scanned).     3
+#12 Expected an assignment or function call and instead saw an expression.     568
+#211 Don't declare variables in a loop.     1
+#352 Unused 'HEADERS'.     3
+#12 Expected '#_fileName with unescaped quote' at column 5, not column 3.     4072
+#169 Stopping. (46% scanned).     5
+#51 Expected 'content-type: text/html     3
+#305 Unexpected '0755'.     1
 #47 Stopping. (47% scanned).     4
-#36 Unused 'chars'.     1
-#46 Unused 'resp'.     1
-#10 Missing 'use strict' statement.     295
-#39 Unused 'msg'.     4
-#46 Expected 'content-type: text/html     1
-#10 Expected 'Joe Blow     2
-#11 Missing space between '<input type="file" name="upload" multiple="multiple"><br>' and '+'.     108
- #4 Use a named parameter.     2
- #3 Expected 'use strict' at column 5, not column 2.     893
-#31 Stopping. (25% scanned).     3
-#11 Missing space between 'Joe Blow     2
-#10 'self' was used before it was defined.     214
-#27 Missing '()'.     14
+#109 Expected '  float lifeTime = uvLifeTimeFrameStart.z;     14
+#39 Unused 'msg'.     6
+#46 Unused 'resp'.     4
+#11 Missing space between '<input type="file" name="upload" multiple="multiple"><br>' and '+'.     184
+#410 Unexpected space between 'form-data; name="field1"' and ','.     411
+#31 Stopping. (25% scanned).     1
+#10 'self' was used before it was defined.     425
  #1 'test' is already defined.     5
-#20 Unexpected ')'.     3
-#23 Stopping. (50% scanned).     3
- #8 Unexpected ';'.     2
+#17 Missing space between '<form action="/upload" enctype="multipart/form-data" method="post">' and '+'.     3
+#73 Stopping. (41% scanned).     1
+#226 Stopping. (42% scanned).     3
+#417 Missing 'new'.     28
+#23 Stopping. (50% scanned).     5
+#333 Stopping. (15% scanned).     4
+#353 Stopping. (63% scanned).     3
+#132 Stopping. (33% scanned).     3
 #17 Stopping. (97% scanned).     1
-#23 Unused 'namespaces'.     1
-#29 Unexpected 'parser'.     1
-#20 Unused 'b'.     1
+#122 Stopping. (8% scanned).     3
 #32 Nested comment.     1
- #5 Unexpected 'typeof'. Use '===' to compare directly with undefined.     7
- #2 'hemi' used out of scope.     2
- #2 Use spaces, not tabs.     2171
-#16 Stopping. (3% scanned).     3
-#30 Unexpected assignment expression.     7
+ #2 'hemi' used out of scope.     3
+ #2 Use spaces, not tabs.     5891
+#200 Unused 'done'.     1
 #15 Stopping. (2% scanned).     2
-#38 Unused 'a'.     1
- #2 Missing space between 'THREE' and '='.     433
 #17 Unused 'clientElements'.     2
-#33 Empty block.     8
-#25 Stopping. (11% scanned).     2
-#14 Expected 'content-disposition: form-data; name="pics"; filename="file1.txt"     2
-#34 Unexpected '|'.     1
- #1 ['rfc1867'] is better written in dot notation.     2
- #4 Expected '--AaB03x     1
-#22 Expected '--AaB03x--     3
-#28 Unexpected character '(space)'.     22
+#14 Expected 'content-disposition: form-data; name="pics"; filename="file1.txt"     3
+#51 Missing space between 'Content-Type: text/plain     2
+#137 Stopping. (7% scanned).     2
+#34 Unexpected '|'.     2
+#174 Unexpected '++'.     104
+#22 Expected '--AaB03x--     6
+#28 Unexpected character '(space)'.     42
+#310 Stopping. (1% scanned).     2
+#135 Expected '  if (startTime < 0.0) {     6
+#271 Stopping. (66% scanned).     1
 #13 Insecure '.'.     5
-#21 Unexpected 'exports'.     2
-#32 Unnecessary 'else' after disruption.     2
-#48 Expected '<html><body>Oh hi.</body></html>' at column 21, not column 9.     2
-#48 Unexpected ','.     6
-#49 Expected '#_uploadPath strips harmful characters from extension when keepExtensions' at column 5, not column 3.     564
+#32 Unnecessary 'else' after disruption.     17
+#49 Expected '#_uploadPath strips harmful characters from extension when keepExtensions' at column 5, not column 3.     1
 #22 Unused 'prefix'.     2
-#41 Redefinition of 'c' from line 10.     3
-#33 Unexpected '++'.     28
-#45 Stopping. (49% scanned).     1
+#286 Unexpected 'in'. Compare with undefined, or use the hasOwnProperty method instead.     2
 #18 Stopping. (27% scanned).     2
-#15 Unexpected dangling '_' in '_current'.     173
-#11 Insecure '^'.     15
-#49 Stopping. (6% scanned).     2
- #6 Expected '<form action="/post" method="post">' at column 13, not column 7.     8
-#18 Combine this with the previous 'var' statement.     80
-#38 Missing space between 'received fields:     8
- #9 Variable $p was not declared correctly.     5
-#50 Expected '--frontier     2
- #9 Unused 'e'.     1
+#663 Unused 'uploadDir'.     2
+#11 Insecure '^'.     16
+#74 Unused 'mouseEvent'.     2
+#632 Move 'var' declarations to the top of the function.     54
+#211 Unused 'err'.     1
+#50 Expected '--frontier     3
+#424 Duplicate 'ldquo'.     1
 #31 Unexpected 'util'.     1
- #4 Unexpected space between '!!' and 'window'.     211
-#15 Missing space between 'Bad 1st argument for gently.expect(), object, function, or number expected, got: ' and '+'.     104
-#17 Missing space between 'Content-Type: text/plain     1
+#64 Stopping. (91% scanned).     1
 #40 Stopping. (4% scanned).     2
-#25 Wrap an immediate function invocation in parentheses to assist the reader in understanding that the expression is the result of a function, and not the function itself.     4
-#20 Expected '... contents of file1.txt ...     3
-#19 Unused 'req'.     2
-#21 Unused 'element'.     1
- #6 Stopping. (0% scanned).     61
-#35 Stopping. (28% scanned).     2
+#25 Wrap an immediate function invocation in parentheses to assist the reader in understanding that the expression is the result of a function, and not the function itself.     2
+#162 Unexpected '--'.     6
+#100 Stopping. (52% scanned).     2
+#236 Unused 'files'.     2
+#61 Stopping. (62% scanned).     1
+#199 Unused 'bouncer'.     1
+ #6 Stopping. (0% scanned).     3
+#35 Stopping. (28% scanned).     4
 #30 Unused 'v'.     2
-#41 Stopping. (19% scanned).     22
-#24 Move the invocation into the parens that contain the function.     13
-#46 Unexpected 'Light'.     2
-#19 Unsafe character.     1
+#53 Expected '<html><body>Oh hi.</body></html>' at column 21, not column 11.     6
+#46 Unexpected 'Light'.     1
+#291 Stopping. (32% scanned).     3
  #6 Expected 'content-disposition: form-data; name="field1"     1
-#16 Expected 'Content-Type: text/plain     2
- #1 Expected exactly one space between 'function' and '('.     541
-#47 Unused 'res'.     1
+#16 Expected 'Content-Type: text/plain     3
+#70 Stopping. (85% scanned).     1
+#95 Stopping. (21% scanned).     1
+#152 Reserved name '__proto__'.     1
+#676 Stopping. (76% scanned).     2
+#93 Expected 'varying vec4 v_position;     8
+#638 Unused 'field'.     1
+#44 Unused 'node'.     1
+#280 Stopping. (37% scanned).     3
+ #5 Unexpected character '	'.     93
+#19 Stopping. (5% scanned).     2
+#21 Stopping. (75% scanned).     1
+#175 Expected '  size = (percentLife < 0.0 || percentLife > 1.0) ? 0.0 : size;     2
+#85 Stopping. (29% scanned).     2
+#61 Missing space between ':' and 'paginate_button paginate_button_disabled'.     71
+#43 Stopping. (54% scanned).     1
+#340 Stopping. (20% scanned).     1
+#30 Stopping. (23% scanned).     2
+#113 Expected '  vec3 position = positionStartTime.xyz;     1
+#81 Stopping. (35% scanned).     2
+#12 Unexpected sync method: 'existsSync'.     16
+#39 Stopping. (30% scanned).     5
+#151 Expected '  float localTime = mod((time - timeOffset - startTime), timeRange);     3
+#75 Use the || operator.     16
+#46 Stopping. (16% scanned).     2
+ #7 Unescaped '['.     2
+#91 Stopping. (11% scanned).     79
+#107 Expected '  vec2 uv = uvLifeTimeFrameStart.xy;     1
+ #7 Missing space between 'content-disposition: form-data; name="field1"     25
+#61 Expected 'uniform vec3 worldVelocity;     4
+#17 Unexpected TODO comment.     19
+#38 Stopping. (82% scanned).     1
+#97 Expected 'varying float v_percentLife;     8
+#65 Use the array literal notation [].     15
+#31 Unused 'body'.     7
+#32 Stopping. (9% scanned).     6
+#481 Unused 'PART'.     3
+#36 Unused 'chars'.     1
+#142 Stopping. (40% scanned).     10
+#397 Missing space between '<ul class='' and '+'.     1272
+#10 Missing 'use strict' statement.     394
+#333 Unused 'key'.     1
+#10 Expected 'Joe Blow     3
+#243 Unused 'handleTimeout'.     1
+#95 Expected 'varying vec2 v_texcoord;     4
+ #3 Expected 'use strict' at column 5, not column 2.     3334
+ #4 Use a named parameter.     2
+#11 Missing space between 'Joe Blow     3
+#77 Expected 'attribute vec4 uvLifeTimeFrameStart;      26
+#27 Missing '()'.     16
+#65 Expected 'uniform float timeRange;     11
+#55 Unused 'loader'.     1
+#157 Expected '  float frame = mod(floor(localTime / frameDuration + frameStart),     9
+#133 Missing space between ':' and 'fg-button ui-button ui-state-default ui-corner-left'.     467
+#339 Unexpected '('.     1
+#153 A constructor name 'j' should start with an uppercase letter.     1
+#483 Expected '  gl_Position = (projectionMatrix * viewMatrix * vec4(localPosition, 1.0));     2
+#20 Unexpected ')'.     6
+#29 Unexpected 'parser'.     1
+#20 Unused 'b'.     3
+#541 Stopping. (81% scanned).     1
+#51 Stopping. (34% scanned).     1
+#117 Unexpected 'typeof'. Use '===' to compare directly with undefined.     10
+#173 Expected '  float size = mix(startSize, endSize, percentLife);     2
+#215 Combine this with the previous 'var' statement.     160
+#171 Missing space between ':' and 'dataTables_paginate fg-buttonset ui-buttonset fg-buttonset-multi ui-buttonset-multi paging_'.     5
+#38 Unused 'a'.     1
+#285 Stopping. (90% scanned).     2
+ #2 Missing space between 'THREE' and '='.     400
+#98 Unexpected ';'.     7
+ #1 ['rfc1867'] is better written in dot notation.     4
+#1265 Stopping. (93% scanned).     1
+#119 Stopping. (59% scanned).     1
+#630 Unexpected assignment expression.     23
+#21 Unexpected 'exports'.     2
+#48 Unexpected ','.     4
+#200 Missing space between 'Unexpected call to dummy_name, expected call to ' and '+'.     3
+#41 Redefinition of 'c' from line 10.     7
+#49 Stopping. (6% scanned).     2
+#70 Cannot read property 'kind' of undefined     3
+#117 Expected '  vec3 velocity = (objectMatrix * vec4(velocityStartSize.xyz, 0)).xyz     16
+#38 Missing space between 'received fields:     2
+#453 Unused 'nsPrefixCache'.     1
+ #9 Variable $p was not declared correctly.     5
+#77 Unused 'er'.     6
+#358 Missing space between '+' and '' id='sb'.     6
+#339 Expected 'uniform mat4 viewInverse;     1
+#287 Move the invocation into the parens that contain the function.     63
+#633 Stopping. (24% scanned).     4
+#61 Expected 'Your graphics card does not seem to support <a href="http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation">WebGL</a>.<br />' at column 17, not column 5.     13
+#15 Missing space between 'Bad 1st argument for gently.expect(), object, function, or number expected, got: ' and '+'.     2
+#97 Unused 'checkDone'.     1
+#74 Empty block.     18
+#267 Stopping. (89% scanned).     2
+#20 Expected '... contents of file1.txt ...     6
+#21 Unused 'element'.     1
+#19 Unused 'req'.     3
+#243 Stopping. (94% scanned).     3
+#325 The '&&' subexpression should be wrapped in parens.     1
+#41 Stopping. (19% scanned).     13
+#88 Stopping. (12% scanned).     2
+#19 Unsafe character.     9
+ #1 Expected exactly one space between 'function' and '('.     1237
+#57 Unused 'e'.     6
+#168 Unexpected space between ')' and ')'.     39
+#455 Stopping. (57% scanned).     2
+#47 Unused 'res'.     6
 #40 Unexpected 'call'.     1
 #22 Weird condition.     3
- #5 Unused 'version'.     1
-#24 Stopping. (17% scanned).     2
-#44 Unused 'node'.     2
- #5 Unexpected character '	'.     83
-#34 Move 'var' declarations to the top of the function.     16
-#33 Stopping. (77% scanned).     1
-#19 Stopping. (5% scanned).     3
-#36 Unexpected '--'.     2
-#21 Stopping. (75% scanned).     1
-#43 Stopping. (54% scanned).     1
-#22 Stopping. (26% scanned).     1
-#30 Stopping. (46% scanned).     3
-#48 Unused 'currentLevel'.     1
- #7 Missing space between '<form action="/post" method="post">' and '+'.     13
-#26 Stopping. (44% scanned).     1
-#51 Too many errors. (3% scanned).     83
-#12 Unexpected sync method: 'existsSync'.     8
-#20 Stopping. (87% scanned).     4
-#39 Stopping. (30% scanned).     2
-#13 Expected ')' to match '(' from line 4 and instead saw ','.     6
-#46 Stopping. (16% scanned).     1
-#10 Expected '<input type="file" name="upload" multiple="multiple"><br>' at column 17, not column 7.     2
- #7 Unescaped '['.     2
+#273 Unused 'hudImage'.     1
+#71 Unused 'reducer'.     1
+#264 Expected 'uniform sampler2D rampSampler;     4
+#105 Expected 'void main() {     4
+#1483 Stopping. (98% scanned).     1
+#96 Unused 'cur'.     1
+#77 Expected ': foo     1
+#262 Expected '// We need to implement 1D!     2
+#1264 Unexpected '}'.     1
+#1136 Unused 'o'.     2
+#20 Stopping. (87% scanned).     2
+#96 Stopping. (18% scanned).     2
+#177 Expected '  float s = sin(spinStart + spinSpeed * localTime);     2
+#13 Expected ')' to match '(' from line 4 and instead saw ','.     7
+#245 Expected '}     4
+#10 Expected '<input type="file" name="upload" multiple="multiple"><br>' at column 17, not column 7.     5
+#192 Unexpected dangling '_' in '_octane'.     612

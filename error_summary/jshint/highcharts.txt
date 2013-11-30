@@ -1,44 +1,52 @@
- You might be leaking a variable (part) here.     2
- 'lineElement' used out of scope.     20
- Value of 'e' may be overwritten in IE 8 and earlier.     1
- col 1     50
- Strings must use doublequote.     63
- Duplicate key 'tooltip'.     2
- Confusing use of '!'.     14
- col 5     4
- Expected a 'break' statement before 'case'.     2
- ['closeTagEnabled'] is better written in dot notation.     40
- Bad line breaking before '&&'.     57
- 'ExportingTest' is not defined.     4095
- 'minDate' is defined but never used.     210
- Unexpected comma.     1
+ Value of 'e' may be overwritten in IE 8 and earlier.     4
+ col 1     46
+ Strings must use doublequote.     118
+ Expected ')' to match '(' from line 105 and instead saw '='.     52
+ Redefinition of 'JSON'.     1
+ Expected a 'break' statement before 'case'.     6
  col 8     1
- Creating global 'for' variable. Should be 'for (var name ...'.     2
+ Creating global 'for' variable. Should be 'for (var name ...'.     7
  Unmatched '{'.     2
- The array literal notation [] is preferrable.     1
  Don't use extra leading zeros '000'.     4
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     6
- Unnecessary semicolon.     34
- Missing '()' invoking a constructor.     25
- 'arr' is already defined.     106
- Unmatched '('.     2
- Expected an assignment or function call and instead saw an expression.     801
+ Wrap the /regexp/ literal in parens to disambiguate the slash operator.     13
+ Missing '()' invoking a constructor.     124
+ Possible strict violation.     1
+ You might be leaking a variable (c) here.     11
+ Expected ']' to match '[' from line 7 and instead saw ';'.     4
  The Function constructor is a form of eval.     8
- Missing name in function declaration.     1
- A leading decimal point can be confused with a dot: '.99'.     4
- Too many errors. (22% scanned).     58
+ Missing name in function declaration.     5
+ Use '!==' to compare with 'null'.     1086
+ Expected a JSON value.     20
  Comma warnings can be turned off with 'laxcomma'.     5
- Expected a JSON value.     19
- Use '!==' to compare with 'null'.     469
- Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     5
- document.write can be a form of eval.     23
- Don't make functions within a loop.     10
- Weird construction. Is 'new' unnecessary?     1
- Bad or unnecessary escaping.     3
- Did you mean to return a conditional instead of an assignment?     29
+ The '__proto__' property is deprecated.     2
+ Don't make functions within a loop.     30
+ Weird construction. Is 'new' unnecessary?     4
+ Did you mean to return a conditional instead of an assignment?     66
+ Missing 'new' prefix when invoking a constructor.     6
  Expected an identifier and instead saw 'undefined' (a reserved word).     2
- Missing 'new' prefix when invoking a constructor.     2
- 'isArray' is a function.     1
- Mixed spaces and tabs.     4247
- Expected 'pathAnim' to have an indentation at 5 instead at 1.     136
- Missing semicolon.     408
+ Don't use 'with'.     1
+ Unexpected 'break'.     18
+ Bad operand.     4
+ 'lineElement' used out of scope.     121
+ Unreachable 'for' after 'return'.     3
+ Duplicate key 'tooltip'.     2
+ Confusing use of '!'.     264
+ ['closeTagEnabled'] is better written in dot notation.     103
+ Bad line breaking before '&&'.     119
+ Unexpected comma.     1
+ The array literal notation [] is preferrable.     1
+ Unnecessary semicolon.     63
+ Label 'simpleSelectors' on if statement.     8
+ 'arr' is already defined.     842
+ Unmatched '('.     2
+ Expected an assignment or function call and instead saw an expression.     4109
+ A leading decimal point can be confused with a dot: '.99'.     16
+ 'querySelector' is not a statement label.     2
+ Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     11
+ document.write can be a form of eval.     41
+ Bad assignment.     2
+ Bad or unnecessary escaping.     3
+ 'isArray' is a function.     3
+ Mixed spaces and tabs.     4652
+ Read only.     1
+ Expected 'pathAnim' to have an indentation at 5 instead at 1.     17999
