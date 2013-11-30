@@ -1,0 +1,17 @@
+0005:  Illegal tab in whitespace before "_win"         11395
+0210:  Missing docs for parameter: "id"         9
+0200:  Invalid JsDoc tag: file         79
+0131:  Single-quoted string preferred over double-quoted string.         6393
+0120:  Binary operator should go on previous line "||"         629
+0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)         2
+0001:  Extra space after "("         2180
+0213:  Missing type in @return tag         19
+0013:  Semicolon without any statement         14
+0012:  Illegal semicolon after function declaration         4
+0011:  Missing semicolon after function assigned to a variable         115
+0002:  Missing space before "+"         34515
+0220:  No docs found for member 'window.CodeMirror'         27
+0217:  Missing @return JsDoc in function with non-trivial return         3
+-002:  Error parsing file at token "<JavaScriptToken: 4, }, "}", {}, MetaData(None)>". Unable to check the rest of file.         1
+0010:  Missing semicolon at end of line         135
+0110:  Line too long (107 characters).         1166

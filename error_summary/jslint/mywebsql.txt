@@ -1,0 +1,39 @@
+#31 Weird condition.     2
+#36 Stopping. (10% scanned).     4
+ #7 Unexpected ';'.     1
+#51 Too many errors. (17% scanned).     15
+ #6 'tokenizer' is already defined.     1
+#30 Stopping. (8% scanned).     4
+#26 Redefinition of 'b' from line 2.     1
+ #3 Expected '_win' at column 9, not column 2.     314
+#14 Unused 's'.     1
+#22 Stopping. (9% scanned).     4
+#35 Stopping. (14% scanned).     1
+#19 Unreachable ',' after 'return'.     1
+#29 Expected '===' and instead saw '=='.     37
+ #6 Expected exactly one space between 'function' and '('.     134
+ #7 Empty block.     1
+#42 Unexpected character '(space)'.     5
+ #7 Move 'var' declarations to the top of the function.     2
+#21 Stopping. (66% scanned).     2
+#10 Stopping. (62% scanned).     5
+#20 Unexpected ','.     2
+#32 Missing space between '#' and '+'.     197
+ #8 Unexpected character '	'.     3
+#42 Stopping. (7% scanned).     1
+#14 Stopping. (5% scanned).     2
+#24 'obj' was used before it was defined.     74
+#15 Stopping. (50% scanned).     1
+#13 Stopping. (4% scanned).     1
+#34 Unexpected '.'.     1
+ #5 Unexpected TODO comment.     3
+ #1 Use spaces, not tabs.     344
+ #5 Read only.     1
+#40 Expected ')' to match '(' from line 5 and instead saw ','.     1
+#11 Unexpected space between '}' and ')'.     30
+ #2 Unexpected dangling '_' in '_win'.     13
+#24 Stopping. (64% scanned).     1
+#35 Combine this with the previous 'var' statement.     13
+ #8 Missing 'use strict' statement.     52
+#43 Unnecessary 'else' after disruption.     1
+#23 Unexpected 'textEditor'.     1

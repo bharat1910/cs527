@@ -1,3 +1,119 @@
- #2 Expected '===' and instead saw '=='.     2
- #1 Missing 'use strict' statement.     1
- #4 Stopping. (65% scanned).     1
+#35 Missing 'new'.     24
+#29 Stopping. (13% scanned).     10
+#14 Stopping. (1% scanned).     23
+ #7 Missing space between 'content-disposition: form-data; name="field1"     18
+#11 Stopping. (24% scanned).     3
+#17 Unexpected TODO comment.     17
+#12 Expected an assignment or function call and instead saw an expression.     309
+#38 Stopping. (82% scanned).     1
+ #6 Unexpected 'Dog'.     1
+#28 Stopping. (14% scanned).     1
+#12 Expected '#_fileName with unescaped quote' at column 5, not column 3.     860
+#26 Use the || operator.     10
+#31 Unused 'body'.     2
+#32 Stopping. (9% scanned).     3
+#47 Stopping. (47% scanned).     4
+#36 Unused 'chars'.     1
+#46 Unused 'resp'.     1
+#10 Missing 'use strict' statement.     295
+#39 Unused 'msg'.     4
+#46 Expected 'content-type: text/html     1
+#10 Expected 'Joe Blow     2
+#11 Missing space between '<input type="file" name="upload" multiple="multiple"><br>' and '+'.     108
+ #4 Use a named parameter.     2
+ #3 Expected 'use strict' at column 5, not column 2.     893
+#31 Stopping. (25% scanned).     3
+#11 Missing space between 'Joe Blow     2
+#10 'self' was used before it was defined.     214
+#27 Missing '()'.     14
+ #1 'test' is already defined.     5
+#20 Unexpected ')'.     3
+#23 Stopping. (50% scanned).     3
+ #8 Unexpected ';'.     2
+#17 Stopping. (97% scanned).     1
+#23 Unused 'namespaces'.     1
+#29 Unexpected 'parser'.     1
+#20 Unused 'b'.     1
+#32 Nested comment.     1
+ #5 Unexpected 'typeof'. Use '===' to compare directly with undefined.     7
+ #2 'hemi' used out of scope.     2
+ #2 Use spaces, not tabs.     2171
+#16 Stopping. (3% scanned).     3
+#30 Unexpected assignment expression.     7
+#15 Stopping. (2% scanned).     2
+#38 Unused 'a'.     1
+ #2 Missing space between 'THREE' and '='.     433
+#17 Unused 'clientElements'.     2
+#33 Empty block.     8
+#25 Stopping. (11% scanned).     2
+#14 Expected 'content-disposition: form-data; name="pics"; filename="file1.txt"     2
+#34 Unexpected '|'.     1
+ #1 ['rfc1867'] is better written in dot notation.     2
+ #4 Expected '--AaB03x     1
+#22 Expected '--AaB03x--     3
+#28 Unexpected character '(space)'.     22
+#13 Insecure '.'.     5
+#21 Unexpected 'exports'.     2
+#32 Unnecessary 'else' after disruption.     2
+#48 Expected '<html><body>Oh hi.</body></html>' at column 21, not column 9.     2
+#48 Unexpected ','.     6
+#49 Expected '#_uploadPath strips harmful characters from extension when keepExtensions' at column 5, not column 3.     564
+#22 Unused 'prefix'.     2
+#41 Redefinition of 'c' from line 10.     3
+#33 Unexpected '++'.     28
+#45 Stopping. (49% scanned).     1
+#18 Stopping. (27% scanned).     2
+#15 Unexpected dangling '_' in '_current'.     173
+#11 Insecure '^'.     15
+#49 Stopping. (6% scanned).     2
+ #6 Expected '<form action="/post" method="post">' at column 13, not column 7.     8
+#18 Combine this with the previous 'var' statement.     80
+#38 Missing space between 'received fields:     8
+ #9 Variable $p was not declared correctly.     5
+#50 Expected '--frontier     2
+ #9 Unused 'e'.     1
+#31 Unexpected 'util'.     1
+ #4 Unexpected space between '!!' and 'window'.     211
+#15 Missing space between 'Bad 1st argument for gently.expect(), object, function, or number expected, got: ' and '+'.     104
+#17 Missing space between 'Content-Type: text/plain     1
+#40 Stopping. (4% scanned).     2
+#25 Wrap an immediate function invocation in parentheses to assist the reader in understanding that the expression is the result of a function, and not the function itself.     4
+#20 Expected '... contents of file1.txt ...     3
+#19 Unused 'req'.     2
+#21 Unused 'element'.     1
+ #6 Stopping. (0% scanned).     61
+#35 Stopping. (28% scanned).     2
+#30 Unused 'v'.     2
+#41 Stopping. (19% scanned).     22
+#24 Move the invocation into the parens that contain the function.     13
+#46 Unexpected 'Light'.     2
+#19 Unsafe character.     1
+ #6 Expected 'content-disposition: form-data; name="field1"     1
+#16 Expected 'Content-Type: text/plain     2
+ #1 Expected exactly one space between 'function' and '('.     541
+#47 Unused 'res'.     1
+#40 Unexpected 'call'.     1
+#22 Weird condition.     3
+ #5 Unused 'version'.     1
+#24 Stopping. (17% scanned).     2
+#44 Unused 'node'.     2
+ #5 Unexpected character '	'.     83
+#34 Move 'var' declarations to the top of the function.     16
+#33 Stopping. (77% scanned).     1
+#19 Stopping. (5% scanned).     3
+#36 Unexpected '--'.     2
+#21 Stopping. (75% scanned).     1
+#43 Stopping. (54% scanned).     1
+#22 Stopping. (26% scanned).     1
+#30 Stopping. (46% scanned).     3
+#48 Unused 'currentLevel'.     1
+ #7 Missing space between '<form action="/post" method="post">' and '+'.     13
+#26 Stopping. (44% scanned).     1
+#51 Too many errors. (3% scanned).     83
+#12 Unexpected sync method: 'existsSync'.     8
+#20 Stopping. (87% scanned).     4
+#39 Stopping. (30% scanned).     2
+#13 Expected ')' to match '(' from line 4 and instead saw ','.     6
+#46 Stopping. (16% scanned).     1
+#10 Expected '<input type="file" name="upload" multiple="multiple"><br>' at column 17, not column 7.     2
+ #7 Unescaped '['.     2

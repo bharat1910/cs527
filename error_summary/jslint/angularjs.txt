@@ -1,0 +1,142 @@
+#42 ['describe'] is better written in dot notation.     12
+#29 Expected '{' and instead saw 'return'.     117
+#24 Unexpected '~'.     3
+#27 Expected 'bla bla bla     2
+#25 Stopping. (80% scanned).     14
+#38 Stopping. (27% scanned).     1
+#37 Unexpected '++'.     23
+#10 Stopping. (3% scanned).     4
+#35 Expected '13f31602f396bc269076ab4d389cfd8ca94b20ba     1
+ #9 Unused 'args'.     2
+#45 Unused 'output'.     4
+#23 Redefinition of 'future' from line 4.     7
+ #1 Unexpected dangling '_' in '_jQuery'.     92
+#16 Unexpected character '(space)'.     6
+#14 Stopping. (47% scanned).     1
+ #8 Unescaped '-'.     8
+#41 Missing space between ':' and 'nom nom'.     91
+#39 Nested comment.     1
+ #1 'describe' was used before it was defined.     1277
+#13 Unexpected 'typeof'. Use '===' to compare directly with undefined.     3
+#17 Unexpected '\'.     1
+#17 Expected '<a href="http://1.2/v:~-123">http://1.2/v:~-123</a>. c' at column 17, not column 15.     14083
+#39 Stopping. (94% scanned).     2
+ #6 Unexpected 'call'.     2
+#38 Expected 'loading resource from url not allowed by $sceDelegate policy.  URL: ' at column 21, not column 11.     3
+ #8 Insecure '^'.     26
+#28 Expected 'Matchers may only be "self", string patterns or RegExp objects' at column 13, not column 9.     2
+#29 Unused 'o2'.     1
+ #4 Unexpected TODO comment.     15
+#44 Stopping. (20% scanned).     2
+#26 Unnecessary 'else' after disruption.     18
+#30 Unescaped ']'.     3
+#20 Unexpected '&'.     2
+#23 Unused '$route'.     5
+#14 Missing space between ',' and '</a> ('.     1
+#47 Stopping. (63% scanned).     1
+#18 Stopping. (16% scanned).     1
+#24 'e' is already defined.     1
+#17 Stopping. (73% scanned).     2
+ #3 Use the array literal notation [].     5
+#36 Uninitialized 'element'.     1
+ #7 Unused 'exception'.     1
+#46 Stopping. (85% scanned).     1
+#33 Unused 'timeout'.     4
+#20 Expected '<!-- ngSwitchWhen: 1 --><!-- ngSwitchWhen: 2 --><!-- ngSwitchWhen: true -->' at column 13, not column 9.     1
+#39 Expected 'another line with more info     1
+ #3 Expected 'frameworks' at column 9, not column 5.     1319
+#43 Use a named parameter.     3
+#31 Stopping. (1% scanned).     3
+ #8 Empty block.     24
+ #8 Unexpected assignment expression.     17
+#13 Confusing use of '!'.     1
+#40 Stopping. (22% scanned).     2
+#48 Expected 'Strict Contextual Escaping does not support Internet Explorer ' at column 25, not column 33.     1
+ #5 Unexpected 'var'.     1
+#30 Unused 'error'.     1
+ #9 Unescaped '/'.     2
+ #2 Expected 'click dblclick mousedown mouseup mouseover mouseout mousemove mouseenter mouseleave keydown keyup keypress submit focus blur copy cut paste' at column 5, not column 3.     1
+#10 Expected 'feat(scope): broadcast $destroy event on scope destruction     1
+#35 Stopping. (17% scanned).     1
+#26 Expected 'feat(ng-list): Allow custom separator     2
+ #6 Unused 'failure'.     1
+#14 Unused 'scope'.     7
+#22 Unexpected 'exports'.     1
+#32 Unused '$rootScope'.     2
+#16 Unused 'attr'.     3
+#30 Stopping. (34% scanned).     3
+#19 Unused 'opt_dest'.     1
+#21 Stopping. (4% scanned).     4
+#11 Stopping. (78% scanned).     2
+#12 Expected 'when destroying 10k nested scopes where each scope has a $destroy listener     2
+#39 Unused 'iterator'.     3
+#15 Unused 'elm'.     3
+#13 Unused '$provide'.     2
+#50 Expected 'the top of your HTML document.  See http://docs.angularjs.org/api/ng.$sce for more ' at column 29, not column 15.     1
+#44 Unused 'json'.     1
+#51 Too many errors. (50% scanned).     361
+ #8 Unused 'fn'.     4
+#49 Unused 'serializeXml'.     1
+#50 Unused '$document'.     1
+#24 Unused 'name'.     2
+#29 Stopping. (38% scanned).     2
+#43 Stopping. (58% scanned).     1
+#36 Stopping. (10% scanned).     1
+#25 Expected '<script type="text/javascript">some {{binding}}</script>' at column 13, not column 9.     2004
+#48 Stopping. (69% scanned).     1
+#18 Unused 'source'.     2
+#32 Expected 'the module name or forgot to load it. If registering a module ensure that you ' at column 25, not column 14.     2
+ #4 Expected 'Referencing "constructor" field in Angular expressions is disallowed! Expression: {0}' at column 13, not column 9.     4
+#26 Unused '$compile'.     3
+#36 Move 'var' declarations to the top of the function.     15
+#41 Unreachable 'function' after 'return'.     2
+#37 Expected 'Can't interpolate: {{testUrl}}     1
+#50 Stopping. (25% scanned).     1
+#22 Stopping. (13% scanned).     1
+#15 Stopping. (14% scanned).     2
+#20 Stopping. (2% scanned).     3
+#17 Unused 'element'.     7
+ #2 Insecure '.'.     25
+#48 Missing space between ':' and 'Author of <angular/> http://www.getangular.com.'.     2
+#47 JavaScript URL.     1
+#18 Unexpected ','.     1
+#17 Expected 'Illegal sequence *** in string matcher.  String: {0}' at column 17, not column 11.     1
+ #9 Expected '9b1aff905b638aa274a5fc8f88662df446d374bd     1
+#27 Stopping. (26% scanned).     1
+#27 Unexpected space between ')' and ')'.     24
+#43 Unused 'self'.     2
+#43 Expected 'ng-class="{A: conditionA, B: conditionB(), AnotB: conditionA&&!conditionB()}">' at column 25, not column 13.     1
+#44 Don't make functions within a loop.     1
+#28 Unused 'count'.     4
+#16 Stopping. (71% scanned).     2
+#19 Stopping. (48% scanned).     1
+#40 Unused 'opt_context'.     1
+#22 Unused '_'.     2
+#31 Unused 'value'.     1
+ #1 Expected exactly one space between 'function' and '('.     1403
+#28 Expected 'Closes #123     1
+#37 Unexpected 'in'. Compare with undefined, or use the hasOwnProperty method instead.     2
+#34 Unused 'id'.     3
+#28 Stopping. (41% scanned).     1
+#46 Unused '$window'.     2
+#14 Unexpected '|'.     3
+#36 Unused 'res'.     1
+#38 Unexpected '$document'.     1
+#11 Expected 'perf testing shows that in chrome this change adds 5-15% overhead     1
+#49 Expected 'version < 9 in quirks mode.  You can fix this by adding the text <!doctype html> to ' at column 29, not column 15.     1
+#38 Expected 'BREAKING CHANGE: first breaking change     1
+#23 Stopping. (19% scanned).     1
+ #2 Missing 'use strict' statement.     115
+#12 Stopping. (93% scanned).     3
+#11 Unused 'handler'.     2
+#48 Unused 'arg'.     2
+ #9 Combine this with the previous 'var' statement.     151
+#27 Unused 'underscore'.     1
+#23 Unexpected '--'.     4
+#46 Expected '<input ng-if="inputPresent" name="alias" ng-model="value" store-model-ctrl/>' at column 17, not column 9.     7
+#38 Unused 'obj'.     1
+#37 Stopping. (9% scanned).     1
+ #4 Unescaped '}'.     1
+#35 Unused 'getStyle'.     2
+#42 Unused 'event'.     2
+#32 Missing space between '}' and ';'.     77

@@ -1,0 +1,24 @@
+0005:  Illegal tab in whitespace before "var"         137263
+0210:  Missing docs for parameter: "target"         83
+0200:  Invalid JsDoc tag: product         16
+0212:  Parameter mismatch: got "obj", expected "The"         3
+0120:  Binary operator should go on previous line "&&"         141
+0131:  Single-quoted string preferred over double-quoted string.         45160
+0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)         77
+0211:  Found docs for non-existing parameter: "options"         8
+0214:  Missing description in @license tag         8
+0001:  Extra space after "function"         58853
+0013:  No semicolon is required to end a code block         31
+0213:  Missing type in @param tag         8
+0012:  Illegal semicolon after function declaration         24
+0216:  Type should be immediately after @param tag         28
+0215:  Missing name in @param tag         3
+0220:  No docs found for member 'ExportingTest.prototype.hasSVG'         272
+0002:  Missing space after ":"         159889
+0011:  Missing semicolon after function assigned to a variable         530
+0217:  Missing @return JsDoc in function with non-trivial return         174
+-002:  Error parsing file at token "<JavaScriptToken: 2, }, "}", {}, MetaData(None)>". Unable to check the rest of file.         5
+0010:  Missing semicolon at end of line         66
+0121:  Illegal comma at end of object literal         23
+0110:  Line too long (94 characters).         13063
+0100:  Member Series.prototype.options cannot have a non-primitive value         17

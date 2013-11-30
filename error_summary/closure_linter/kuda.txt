@@ -1,11 +1,24 @@
-0210:  Missing docs for parameter: "value"         1
+0210:  Missing docs for parameter: "value"         15
 0201:  Member "jQuery.cookie" should not have @desc JsDoc         1
-0200:  Invalid JsDoc tag: namespace         311
-0212:  Parameter mismatch: got "name", expected "String"         1
--002:  Error parsing file at token "<JavaScriptToken: 61, ), ")", {}, MetaData(None)>". Unable to check the rest of file.         2
-0130:  Multi-line strings are not allowed         6
-0213:  Missing type in @return tag         9
-0013:  Redundant semicolon         26
+0005:  Illegal tab in whitespace before """         72248
+0200:  Invalid JsDoc tag: namespace         319
+0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)         5
+0212:  Parameter mismatch: got "name", expected "String"         2
+0131:  Single-quoted string preferred over double-quoted string.         11088
+0120:  Binary operator should go on previous line ":"         657
+0211:  Found docs for non-existing parameter: "style"         1
+0130:  Multi-line strings are not allowed         9
+0001:  Extra space at end of line         12807
+0013:  Redundant semicolon         31
+0213:  Missing type in @return tag         10
+0012:  Illegal semicolon after function declaration         7
 0215:  Missing name in @param tag         2
-0121:  Illegal comma at end of object literal         6
-0100:  Member a.prototype._msgSent cannot have a non-primitive value         72
+0220:  No docs found for member 'THREE.Clock'         452
+0002:  Missing space before "{"         99922
+0011:  Missing semicolon after function assigned to a variable         1182
+0217:  Missing @return JsDoc in function with non-trivial return         8
+-002:  Error parsing file at token "<JavaScriptToken: 61, ), ")", {}, MetaData(None)>". Unable to check the rest of file.         2
+0010:  Missing semicolon at end of line         836
+0121:  Illegal comma at end of array literal         47
+0110:  Line too long (87 characters).         5249
+0100:  Member a.prototype._msgSent cannot have a non-primitive value         75

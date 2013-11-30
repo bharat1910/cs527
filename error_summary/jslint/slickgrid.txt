@@ -1,0 +1,43 @@
+#31 Unexpected 'apply'.     1
+#31 Unused 'dataContext'.     2
+#47 Unused 'cell'.     4
+#29 Stopping. (1% scanned).     1
+#35 Unexpected '++'.     1
+#12 Unexpected dangling '_' in '_grid'.     130
+#32 Stopping. (4% scanned).     1
+#26 Redefinition of 'b' from line 2.     1
+#40 Missing space between '+' and ''>'.     93
+ #1 Expected exactly one space between 'function' and '('.     59
+ #1 Missing 'use strict' statement.     31
+ #8 Unexpected TODO comment.     1
+#22 Unused 'e'.     2
+#21 Unnecessary 'else' after disruption.     2
+#39 Expected '' style='margin-left:' at column 17, not column 11.     627
+ #3 Expected 'Slick' at column 9, not column 5.     29
+ #2 Unexpected 'typeof'. Use '===' to compare directly with undefined.     4
+#20 Stopping. (2% scanned).     2
+#26 Move 'var' declarations to the top of the function.     5
+#15 Combine this with the previous 'var' statement.     81
+#15 Do not use 'new' for side effects.     1
+#18 Unexpected ','.     4
+#39 Unexpected '$'.     1
+#21 Unexpected character '(space)'.     5
+#10 Use spaces, not tabs.     47
+#19 Weird condition.     1
+#27 Stopping. (15% scanned).     1
+#48 Unused 'value'.     1
+#23 Empty block.     2
+#29 Expected '{' and instead saw '_grid'.     27
+ #2 'window' was used before it was defined.     109
+#51 Too many errors. (40% scanned).     19
+ #8 Unexpected space between 'opts' and ')'.     10
+#34 Stopping. (21% scanned).     3
+#39 Expected ')' to match '(' from line 3 and instead saw ','.     1
+#15 Stopping. (3% scanned).     1
+#46 Unused 'row'.     2
+#15 Missing '()'.     1
+#16 Unexpected '+'.     1
+#49 Unexpected '--'.     1
+#19 Stopping. (11% scanned).     2
+#49 Unused 'columnDef'.     3
+#30 Stopping. (36% scanned).     2
