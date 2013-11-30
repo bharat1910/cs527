@@ -4414,8 +4414,104 @@
     $.error( "jQuery.dialogExtend Error : Invalid <titlebar> value '" + settings.titlebar + "'" ); // Line 507, Pos 97
 #1000 Use spaces, not tabs.
     settings.titlebar = false; // Line 508, Pos 1
-#1001 Too many errors. (96% scanned).
-     // Line 508, Pos 1
+#1001 Expected 'settings' at column 21, not column 5.
+    settings.titlebar = false; // Line 508, Pos 5
+#1002 Use spaces, not tabs.
+    } // Line 509, Pos 1
+#1003 Expected '}' at column 17, not column 4.
+    } // Line 509, Pos 4
+#1004 Use spaces, not tabs.
+    //maintain chainability // Line 510, Pos 1
+#1005 Use spaces, not tabs.
+    return self; // Line 511, Pos 1
+#1006 Expected 'return' at column 17, not column 4.
+    return self; // Line 511, Pos 4
+#1007 Use spaces, not tabs.
+    } // Line 512, Pos 1
+#1008 Expected '}' at column 13, not column 3.
+    } // Line 512, Pos 3
+#1009 Use spaces, not tabs.
+    }; // Line 514, Pos 1
+#1010 Expected '}' at column 9, not column 2.
+    }; // Line 514, Pos 2
+#1011 Use spaces, not tabs.
+    //core method // Line 516, Pos 1
+#1012 Use spaces, not tabs.
+    $.fn.dialogExtend = function( method ){ // Line 517, Pos 1
+#1013 Expected '$' at column 5, not column 2.
+    $.fn.dialogExtend = function( method ){ // Line 517, Pos 2
+#1014 Expected exactly one space between 'function' and '('.
+    $.fn.dialogExtend = function( method ){ // Line 517, Pos 30
+#1015 Unexpected space between '(' and 'method'.
+    $.fn.dialogExtend = function( method ){ // Line 517, Pos 32
+#1016 Unexpected space between 'method' and ')'.
+    $.fn.dialogExtend = function( method ){ // Line 517, Pos 39
+#1017 Expected exactly one space between ')' and '{'.
+    $.fn.dialogExtend = function( method ){ // Line 517, Pos 40
+#1018 Use spaces, not tabs.
+    //method calling logic // Line 518, Pos 1
+#1019 Use spaces, not tabs.
+    if ( methods[ method ] ) { // Line 519, Pos 1
+#1020 Expected 'if' at column 9, not column 3.
+    if ( methods[ method ] ) { // Line 519, Pos 3
+#1021 Unexpected space between '(' and 'methods'.
+    if ( methods[ method ] ) { // Line 519, Pos 8
+#1022 Unexpected space between '[' and 'method'.
+    if ( methods[ method ] ) { // Line 519, Pos 17
+#1023 Unexpected space between 'method' and ']'.
+    if ( methods[ method ] ) { // Line 519, Pos 24
+#1024 Unexpected space between ']' and ')'.
+    if ( methods[ method ] ) { // Line 519, Pos 26
+#1025 Use spaces, not tabs.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 1
+#1026 Expected 'return' at column 13, not column 4.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 4
+#1027 Unexpected space between '[' and 'method'.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 20
+#1028 Unexpected space between 'method' and ']'.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 27
+#1029 Unexpected space between '(' and 'this'.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 36
+#1030 Unexpected space between '(' and 'arguments'.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 70
+#1031 Unexpected space between '1' and ')'.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 83
+#1032 Unexpected space between ')' and ')'.
+    return methods[ method ].apply( this, Array.prototype.slice.call( arguments, 1 ) ); // Line 520, Pos 85
+#1033 Expected '}' at column 9, not column 5.
+    } else if ( typeof method === "object" || ! method ) { // Line 521, Pos 5
+#1034 Unnecessary 'else' after disruption.
+    } else if ( typeof method === "object" || ! method ) { // Line 521, Pos 7
+#1035 Unexpected space between '(' and 'typeof'.
+    } else if ( typeof method === "object" || ! method ) { // Line 521, Pos 17
+#1036 Unexpected space between '!' and 'method'.
+    } else if ( typeof method === "object" || ! method ) { // Line 521, Pos 49
+#1037 Unexpected space between 'method' and ')'.
+    } else if ( typeof method === "object" || ! method ) { // Line 521, Pos 56
+#1038 Expected 'return' at column 13, not column 7.
+    return methods.init.apply( this, arguments ); // Line 522, Pos 7
+#1039 Unexpected space between '(' and 'this'.
+    return methods.init.apply( this, arguments ); // Line 522, Pos 34
+#1040 Unexpected space between 'arguments' and ')'.
+    return methods.init.apply( this, arguments ); // Line 522, Pos 50
+#1041 Expected '}' at column 9, not column 5.
+    } else { // Line 523, Pos 5
+#1042 Unnecessary 'else' after disruption.
+    } else { // Line 523, Pos 7
+#1043 Expected '$' at column 13, not column 7.
+    $.error( "jQuery.dialogExtend Error : Method <" + method + "> does not exist" ); // Line 524, Pos 7
+#1044 Unexpected space between '(' and 'jQuery.dialogExtend Error : Method <'.
+    $.error( "jQuery.dialogExtend Error : Method <" + method + "> does not exist" ); // Line 524, Pos 16
+#1045 Unexpected space between '> does not exist' and ')'.
+    $.error( "jQuery.dialogExtend Error : Method <" + method + "> does not exist" ); // Line 524, Pos 85
+#1046 Expected '}' at column 9, not column 5.
+    } // Line 525, Pos 5
+#1047 Use spaces, not tabs.
+    }; // Line 526, Pos 1
+#1048 Expected '}' at column 5, not column 2.
+    }; // Line 526, Pos 2
+#1049 'jQuery' was used before it was defined.
+    }(jQuery)); // Line 528, Pos 3
 
 /home/anusha/Desktop/cs527/modified_projects/jslint/mywebsql/js/options.js
  #1 Use spaces, not tabs.
