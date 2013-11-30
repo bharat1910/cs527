@@ -17,7 +17,7 @@ public class GenerateModifiedFileJsHInt {
 	private static List<String> LINES_TO_ADD = new ArrayList<>();
 	
 	static {
-		LINES_TO_ADD.add("/* jshint undef: true, unused: true */");
+		LINES_TO_ADD.add("/* jshint undef: false, unused: false, asi: true */");
 	}
 	
 	private void writeModifiedFile(File f) throws IOException

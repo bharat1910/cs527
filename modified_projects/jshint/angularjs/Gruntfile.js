@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var files = require('./angularFiles').files;
 var util = require('./lib/grunt/utils.js');
 var path = require('path');

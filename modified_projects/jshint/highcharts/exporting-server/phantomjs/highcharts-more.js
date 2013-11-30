@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*
  Highcharts JS v3.0.7 (2013-10-24)
 

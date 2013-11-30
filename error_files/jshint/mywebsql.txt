@@ -1,60 +1,12 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 23, col 37, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 35, col 68, Script URL.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 42, col 78, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 50, col 68, Script URL.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 58, col 33, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 70, col 13, Creating global 'for' variable. Should be 'for (var dlg ...'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 96, col 56, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 170, col 13, Creating global 'for' variable. Should be 'for (var dlg ...'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 15, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 20, col 9, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 21, col 13, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 24, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 38, col 42, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 41, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 41, col 61, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 42, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 43, col 9, 'main_layout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 48, col 9, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 50, col 9, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 51, col 30, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 52, col 9, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 53, col 9, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 53, col 42, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 54, col 9, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 59, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 66, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 71, col 17, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 72, col 34, 'dlg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 78, col 19, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 90, col 21, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 91, col 21, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 92, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 95, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 96, col 21, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 97, col 21, 'main_layout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 98, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 99, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 100, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 118, col 13, 'iframe' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 118, col 22, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 119, col 21, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 120, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 124, col 22, 'iframe' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 128, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 129, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 130, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 131, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 134, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 144, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 145, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/taskbar.js: line 145, col 13, Too many errors. (81% scanned).
 
-51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mysql.js: line 24, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mysql.js: line 12, col 13, 'db_mysql' is defined but never used.
-
-2 errors
+7 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/codemirror2.js: line 52, col 26, Use '!==' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/codemirror2.js: line 56, col 73, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/codemirror2.js: line 187, col 19, Use '===' to compare with 'null'.
@@ -108,35 +60,10 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/codemirror2.js: line 1293, col 19, Too many errors. (37% scanned).
 
 51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sqlite.js: line 25, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sqlite.js: line 12, col 14, 'db_sqlite' is defined but never used.
-
-2 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/json2.js: line 8, col 16, Read only.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/json2.js: line 24, col 169, eval can be harmful.
 
 2 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 30, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 34, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 44, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 48, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 12, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 13, col 21, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 16, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 20, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 24, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 28, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 32, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 36, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 41, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 42, col 5, 'h' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 43, col 37, 'h' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 46, col 1, 'textEditor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 20, col 42, 's' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 36, col 47, 's' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/texteditor.js: line 41, col 45, 'n' is defined but never used.
-
-19 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 43, col 52, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 51, col 21, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 66, col 23, Use '===' to compare with 'null'.
@@ -180,52 +107,29 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 165, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 174, col 16, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 175, col 28, This character may get silently deleted by one or more browsers.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 181, col 49, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 215, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 216, col 14, This character may get silently deleted by one or more browsers.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 232, col 11, Expected a 'break' statement before 'case'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 235, col 11, Unreachable 'break' after 'return'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 243, col 11, Unreachable 'break' after 'return'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 258, col 14, 'i' is already defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 258, col 14, Too many errors. (50% scanned).
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 260, col 1, Mixed spaces and tabs.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/sorttable.js: line 260, col 1, Too many errors. (51% scanned).
 
 51 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 46, col 18, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 86, col 1, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 96, col 19, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 43, col 21, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 43, col 35, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 209, col 55, 'location' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 257, col 4, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/treeview.js: line 170, col 32, 'binary' is defined but never used.
 
-8 errors
+2 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 133, col 18, Creating global 'for' variable. Should be 'for (var addedStyle ...'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 183, col 61, Unnecessary semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 249, col 30, 'self' is already defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 14, col 50, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 116, col 26, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 123, col 20, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 134, col 23, 'addedStyle' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 134, col 49, 'addedStyle' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 152, col 13, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 154, col 28, 'location' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 182, col 24, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 240, col 30, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 243, col 21, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 248, col 36, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 248, col 76, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 250, col 21, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/clipboard.js: line 306, col 21, 'window' is not defined.
 
-17 errors
+3 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 33, col 36, '$submitElement' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 36, col 13, '$submitElement' used out of scope.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 111, col 47, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 134, col 24, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 190, col 42, Use '===' to compare with 'true'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 208, col 16, Use '===' to compare with '0'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 318, col 45, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 394, col 23, 'i' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 411, col 42, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 421, col 25, Use '!==' to compare with '0'.
@@ -239,45 +143,13 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 697, col 30, Use '!==' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 700, col 24, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 700, col 47, Use '===' to compare with '0'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 25, col 13, '$encryptedElement' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 41, col 29, '$encryptedElement' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 42, col 92, '$encryptedElement' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 64, col 13, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 65, col 13, 'keys' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 65, col 41, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 65, col 49, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 65, col 57, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 67, col 37, 'keys' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 111, col 21, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 123, col 13, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 143, col 4, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 255, col 9, 'digit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 276, col 10, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 276, col 17, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 276, col 26, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 438, col 14, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 438, col 21, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 438, col 31, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 439, col 46, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 159, col 16, 'biRadixBase' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 166, col 15, 'maxInteger' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 198, col 23, 'biFromDecimal' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 261, col 21, 'biToDecimal' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 332, col 22, 'biFromString' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 350, col 16, 'biDump' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 627, col 15, 'biPow' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 641, col 18, 'biPowMod' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 33, col 35, '$submitElement' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 285, col 10, 'n' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/encrypt.js: line 285, col 10, Too many errors. (40% scanned).
 
-51 errors
+17 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 2, col 0, This character may get silently deleted by one or more browsers.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 10, col 38, Use '!==' to compare with 'undefined'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 24, col 29, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 66, col 23, 'tests' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 77, col 39, Use '===' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 86, col 124, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 87, col 25, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 95, col 18, Unnecessary semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 111, col 18, Unnecessary semicolon.
@@ -288,70 +160,52 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 182, col 18, Unnecessary semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 184, col 84, Unnecessary semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 216, col 18, Unnecessary semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 10, col 19, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 43, col 28, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 43, col 50, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 44, col 33, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 153, col 30, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 230, col 25, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 245, col 25, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 252, col 4, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/maskedinput.js: line 86, col 65, 'i' is defined but never used.
 
-25 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 110, Missing semicolon.
+15 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 127, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 128, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 318, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 319, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 428, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 567, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 611, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 670, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 774, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 823, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 824, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 833, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 929, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 945, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 954, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1040, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1052, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1070, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1088, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1124, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1125, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1142, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1190, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1191, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1220, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1221, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1258, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1259, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1344, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1354, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1592, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1593, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1668, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1725, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1807, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1808, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1879, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 1880, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2081, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2082, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2281, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2282, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2309, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2310, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2386, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2485, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2706, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2707, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2878, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2878, Too many errors. (75% scanned).
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 2961, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 3602, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 3639, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 3751, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 3781, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 3879, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 4093, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 4340, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 4494, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 4725, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 4770, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 5012, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 5307, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 5449, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 5523, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 5947, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 6116, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/mobile.js: line 3, col 6125, Expected an assignment or function call and instead saw an expression.
 
-51 errors
+42 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 33, col 5, Comma warnings can be turned off with 'laxcomma'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 32, col 24, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 33, col 51, Bad line breaking before ','.
@@ -374,7 +228,6 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 124, col 58, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 125, col 54, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 143, col 10, Unnecessary semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 144, col 19, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 145, col 5, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 157, col 26, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 167, col 13, Bad line breaking before '-'.
@@ -402,7 +255,8 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 241, col 35, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 242, col 37, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 248, col 38, Bad line breaking before ','.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 248, col 38, Too many errors. (5% scanned).
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 249, col 41, Bad line breaking before ','.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/layout.js: line 249, col 41, Too many errors. (5% scanned).
 
 51 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 37, col 28, A leading decimal point can be confused with a dot: '.01'.
@@ -421,29 +275,8 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 124, col 31, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 143, col 25, Bad line breaking before '+'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 144, col 25, Bad line breaking before '+'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 233, col 6, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 238, col 6, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 40, col 19, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 41, col 23, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 118, col 21, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 125, col 160, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 127, col 25, 'c' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 129, col 55, 'c' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 139, col 21, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 161, col 21, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 192, col 35, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 205, col 27, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 206, col 28, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 211, col 84, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 217, col 43, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 224, col 27, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 227, col 27, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 236, col 5, 'jAlert' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 240, col 5, 'jConfirm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 244, col 5, 'jPrompt' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/alerts.js: line 248, col 4, 'jQuery' is not defined.
 
-37 errors
+16 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 35, col 10, Creating global 'for' variable. Should be 'for (var index ...'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 85, col 23, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 93, col 49, Use '===' to compare with '0'.
@@ -456,50 +289,8 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 217, col 25, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 253, col 24, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 327, col 9, Creating global 'for' variable. Should be 'for (var index_name ...'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 17, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 18, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 18, col 11, 'selectedRow' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 19, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 19, col 11, 'selectedRow' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 20, col 9, 'selectedRow' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 22, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 22, col 28, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 23, col 5, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 23, col 29, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 23, col 52, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 27, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 31, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 33, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 34, col 5, 'options' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 35, col 19, 'indexInfo' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 36, col 9, 'options' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 36, col 40, 'index' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 36, col 55, 'index' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 37, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 37, col 26, 'options' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 41, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 42, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 43, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 45, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 47, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 48, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 49, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 50, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 51, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 52, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 54, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 64, col 35, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 70, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 71, col 5, 'index_name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 71, col 18, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 73, col 9, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 73, col 14, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/indexes.js: line 73, col 14, Too many errors. (19% scanned).
 
-51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/select.js: line 102, col 4, 'jQuery' is not defined.
-
-1 error
+12 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 47, col 29, ['wrkfrm'] is better written in dot notation.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 53, col 34, Script URL.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 91, col 46, Use '===' to compare with 'true'.
@@ -507,7 +298,6 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 97, col 65, 'r' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 100, col 81, Unnecessary semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 101, col 6, Unnecessary semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 119, col 6, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 123, col 30, ['lang'] is better written in dot notation.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 124, col 22, ['lang'] is better written in dot notation.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 242, col 9, 'i' used out of scope.
@@ -518,46 +308,11 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 250, col 14, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 253, col 17, Bad line breaking before '+'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 254, col 17, Bad line breaking before '+'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 13, col 10, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 14, col 9, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 15, col 9, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 15, col 15, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 16, col 9, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 20, col 9, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 20, col 15, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 21, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 24, col 5, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 25, col 5, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 26, col 5, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 27, col 5, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 30, col 9, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 32, col 9, 'callback' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 33, col 9, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 33, col 30, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 33, col 32, 'frm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 34, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 36, col 19, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 37, col 22, 'callback' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 43, col 5, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 44, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 44, col 27, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 45, col 9, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 45, col 16, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 47, col 9, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 47, col 16, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 48, col 12, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 52, col 5, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 53, col 5, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 57, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 62, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/common.js: line 62, col 5, Too many errors. (24% scanned).
 
-51 errors
+17 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 71, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 99, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 100, col 1, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 99, col 30, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 107, col 31, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 170, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 171, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 172, col 2, Mixed spaces and tabs.
@@ -568,15 +323,11 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 177, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 178, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 179, col 1, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 179, col 8, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 227, col 6, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 248, col 40, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 250, col 46, Use '===' to compare with '0'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 298, col 66, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 311, col 16, Use '!==' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 325, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 326, col 1, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 332, col 6, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 338, col 1, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 339, col 2, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 340, col 1, Mixed spaces and tabs.
@@ -591,45 +342,12 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 354, col 2, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 355, col 2, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 356, col 1, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 363, col 6, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 28, col 17, 'Editor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 213, col 14, 'tokenizer' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 323, col 3, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 324, col 5, 'parser' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 324, col 28, 'Editor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 324, col 48, 'stringStream' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 326, col 6, 'callback' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 327, col 26, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 328, col 26, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 331, col 24, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 335, col 9, 'callback' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/mysql.js: line 335, col 9, Too many errors. (91% scanned).
 
-51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 10, col 66, Missing semicolon.
+32 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 67, col 34, Expected a conditional expression and instead saw an assignment.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 93, col 34, Use '===' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 102, col 37, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 5, col 16, 'method' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 25, col 13, 'map' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 34, col 17, 'matcher' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 39, col 18, 'hasClass' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 43, col 21, 'removeClass' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 49, col 21, 'insertAfter' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 55, col 23, 'removeElement' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 60, col 22, 'clearElement' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 66, col 20, 'isAncestor' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 75, col 9, 'nbsp' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 76, col 13, 'matching' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 100, col 25, 'addEventHandler' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 114, col 18, 'nodeText' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 118, col 17, 'nodeTop' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 127, col 14, 'isBR' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/util.js: line 131, col 16, 'isSpan' is defined but never used.
 
-20 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 27, col 74, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 29, col 40, Missing semicolon.
+2 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 161, col 60, Script URL.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 166, col 33, Script URL.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 239, col 44, Expected a conditional expression and instead saw an assignment.
@@ -647,48 +365,11 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 533, col 7, Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 578, col 66, Expected a conditional expression and instead saw an assignment.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 580, col 69, Expected a conditional expression and instead saw an assignment.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 12, col 24, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 26, col 9, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 26, col 37, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 27, col 14, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 29, col 14, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 120, col 26, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 120, col 48, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 120, col 84, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 202, col 43, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 341, col 27, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 341, col 57, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 350, col 41, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 353, col 11, 'clearInterval' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 368, col 26, 'setInterval' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 377, col 27, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 433, col 25, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 454, col 24, 'clearTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 456, col 26, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 462, col 24, 'clearTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 494, col 7, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 497, col 9, 'clearTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 498, col 19, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 507, col 17, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 515, col 14, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 572, col 9, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 573, col 21, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 574, col 41, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 574, col 71, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 576, col 14, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 576, col 36, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 576, col 69, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/codemirror.js: line 576, col 69, Too many errors. (97% scanned).
 
-51 errors
+17 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/stringstream.js: line 157, col 19, Use '===' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/stringstream.js: line 35, col 18, 'StopIteration' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/stringstream.js: line 57, col 17, 'StopIteration' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/stringstream.js: line 96, col 31, 'StopIteration' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/stringstream.js: line 121, col 29, 'StopIteration' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/stringstream.js: line 18, col 17, 'stringStream' is defined but never used.
 
-6 errors
+1 error
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 38, col 17, Bad line breaking before '||'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 49, col 24, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 140, col 52, Use '===' to compare with '0'.
@@ -702,7 +383,6 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 330, col 59, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 348, col 35, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 351, col 5, Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 417, col 6, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 436, col 5, Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 456, col 46, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 457, col 35, Did you mean to return a conditional instead of an assignment?
@@ -713,67 +393,15 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 513, col 46, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 550, col 24, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 559, col 25, Use '===' to compare with '0'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 621, col 6, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 654, col 20, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 666, col 20, Use '===' to compare with '0'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 671, col 25, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 12, col 25, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 12, col 47, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 35, col 32, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 36, col 16, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 54, col 9, 'webkit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 62, col 12, 'isBR' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 69, col 40, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 73, col 53, 'nodeText' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 83, col 46, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 87, col 17, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 106, col 33, 'isBR' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 167, col 17, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 192, col 12, 'isAncestor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 192, col 23, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 221, col 17, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 233, col 21, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 236, col 35, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 278, col 21, 'isAncestor' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 340, col 19, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 378, col 26, 'isBR' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 400, col 21, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 437, col 37, 'isBR' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/select.js: line 437, col 37, Too many errors. (62% scanned).
 
-51 errors
+25 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 112, col 35, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 112, col 49, Use '===' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 192, col 56, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 321, col 21, 'curLine' is already defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 56, col 5, 'parent' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 57, col 26, 'parent' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 108, col 48, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 109, col 46, 'cleanText' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 150, col 10, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 150, col 21, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 150, col 39, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 158, col 5, 'parent' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 192, col 5, 'forEach' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 192, col 20, 'method' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 199, col 9, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 199, col 32, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 200, col 7, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 242, col 7, 'lostundo' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 264, col 21, 'isBR' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 266, col 42, 'cleanText' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 273, col 5, 'forEach' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 289, col 25, 'isBR' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 297, col 5, 'forEach' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 361, col 18, 'select' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 369, col 9, 'removeElement' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 387, col 18, 'makePartSpan' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 387, col 31, 'fixSpaces' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 402, col 9, 'select' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 406, col 9, 'select' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/undo.js: line 162, col 44, 'self' is defined but never used.
 
-30 errors
+3 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 102, col 53, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 255, col 18, Use '===' to compare with 'undefined'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 290, col 20, 'line' is already defined.
@@ -802,9 +430,7 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 964, col 17, 'sel' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 965, col 18, 'next' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 985, col 15, Bad line breaking before '&&'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1015, col 75, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1026, col 23, Use '!==' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1027, col 95, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1038, col 23, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1071, col 22, Use '!==' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1136, col 13, Use '===' to compare with '0'.
@@ -819,20 +445,12 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1553, col 59, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1602, col 23, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 1607, col 24, Use '!==' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 8, col 24, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 8, col 46, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 8, col 82, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 9, col 33, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 10, col 41, 'navigator' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/editor.js: line 10, col 41, Too many errors. (0% scanned).
 
-51 errors
+43 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/tokenize.js: line 25, col 17, 'tokenizer' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/tokenize.js: line 52, col 71, Don't make functions within a loop.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/tokenize.js: line 40, col 33, 'StopIteration' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editor/tokenize.js: line 17, col 19, 'tokenizer' is defined but never used.
 
-4 errors
+2 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 26, col 11, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 45, col 18, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 50, col 26, Use '===' to compare with ''.
@@ -855,37 +473,8 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 433, col 75, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 480, col 85, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 482, col 23, Use '!==' to compare with ''.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 503, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 514, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 25, col 5, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 25, col 12, 'getFrame' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 27, col 13, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 28, col 13, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 28, col 17, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 29, col 18, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 30, col 13, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 30, col 17, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 32, col 13, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 32, col 17, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 35, col 9, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 35, col 13, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 37, col 9, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 37, col 13, 'xfrm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 39, col 12, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 43, col 5, 'strQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 44, col 5, 'strMsg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 44, col 14, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 45, col 9, 'strQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 46, col 9, 'strQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 47, col 9, 'strMsg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 47, col 18, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 50, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 50, col 16, 'strQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 51, col 9, 'jAlert' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 51, col 16, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/query.js: line 51, col 16, Too many errors. (9% scanned).
 
-51 errors
+22 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 15, col 14, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 47, col 13, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 67, col 33, ['username'] is better written in dot notation.
@@ -898,112 +487,17 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 236, col 14, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 250, col 18, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 250, col 36, Use '===' to compare with ''.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 13, col 5, 'user' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 13, col 12, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 15, col 9, 'user' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 18, col 16, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 19, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 20, col 5, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 20, col 41, 'user' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 24, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 25, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 25, col 11, 'selectedRow' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 26, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 26, col 11, 'selectedRow' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 27, col 9, 'selectedRow' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 29, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 30, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 32, col 5, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 33, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 34, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 40, col 5, 'check' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 40, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 41, col 5, 'n' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 41, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 42, col 5, 'cls' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 43, col 9, 'n' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 44, col 9, 'cls' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 45, col 14, 'n' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 46, col 9, 'cls' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 47, col 9, 'cls' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 48, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 48, col 11, 'cls' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 48, col 32, 'check' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 50, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 50, col 7, 'cls' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 50, col 18, 'n' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 54, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 58, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 59, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 60, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/users.js: line 60, col 5, Too many errors. (21% scanned).
 
-51 errors
+12 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/dialogs.js: line 27, col 3, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/dialogs.js: line 126, col 31, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/dialogs.js: line 127, col 30, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/dialogs.js: line 529, col 3, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/dialogs.js: line 257, col 39, 'evt' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/dialogs.js: line 434, col 25, 'original' is defined but never used.
 
-6 errors
+1 error
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 73, col 18, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 132, col 22, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 143, col 22, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 182, col 20, Use '===' to compare with '0'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 13, col 5, 'optionsConfirm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 13, col 20, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 16, col 33, 'optionsConfirmSave' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 17, col 13, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 25, col 9, 'loc' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 25, col 22, 'escape' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 26, col 9, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 26, col 27, 'loc' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 30, col 5, 'db' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 30, col 11, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 30, col 53, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 31, col 5, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 31, col 22, 'escape' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 31, col 29, 'db' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 32, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 34, col 15, 'data' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 36, col 13, 'success' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 36, col 23, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 37, col 16, 'success' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 41, col 17, 'jAlert' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 41, col 24, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 48, col 5, 'msg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 48, col 11, 'str_replace' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 48, col 54, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 49, col 5, 'optionsConfirm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 49, col 20, 'msg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 52, col 33, 'optionsConfirmSave' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 53, col 17, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 53, col 40, 'type' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 59, col 5, 'msg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 59, col 11, 'str_replace' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 59, col 54, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 60, col 5, 'optionsConfirm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 60, col 20, 'msg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 63, col 33, 'optionsConfirmSave' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 64, col 17, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 64, col 41, 'type' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 72, col 9, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 72, col 16, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 72, col 23, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 73, col 13, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 75, col 13, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 75, col 42, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 75, col 48, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 76, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 82, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/options.js: line 82, col 9, Too many errors. (25% scanned).
 
-51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/pgsql.js: line 24, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/pgsql.js: line 12, col 13, 'db_pgsql' is defined but never used.
-
-2 errors
+4 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 76, col 25, Use '!==' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 89, col 62, ['fname'] is better written in dot notation.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 105, col 10, Don't make functions within a loop.
@@ -1019,9 +513,6 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 263, col 26, ['list'] is better written in dot notation.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 272, col 21, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 283, col 14, ['type'] is better written in dot notation.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 287, col 43, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 295, col 43, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 304, col 42, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 328, col 14, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 328, col 28, Use '===' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 336, col 33, Use '===' to compare with '0'.
@@ -1033,30 +524,8 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 494, col 26, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 545, col 106, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 589, col 13, Use '!==' to compare with ''.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 18, col 45, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 60, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 61, col 62, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 62, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 63, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 64, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 65, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 66, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 67, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 68, col 55, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 72, col 10, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 72, col 15, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 72, col 20, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 73, col 9, 'rows' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 74, col 14, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 74, col 19, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 74, col 39, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 75, col 13, 'rows' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 75, col 52, 'j' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 77, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 77, col 61, 'rows' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/editable.js: line 77, col 61, Too many errors. (12% scanned).
 
-51 errors
+26 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 52, col 29, Use '!==' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 78, col 22, Use '!==' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 104, col 53, ['name'] is better written in dot notation.
@@ -1074,42 +543,8 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 259, col 56, The object literal notation {} is preferrable.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 289, col 18, ['type'] is better written in dot notation.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 326, col 14, Use '===' to compare with ''.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 342, col 56, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 36, col 9, 'sorttable' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 37, col 9, 'table' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 37, col 17, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 38, col 9, 'sorttable' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 38, col 32, 'table' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 42, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 43, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 45, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 46, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 51, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 53, col 17, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 54, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 61, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 63, col 12, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 64, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 66, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 73, col 9, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 77, col 5, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 77, col 10, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 81, col 5, 'isBlob' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 81, col 14, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 82, col 5, 'isText' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 82, col 14, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 83, col 5, 'txt' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 83, col 12, 'isText' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 83, col 21, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 83, col 49, 'isBlob' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 83, col 58, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 83, col 85, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 84, col 5, 'tstyle' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 84, col 14, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 86, col 5, 'td' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/tables.js: line 86, col 5, Too many errors. (24% scanned).
 
-51 errors
+17 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 40, col 45, eval can be harmful.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 50, col 9, Comma warnings can be turned off with 'laxcomma'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 49, col 42, Bad line breaking before ','.
@@ -1131,174 +566,80 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 140, col 25, Use '===' to compare with '0'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 240, col 14, Use '!==' to compare with ''.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 316, col 14, Use '===' to compare with ''.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 326, col 76, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 336, col 25, Use '===' to compare with ''.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 353, col 2, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 12, col 1, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 20, col 1, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 20, col 3, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 21, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 21, col 27, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 22, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 23, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 24, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 28, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 35, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 36, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 38, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 40, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 40, col 50, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 41, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 41, col 52, '_contextMenu' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 41, col 66, '_contextMenu' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 43, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 44, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 45, col 39, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 48, col 5, 'main_layout_props' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 51, col 42, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 56, col 66, 'layoutState' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 60, col 19, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 60, col 37, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 60, col 46, 'main_layout_props' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/interface.js: line 60, col 46, Too many errors. (16% scanned).
 
-51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 14, col 9, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 14, col 14, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 14, col 34, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 15, col 9, 'arg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 15, col 25, 'i' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 16, col 9, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 16, col 15, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 16, col 39, 'arg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 18, col 13, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 19, col 17, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 20, col 17, 'val' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 20, col 23, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 22, col 17, 'val' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 22, col 23, 'obj' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 23, col 13, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 23, col 34, 'arg' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 23, col 39, 'val' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 23, col 51, 'EXTERNAL_PATH' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 23, col 79, 'COOKIE_LIFETIME' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 27, col 5, 'jAlert' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 27, col 12, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 32, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 32, col 37, 'EXTERNAL_PATH' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 32, col 65, 'COOKIE_LIFETIME' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 36, col 12, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 40, col 5, 'ask' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 40, col 11, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 41, col 9, 'ask' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 43, col 12, 'jConfirm' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 43, col 26, '__' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 47, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 47, col 47, 'EXTERNAL_PATH' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 47, col 75, 'COOKIE_LIFETIME' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 52, col 5, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 52, col 12, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 53, col 9, '$' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 13, col 21, 'optionsSave' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 31, col 20, 'optionsSet' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 35, col 20, 'optionsGet' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 39, col 24, 'optionsConfirm' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 46, col 28, 'optionsConfirmSave' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/settings.js: line 51, col 22, 'optionsReset' is defined but never used.
-
-42 errors
+22 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 53, col 73, Value of 'e' may be overwritten in IE 8 and earlier.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 27, col 32, 'clearTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 38, col 36, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 44, col 32, 'clearTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 57, col 22, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 61, col 56, 'clearTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 70, col 65, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 77, col 65, 'setTimeout' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hoverintent.js: line 85, col 4, 'jQuery' is not defined.
 
-9 errors
+1 error
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 96, col 55, Use '===' to compare with 'null'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 154, col 22, Don't make functions within a loop.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 155, col 84, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 174, col 4, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 222, col 33, Bad line breaking before '||'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 224, col 33, Bad line breaking before '||'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 230, col 31, 'x' is already defined.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 235, col 33, Bad line breaking before '||'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 241, col 24, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 249, col 5, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/hotkeys.js: line 251, col 4, 'jQuery' is not defined.
 
-11 errors
+8 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 30, 'c' is already defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 203, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 294, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 433, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 442, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1078, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1079, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1083, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1119, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1301, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1473, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1523, Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1632, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1700, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1955, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1968, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 1978, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2128, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2130, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2201, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2450, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2451, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2455, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2757, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2759, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2898, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2900, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2900, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2901, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 2969, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3033, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3118, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3409, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3415, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3556, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3557, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3710, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3711, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3829, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 3992, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 4038, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 4122, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 4124, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 6, col 4125, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 96, Use '!==' to compare with 'null'.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 140, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 155, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 156, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 353, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 386, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 386, Too many errors. (14% scanned).
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 611, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 612, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 624, Missing '()' invoking a constructor.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 824, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 1250, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 1322, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 1552, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 1684, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 2048, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 2241, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 2856, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 2904, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 2988, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 10, col 3016, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 299, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 467, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 664, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 760, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 1080, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 1177, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 1238, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 1885, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 14, col 2631, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 781, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 1731, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 1799, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 2914, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 3099, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 3521, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 3861, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 18, col 3865, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 715, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 1136, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 2217, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 2581, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 2642, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 3097, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 3286, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 3498, Confusing use of '!'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ui.js: line 22, col 3498, Too many errors. (32% scanned).
 
 51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 101, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 308, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 463, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 547, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 548, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 556, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 569, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 657, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 668, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 687, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 729, Did you mean to return a conditional instead of an assignment?
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 736, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 802, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 845, Missing '()' invoking a constructor.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 859, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 931, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1093, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1104, Expected an assignment or function call and instead saw an expression.
@@ -1306,99 +647,54 @@
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1269, Confusing use of '!'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1280, Confusing use of '!'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1288, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1295, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1364, Confusing use of '!'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1385, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1386, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1396, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1506, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1592, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1651, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1733, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1741, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1742, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1749, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1777, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1790, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1917, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 1918, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2005, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2112, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2132, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2133, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2193, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2348, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2388, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2398, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2465, Expected an assignment or function call and instead saw an expression.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2639, Expected an assignment or function call and instead saw an expression.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2640, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2642, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2642, Too many errors. (50% scanned).
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2913, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 2948, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 3188, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 3280, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 3479, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 4297, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 4432, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 4535, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 5494, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 5498, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 6977, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7076, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7197, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7473, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7597, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7628, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7805, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 7973, Use '===' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 8264, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 8359, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 9036, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 9070, Use '!==' to compare with 'null'.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 9101, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 9264, Expected an assignment or function call and instead saw an expression.
+/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/jquery.js: line 3, col 9264, Too many errors. (50% scanned).
 
 51 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/cookies.js: line 10, col 15, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/cookies.js: line 102, col 61, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/cookies.js: line 237, col 9, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/cookies.js: line 315, col 9, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/cookies.js: line 449, col 14, 'window' is not defined.
-
-5 errors
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 13, col 5, 'id' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 13, col 10, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 14, col 5, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 14, col 12, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 15, col 5, 'query' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 15, col 13, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 16, col 5, 'x' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 16, col 9, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 17, col 5, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 17, col 30, 'id' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 17, col 34, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 17, col 40, 'query' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 21, col 5, 'id' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 21, col 10, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 22, col 5, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 22, col 12, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 23, col 5, 'query' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 23, col 13, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 24, col 5, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 25, col 5, 'wrkfrmSubmit' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 25, col 30, 'id' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 25, col 34, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 25, col 40, 'query' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 12, col 24, 'blobChangeType' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/blobs.js: line 20, col 18, 'blobSave' is defined but never used.
-
-25 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 41, col 25, A leading decimal point can be confused with a dot: '.2'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 109, col 2, Mixed spaces and tabs.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 115, col 91, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 138, col 52, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 161, col 146, Missing semicolon.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 164, col 37, Comma warnings can be turned off with 'laxcomma'.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 163, col 152, Bad line breaking before ','.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 230, col 21, eval can be harmful.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 242, col 69, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 249, col 41, Missing semicolon.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 225, col 21, 'otarget' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 227, col 21, 'p' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 227, col 27, 'otarget' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 228, col 21, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 228, col 28, 'p' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 228, col 32, 'p' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 228, col 44, 'otarget' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 228, col 87, 'otarget' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 229, col 21, 'tempFn' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 229, col 75, 'name' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 230, col 26, 'tempFn' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 242, col 19, 'document' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 254, col 28, 'window' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 285, col 4, 'jQuery' is not defined.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 190, col 35, 'e' is defined but never used.
-/home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/context.js: line 247, col 52, 'e' is defined but never used.
 
-26 errors
+5 errors
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ehelp.js: line 10, col 3, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ehelp.js: line 11, col 3, Mixed spaces and tabs.
 /home/anusha/Desktop/cs527/modified_projects/jshint/mywebsql/js/ehelp.js: line 30, col 2, Mixed spaces and tabs.

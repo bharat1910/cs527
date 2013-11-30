@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * @license canvg.js - Javascript SVG parser and renderer on Canvas
  * MIT Licensed 

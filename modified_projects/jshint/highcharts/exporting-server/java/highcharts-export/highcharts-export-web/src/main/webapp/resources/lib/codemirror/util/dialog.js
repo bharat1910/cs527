@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 // Open simple dialogs on top of an editor. Relies on dialog.css.
 
 (function() {

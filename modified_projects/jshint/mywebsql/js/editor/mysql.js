@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*
 modified parsesql.js for mysql syntax highlighting
 Copyright (c) 2009 John Benediktsson

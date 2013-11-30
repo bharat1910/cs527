@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * The EventMonitor class is a helper class that verifies arguments used
  * in event methods. It also keeps count of adds and removes to help

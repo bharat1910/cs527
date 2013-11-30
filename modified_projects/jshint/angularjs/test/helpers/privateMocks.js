@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 function createMockStyleSheet(doc, wind) {
   doc = doc ? doc[0] : document;
   wind = wind || window;

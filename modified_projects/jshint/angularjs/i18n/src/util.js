@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 exports.findLocaleId = function findLocaleId(str, type) {
   if (type === 'num') {
     return (str.match(/^NumberFormatSymbols_(.+)$/) || [])[1];

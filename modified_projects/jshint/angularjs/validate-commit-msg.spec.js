@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 describe('validate-commit-msg.js', function() {
   var m = require('./validate-commit-msg');
   var errors = [];

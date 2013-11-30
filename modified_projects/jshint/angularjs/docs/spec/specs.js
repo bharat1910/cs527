@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 if (global.jasmine) return;
 
 var jasmine = require('../../lib/jasmine-1.0.1');

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * @fileOverview Very simple personal log demo application to demonstrate angular functionality,
  *               especially:

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*
  * jquery.simulate - simulate browser mouse and keyboard events
  *

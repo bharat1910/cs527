@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var util = require('../src/util.js');
 
 describe('findLocaleId', function() {

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 'use strict';
 // NOTE:  The usage of window and document instead of $window and $document here is
 // deliberate.  This service depends on the specific behavior of anchor nodes created by the

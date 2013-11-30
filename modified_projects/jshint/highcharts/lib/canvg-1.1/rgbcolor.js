@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * @license A class to parse color values
  * @author Stoyan Stefanov <sstoo@gmail.com>

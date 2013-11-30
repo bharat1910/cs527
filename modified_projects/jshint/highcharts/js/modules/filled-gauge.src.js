@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * Filled angular gauge module for Highcharts
  * License: www.highcharts.com/license

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 angular.module.ng('myApplication', function($resource){
   this.Activity = $resource(
       'https://www.googleapis.com/buzz/v1/activities/:userId/:visibility/:activityId/:comments',

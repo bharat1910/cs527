@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /* The Editor object manages the content of the editable frame. It
  * catches events, colours nodes, and indents lines. This file also
  * holds some functions for transforming arbitrary DOM structures into

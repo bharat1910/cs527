@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 ﻿/*
 	Masked Input plugin for jQuery
 	Copyright (c) 2007-2009 Josh Bush (digitalbush.com)

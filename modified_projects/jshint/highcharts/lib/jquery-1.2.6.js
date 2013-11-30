@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 (function(){
 /*
  * jQuery 1.2.6 - New Wave Javascript

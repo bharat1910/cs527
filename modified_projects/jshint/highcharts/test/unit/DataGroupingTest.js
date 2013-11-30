@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var DataGroupingTest = TestCase("DataGroupingTest");
 
 DataGroupingTest.prototype.testApproxSum = function () {

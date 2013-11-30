@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 // Define match-highlighter commands. Depends on searchcursor.js
 // Use by attaching the following function call to the onCursorActivity event:
 	//myCodeMirror.matchHighlight(minChars);

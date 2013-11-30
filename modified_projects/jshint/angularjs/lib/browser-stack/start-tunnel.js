@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var fs = require('fs');
 var http = require('http');
 var BrowserStackTunnel = require('browserstacktunnel-wrapper');

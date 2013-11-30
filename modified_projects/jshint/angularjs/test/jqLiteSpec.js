@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 describe('jqLite', function() {
   var scope, a, b, c;
 

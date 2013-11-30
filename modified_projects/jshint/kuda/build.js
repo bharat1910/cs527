@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 // WARNING: When using process.exit() you may exit or cut off an operation due
 // to node's/JavaScript non-blocking calls
 

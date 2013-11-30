@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * All parsing/transformation code goes here. All code here should be sync to ease testing.
  */

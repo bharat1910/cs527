@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*
  * EmbeddedHelp v1.1.4 - jQuery help plugin
  * file: jquery.ehelp-1.1.4.js

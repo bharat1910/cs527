@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 describe("localized filters", function() {
   describe("es locale", function() {
     beforeEach(function() {

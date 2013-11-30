@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * after obtaining data from closure files, use converter to massage the data into the formats
  * we want

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*!
  * jQuery JavaScript Library v1.6.4
  * http://jquery.com/

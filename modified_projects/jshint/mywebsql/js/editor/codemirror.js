@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /* CodeMirror main module (http://codemirror.net/)
  *
  * Implements the CodeMirror constructor and prototype, which take care

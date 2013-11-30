@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var usdeur = [
 [Date.UTC(2009,8,14),0.6832],
 [Date.UTC(2009,8,15),0.6817],

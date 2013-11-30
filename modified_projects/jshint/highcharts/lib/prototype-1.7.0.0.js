@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*  Prototype JavaScript framework, version 1.7
  *  (c) 2005-2010 Sam Stephenson
  *

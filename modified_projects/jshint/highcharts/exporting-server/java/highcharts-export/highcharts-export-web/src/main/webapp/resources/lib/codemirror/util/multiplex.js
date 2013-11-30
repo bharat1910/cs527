@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 CodeMirror.multiplexingMode = function(outer /*, others */) {
   // Others should be {open, close, mode [, delimStyle]} objects
   var others = Array.prototype.slice.call(arguments, 1);

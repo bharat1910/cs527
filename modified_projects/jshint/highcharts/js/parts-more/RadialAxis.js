@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 
 var axisProto = Axis.prototype,
 	tickProto = Tick.prototype;

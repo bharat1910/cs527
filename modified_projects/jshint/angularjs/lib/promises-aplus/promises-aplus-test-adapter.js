@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var isFunction = function isFunction(value){return typeof value == 'function';}
 
 var $q = qFactory(process.nextTick, function noopExceptionHandler() {});

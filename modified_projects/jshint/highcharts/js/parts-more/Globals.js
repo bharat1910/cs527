@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var arrayMin = Highcharts.arrayMin,
 	arrayMax = Highcharts.arrayMax,
 	each = Highcharts.each,

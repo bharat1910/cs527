@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var closureI18nExtractor = require('../src/closureI18nExtractor.js');
 var converter = require('../src/converter.js');
 findLocaleId = closureI18nExtractor.findLocaleId;

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * The Point object and prototype. Inheritable and used as base for PiePoint
  */

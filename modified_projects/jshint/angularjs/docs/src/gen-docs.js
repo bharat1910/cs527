@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var reader = require('./reader.js'),
     ngdoc = require('./ngdoc.js'),
     writer = require('./writer.js'),

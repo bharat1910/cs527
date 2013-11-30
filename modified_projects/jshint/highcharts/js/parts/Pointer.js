@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * The mouse tracker object. All methods starting with "on" are primary DOM event handlers. 
  * Subsequent methods should be named differently from what they are doing.

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 
 /**
  * Set the tick positions to a time unit that makes sense, for example

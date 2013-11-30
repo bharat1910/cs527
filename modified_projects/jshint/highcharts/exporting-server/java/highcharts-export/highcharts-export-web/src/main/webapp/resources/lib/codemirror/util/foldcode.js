@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 // the tagRangeFinder function is
 //   Copyright (C) 2011 by Daniel Glazman <daniel@glazman.org>
 // released under the MIT license (../../LICENSE) like the rest of CodeMirror

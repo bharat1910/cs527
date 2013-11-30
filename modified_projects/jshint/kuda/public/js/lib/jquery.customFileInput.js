@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 jQuery.fn.choose = function(f) {
 	$(this).bind('choose', f);
 };

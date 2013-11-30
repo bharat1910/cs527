@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 'use strict';
 
 describe('ngKeyup and ngKeydown directives', function() {

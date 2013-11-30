@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * @license @product.name@ JS v@product.version@ (@product.date@)
  * Prototype adapter

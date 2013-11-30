@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 describe('example.personalLog.LogCtrl', function() {
   var logScope;
 

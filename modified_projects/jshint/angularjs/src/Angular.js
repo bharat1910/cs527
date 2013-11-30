@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 'use strict';
 
 /* We need to tell jshint what variables are being exported */

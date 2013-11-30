@@ -20,9 +20,9 @@ public class GenerateErrorFile
 	private static String DEST = "error_files/";
 	
 	static {
-		//commandForTool.put("jshint", "jshint ");
+		commandForTool.put("jshint", "jshint ");
 		//commandForTool.put("jslint", "jslint ");
-		commandForTool.put("closure_linter", "gjslint ");
+		//commandForTool.put("closure_linter", "gjslint ");
 		
 		projects.add("highcharts");
 		projects.add("angularjs");
@@ -46,7 +46,7 @@ public class GenerateErrorFile
 
 			while ((str = br.readLine()) != null) {
 				bw.append(str + "\n");
-				System.out.println(str);
+				//System.out.println(str);
 			}
 		}
 	}

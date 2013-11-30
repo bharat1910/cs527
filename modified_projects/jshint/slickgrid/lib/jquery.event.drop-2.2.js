@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*! 
  * jquery.event.drop - v 2.2
  * Copyright (c) 2010 Three Dub Media - http://threedubmedia.com

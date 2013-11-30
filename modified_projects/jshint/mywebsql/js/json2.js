@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /* json2.js 
  * 2008-01-17
  * Public Domain

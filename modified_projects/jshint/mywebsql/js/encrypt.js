@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*
  * jCryption JavaScript data encryption v1.2
  * http://www.jcryption.org/

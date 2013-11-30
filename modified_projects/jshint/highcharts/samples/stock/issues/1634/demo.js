@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 $(function () {
     var data1 = [
         [1301616000000, 5.33],

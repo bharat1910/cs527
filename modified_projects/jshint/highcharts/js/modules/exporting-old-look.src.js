@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * @license
  * Highcharts compatibilty pack for bringing the 2.x look for the print/export buttons back in Highcharts 3.

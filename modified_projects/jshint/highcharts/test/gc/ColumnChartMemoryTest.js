@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var ColumnChartMemoryTest = TestCase("ColumnChartMemoryTest");
 
 ColumnChartMemoryTest.prototype = new ChartMemoryTest();

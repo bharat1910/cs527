@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /*
  * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
  * The MIT License (MIT)

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 // TODO actually recognize syntax of TypeScript constructs
 
 CodeMirror.defineMode("javascript", function(config, parserConfig) {

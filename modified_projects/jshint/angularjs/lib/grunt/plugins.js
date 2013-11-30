@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var bower = require('bower');
 var util = require('./utils.js');
 var spawn = require('child_process').spawn;

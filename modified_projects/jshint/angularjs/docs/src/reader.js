@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /**
  * All reading related code here. This is so that we can separate the async code from sync code
  * for testability

@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 CodeMirror.runMode = function(string, modespec, callback, options) {
   function esc(str) {
     return str.replace(/[<&]/g, function(ch) { return ch == "<" ? "&lt;" : "&amp;"; });

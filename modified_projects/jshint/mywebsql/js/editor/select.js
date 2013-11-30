@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 /* Functionality for finding, storing, and restoring selections
  *
  * This does not provide a generic API, just the minimal functionality

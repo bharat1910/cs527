@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var SiteMap = require('../src/SiteMap.js').SiteMap;
 var Doc = require('../src/ngdoc.js').Doc;
 

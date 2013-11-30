@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 var AreaChartMemoryTest = TestCase("AreaChartMemoryTest");
 
 AreaChartMemoryTest.prototype = new ChartMemoryTest();

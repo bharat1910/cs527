@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 module.exports = function(config, specificOptions) {
   config.set({
     frameworks: ['jasmine'],

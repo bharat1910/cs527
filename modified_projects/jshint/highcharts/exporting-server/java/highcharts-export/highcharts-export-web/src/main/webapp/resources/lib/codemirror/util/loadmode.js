@@ -1,4 +1,4 @@
-/* jshint undef: true, unused: true */
+/* jshint undef: false, unused: false, asi: true */
 (function() {
   if (!CodeMirror.modeURL) CodeMirror.modeURL = "../mode/%N/%N.js";
 
