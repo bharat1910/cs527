@@ -20,8 +20,9 @@ public class GenerateErrorFile
 	private static String DEST = "error_files/";
 	
 	static {
-		commandForTool.put("jshint", "jshint ");
-		commandForTool.put("jslint", "jslint ");
+		//commandForTool.put("jshint", "jshint ");
+		//commandForTool.put("jslint", "jslint ");
+		commandForTool.put("closure_linter", "gjslint ");
 		
 		projects.add("highcharts");
 		projects.add("angularjs");
