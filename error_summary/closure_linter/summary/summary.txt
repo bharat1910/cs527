@@ -1,0 +1,17 @@
+333947                0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)
+9                0130:  Multi-line strings are not allowed
+94817                0131:  Single-quoted string preferred over double-quoted string.
+1430                0220:  No docs found for member 'window.CodeMirror'
+26716                0110:  Line too long (107 characters).
+46                0212:  Parameter mismatch: got "delay", expected "number"
+65                0013:  No semicolon is required to end a code block
+11                -002:  Error parsing file at token "<JavaScriptToken: 4, }, "}", {}, MetaData(None)>". Unable to check the rest of file.
+48                0210:  Missing docs for parameter: "id"
+14                0013:  Semicolon without any statement
+79                0200:  Invalid JsDoc tag: file
+1567                0120:  Binary operator should go on previous line "||"
+97                0222:  Member "this.$$parse" must not have @private JsDoc
+14183                0010:  Missing semicolon at end of line
+287493                0005:  Illegal tab in whitespace before "_win"
+59                0216:  Type should be immediately after @param tag
+40                0012:  Illegal semicolon after function declaration
