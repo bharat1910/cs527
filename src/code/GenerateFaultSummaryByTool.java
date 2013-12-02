@@ -18,7 +18,7 @@ public class GenerateFaultSummaryByTool {
 	private static List<String> tools = new ArrayList<String>();
 	private double THRESHOLD = 0.7;
 	private Map<String, Integer> errorCountMap;
-	private Map<String, Integer> errorDescriptionMap = new HashMap<>();
+	private Map<String, String> errorDescriptionMap = new HashMap<>();
 	
 	static {
 		tools.add("jshint");
@@ -72,7 +72,7 @@ public class GenerateFaultSummaryByTool {
 			if (flag) {
 				if (tool.equals("closure_linter")) {
 					errorCountMap.put(strList[1].split(":")[0].trim(), Integer.parseInt(strList[0]));
-					errorDescriptionMap.put(strList[1].split(":")[1], Integer.parseInt(strList[0]));
+					errorDescriptionMap.put(strList[1].split(":")[0].trim(), strList[1]);
 				} else {
 					errorCountMap.put(strList[1], Integer.parseInt(strList[0]));
 				}
@@ -97,7 +97,7 @@ public class GenerateFaultSummaryByTool {
 		
 		for (Entry<String, Integer> e : errorCountMap.entrySet()) {
 			if (tool.equals("closure_linter")) {
-				bw.write(e.getValue() + "        " + e.getKey() + ": " + errorDescriptionMap.get(e.getKey()) + "\n");
+				bw.write(e.getValue() + "        " + errorDescriptionMap.get(e.getKey()) + "\n");
 			} else {
 				bw.write(e.getValue() + "        " + e.getKey() + "\n");
 			}

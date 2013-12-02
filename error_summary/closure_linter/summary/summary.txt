@@ -1,17 +1,27 @@
-333947                0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)
-9                0130:  Multi-line strings are not allowed
+199                0210:  Missing docs for parameter: "id"
 94817                0131:  Single-quoted string preferred over double-quoted string.
-1430                0220:  No docs found for member 'window.CodeMirror'
-26716                0110:  Line too long (107 characters).
 46                0212:  Parameter mismatch: got "delay", expected "number"
-65                0013:  No semicolon is required to end a code block
-11                -002:  Error parsing file at token "<JavaScriptToken: 4, }, "}", {}, MetaData(None)>". Unable to check the rest of file.
-48                0210:  Missing docs for parameter: "id"
-14                0013:  Semicolon without any statement
-79                0200:  Invalid JsDoc tag: file
-1567                0120:  Binary operator should go on previous line "||"
-97                0222:  Member "this.$$parse" must not have @private JsDoc
-14183                0010:  Missing semicolon at end of line
-287493                0005:  Illegal tab in whitespace before "_win"
-59                0216:  Type should be immediately after @param tag
+9                0130:  Multi-line strings are not allowed
+39                0211:  Found docs for non-existing parameter: "fn"
+8                0214:  Missing description in @license tag
+110                0013:  Semicolon without any statement
+70                0213:  Missing type in @return tag
 40                0012:  Illegal semicolon after function declaration
+59                0216:  Type should be immediately after @param tag
+1962                0011:  Missing semicolon after function assigned to a variable
+5                0215:  Missing name in @param tag
+336                0217:  Missing @return JsDoc in function with non-trivial return
+11                -002:  Error parsing file at token "<JavaScriptToken: 4, }, "}", {}, MetaData(None)>". Unable to check the rest of file.
+75                0121:  Illegal comma at end of object literal
+92                0100:  Member Series.prototype.options cannot have a non-primitive value
+1                0201:  Member "jQuery.cookie" should not have @desc JsDoc
+222421                0005:  Illegal tab in whitespace before "_win"
+2300                0200:  Invalid JsDoc tag: file
+148                0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)
+1567                0120:  Binary operator should go on previous line "||"
+77879                0001:  Extra space after "("
+4                0222:  Member "this.$$parse" must not have @private JsDoc
+328976                0002:  Missing space before "+"
+1430                0220:  No docs found for member 'window.CodeMirror'
+1301                0010:  Missing semicolon at end of line
+26716                0110:  Line too long (107 characters).
