@@ -13,6 +13,9 @@ def readFileAndShowChart():
         toolNames.append(toolFolder)
         
         for fname in os.listdir(path + '/' + toolFolder):
+            if (os.path.isdir(path + '/' + toolFolder + '/' + fname)):
+                continue
+
             projectNames.append('         ' + fname)
             f = open(path + '/' + toolFolder + '/' + fname)
             count = 0
