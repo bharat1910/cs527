@@ -19,17 +19,28 @@ public class GenerateErrorCountJsLint {
 	private boolean isMatch(String a, String b)
 	{
 		String[] aList = a.split(" ");
-		int match = 0;
-		int total = 0;
+		String[] bList = b.split(" ");
+		int matchA = 0;
+		int totalA = 0;
+		int matchB = 0;
+		int totalB = 0;
 		
 		for (String s : aList) {
-			total++;
+			totalA++;
 			if (b.contains(s.trim())) {
-				match++;
+				matchA++;
+			}
+		}
+				
+		for (String s : bList) {
+			totalB++;
+			if (a.contains(s.trim())) {
+				matchB++;
 			}
 		}
 		
-		return match/(double) total > THRESHOLD;
+		return (matchA / (double) totalA > THRESHOLD) &&
+				(matchB / (double) totalB > THRESHOLD);
 	}
 	
 	private void updateErrorCountMap(String str)

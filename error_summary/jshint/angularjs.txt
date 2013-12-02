@@ -7,13 +7,15 @@
 3      'pos' used out of scope.
 39      Script URL.
 10      eval can be harmful.
+32      Expected a conditional expression and instead saw an assignment.
 83      Use '===' to compare with '0'.
 1      The array literal notation [] is preferrable.
 36      Unnecessary semicolon.
 1      Possible strict violation.
 1      Do not assign to the exception parameter.
-215      Expected an assignment or function call and instead saw an expression.
+173      Expected an assignment or function call and instead saw an expression.
 2      Confusing minuses.
+10      Expected an identifier and instead saw '#'.
 1      Comma warnings can be turned off with 'laxcomma'.
 1      document.write can be a form of eval.
 2      The '__proto__' property is deprecated.
@@ -23,8 +25,8 @@
 425      Use the function form of "use strict".
 17      Missing 'new' prefix when invoking a constructor.
 4      A constructor name should start with an uppercase letter.
-517      ['describe'] is better written in dot notation.
-12628      'describe' is not defined.
+88      ['describe'] is better written in dot notation.
+13057      'describe' is not defined.
 21      Mixed spaces and tabs.
 3      'hasOwnProperty' is a really bad name.
 2      Bad operand.

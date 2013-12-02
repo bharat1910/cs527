@@ -1,59 +1,63 @@
 1     #192 Stopping. (97% scanned).
 1028      #3 Expected '_win' at column 9, not column 2.
-5     #22 Stopping. (9% scanned).
+3     #22 Stopping. (9% scanned).
+324      #9 Unexpected space between '(' and 'function'.
 1     #470 Unused 'evt'.
-6     #42 Unexpected character '(space)'.
+6      #8 Stopping. (0% scanned).
+5     #42 Unexpected character '(space)'.
 2     #21 Stopping. (66% scanned).
 1     #55 JavaScript URL.
-228     #72 Unexpected space between '(' and 'jQuery.dialogExtend Error : Only jQuery UI Dialog element is accepted'.
-3     #103 Stopping. (29% scanned).
-2     #10 Stopping. (62% scanned).
+7     #72 Unexpected space between '(' and 'jQuery.dialogExtend Error : Only jQuery UI Dialog element is accepted'.
+1     #103 Stopping. (29% scanned).
+4     #10 Stopping. (62% scanned).
 1     #905 Stopping. (92% scanned).
 2     #63 Stopping. (25% scanned).
 1     #64 Stopping. (33% scanned).
+4      #1 Unexpected ';'.
 1     #69 Stopping. (28% scanned).
 2     #14 Stopping. (5% scanned).
-1     #15 Stopping. (50% scanned).
+2     #15 Stopping. (50% scanned).
 1     #34 Unexpected '.'.
 4      #5 Unexpected TODO comment.
 1      #5 Read only.
-5     #40 Expected ')' to match '(' from line 5 and instead saw ','.
+2     #40 Expected ')' to match '(' from line 5 and instead saw ','.
 2     #68 Stopping. (17% scanned).
-62     #11 Unexpected space between '}' and ')'.
 2     #126 Stopping. (10% scanned).
-1     #24 Stopping. (64% scanned).
 1     #258 Stopping. (12% scanned).
-3     #70 Stopping. (21% scanned).
-7     #69 Unexpected character '	'.
+1     #24 Stopping. (64% scanned).
+1     #70 Stopping. (21% scanned).
+9     #69 Unexpected character '	'.
 1     #630 Move the invocation into the parens that contain the function.
 1     #23 Unexpected 'textEditor'.
 2     #140 'e' used out of scope.
+2     #712 Unexpected space between ':checkbox, :radio' and ')'.
 2     #233 The body of a for in should be wrapped in an if statement to filter unwanted properties from the prototype.
-6     #30 Stopping. (8% scanned).
+3     #30 Stopping. (8% scanned).
 3      #6 'tokenizer' is already defined.
 1     #287 Insecure '.'.
 2     #467 Unexpected space between '(' and 'cookies.set() received non-string value and could not serialize.'.
-29     #1045 Unexpected space between '> does not exist' and ')'.
+1     #1045 Unexpected space between '> does not exist' and ')'.
 2     #102 A constructor name 'jCryptionKeyPair' should start with an uppercase letter.
 1     #26 Redefinition of 'b' from line 2.
 1     #14 Unused 's'.
 1     #35 Stopping. (14% scanned).
 1     #19 Unreachable ',' after 'return'.
-73     #29 Expected '===' and instead saw '=='.
-440      #6 Expected exactly one space between 'function' and '('.
+76     #29 Expected '===' and instead saw '=='.
+374      #6 Expected exactly one space between 'function' and '('.
 3     #242 Unexpected '++'.
 8      #7 Empty block.
+1     #62 Unexpected ')'.
 5      #7 Move 'var' declarations to the top of the function.
-294     #356 Missing space between '<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon ' and '+'.
+3     #356 Missing space between '<a class="ui-dialog-titlebar-maximize ui-corner-all" href="#"><span class="ui-icon ' and '+'.
 1     #20 Unexpected ','.
-218     #32 Missing space between '#' and '+'.
+556     #32 Missing space between '#' and '+'.
 1     #42 Stopping. (7% scanned).
 111     #24 'obj' was used before it was defined.
 1     #13 Stopping. (4% scanned).
 1274      #1 Use spaces, not tabs.
 4     #112 Weird condition.
 1     #156 Expected '; path=' at column 25, not column 4.
-24      #2 Unexpected dangling '_' in '_win'.
+22      #2 Unexpected dangling '_' in '_win'.
 39     #35 Combine this with the previous 'var' statement.
 56      #8 Missing 'use strict' statement.
 8     #43 Unnecessary 'else' after disruption.

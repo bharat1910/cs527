@@ -1,47 +1,57 @@
-517             Did you mean to return a conditional instead of an assignment?
-1             Do not assign to the exception parameter.
+2             Expected ')' to match '
 21             Creating global 'for' variable. Should be 'for (var dlg ...'.
-2695             Use '===' to compare with '0'.
-13555             ['winResizeRepeater'] is better written in dot notation.
-5             Missing name in function declaration.
-30             eval can be harmful.
+251             ['winResizeRepeater'] is better written in dot notation.
 10             Value of 'e' may be overwritten in IE 8 and earlier.
-452             Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
-1647             Bad line breaking before '||'.
-37             Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-43             'a' is a statement label.
+1             Redefinition of 'JSON'.
 43             A constructor name should start with an uppercase letter.
-549             Missing '()' invoking a constructor.
-17999             Expected 'pathAnim' to have an indentation at 5 instead at 1.
-8             Variables should not be deleted.
-6581             Expected an identifier and instead saw 'undefined' (a reserved word).
+45             Expected an identifier and instead saw 'undefined' (a reserved word).
 3             Duplicate key 'tooltip'.
 4             Weird construction. Is 'new' unnecessary?
+8354             Expected a conditional expression and instead saw an assignment.
+474             Confusing use of '!'.
 123             Bad escaping of EOL. Use option multistr if needed.
+3             'hasOwnProperty' is a really bad name.
+1             'class' is only available in JavaScript 1.7.
+34             Unreachable 'break' after 'return'.
+48             Expected a 'break' statement before 'case'.
+38             The '__proto__' property is deprecated.
+4             Unexpected escaped character '<' in regular expression.
+10             Bad or unnecessary escaping.
+25             You might be leaking a variable (c) here.
+428             Use the function form of "use strict".
+41             Expected ')' to match '(' from line 416 and instead saw 'e'.
+4             document.write can be a form of eval.
+3             It's not necessary to initialize 'lwhisker' to 'undefined'.
+113             Did you mean to return a conditional instead of an assignment?
+1             Do not assign to the exception parameter.
+2734             Use '===' to compare with '0'.
+5             Missing name in function declaration.
+68             eval can be harmful.
+24             Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
+1637             Bad line breaking before '||'.
+37             Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+45             'a' is a statement label.
+549             Missing '()' invoking a constructor.
+1             Don't use 'with'.
+458             Script URL.
+17999             Expected 'pathAnim' to have an indentation at 5 instead at 1.
+3             Variables should not be deleted.
 9             The object literal notation {} is preferrable.
 1             Missing "use strict" statement.
-93             Use the isNaN function to compare with NaN.
-1508             'lineElement' used out of scope.
-1870             'n' is already defined.
-3             'hasOwnProperty' is a really bad name.
-58             The Function constructor is a form of eval.
-1             'class' is only available in JavaScript 1.7.
-68             Expected a 'break' statement before 'case'.
-34             Unreachable 'break' after 'return'.
-4             Don't use extra leading zeros '000'.
+4             Use the isNaN function to compare with NaN.
+20             Expected a JSON value.
+1033             'lineElement' used out of scope.
+15169             'n' is already defined.
+16             The Function constructor is a form of eval.
+3             'isArray' is a function.
 97             Don't make functions within a loop.
+4             Don't use extra leading zeros '000'.
 8             Label 'simpleSelectors' on if statement.
-38             The '__proto__' property is deprecated.
-1744             Expected an assignment or function call and instead saw an expression.
-4             Unexpected escaped character '<' in regular expression.
 6075             Mixed spaces and tabs.
 336             Possible strict violation.
-25             You might be leaking a variable (c) here.
 83             A leading decimal point can be confused with a dot: '.99'.
 14             Expected a single parameter in set nodeName function.
-117             Expected ')' to match '(' from line 416 and instead saw 'e'.
-118             Strings must use doublequote.
 123             This character may get silently deleted by one or more browsers.
+118             Strings must use doublequote.
 2             Forgotten 'debugger' statement?
 65             Comma warnings can be turned off with 'laxcomma'.
-3             It's not necessary to initialize 'lwhisker' to 'undefined'.

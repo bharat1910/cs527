@@ -1,15 +1,18 @@
 4      Value of 'e' may be overwritten in IE 8 and earlier.
 46      col 1
 118      Strings must use doublequote.
-52      Expected ')' to match '(' from line 105 and instead saw '='.
+16      Expected ')' to match '(' from line 105 and instead saw '='.
 1      Redefinition of 'JSON'.
 6      Expected a 'break' statement before 'case'.
 1      col 8
 7      Creating global 'for' variable. Should be 'for (var name ...'.
 2      Unmatched '{'.
+201      Expected a conditional expression and instead saw an assignment.
+38      eval can be harmful.
 4      Don't use extra leading zeros '000'.
 13      Wrap the /regexp/ literal in parens to disambiguate the slash operator.
-124      Missing '()' invoking a constructor.
+128      Missing '()' invoking a constructor.
+2      Expected ')' to match '
 1      Possible strict violation.
 11      You might be leaking a variable (c) here.
 4      Expected ']' to match '[' from line 7 and instead saw ';'.
@@ -22,11 +25,12 @@
 30      Don't make functions within a loop.
 4      Weird construction. Is 'new' unnecessary?
 66      Did you mean to return a conditional instead of an assignment?
-6      Missing 'new' prefix when invoking a constructor.
+2      Missing 'new' prefix when invoking a constructor.
 2      Expected an identifier and instead saw 'undefined' (a reserved word).
 1      Don't use 'with'.
 18      Unexpected 'break'.
 4      Bad operand.
+783      Expected '(end)' and instead saw '}'.
 121      'lineElement' used out of scope.
 3      Unreachable 'for' after 'return'.
 2      Duplicate key 'tooltip'.
@@ -39,11 +43,11 @@
 8      Label 'simpleSelectors' on if statement.
 842      'arr' is already defined.
 2      Unmatched '('.
-4109      Expected an assignment or function call and instead saw an expression.
+3159      Expected an assignment or function call and instead saw an expression.
 16      A leading decimal point can be confused with a dot: '.99'.
 2      'querySelector' is not a statement label.
 11      Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
-41      document.write can be a form of eval.
+3      document.write can be a form of eval.
 2      Bad assignment.
 3      Bad or unnecessary escaping.
 3      'isArray' is a function.

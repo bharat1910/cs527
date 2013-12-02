@@ -1,27 +1,29 @@
-2     #51 Stopping. (75% scanned).
+1      #8 Stopping. (60% scanned).
+1     #51 Stopping. (75% scanned).
 1     #31 Unexpected 'apply'.
 1     #160 Stopping. (72% scanned).
 1     #460 Unused 'YesNoSelectEditor'.
 1     #463 Unused 'LongTextEditor'.
 2     #146 Unused 'handleGridClick'.
-246     #12 Unexpected dangling '_' in '_grid'.
+241     #12 Unexpected dangling '_' in '_grid'.
 1     #63 Stopping. (40% scanned).
 1     #123 Unused 'handleHeaderCellRendered'.
 1     #458 Unused 'IntegerEditor'.
 2     #170 Unused 'handleDrag'.
-1790     #39 Expected '' style='margin-left:' at column 17, not column 11.
+513     #39 Expected '' style='margin-left:' at column 17, not column 11.
 3     #90 Unexpected TODO comment.
 1     #125 Unused 'handleButtonClick'.
 1     #20 Stopping. (2% scanned).
 1     #459 Unused 'DateEditor'.
 3     #111 Unused 'args'.
 3     #236 Unexpected assignment expression.
+4      #1 Unexpected ';'.
 1     #155 Unused 'CellRangeSelector'.
 1     #164 Unused 'CompositeEditor'.
 197     #15 Combine this with the previous 'var' statement.
 1     #462 Unused 'PercentCompleteEditor'.
 1     #15 Do not use 'new' for side effects.
-10     #149 Move the invocation into the parens that contain the function.
+9     #149 Move the invocation into the parens that contain the function.
 3     #18 Unexpected ','.
 1     #39 Unexpected '$'.
 1     #172 Unused 'RowMoveManager'.
@@ -53,27 +55,27 @@
 3     #133 Unnecessary 'else' after disruption.
 1     #26 Redefinition of 'b' from line 2.
 2     #168 Unused 'handleDragInit'.
-101     #40 Missing space between '+' and ''>'.
-62      #1 Expected exactly one space between 'function' and '('.
+100     #40 Missing space between '+' and ''>'.
+50      #1 Expected exactly one space between 'function' and '('.
 3     #126 Unused 'item'.
 3     #59 Unused 'dd'.
 1     #208 Stopping. (5% scanned).
 31      #1 Missing 'use strict' statement.
 1     #81 Stopping. (30% scanned).
+26      #7 Unexpected space between '(' and 'str'.
 1     #85 Stopping. (70% scanned).
 1     #62 Unexpected ')'.
 2     #171 Unused 'handleDragEnd'.
-29      #3 Expected 'Slick' at column 9, not column 5.
+1306      #3 Expected 'Slick' at column 9, not column 5.
 2     #169 Unused 'handleDragStart'.
 4      #2 Unexpected 'typeof'. Use '===' to compare directly with undefined.
-11     #26 Move 'var' declarations to the top of the function.
+12     #26 Move 'var' declarations to the top of the function.
 2     #61 Unexpected '++'.
-5     #21 Unexpected character '(space)'.
+6     #21 Unexpected character '(space)'.
 1     #147 Unused 'handleGridKeyDown'.
 1     #65 Unused 'PercentCompleteFormatter'.
 8     #95 Unused 'e'.
 2     #48 Unused 'value'.
-13      #8 Unexpected space between 'opts' and ')'.
 2     #39 Expected ')' to match '(' from line 3 and instead saw ','.
 1     #15 Stopping. (3% scanned).
 1     #119 Stopping. (9% scanned).
