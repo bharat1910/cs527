@@ -1,424 +1,362 @@
-1     #247 Unused 'ngModelAccessor'.
-1     #117 Unused 'timeoutRequest'.
-5     #99 Unexpected 'apply'.
-1     #8030 Expected 'Tai fĩi sai zah lǝn sai ma kee' at column 9, not column 7.
-1     #672 Expected 'transfer-encoding: chunked
-1     #213 Expected 'goog.provide('goog.i18n.pluralRules');
-1     #557 Unused 'opt_prefix'.
-3     #10 Stopping. (3% scanned).
-16     #158 Unused 'scope'.
-4      #9 Unused 'args'.
-4     #45 Unused 'output'.
-1     #161 Unused 'addError'.
-269      #1 Unexpected dangling '_' in '_jQuery'.
-8      #8 Unescaped '-'.
-25     #91 Expected 'Blocked loading resource from url not allowed by \$sceDelegate policy.  URL: http:\/\/example.com\/myUrl.*' at column 17, not column 9.
-1     #39 Nested comment.
-1     #439 Unused 'body'.
-82     #983 Expected 'Expression: {}.toString.constructor' at column 37, not column 23.
-1     #396 Unexpected 'return'.
-2      #6 Unexpected 'call'.
-1     #678 Expected 'x-frame-options: DENY
-1     #358 Unused 'initializationFn'.
-2     #44 Stopping. (20% scanned).
-1     #561 Unused 'opt_enabled'.
-3     #170 Unused '$rootElement'.
-1     #60 Expected '@param {Type} b med
-49     #159 Expected 'Tab content {{id}}!' at column 25, not column 13.
-3     #612 Unused '$templateCache'.
-383     #108 Combine this with the previous 'var' statement.
-2     #20 Unexpected '&'.
-1     #231 Expected 'if (goog.LOCALE == 'fr') {
-1     #24 'e' is already defined.
-20     #120 Expected 'ngSwitchDefault at the position specified in the template, when the ' at column 9, not column 6.
-1      #7 Unused 'exception'.
-1     #86 Missing space between ':' and '<div class="a-page"><p>fn with optional arguments</p>
-11     #281 Expected '<li ng-repeat="(key, value) in items track by $index">' at column 21, not column 13.
-5     #455 Unused 'opt_config'.
-1     #103 Stopping. (23% scanned).
-3     #353 Unused 'clicked'.
-214      #8 Empty block.
-1     #562 Expected '<p>I am self.</p>
-3     #40 Stopping. (22% scanned).
-7     #96 Unreachable 'function' after 'return'.
-1     #679 Expected 'content-type: text/html; charset=utf-8
-1     #30 Unused 'error'.
-1      #5 Unexpected 'var'.
-1     #69 Expected '<button class="btn btn-primary"><i class="icon-white icon-pencil"></i> Edit Me</button>' at column 17, not column 11.
-2     #26 Expected 'feat(ng-list): Allow custom separator
-5     #32 Unused '$rootScope'.
-1     #87 Unused 'invokeLater'.
-2     #30 Stopping. (34% scanned).
-3     #334 Unused 'constructor'.
-144     #718 Expected '<div id="test2"><input ng-model="test.input" value="something"></div>' at column 25, not column 11.
-2     #39 Unused 'iterator'.
-1     #65 Expected '<style>
-3     #15 Unused 'elm'.
-1     #61 Stopping. (46% scanned).
-5150     #104 Expected '<LI ng-repeat="item in model.items" ng-bind="item.a"></LI>' at column 21, not column 9.
-1     #44 Unused 'json'.
-1     #566 Expected '<div><div class="a-page"><p>I am self.</p>
-3     #88 Spaces are hard to count. Use {2}.
-1     #207 Unused 'opt_name'.
-22     #36 Move 'var' declarations to the top of the function.
-1     #59 Expected '@param {*} a short
-1     #163 Expected '&lt;b&gt;angular&lt;/b&gt;.k
-1     #22 Missing space between '+' and ' has no currency symbol in closure, used '.
-1     #69 Unused 'i'.
-2     #254 Unused 'opt_type'.
-2     #18 Unexpected ','.
-1     #677 Expected 'server: Apache
-2     #354 Unused 'providerType'.
-1     #417 Unused 'opt_listener'.
-1     #27 Stopping. (26% scanned).
-1     #552 Unused 'opt_url'.
-53     #237 Unexpected '++'.
-2     #491 Unused 'callback'.
-1     #216 Expected '<pre><code>third line
-1     #682 Expected 'expires: Thu: , 19 Nov 1981 08:52:00 GMT
-2     #135 Unused 'controller'.
-1     #28 Expected 'Closes #123
-3     #375 Unused 'opt_exp'.
-1     #101 Stopping. (77% scanned).
-105     #210 Expected '<div ng-repeat="i in []">' at column 17, not column 7.
-2     #245 Stopping. (37% scanned).
-1     #547 Unused 'opt_search'.
-1     #28 Stopping. (41% scanned).
-1     #664 Unused 'reason'.
-3     #253 eval is evil.
-4     #738 Unescaped '}'.
-2     #2748 Expected ''Ngày' dd 'tháng' M 'năm' y' at column 9, not column 7.
-1     #149 Unused 'transclude'.
-1     #38 Unexpected '$document'.
-1     #168 Expected '  QUARTERS: ['1er trimestre', '2e trimestre', '3e trimestre', '4e trimestre'],' at column 17, not column 1.
-1     #49 Expected 'version < 9 in quirks mode.  You can fix this by adding the text <!doctype html> to ' at column 29, not column 15.
-2     #96 Unused '$sce'.
-1     #27 Unused 'underscore'.
-1     #506 Expected 'dad{@link angular.foo}
-4     #150 Expected '  MONTHS: ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet',' at column 17, not column 1.
-2     #1464 Unused 'd'.
-1     #228 Expected '  return goog.i18n.pluralRules.Keyword.OTHER;
-1     #148 Stopping. (83% scanned).
-2     #38 Unused 'obj'.
-1     #148 Unused 'tAttrs'.
-1     #37 Stopping. (9% scanned).
-1     #303 Unused '$animate'.
-2     #35 Unused 'getStyle'.
-1     #571 Unused 'l'.
-1     #127 Unused 'opt_attrName'.
-3     #27 Expected 'bla bla bla
-5     #454 Unused 'url'.
-1     #280 Unexpected space between 'Run the unit tests with Karma' and ','.
-1     #416 Unused 'exp'.
-2     #278 Weird relation.
-1     #671 Expected 'content-encoding: gzip
-1     #225 Expected 'third line
-1     #385 Unused '$httpBackend'.
-1     #676 Expected 'pragma: no-cache
-30      #8 Insecure '^'.
-6     #234 Confusing use of '-'.
-2     #1465 Unused 'c'.
-12     #70 Unused 'fn'.
-1     #123 Stopping. (43% scanned).
-3     #162 Expected '  SHORTWEEKDAYS: ['dim.', 'lun.', 'mar.', 'mer.', 'jeu.', 'ven.', 'sam.'],' at column 17, not column 1.
-7     #202 Missing space between '<div>   <div>A</div>
-1     #534 Unused 'opt_path'.
-1     #1069 Expected 'Expression: {}.toString[key1 + key2].foo = 1' at column 37, not column 27.
-2     #60 Unused 'err'.
-102     #100 Unexpected '|'.
-3     #33 Unused 'timeout'.
-1     #221 Expected '  OTHER: 'other'
-3     #396 Unused 'opt_locals'.
-11     #97 Expected 'Attempting to use an unsafe value in a safe context.' at column 17, not column 29.
-1     #170 Expected '  DATEFORMATS: ['EEEE d MMMM y', 'd MMMM y', 'yyyy-MM-dd', 'yy-MM-dd'],' at column 17, not column 1.
-3     #434 Stopping. (36% scanned).
-27     #182 Use spaces, not tabs.
-2     #75 Unused 'consoleLog'.
-1     #56 Unused 'queue'.
-1     #10 Expected 'feat(scope): broadcast $destroy event on scope destruction
-1     #216 Expected '  ZERO: 'zero',
-5     #727 Expected 'Failed to instantiate module TestModule due to:\n.*\[\$injector:unpr] Unknown provider: xyzzy' at column 21, not column 36.
-2     #268 Stopping. (58% scanned).
-1     #22 Unexpected 'exports'.
-1     #508 Expected 'external{@link ./static.html}
-1     #141 Stopping. (91% scanned).
-1     #19 Unused 'opt_dest'.
-3270     #2254 Expected 'ᎠᎩᏃᎮᎵᏓᏍᏗᏱ ᎠᏕᏘᏱᏍᎬ ᏱᎰᏩ ᏧᏓᏂᎸᎢᏍᏗ' at column 9, not column 7.
-2     #12 Expected 'when destroying 10k nested scopes where each scope has a $destroy listener
-1339     #54 Missing space between ':' and '123'.
-3     #580 Expected '<li>enter - Add text</li>' at column 25, not column 17.
-14     #1731 Expected 'pa mwedzi gwa kumi na mbili' at column 9, not column 7.
-65     #213 Insecure '.'.
-1     #824 Expected '<input type="radio" name="r" ng:model="test.input" value="bar" checked="checked">' at column 25, not column 11.
-2     #1281 Unused 'headers'.
-2     #29 Stopping. (38% scanned).
-1     #548 Unused 'opt_paramValue'.
-2     #23 Unused 'separator'.
-1     #48 Stopping. (69% scanned).
-2     #18 Unused 'source'.
-2     #487 Unused 'successCallback'.
-9     #26 Unused '$compile'.
-3     #398 Stopping. (12% scanned).
-3     #162 Expected '<pre class="prettyprint linenums">
-1     #65 Stopping. (59% scanned).
-1     #61 Expected '@param {Class=} [c=2] long
-1     #84 Unused 'newVal'.
-1     #219 Expected '  FEW: 'few',
-9     #220 Unused 'type'.
-2     #25 Expected '13f31602f396bc269076ab4d389cfd8ca94b20ba
-14     #628 Unused 'value'.
-1     #69 Stopping. (67% scanned).
-1     #339 Unused 'directiveFactory'.
-56     #27 Unexpected space between ')' and ')'.
-1     #54 Unused '$interpolate'.
-2     #139 Unused '$sniffer'.
-1      #4 Unused 'context'.
-3     #182 Expected ''other': '[[p1% and {} other people are viewing.'}">' at column 25, not column 23.
-3     #139 Expected 'when-one='{{p1}}, {{p2}} and one other person are viewing.'' at column 21, not column 13.
-1372     #431 Expected '<select ng-model="foo">' at column 13, not column 9.
-1     #126 Unused 'opt_writeAttr'.
-1     #185 Stopping. (55% scanned).
-2     #111 Unused 'future'.
-1     #224 Expected 'goog.i18n.pluralRules.frSelect_ = function(n) {
-2     #22 Unused '_'.
-10     #68 Unused '$cacheFactory'.
-4029      #1 Expected exactly one space between 'function' and '('.
-3     #14 Unused 'method'.
-1     #218 Expected '  TWO: 'two',
-2     #221 Unused 'item'.
-3     #1238 Unused 'r'.
-2     #207 Expected '</div>
-2     #218 Expected '<p>fifth line</p>
-1     #199 Expected 'before
-1     #747 Unexpected '$rootScope'.
-4     #97 'jsonpDone' used out of scope.
-7      #3 Unexpected character '(space)'.
-5     #188 Expected '<div ng-show="!tapped" ng-click="count1 = count1 + 1; tapped = true">x</div>' at column 21, not column 11.
-1     #38 Expected 'BREAKING CHANGE: first breaking change
-312      #2 Missing 'use strict' statement.
-1     #85 Stopping. (72% scanned).
-3     #222 Unused 'key'.
-1     #706 Unused 'route'.
-4     #140 Unused '$timeout'.
-1     #48 Unused 'arg'.
-3     #718 Unused 'xyzzy'.
-3     #1268 Unused 'h'.
-1     #206 Unused '_foo_'.
-11     #268 Missing 'new'.
-2     #222 Expected '};
-1     #220 Expected '  MANY: 'many',
-1     #96 Uninitialized 'longVal'.
-43     #285 Weird condition.
-2     #233 Unused '$a_'.
-1202     #29 Expected '{' and instead saw 'return'.
-2     #24 Unexpected '~'.
-1     #632 Unused 'decorator'.
-1     #225 Unused 'selector'.
-1     #705 Unused 'path'.
-1     #25 Stopping. (80% scanned).
-41     #65 The '&&' subexpression should be wrapped in parens.
-4     #329 Unused 'object'.
-1     #410 Unused 'listener'.
-1     #237 Unused 'opt_key'.
-1     #675 Expected 'x-backend-server: pm-dekiwiki03
-4581      #1 'describe' was used before it was defined.
-6     #106 Unused 'className'.
-1     #733 Unused 'last'.
-2     #39 Stopping. (94% scanned).
-30     #570 Unused 'n'.
-26     #273 Missing space between '<div name="a" ng-repeat="m in model">' and '+'.
-26     #26 Unnecessary 'else' after disruption.
-1     #498 Expected '<h1>bah</h1>
-27     #1637 Expected 'Kèk i ńyonos biaâ i soŋ iaâ' at column 9, not column 7.
-1     #103 Unused 'index'.
-1     #527 Unused 'opt_hash'.
-2     #18 Stopping. (16% scanned).
-1     #36 Uninitialized 'element'.
-1     #596 Unused 'isValid'.
-1     #46 Stopping. (85% scanned).
-1     #39 Expected 'another line with more info
-1     #257 Unused 'localeIds'.
-1     #674 Expected 'connection: Keep-Alive
-1     #95 Unused '$browser'.
-1     #67 Stopping. (31% scanned).
-1     #286 Stopping. (33% scanned).
-2     #73 Unused 'update'.
-3     #234 Expected '<pre>
-3     #85 Unused 'idontexist'.
-4     #72 Unused 'ctrl'.
-1     #673 Expected 'x-cache-info: not cacheable; response has already expired, not cacheable; response has already expired
-29     #982 Expected 'Referencing "constructor" field in Angular expressions is disallowed! ' at column 33, not column 44.
-2      #9 Unescaped '/'.
-1      #6 Unused 'failure'.
-5     #160 Unused 'attr'.
-2     #364 Expected '[^[]*\[\$sce:imatcher\] Matchers may only be "self", string patterns or RegExp objects' at column 21, not column 11.
-1     #161 Expected '<div class="docs-page"><p>bah x
-1     #164 Expected '</pre>
-7     #21 Stopping. (4% scanned).
-3     #768 Unused '$q'.
-2     #11 Stopping. (78% scanned).
-1     #232 Expected '  goog.i18n.pluralRules.select = goog.i18n.pluralRules.frSelect_;
-6     #732 Unused 'maybeTrusted'.
-8     #13 Unused '$provide'.
-1     #677 Unused 'opt_reason'.
-1     #50 Expected 'the top of your HTML document.  See http://docs.angularjs.org/api/ng.$sce for more ' at column 29, not column 15.
-4     #1056 Unused 'data'.
-1     #97 Unused 'opt_requires'.
-1     #418 Unused 'opt_objectEquality'.
-1     #49 Unused 'serializeXml'.
-31     #24 Unused 'name'.
-3     #80 Unused 'log'.
-2     #344 Unused 'providerFunction'.
-1     #515 Unused 'opt_self'.
-3     #37 Expected 'Can't interpolate: {{testUrl}}
-15      #5 Stopping. (2% scanned).
-1     #349 Unused 'filterFactory'.
-1     #215 Expected 'second line</p>
-2     #363 Unescaped '['.
-3     #59 Stopping. (66% scanned).
-52     #114 Expected '<!-- ngRepeat: item in model.items -->' at column 17, not column 11.
-2     #15 Stopping. (14% scanned).
-126     #45 Expected '<div ng-app' at column 29, not column 15.
-3     #48 Missing space between ':' and 'Author of <angular/> http://www.getangular.com.'.
-2     #171 Expected '  TIMEFORMATS: ['HH \'h\' mm \'min\' ss \'s\' zzzz', 'HH:mm:ss z',' at column 17, not column 1.
-1      #9 Expected '9b1aff905b638aa274a5fc8f88662df446d374bd
-4     #89 Unused 'a'.
-2     #43 Unused 'self'.
-1     #507 Expected 'external{@link http://angularjs.org}
-5     #43 Expected 'ng-class="{A: conditionA, B: conditionB(), AnotB: conditionA&&!conditionB()}">' at column 25, not column 13.
-3     #2759 Expected 'ཆུ་ཚོད་ h སྐར་མ་ mm སྐར་ཆཱ་ ss a zzzz' at column 9, not column 7.
-1     #33 Expected 'specify the dependencies as the second argument.' at column 25, not column 14.
-4     #28 Unused 'count'.
-1     #76 Unused 'hiddenField'.
-1     #190 Unused 'polled'.
-2529     #63 Expected '<input type="button" ng-click="person.save()" value="Apply">' at column 13, not column 7.
-2     #16 Stopping. (71% scanned).
-1     #248 Unused '$injector'.
-2     #336 Expected '\[\$injector:nomod\] Module 'IDontExist' is not available! You either misspelled the module name or forgot to load it' at column 17, not column 9.
-1     #19 Stopping. (48% scanned).
-1     #204 Expected '<div class="docs-page"><p>before</p>
-3     #54 Stopping. (13% scanned).
-1     #40 Unused 'opt_context'.
-11819     #432 Expected '<option selected="true">{{a}}</option>' at column 17, not column 11.
-3     #34 Unused 'id'.
-2     #216 Unused 'initialState'.
-14     #46 Unused '$window'.
-2     #138 Missing space between '<input name="hasOwnProperty" ng-model="some" />' and '+'.
-2     #255 Unused 'opt_fn'.
-1     #80 Bad for in variable 'cookieName'.
-1     #36 Unused 'res'.
-1     #215 Expected 'goog.i18n.pluralRules.Keyword = {
-1     #11 Expected 'perf testing shows that in chrome this change adds 5-15% overhead
-1     #23 Stopping. (19% scanned).
-2     #11 Unused 'handler'.
-1     #230 Stopping. (98% scanned).
-5     #129 Expected 'Strict Contextual Escaping disallows interpolations that concatenate multiple ' at column 21, not column 17.
-27     #78 Unused '$route'.
-1     #98 Unused 'opt_configFn'.
-6     #23 Unexpected '--'.
-6     #119 Unused 'arg1'.
-2     #772 Unused 'service'.
-8     #42 Unused 'event'.
-1     #10001 Too many errors. (74% scanned).
-64     #42 ['describe'] is better written in dot notation.
-2     #1462 Unused 'm'.
-6     #80 Use the array literal notation [].
-2     #229 Unexpected 'swipeTests'.
-3     #748 Stopping. (47% scanned).
-2     #201 Expected '<div>   <div>A</div>
-6     #51 Expected '  </script>
-18     #23 Redefinition of 'future' from line 4.
-2     #661 Unused 'next'.
-6     #737 Unused 'trustedValue'.
-3     #13 Unexpected 'typeof'. Use '===' to compare directly with undefined.
-1     #17 Unexpected '\'.
-2     #397 Stopping. (30% scanned).
-6     #726 Unescaped ']'.
-2      #7 Expected 'Illegal use of ngTransclude directive in the template! ' at column 21, not column 11.
-2     #1463 Unused 'u'.
-3     #737 Unescaped '{'.
-1     #29 Unused 'o2'.
-27      #4 Unexpected TODO comment.
-120     #131 Expected 'when="{'0': 'Nobody is viewing.',' at column 21, not column 13.
-2     #467 Stopping. (27% scanned).
-107     #758 Unsafe character.
-8     #212 Unused 'opt_value'.
-1     #539 Expected '[^[]*\[\$sce:iwcard\] Illegal sequence \*\*\* in string matcher\.  String: http:\/\/\*\*\*' at column 25, not column 14.
-1     #52 Unused 'modules'.
-4     #147 Expected '  NARROWMONTHS: ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'],' at column 17, not column 1.
-1     #14 Missing space between ',' and '</a> ('.
-1     #157 Stopping. (35% scanned).
-1     #47 Stopping. (63% scanned).
-1     #405 Unused 'opt_isolate'.
-1     #17 Stopping. (73% scanned).
-4     #128 Expected 'Error while interpolating: {{foo}}{{bar}}
-1     #118 Unused 'completeRequest'.
-1     #301 Unused 'opt_condition'.
-1     #20 Expected '<!-- ngSwitchWhen: 1 --><!-- ngSwitchWhen: 2 --><!-- ngSwitchWhen: true -->' at column 13, not column 9.
-32100      #3 Expected 'frameworks' at column 9, not column 5.
-1     #147 Unused 'tElement'.
-1     #225 Expected '  if (n >= 0 && n < 2) {
-3     #31 Stopping. (1% scanned).
-7     #182 Unused '$document'.
-1     #657 Unused 'promises'.
-1     #505 Expected 'foo {@link angular.foo}
-1     #233 Unexpected '-'.
-1     #58 Expected '@name a
-1      #2 Expected 'click dblclick mousedown mouseup mouseover mouseout mousemove mouseenter mouseleave keydown keyup keypress submit focus blur copy cut paste' at column 5, not column 3.
-1     #395 Stopping. (99% scanned).
-1     #205 Expected '<div class="tab-pane well" id="git-mac" ng:model="Git on Mac/Linux">
-1     #35 Stopping. (17% scanned).
-1     #528 Expected '{@link
-1     #1500 Unused 'responseType'.
-1     #109 Unused 'result'.
-1     #127 Stopping. (86% scanned).
-3     #171 Stopping. (42% scanned).
-1     #148 Unexpected '1'.
-1     #681 Expected 'keep-alive: timeout=5, max=1000
-11     #462 Unused 'e'.
-3     #566 Unused 'var_args'.
-1     #36 Stopping. (10% scanned).
-1     #168 Stopping. (29% scanned).
-4      #8 Unused 'runner'.
-1     #324 Unused 'configFn'.
-1     #50 Stopping. (25% scanned).
-1     #670 Expected 'date: Thu, 04 Aug 2011 20:23:08 GMT
-1     #684 Unused 'opt_errorCallback'.
-1     #156 Unexpected '.'.
-2      #1 Unexpected '(end)'.
-3     #159 Unused 'el'.
-17     #17 Unused 'element'.
-1     #63 Stopping. (44% scanned).
-1     #719 Unused 'response'.
-1     #701 Unused 'params'.
-2     #133 Unused 'iElement'.
-1     #499 Expected '<p>foo 
-6     #47 JavaScript URL.
-1     #621 Unused 'newValue'.
-8     #70 Expected '<option>not me</option>' at column 21, not column 17.
-1     #680 Expected 'vary: Cookie, Accept-Encoding
-1     #44 Don't make functions within a loop.
-5     #64 Unexpected 'in'. Compare with undefined, or use the hasOwnProperty method instead.
-101     #111 Expected an assignment or function call and instead saw an expression.
-13     #185 Expected '<option ng-repeat="r in robots">{{r}}</option>' at column 25, not column 21.
-2     #371 Unused 'promise'.
-1     #165 Expected ' asdf x</p>
-6     #727 Unused 'expression'.
-1     #224 Expected '<pre><code>second line
-1     #116 Stopping. (11% scanned).
-9     #242 Use a named parameter.
-2     #134 Unused 'iAttrs'.
-1     #205 Unused '$animateProvider'.
-1     #203 Expected '<div>B</div>C	
-4     #1239 Unused 's'.
-2     #1176 Expected '^\[\$resource:badcfg\] Error in resource configuration\. Expected response to contain an array but got an object' at column 13, not column 9.
-3     #217 Expected ' fourth line</code></pre>
-1     #577 Expected '<h3 id="usage_animations">Animations</h3>
-1     #62 Expected '@param {function(number, string=)} d fn with optional arguments' at column 29, not column 13.
-2     #125 Expected '<div class="tab-pane" ng-repeat="id in [1,2,3]" title="Tab {{id}}" value="tab-{{id}}">' at column 21, not column 11.
-1     #140 Unexpected 'expect'.
-2     #189 Unused 'called'.
-3     #12 Stopping. (93% scanned).
-37     #303 Unexpected assignment expression.
-1     #790 Unused 'b'.
-12     #457 Expected '<input type="radio" ng-model="sex" value="female">' at column 17, not column 9.
+23     Expected 'ngSwitchDefault at the position specified in the template, when the ' at column 9, not column 6.
+3     Unused 'iAttrs'.
+1     Unused 'opt_isolate'.
+1     Unexpected '$rootScope'.
+1     Expected '<div class="tab-pane" ng-repeat="id in [1,2,3]" title="Tab {{id}}" value="tab-{{id}}">' at column 25, not column 13.
+1     Expected 'feat(scope): broadcast $destroy event on scope destruction
+3     Unused 'ctrl'.
+2     Unexpected ','.
+1     Unused 'opt_listener'.
+1     Unused 'opt_condition'.
+6     Use the array literal notation [].
+1     Unused 'opt_requires'.
+1     Unexpected '-'.
+1     Unused 'result'.
+6     Expected 'Expression: {}.toString[key1 + key2].foo = 1' at column 37, not column 27.
+1     Unused 'context'.
+1     Unused '$compileProvider'.
+1     Expected 'connection: Keep-Alive
+14     Unused '$window'.
+3     Expected 'the top of your HTML document.  See http://docs.angularjs.org/api/ng.$sce for more ' at column 29, not column 15.
+1     Unused 'exp'.
+4     'jsonpDone' used out of scope.
+2     Unused 'service'.
+214     Empty block.
+1     Unused 'failure'.
+1     Unused 'o2'.
+1     Unused 'expected'.
+1     Expected 'click dblclick mousedown mouseup mouseover mouseout mousemove mouseenter mouseleave keydown keyup keypress submit focus blur copy cut paste' at column 5, not column 3.
+7     Unused 'expression'.
+1     Unexpected '1'.
+1364     Missing space between ':' and '123'.
+1     Expected '<h3 id="usage_animations">Animations</h3>
+2     Unused 'providerType'.
+1     Expected '<h1>bah</h1>
+1     Expected '@param {Class=} [c=2] long
+2     Unused 'id'.
+1     Unused 'isValid'.
+1     Unused 'opt_reason'.
+5271     Expected '<LI ng-repeat="item in model.items" ng-bind="item.a"></LI>' at column 21, not column 9.
+1     Unused 'separator'.
+1     Unused 'idontexist'.
+6     Unused '$provide'.
+1     Unused 'opt_name'.
+18     Expected '<div>   <div>A</div>
+3     Unused '$scope'.
+2     Unused 'q'.
+1     Expected '<div class="tab-pane well" id="git-mac" ng:model="Git on Mac/Linux">
+11     Expected 'HH 'часова', mm 'минута', ss 'секунди' zzzz' at column 9, not column 7.
+2     Unused '$sce'.
+1     Expected '<button class="btn btn-primary"><i class="icon-white icon-pencil"></i> Edit Me</button>' at column 17, not column 11.
+2     Unexpected '(end)'.
+4     Unused 'a'.
+3     Expected 'Can't interpolate: {{testUrl}}
+1     Unused 'b'.
+2     Unused 'headers'.
+26     Expected 'Attempting to use an unsafe value in a safe context.' at column 17, not column 29.
+1     Unused 'decorator'.
+1     Unexpected '\'.
+1     Unused 'opt_writeAttr'.
+103     Expected 'when-2='{{p1}} and {{p2}} are viewing.'' at column 21, not column 13.
+4     Unused 's'.
+1     Unused 'underscore'.
+1     Expected '  goog.i18n.pluralRules.select = goog.i18n.pluralRules.frSelect_;
+2     Expected '[^[]*\[\$sce:iwcard\] Illegal sequence \*\*\* in string matcher\.  String: http:\/\/\*\*\*' at column 25, not column 14.
+1     Expected 'pragma: no-cache
+1     Unused 'response'.
+2     Unused 'u'.
+24     Unexpected TODO comment.
+25     Expected 'Blocked loading resource from url not allowed by \$sceDelegate policy.  URL: http:\/\/example.com\/myUrl.*' at column 17, not column 9.
+5     Unused 'data'.
+1     Expected 'x-frame-options: DENY
+1     'e' is already defined.
+1     Expected '{@link
+1     Unused 'opt_enabled'.
+7     Unused '$compile'.
+1     Unused 'initialState'.
+1     Unused 'all'.
+5     Unexpected '--'.
+1     Unused 'newVal'.
+1     Unused 'json'.
+1     Unused 'log'.
+1     Unused 'opt_search'.
+1     Unused 'docsSearch'.
+64     ['describe'] is better written in dot notation.
+1     Expected 'server: Apache
+1     Expected 'before
+3     Unused 'args'.
+1     Unused 'directiveFactory'.
+1     Unused 'item'.
+2     Unused '$animate'.
+5     Unexpected 'in'. Compare with undefined, or use the hasOwnProperty method instead.
+1     Unused 'exception'.
+1     Unused 'count'.
+1     Unused 'opt_paramValue'.
+356     Expected '<!-- ngRepeat: item in model.items -->' at column 17, not column 11.
+1     Unused 'err'.
+1     Unused 'called'.
+1     Unused 'opt_url'.
+19     Unused 'element'.
+1     Expected 'x-cache-info: not cacheable; response has already expired, not cacheable; response has already expired
+3     Unescaped '{'.
+15     Expected 'Tai fĩi sai zah lǝn sai ma kee' at column 9, not column 7.
+1     Unused 'method'.
+1     Unused 'transclude'.
+2     Expected 'when destroying 10k nested scopes where each scope has a $destroy listener
+1     Unused 'cause'.
+26     Expected 'Referencing "constructor" field in Angular expressions is disallowed! ' at column 33, not column 44.
+1     Unused 'findContext'.
+1     Unused 'modules'.
+1     Unused 'el'.
+3     Unused 'opt_exp'.
+12307     Expected '<a href="http://1.2/v:~-123">http://1.2/v:~-123</a>. c' at column 17, not column 15.
+1     Unused '$browser'.
+1     Unused 'ngClassWatchAction'.
+3     Expected '<li ng-repeat="(k,v) in {a:0,b:1}" ng-bind="k + v"></li>' at column 17, not column 9.
+54     Unexpected '++'.
+1     Expected 'perf testing shows that in chrome this change adds 5-15% overhead
+1     Unused 'flattenClasses'.
+1     Expected 'BREAKING CHANGE: first breaking change
+1     Unused 'initializationFn'.
+1     Unused '$interpolate'.
+9     Use a named parameter.
+1     Unused 'dest'.
+33     Expected '<div ng-show="!tapped" ng-click="count1 = count1 + 1; tapped = true">x</div>' at column 21, not column 11.
+5     Unused 'arg1'.
+1     Unused '$a_'.
+1     Expected 'date: Thu, 04 Aug 2011 20:23:08 GMT
+8     Unescaped '-'.
+1     Unused 'opt_hash'.
+1     Unused 'ngModelAccessor'.
+1     Expected '<div>B</div>C
+1     Unexpected '$document'.
+1     Unexpected 'var'.
+1     Expected '@param {Type} b med
+3     Unused 'opt_locals'.
+312     Missing 'use strict' statement.
+1     Unexpected 'return'.
+27     Insecure '^'.
+1     Unused 'l'.
+1     Unused 'arg'.
+1     Expected 'another line with more info
+2     Unused 'runner'.
+1     Unused 'srcs'.
+1     Unexpected '~'.
+1     Unexpected 'exports'.
+1303     Expected '{' and instead saw 'return'.
+1     Unused '$httpBackend'.
+2     Expected 'specify the dependencies as the second argument.' at column 25, not column 14.
+1     Expected '  QUARTERS: ['1er trimestre', '2e trimestre', '3e trimestre', '4e trimestre'],' at column 17, not column 1.
+1     Unused 'consoleLog'.
+2     Expected ' fourth line</code></pre>
+2     Unused 'callback'.
+7     Expected '@param {function(number, string=)} d fn with optional arguments' at column 29, not column 13.
+3     Expected 'Illegal use of ngTransclude directive in the template! ' at column 21, not column 11.
+3     Expected '<pre>
+2     Unused 'providerFunction'.
+23     Expected 'disallowed! Expression: wrap["w"]' at column 37, not column 23.
+1     Unused 'timeoutRequest'.
+2     Unused 'index'.
+1     Unused 'opt_pretty'.
+1     Don't make functions within a loop.
+1     Unused '_foo_'.
+3     Unused 'h'.
+8     Unexpected character '(space)'.
+4     Unused 'className'.
+2     Expected '\[\$injector:nomod\] Module 'IDontExist' is not available! You either misspelled the module name or forgot to load it' at column 17, not column 9.
+2     Expected '13f31602f396bc269076ab4d389cfd8ca94b20ba
+28     Unused '$route'.
+131     Expected 'sánzá ya zómi na mɔ̌kɔ́' at column 17, not column 7.
+1     Unused 'selector'.
+1     Unused 'last'.
+1     Expected '&lt;b&gt;angular&lt;/b&gt;.k
+2     Expected '  NARROWMONTHS: ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D'],' at column 17, not column 1.
+68     Insecure '.'.
+2     Unused 'opt_fn'.
+383     Combine this with the previous 'var' statement.
+1     Nested comment.
+3     Expected ''one': '[[p1% and one other person are viewing.',' at column 25, not column 23.
+5     Unused 'opt_config'.
+1     Unused 'tAttrs'.
+8     Unused '$document'.
+1     Expected ' asdf x</p>
+1     Expected '</pre>
+1     Missing space between '+' and ' has no currency symbol in closure, used '.
+22     Move 'var' declarations to the top of the function.
+3     Expected '<pre class="prettyprint linenums">
+2     Unused 'opt_context'.
+1     Unused 'elm'.
+3     Unexpected '&'.
+1     Unused 'invokeLater'.
+4     Unused '$templateCache'.
+1     Unused 'polled'.
+107     Unsafe character.
+1     Unused 'oldVal'.
+1     Unused 'newValue'.
+15783     Expected '<input type="button" ng-click="person.save()" value="Apply">' at column 13, not column 7.
+3     Expected 'second line</p>
+2     Expected '<p>I am self.</p>
+2     Unused 'successCallback'.
+6     JavaScript URL.
+41     The '&&' subexpression should be wrapped in parens.
+3     Unused 'xyzzy'.
+2     Unused 'timeout'.
+15     Expected 'སྤྱི་ལོ་y ཟླ་ MMMM ཚེས་ dd' at column 9, not column 7.
+1     Unused 'completeRequest'.
+4     Unused '$timeout'.
+1     Unused 'future'.
+1     Unused 'error'.
+52     Unexpected space between ')' and ')'.
+5     Unexpected 'apply'.
+2     Unescaped '['.
+1     Unused 'params'.
+1     Unused 'queue'.
+1     Unused 'opt_modules'.
+2     Expected 'foo {@link angular.foo}
+3     Unused 'controller'.
+1     Unused 'res'.
+1     Unused 'opt_self'.
+1     Unused 'configFn'.
+1     Unexpected '.'.
+1     Unused 'reason'.
+4     Unused 'var_args'.
+1     Unused 'body'.
+1     Expected '<style>
+1     Expected 'content-encoding: gzip
+1     Unexpected 'expect'.
+3     Expected '<pre><code>third line
+1     Expected '<!-- ngSwitchWhen: 1 --><!-- ngSwitchWhen: 2 --><!-- ngSwitchWhen: true -->' at column 13, not column 9.
+1     Unused 'opt_attrName'.
+31     Unused 'name'.
+43     Weird condition.
+1     Expected 'x-backend-server: pm-dekiwiki03
+1     Expected 'vary: Cookie, Accept-Encoding
+2     Expected '};
+1     Unused '$element'.
+1     Bad for in variable 'cookieName'.
+1     Unused 'responseType'.
+2     Unused 'obj'.
+1     Unused 'addError'.
+2     Expected '^\[\$resource:badcfg\] Error in resource configuration\. Expected response to contain an array but got an object' at column 13, not column 9.
+1     Expected 'version < 9 in quirks mode.  You can fix this by adding the text <!doctype html> to ' at column 29, not column 15.
+1     Expected '9b1aff905b638aa274a5fc8f88662df446d374bd
+2     Unused 'd'.
+8     Missing space between '<div name="a" ng-repeat="m in model">' and '+'.
+2     Expected '[^[]*\[\$sce:imatcher\] Matchers may only be "self", string patterns or RegExp objects' at column 21, not column 11.
+6     Unused 'trustedValue'.
+129     Expected '<input type="radio" name="r" ng:model="test.input" value="bar" checked="checked">' at column 25, not column 11.
+2     Unused 'c'.
+1     Unused 'path'.
+1     Expected 'content-type: text/html; charset=utf-8
+1     Unused 'route'.
+8     Unused 'event'.
+26     Unnecessary 'else' after disruption.
+1     Unused 'update'.
+1     Unused 'updateTotals'.
+1     Unused 'promises'.
+608     Expected '<option ng-repeat="r in robots">{{r}}</option>' at column 25, not column 21.
+1     Unexpected space between 'Run the unit tests with Karma' and ','.
+3     Unused 'output'.
+108     Stopping. (34% scanned).
+1     Expected '  TIMEFORMATS: ['HH \'h\' mm \'min\' ss \'s\' zzzz', 'HH:mm:ss z',' at column 17, not column 1.
+1     Unused 'tElement'.
+1     Unused '$attrs'.
+2     Unused '_'.
+1     Unused 'filterFactory'.
+3     Unused 'constructor'.
+4     Unused 'object'.
+3     Unused 'iElement'.
+1     Unused 'handler'.
+3     Expected 'bla bla bla
+1     Expected 'keep-alive: timeout=5, max=1000
+1     Too many errors. (74% scanned).
+1     Expected 'if (goog.LOCALE == 'fr') {
+1     Unused 'serializeXml'.
+3     eval is evil.
+2     Unused 'opt_key'.
+2     Unused 'next'.
+959     Expected '<select name="select" ng-model="selection" required ng-change="change()">' at column 17, not column 9.
+1     Unused 'hiddenField'.
+1     Expected 'expires: Thu: , 19 Nov 1981 08:52:00 GMT
+1     Missing space between ':' and 'Author of <angular/> & Ruby guru see:  http://www.angularjs.org.'.
+1     Unused 'opt_objectEquality'.
+5     Unused 'url'.
+2     Unused '$animateProvider'.
+6     Confusing use of '-'.
+10     Unused 'opt_value'.
+9     Unused 'fn'.
+7     Unreachable 'function' after 'return'.
+15     Unused 'scope'.
+9     Unused 'type'.
+1     Unused 'opt_errorCallback'.
+1     Unused 'getStyle'.
+2     Unexpected 'call'.
+6     Unescaped ']'.
+3     Unused '$rootElement'.
+16     Unused 'value'.
+1     Expected '  if (n >= 0 && n < 2) {
+2     Unused 'clicked'.
+5     Expected 'Strict Contextual Escaping disallows interpolations that concatenate multiple ' at column 21, not column 17.
+30     Unused 'n'.
+1     Expected 'transfer-encoding: chunked
+2     Unused 'm'.
+1     Unused '$injector'.
+18     Redefinition of 'future' from line 4.
+3     Unused 'attr'.
+9     Unused '$cacheFactory'.
+1     Expected 'with the array annotated type' at column 13, not column 9.
+1     Expected 'ng-class="{A: conditionA, B: conditionB(), AnotB: conditionA&&!conditionB()}">' at column 25, not column 13.
+1     Expected '<p>foo
+6     Unused 'maybeTrusted'.
+11     Missing 'new'.
+3     Spaces are hard to count. Use {2}.
+1     Unused 'opt_prefix'.
+1     Unused 'opt_path'.
+4     Unused 'key'.
+2     Expected 'goog.i18n.pluralRules.Keyword = {
+269     Unexpected dangling '_' in '_jQuery'.
+1     Unused 'opt_dest'.
+1     Unused 'NG_VERSION'.
+2     Unused 'opt_type'.
+1129     Expected '$sceDelegate policy.  URL: http://example.com/foo.html' at column 21, not column 11.
+27     Use spaces, not tabs.
+2     Unused 'self'.
+2     Expected 'external{@link http://angularjs.org}
+4     Expected 'Error while interpolating: {{foo}}{{bar}}
+1     Expected 'goog.provide('goog.i18n.pluralRules');
+2     Expected '</div>
+2     Unexpected 'swipeTests'.
+4     Unescaped '}'.
+1     Uninitialized 'longVal'.
+1     Unused 'source'.
+1     Unused 'val'.
+6     Unused '$rootScope'.
+1     Unused 'i'.
+1     Expected 'Closes #123
+3     Unexpected 'typeof'. Use '===' to compare directly with undefined.
+1     Uninitialized 'element'.
+2     Unused 'promise'.
+20129     Expected 'frameworks' at column 9, not column 5.
+1     Missing space between '<div>B</div>C
+1     Unused 'o1'.
+1     Expected '@name a
+102     Unexpected '|'.
+11     Unused 'e'.
+5     Expected 'Failed to instantiate module TestModule due to:\n.*\[\$injector:unpr] Unknown provider: xyzzy' at column 21, not column 36.
+39     Unexpected assignment expression.
+1     Missing space between ':' and '<div class="a-page"><p>fn with optional arguments</p>
+3     Unused '$q'.
+1     Unused 'listener'.
+2     Weird relation.
+2     Unused '$sniffer'.
+4036     Expected exactly one space between 'function' and '('.
+4581     'describe' was used before it was defined.
+1     Expected '@param {*} a short
+1     Unused 'encode'.
+1     Unused 'iterator'.
+2     Unescaped '/'.
+1     Unused 'removePatch'.
+1     Unused 'localeIds'.
+2     Expected 'feat(ng-list): Allow custom separator
+3     Unused 'r'.
+1     Unused 'opt_configFn'.

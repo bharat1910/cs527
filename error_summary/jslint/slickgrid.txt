@@ -1,89 +1,75 @@
-1      #8 Stopping. (60% scanned).
-1     #51 Stopping. (75% scanned).
-1     #31 Unexpected 'apply'.
-1     #160 Stopping. (72% scanned).
-1     #460 Unused 'YesNoSelectEditor'.
-1     #463 Unused 'LongTextEditor'.
-2     #146 Unused 'handleGridClick'.
-241     #12 Unexpected dangling '_' in '_grid'.
-1     #63 Stopping. (40% scanned).
-1     #123 Unused 'handleHeaderCellRendered'.
-1     #458 Unused 'IntegerEditor'.
-2     #170 Unused 'handleDrag'.
-513     #39 Expected '' style='margin-left:' at column 17, not column 11.
-3     #90 Unexpected TODO comment.
-1     #125 Unused 'handleButtonClick'.
-1     #20 Stopping. (2% scanned).
-1     #459 Unused 'DateEditor'.
-3     #111 Unused 'args'.
-3     #236 Unexpected assignment expression.
-4      #1 Unexpected ';'.
-1     #155 Unused 'CellRangeSelector'.
-1     #164 Unused 'CompositeEditor'.
-197     #15 Combine this with the previous 'var' statement.
-1     #462 Unused 'PercentCompleteEditor'.
-1     #15 Do not use 'new' for side effects.
-9     #149 Move the invocation into the parens that contain the function.
-3     #18 Unexpected ','.
-1     #39 Unexpected '$'.
-1     #172 Unused 'RowMoveManager'.
-2     #54 Don't declare variables in a loop.
-54     #10 Use spaces, not tabs.
-1     #19 Weird condition.
-1     #67 Unused 'YesNoFormatter'.
-1     #27 Stopping. (15% scanned).
-1     #461 Unused 'CheckboxEditor'.
-2     #23 Empty block.
-1     #457 Unused 'TextEditor'.
-156      #2 'window' was used before it was defined.
-1     #74 Stopping. (25% scanned).
-1     #124 Unused 'handleBeforeHeaderCellDestroy'.
-3     #34 Stopping. (21% scanned).
-6     #46 Unused 'row'.
-2     #70 Stopping. (4% scanned).
-5     #49 Unused 'columnDef'.
-1     #69 Unexpected character '	'.
-1     #80 Missing radix parameter.
-1     #66 Unused 'PercentCompleteBarFormatter'.
-1     #129 Stopping. (69% scanned).
-72     #93 Expected '===' and instead saw '=='.
-1     #148 Unused 'GroupItemMetadataProvider'.
-4     #31 Unused 'dataContext'.
-6     #47 Unused 'cell'.
-1     #144 Unused 'defaultGroupCellFormatter'.
-1     #29 Stopping. (1% scanned).
-3     #133 Unnecessary 'else' after disruption.
-1     #26 Redefinition of 'b' from line 2.
-2     #168 Unused 'handleDragInit'.
-100     #40 Missing space between '+' and ''>'.
-50      #1 Expected exactly one space between 'function' and '('.
-3     #126 Unused 'item'.
-3     #59 Unused 'dd'.
-1     #208 Stopping. (5% scanned).
-31      #1 Missing 'use strict' statement.
-1     #81 Stopping. (30% scanned).
-26      #7 Unexpected space between '(' and 'str'.
-1     #85 Stopping. (70% scanned).
-1     #62 Unexpected ')'.
-2     #171 Unused 'handleDragEnd'.
-1306      #3 Expected 'Slick' at column 9, not column 5.
-2     #169 Unused 'handleDragStart'.
-4      #2 Unexpected 'typeof'. Use '===' to compare directly with undefined.
-12     #26 Move 'var' declarations to the top of the function.
-2     #61 Unexpected '++'.
-6     #21 Unexpected character '(space)'.
-1     #147 Unused 'handleGridKeyDown'.
-1     #65 Unused 'PercentCompleteFormatter'.
-8     #95 Unused 'e'.
-2     #48 Unused 'value'.
-2     #39 Expected ')' to match '(' from line 3 and instead saw ','.
-1     #15 Stopping. (3% scanned).
-1     #119 Stopping. (9% scanned).
-1     #15 Missing '()'.
-1     #16 Unexpected '+'.
-10     #52 Unexpected '--'.
-2     #19 Stopping. (11% scanned).
-1     #68 Unused 'CheckmarkFormatter'.
-2     #30 Stopping. (36% scanned).
-1     #322 Unused 'event'.
-2     #145 Unused 'defaultTotalsCellFormatter'.
+12     Move 'var' declarations to the top of the function.
+2     Unused 'dd'.
+1     Unused 'RowMoveManager'.
+26     Unexpected space between '(' and 'str'.
+10     Unexpected '--'.
+2     Unexpected ','.
+1     Unused 'handleGridClick'.
+1     Unexpected '+'.
+1     Missing radix parameter.
+9     Move the invocation into the parens that contain the function.
+3     Unused 'args'.
+2     Unused 'item'.
+1     Redefinition of 'b' from line 2.
+2     Unused 'handleDragEnd'.
+1     Unused 'handleGridKeyDown'.
+1     Unused 'PercentCompleteEditor'.
+2     Unused 'handleDragInit'.
+1     Unused 'CompositeEditor'.
+4     Unused 'dataContext'.
+1     Unexpected 'apply'.
+2     Unused 'value'.
+2     Unused 'handleDrag'.
+6     Unused 'row'.
+2     Empty block.
+1     Unexpected '$'.
+2     Don't declare variables in a loop.
+1     Unused 'HeaderButtons'.
+2     Expected ')' to match '(' from line 3 and instead saw ','.
+241     Unexpected dangling '_' in '_grid'.
+2     Unexpected '++'.
+156     'window' was used before it was defined.
+1     Unused 'CellRangeSelector'.
+1     Weird condition.
+1819     Expected 'Slick' at column 9, not column 5.
+1     Unused 'GroupItemMetadataProvider'.
+1     Unused 'defaultGroupCellFormatter'.
+1     Do not use 'new' for side effects.
+23     Stopping. (15% scanned).
+1     Unused 'LongTextEditor'.
+54     Use spaces, not tabs.
+1     Unexpected 'var'.
+31     Missing 'use strict' statement.
+1     Unused 'handleHeaderCellRendered'.
+1     Unused 'IntegerEditor'.
+1     Unused 'updatePager'.
+1     Unused 'constructPagerUI'.
+4     Unexpected 'typeof'. Use '===' to compare directly with undefined.
+8     Unused 'e'.
+1     Unused 'PercentCompleteBarFormatter'.
+1     Missing '()'.
+1     Unused 'DateEditor'.
+3     Unexpected assignment expression.
+1     Unused 'TextEditor'.
+1     Unused 'event'.
+100     Missing space between '+' and ''>'.
+3     Unnecessary 'else' after disruption.
+4     Unexpected ';'.
+1     Unused 'handleButtonClick'.
+1     Unused 'YesNoFormatter'.
+7     Unexpected character '(space)'.
+6     Unused 'cell'.
+72     Expected '===' and instead saw '=='.
+50     Expected exactly one space between 'function' and '('.
+1     Unused 'YesNoSelectEditor'.
+1     Unexpected ')'.
+1     Unused 'defaultTotalsCellFormatter'.
+5     Unused 'columnDef'.
+3     Unexpected TODO comment.
+197     Combine this with the previous 'var' statement.
+1     Unused 'CellRangeDecorator'.
+1     Unused 'CheckmarkFormatter'.
+1     Unused 'handleBeforeHeaderCellDestroy'.
+1     Unused 'CheckboxEditor'.
+1     Unused 'PercentCompleteFormatter'.
+2     Unused 'handleDragStart'.

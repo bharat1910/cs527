@@ -63,7 +63,7 @@ public class GenerateErrorCountJsLint {
 		String str;
 		while ((str = br.readLine()) != null) {
 			if (!str.equals("") && str.trim().charAt(0) == '#') {
-				updateErrorCountMap(str);
+				updateErrorCountMap(str.trim().split(" ", 2)[1]);
 			}
 		}
 		

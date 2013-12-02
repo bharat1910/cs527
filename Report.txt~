@@ -1,0 +1,81 @@
+
+A Comparative Study of JavaScript Static Analysis Tools for Open Source Projects
+
+Bharat Thatavarti 				Dhawal Seth
+
+UIUC							UIUC
+
+Abstract:
+JavaScript is being extensively used for developing web applications. Given the amount of development activity and the unavailability of proper development tools (in comparison to languages like Java, C++ etc.), there is a higher possibility of bugs getting introduced into the code. Another issue is that testing is not carried out as rigorously for JavaScript as it is for Java and other languages - primarily because these languages already have well established testing frameworks and suits which JavaScript does not. Hence there is a need to compare the various available test tools to determine their effectiveness.
+
+Keywords:
+JavaScript, Static Analysis, Lint, JsHint,JsLint, Closure Linter.
+
+Introduction:
+JavaScript has become one of the most popular scripting language when it comes to developing web applications. The proliferation of comprehensive Javascript libraries and frameworks has increased the usage of JavaScript among the developers working on creating web pages, pdf documents, desktop widgets etc. It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. JavaScript has a weak-typing, verbose function syntax, late binding and lacks enforcement of any proper module system. JavaScript provides an interface to a wide range of browser capabilities, some of which may have flaws such as buffer overflows. These flaws can allow attackers to write scripts which would run any code they wish on the user's system. Web browsers are capable of running JavaScript outside of the sandbox, with the privileges necessary to, for example, create or delete files. Of course, such privileges aren't meant to be granted to code from the web. These characteristics of JavaScript call for a need to test the code written before deploying it for general use. There are several static analysis tools available to the developers to test their scripts written in JavaScript. Static analysis tools test the code without actually executing it. The objective of this paper is to compare the capabilities and performance of JavaScript static analysis tools on a set of open source JavaScript libraries. ...‘write the evaluation results’...
+
+Related Work:
+Microsoft research “Practical Static Analysis of JavaScript Applications in the Presence of Frameworks and Libraries” proposes a technique which combines pointer analysis with a novel use analysis to handle many challenges posed by large JavaScript libraries. Research at google “JSWhiz - Static Analysis for JavaScript Memory Leaks” presented an extension to the open-source Closure JavaScript compiler for analyzing memory leaks in Gmail. IBM Research “LaBaSec: Language-based Security” designed and developed ACTARUS, a novel static taint-analysis for JavaScript that soundly models all the JavaScript constructs with the exception of reflective calls. JavaScript static code analysis tools like Checkmarx enables simple customization of the scanning rules to deliver the exact reports presenting the findings can be created with the information users need. 
+
+Study Setup:
+As of today, only a few JavaScript static analysis tools are available to the developers. The most widely used are JSHint, JSLint and Closure Linter. JSLint, developed by Douglas Crockford, is written in Javascript and so it can be run anywhere where Javascript can be executed. It gives user the option of running directly in browser by pasting the code on the website. 
+
+Although JSHint basically provides all the features of JSLint, there were numerous comparisons made by developers on several forums and subtle differences between the two - which we realized upon working with and comparing both tools. JSLint follows stricter notions of code correctness and is less flexible in comparison. However, since this has recent development activity as well, we chose to add it to the list of tools. 
+
+JSHint is an industry driven fork of JSLint. It provides all the features of JSLint along with the freedom of customization of the set of style features. User can enable/disable a set of style features for testing each file. The selection of JSHint was influenced by the fact that it is among the most popular JavaScript static analysis tools, not to mention that it is widely used across various firms like Yahoo, Mozilla, Facebook etc. Also, there is active development work being carried out on this tool. Although a UI interface is present for this tools, we have installed it onto our machines and run it locally on the projects. The configuration parameters are either set globally (in the config file) or by directly modifying the project file. 
+
+Closure Linter is a part of Closure tools by Google focusing more on JavaScript style issues such as operator placement, missing semicolons, spacing and the presence of JsDoc annotations. It is used by heavily by the Google developers using JavaScript for any of their Google product development. There is another tool Closure Compiler in Google’s Closure tool set that in addition to pointing out the issues in the code, it provides the additional functionality of compressing the code thereby increasing the efficiency by reducing the page load latency.
+
+Several other tools in the process of tool selection like TAJS, JavaScript Lint etc were tested on sample JavaScript files containing known bugs. However, these tools were discarded since either there was no active development work in progress or the tools were not working. 
+
+The open source projects - Highcharts, Slickgrid, AngularJs, MyWebSql and Kuda, were primarily selected based on our experience with JavaScript - i.e libraries used by us for development in JavaScript - charting libraries, libraries for seamless table creation by taking in structured data etc. A couple of projects were picked on the basis of their popularity - by looking through sourceforge. In all, we have selected 5 open source projects for analysis.
+
+Highcharts is a charting library in JavaScript which offers a lot of flexible and visually appealing functionality. It has active development work going on and is very popular among UI developers. We worked with both Highcharts and Highstock (this is primarily for time-series data), created charts in jsFiddle by passing JSON data  and looked through the source code to understand the working - so we fully understand the functionality when looking for issues. 
+Slickgrid takes in input data and generates a table. It is unique in that it does not create the conventional html table elements, instead it uses the div elements to generate table like structures. Features like changing the column ordering by dragging, expandable columns and efficient rendering has resulted in the growing popularity of this library. 
+AngularJs is a framework developed and maintained by Google to minimize the efforts of web developers. On searching through Google, while looking for popular projects that are being pursued actively, we found that AngularJs was mentioned frequently and therefore decided on choosing it. 
+MyWebSql is a web interface for databases, this has received nice reviews and has been compared to phpMyAdmin in terms of several factors like speed etc. 
+Kuda is a JavaScript library that helps develop representations of objects in 3D. We were influenced to pick Kuda, since the concept of 3D representations in the UI has good potential and can generate a better UI experience.
+
+Experimental Evaluation:
+The three tools JsHint, JsLint and Closure linter have been run on each of the projects (specifically their Javascript files). Subsequently, the results have been stored in independent files for analysis. As a first step, we initially created a few JavaScript files and introduced issues to check on whether all the tools in consideration could catch them. The examination of results appeared to be satisfactory. On looking through and trying to interpret the results of running the tools on the projects, it was clear that there are no strict coding conventions being followed by developers while creating these scripts - they are definitely working, but there is a possibility of bugs getting introduced at runtime due to the subtle warnings indicated by the tools. We then carried out a study on the implications these warnings could have by reading through the interpretations provided by the tool documentation.
+
+One of the initial issues in running JsLint and JsHint was not able to have 100% code coverage, as the tools were giving a lot of ‘indent’, ‘whitespace’ and ‘semicolon’ related warnings making it reach the maximum error limit, thus not able to have a decent percentage of code covered. This was handled by putting in a line of code as comments in each file to ignore the above mentioned warnings. For JsHint, the comment line looks like this: “/* JsHint asi: true */”. This option suppresses warnings about missing semicolon. Another way of increasing the code coverage to increase the max error limit. For JsHint, this could be done by adding a comment in each of the JavaScript files of each projects under test. Since the number of JavaScript files in each project is huge, a script GenerateModifiedFileJsHint.java was made to insert the desired comment line in each of the project files. In case of JsLint, max error count can be increased by passing it as   a parameter, which was done using GenerateModifiedFileJsLint.java. 
+
+Project Repository Structure:
+Project repository contains the JavaScript project files under test in the ‘projects’ folder. The ‘modified_projects’ contains the same project files modified in order to increase the code coverage by inserting options to ignore certain types of warnings generated by the tools. The ‘src’ folder contains the Java files which are used to produce the modified files using the original project files from ‘projects’ folder. GenerateErrorFile.java triggers the execution of each of the three tools on each JavaScript of the five projects, and store the results in ‘error_files’ folder. These error files are for individual JavaScripts, which are combined to form error_summary using GenerateErrorCount.java. 
+
+
+
+
+
+Conclusion:
+
+Future Work:
+
+
+
+
+
+References:
+[1]http://research.microsoft.com/pubs/168635/tr.pdf
+[2]http://researcher.watson.ibm.com/researcher/view_project_subpage.php?id=1598
+[3]http://www.checkmarx.com/glossary/javascript-static-code-analysis/
+[4]http://javascriptlint.com/index.htm
+[5]http://www.jslint.com/lint.html
+[6]http://www.jshint.com/about/
+[7]https://developers.google.com/closure/utilities/
+[8]http://anton.averin.pro/2012/08/17/js_quality_tools_jshint_jslint_gjslinter/
+[9]http://www.kendoui.com/blogs/teamblog/posts/13-07-09/protecting-your-mellow-with-javascript-linters.aspx
+[10]http://www.jamesshore.com/Blog/Lessons-Learned-Lint-and-Javascript.html
+[11]http://www.highcharts.com/
+[12]https://drupal.org/project/slickgrid
+[13]http://angularjs.org/
+[14]http://mywebsql.net/
+[15]https://code.google.com/p/kuda/
+[16]http://en.wikipedia.org/wiki/JavaScript
+[17]http://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+
+
+
+
