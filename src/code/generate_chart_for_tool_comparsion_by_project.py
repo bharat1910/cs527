@@ -18,7 +18,7 @@ def readFileAndShowChart():
             count = 0
             
             for line in f.readlines():
-                count += int(line.rsplit(' ', 1)[1])
+                count += int(line.split(' ')[0])
             bugCountByToolAndProject.append(count);
 
     fig = plt.figure()
