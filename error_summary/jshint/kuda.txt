@@ -1,42 +1,42 @@
- Expected a 'break' statement before 'default'.     32
- Creating global 'for' variable. Should be 'for (var m ...'.     7
- Confusing use of '!'.     76
- Bad escaping of EOL. Use option multistr if needed.     123
- Bad line breaking before '?'.     702
- This character may get silently deleted by one or more browsers.     11
- Forgotten 'debugger' statement?     2
- The array literal notation [] is preferrable.     5
- eval can be harmful.     6
- 'self' is not defined.     242
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     10
- Unnecessary semicolon.     147
- 'j' is already defined.     821
- Possible strict violation.     333
- A leading decimal point can be confused with a dot: '.5'.     48
- Missing "use strict" statement.     1
- Expected ')' to match '(' from line 596 and instead saw 'e'.     51
- Duplicate key 'ldquo'.     1
- 'a' is a statement label.     40
- Expected an assignment or function call and instead saw an expression.     2469
- Use '===' to compare with 'null'.     1026
- The Function constructor is a form of eval.     3
- It's not necessary to initialize 'param' to 'undefined'.     1
- Comma warnings can be turned off with 'laxcomma'.     55
- Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     2
- 'g' used out of scope.     686
- Expected a single parameter in set nodeName function.     14
- The '__proto__' property is deprecated.     34
- Don't make functions within a loop.     24
- 'class' is only available in JavaScript 1.7.     1
- Unreachable ';' after 'return'.     14
- You might be leaking a variable (b) here.     13
- Bad or unnecessary escaping.     4
- Did you mean to return a conditional instead of an assignment?     25
- Use the function form of "use strict".     3
- Unreachable 'break' after 'break'.     7
- Missing 'new' prefix when invoking a constructor.     346
- A constructor name should start with an uppercase letter.     39
- Mixed spaces and tabs.     1235
- ['rfc1867'] is better written in dot notation.     34
- Unexpected escaped character '<' in regular expression.     2
- Expected an identifier and instead saw 'class' (a reserved word).     1
+32      Expected a 'break' statement before 'default'.
+7      Creating global 'for' variable. Should be 'for (var m ...'.
+76      Confusing use of '!'.
+123      Bad escaping of EOL. Use option multistr if needed.
+702      Bad line breaking before '?'.
+11      This character may get silently deleted by one or more browsers.
+2      Forgotten 'debugger' statement?
+5      The array literal notation [] is preferrable.
+6      eval can be harmful.
+242      'self' is not defined.
+10      Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+147      Unnecessary semicolon.
+821      'j' is already defined.
+333      Possible strict violation.
+48      A leading decimal point can be confused with a dot: '.5'.
+1      Missing "use strict" statement.
+51      Expected ')' to match '(' from line 596 and instead saw 'e'.
+1      Duplicate key 'ldquo'.
+40      'a' is a statement label.
+2469      Expected an assignment or function call and instead saw an expression.
+1026      Use '===' to compare with 'null'.
+3      The Function constructor is a form of eval.
+1      It's not necessary to initialize 'param' to 'undefined'.
+55      Comma warnings can be turned off with 'laxcomma'.
+2      Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
+686      'g' used out of scope.
+14      Expected a single parameter in set nodeName function.
+34      The '__proto__' property is deprecated.
+24      Don't make functions within a loop.
+1      'class' is only available in JavaScript 1.7.
+14      Unreachable ';' after 'return'.
+13      You might be leaking a variable (b) here.
+4      Bad or unnecessary escaping.
+25      Did you mean to return a conditional instead of an assignment?
+3      Use the function form of "use strict".
+7      Unreachable 'break' after 'break'.
+346      Missing 'new' prefix when invoking a constructor.
+39      A constructor name should start with an uppercase letter.
+1235      Mixed spaces and tabs.
+34      ['rfc1867'] is better written in dot notation.
+2      Unexpected escaped character '<' in regular expression.
+1      Expected an identifier and instead saw 'class' (a reserved word).

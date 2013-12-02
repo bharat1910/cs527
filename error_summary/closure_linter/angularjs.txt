@@ -1,22 +1,22 @@
-0005:  Illegal tab in whitespace before "src"         29
-0210:  Missing docs for parameter: "obj"         92
-0200:  Invalid JsDoc tag: fileOverview         1840
-0212:  Parameter mismatch: got "delay", expected "number"         41
-0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)         64
-0131:  Single-quoted string preferred over double-quoted string.         28088
-0120:  Binary operator should go on previous line "?"         115
-0211:  Found docs for non-existing parameter: "fn"         30
-0001:  Extra space after "function"         2734
-0222:  Member "this.$$parse" must not have @private JsDoc         4
-0213:  Missing type in @param tag         24
-0013:  No semicolon is required to end a code block         18
-0216:  Type should be immediately after @param tag         6
-0012:  Illegal semicolon after function declaration         5
-0220:  No docs found for member 'module.exports'         678
-0002:  Missing space before "{"         2413
-0011:  Missing semicolon after function assigned to a variable         41
-0217:  Missing @return JsDoc in function with non-trivial return         151
--002:  Error parsing file at token "<JavaScriptToken: 855, }, "}", {}, MetaData(None)>". Unable to check the rest of file.         2
-0010:  Missing semicolon at end of line         245
-0121:  Illegal comma at end of object literal         5
-0110:  Line too long (86 characters).         6484
+29         0005:  Illegal tab in whitespace before "src"
+92         0210:  Missing docs for parameter: "obj"
+1840         0200:  Invalid JsDoc tag: fileOverview
+41         0212:  Parameter mismatch: got "delay", expected "number"
+64         0225:  Missing @this JsDoc in function referencing "this". (this usually means you are trying to reference "this" in a static function, or you have forgotten to mark a constructor with @constructor)
+28088         0131:  Single-quoted string preferred over double-quoted string.
+115         0120:  Binary operator should go on previous line "?"
+30         0211:  Found docs for non-existing parameter: "fn"
+2734         0001:  Extra space after "function"
+4         0222:  Member "this.$$parse" must not have @private JsDoc
+24         0213:  Missing type in @param tag
+18         0013:  No semicolon is required to end a code block
+6         0216:  Type should be immediately after @param tag
+5         0012:  Illegal semicolon after function declaration
+678         0220:  No docs found for member 'module.exports'
+2413         0002:  Missing space before "{"
+41         0011:  Missing semicolon after function assigned to a variable
+151         0217:  Missing @return JsDoc in function with non-trivial return
+2         -002:  Error parsing file at token "<JavaScriptToken: 855, }, "}", {}, MetaData(None)>". Unable to check the rest of file.
+245         0010:  Missing semicolon at end of line
+5         0121:  Illegal comma at end of object literal
+6484         0110:  Line too long (86 characters).

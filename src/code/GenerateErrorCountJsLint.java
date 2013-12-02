@@ -57,7 +57,7 @@ public class GenerateErrorCountJsLint {
 		}
 		
 		for (Entry<String, Integer> e : errorCount.entrySet()) {
-			bw.write(e.getKey() + "     " + e.getValue() + "\n");
+			bw.write(e.getValue() + "     " + e.getKey() + "\n");
 		}
 		
 		br.close();

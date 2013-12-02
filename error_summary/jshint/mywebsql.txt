@@ -1,30 +1,30 @@
- 'lineElement' used out of scope.     76
- Value of 'e' may be overwritten in IE 8 and earlier.     5
- Confusing use of '!'.     76
- Variables should not be deleted.     3
- Expected a 'break' statement before 'case'.     4
- Script URL.     5
- This character may get silently deleted by one or more browsers.     3
- Use '===' to compare with '0'.     344
- eval can be harmful.     9
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     8
- Unnecessary semicolon.     50
- Missing '()' invoking a constructor.     23
- Possible strict violation.     1
- Creating global 'for' variable. Should be 'for (var dlg ...'.     6
- The Function constructor is a form of eval.     1
- Expected an assignment or function call and instead saw an expression.     868
- Unreachable 'break' after 'return'.     3
- A leading decimal point can be confused with a dot: '.99'.     8
- Comma warnings can be turned off with 'laxcomma'.     3
- Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     10
- Don't make functions within a loop.     13
- ['winResizeRepeater'] is better written in dot notation.     21
- The object literal notation {} is preferrable.     2
- Did you mean to return a conditional instead of an assignment?     8
- 'n' is already defined.     108
- Missing 'new' prefix when invoking a constructor.     7
- Mixed spaces and tabs.     163
- Bad operand.     2
- Bad line breaking before '||'.     720
- Read only.     1
+76      'lineElement' used out of scope.
+5      Value of 'e' may be overwritten in IE 8 and earlier.
+76      Confusing use of '!'.
+3      Variables should not be deleted.
+4      Expected a 'break' statement before 'case'.
+5      Script URL.
+3      This character may get silently deleted by one or more browsers.
+344      Use '===' to compare with '0'.
+9      eval can be harmful.
+8      Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+50      Unnecessary semicolon.
+23      Missing '()' invoking a constructor.
+1      Possible strict violation.
+6      Creating global 'for' variable. Should be 'for (var dlg ...'.
+1      The Function constructor is a form of eval.
+868      Expected an assignment or function call and instead saw an expression.
+3      Unreachable 'break' after 'return'.
+8      A leading decimal point can be confused with a dot: '.99'.
+3      Comma warnings can be turned off with 'laxcomma'.
+10      Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
+13      Don't make functions within a loop.
+21      ['winResizeRepeater'] is better written in dot notation.
+2      The object literal notation {} is preferrable.
+8      Did you mean to return a conditional instead of an assignment?
+108      'n' is already defined.
+7      Missing 'new' prefix when invoking a constructor.
+163      Mixed spaces and tabs.
+2      Bad operand.
+720      Bad line breaking before '||'.
+1      Read only.

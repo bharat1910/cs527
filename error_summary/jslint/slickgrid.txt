@@ -1,87 +1,87 @@
-#51 Stopping. (75% scanned).     2
-#31 Unexpected 'apply'.     1
-#160 Stopping. (72% scanned).     1
-#460 Unused 'YesNoSelectEditor'.     1
-#463 Unused 'LongTextEditor'.     1
-#146 Unused 'handleGridClick'.     2
-#12 Unexpected dangling '_' in '_grid'.     246
-#63 Stopping. (40% scanned).     1
-#123 Unused 'handleHeaderCellRendered'.     1
-#458 Unused 'IntegerEditor'.     1
-#170 Unused 'handleDrag'.     2
-#39 Expected '' style='margin-left:' at column 17, not column 11.     1790
-#90 Unexpected TODO comment.     3
-#125 Unused 'handleButtonClick'.     1
-#20 Stopping. (2% scanned).     1
-#459 Unused 'DateEditor'.     1
-#111 Unused 'args'.     3
-#236 Unexpected assignment expression.     3
-#155 Unused 'CellRangeSelector'.     1
-#164 Unused 'CompositeEditor'.     1
-#15 Combine this with the previous 'var' statement.     197
-#462 Unused 'PercentCompleteEditor'.     1
-#15 Do not use 'new' for side effects.     1
-#149 Move the invocation into the parens that contain the function.     10
-#18 Unexpected ','.     3
-#39 Unexpected '$'.     1
-#172 Unused 'RowMoveManager'.     1
-#54 Don't declare variables in a loop.     2
-#10 Use spaces, not tabs.     54
-#19 Weird condition.     1
-#67 Unused 'YesNoFormatter'.     1
-#27 Stopping. (15% scanned).     1
-#461 Unused 'CheckboxEditor'.     1
-#23 Empty block.     2
-#457 Unused 'TextEditor'.     1
- #2 'window' was used before it was defined.     156
-#74 Stopping. (25% scanned).     1
-#124 Unused 'handleBeforeHeaderCellDestroy'.     1
-#34 Stopping. (21% scanned).     3
-#46 Unused 'row'.     6
-#70 Stopping. (4% scanned).     2
-#49 Unused 'columnDef'.     5
-#69 Unexpected character '	'.     1
-#80 Missing radix parameter.     1
-#66 Unused 'PercentCompleteBarFormatter'.     1
-#129 Stopping. (69% scanned).     1
-#93 Expected '===' and instead saw '=='.     72
-#148 Unused 'GroupItemMetadataProvider'.     1
-#31 Unused 'dataContext'.     4
-#47 Unused 'cell'.     6
-#144 Unused 'defaultGroupCellFormatter'.     1
-#29 Stopping. (1% scanned).     1
-#133 Unnecessary 'else' after disruption.     3
-#26 Redefinition of 'b' from line 2.     1
-#168 Unused 'handleDragInit'.     2
-#40 Missing space between '+' and ''>'.     101
- #1 Expected exactly one space between 'function' and '('.     62
-#126 Unused 'item'.     3
-#59 Unused 'dd'.     3
-#208 Stopping. (5% scanned).     1
- #1 Missing 'use strict' statement.     31
-#81 Stopping. (30% scanned).     1
-#85 Stopping. (70% scanned).     1
-#62 Unexpected ')'.     1
-#171 Unused 'handleDragEnd'.     2
- #3 Expected 'Slick' at column 9, not column 5.     29
-#169 Unused 'handleDragStart'.     2
- #2 Unexpected 'typeof'. Use '===' to compare directly with undefined.     4
-#26 Move 'var' declarations to the top of the function.     11
-#61 Unexpected '++'.     2
-#21 Unexpected character '(space)'.     5
-#147 Unused 'handleGridKeyDown'.     1
-#65 Unused 'PercentCompleteFormatter'.     1
-#95 Unused 'e'.     8
-#48 Unused 'value'.     2
- #8 Unexpected space between 'opts' and ')'.     13
-#39 Expected ')' to match '(' from line 3 and instead saw ','.     2
-#15 Stopping. (3% scanned).     1
-#119 Stopping. (9% scanned).     1
-#15 Missing '()'.     1
-#16 Unexpected '+'.     1
-#52 Unexpected '--'.     10
-#19 Stopping. (11% scanned).     2
-#68 Unused 'CheckmarkFormatter'.     1
-#30 Stopping. (36% scanned).     2
-#322 Unused 'event'.     1
-#145 Unused 'defaultTotalsCellFormatter'.     2
+2     #51 Stopping. (75% scanned).
+1     #31 Unexpected 'apply'.
+1     #160 Stopping. (72% scanned).
+1     #460 Unused 'YesNoSelectEditor'.
+1     #463 Unused 'LongTextEditor'.
+2     #146 Unused 'handleGridClick'.
+246     #12 Unexpected dangling '_' in '_grid'.
+1     #63 Stopping. (40% scanned).
+1     #123 Unused 'handleHeaderCellRendered'.
+1     #458 Unused 'IntegerEditor'.
+2     #170 Unused 'handleDrag'.
+1790     #39 Expected '' style='margin-left:' at column 17, not column 11.
+3     #90 Unexpected TODO comment.
+1     #125 Unused 'handleButtonClick'.
+1     #20 Stopping. (2% scanned).
+1     #459 Unused 'DateEditor'.
+3     #111 Unused 'args'.
+3     #236 Unexpected assignment expression.
+1     #155 Unused 'CellRangeSelector'.
+1     #164 Unused 'CompositeEditor'.
+197     #15 Combine this with the previous 'var' statement.
+1     #462 Unused 'PercentCompleteEditor'.
+1     #15 Do not use 'new' for side effects.
+10     #149 Move the invocation into the parens that contain the function.
+3     #18 Unexpected ','.
+1     #39 Unexpected '$'.
+1     #172 Unused 'RowMoveManager'.
+2     #54 Don't declare variables in a loop.
+54     #10 Use spaces, not tabs.
+1     #19 Weird condition.
+1     #67 Unused 'YesNoFormatter'.
+1     #27 Stopping. (15% scanned).
+1     #461 Unused 'CheckboxEditor'.
+2     #23 Empty block.
+1     #457 Unused 'TextEditor'.
+156      #2 'window' was used before it was defined.
+1     #74 Stopping. (25% scanned).
+1     #124 Unused 'handleBeforeHeaderCellDestroy'.
+3     #34 Stopping. (21% scanned).
+6     #46 Unused 'row'.
+2     #70 Stopping. (4% scanned).
+5     #49 Unused 'columnDef'.
+1     #69 Unexpected character '	'.
+1     #80 Missing radix parameter.
+1     #66 Unused 'PercentCompleteBarFormatter'.
+1     #129 Stopping. (69% scanned).
+72     #93 Expected '===' and instead saw '=='.
+1     #148 Unused 'GroupItemMetadataProvider'.
+4     #31 Unused 'dataContext'.
+6     #47 Unused 'cell'.
+1     #144 Unused 'defaultGroupCellFormatter'.
+1     #29 Stopping. (1% scanned).
+3     #133 Unnecessary 'else' after disruption.
+1     #26 Redefinition of 'b' from line 2.
+2     #168 Unused 'handleDragInit'.
+101     #40 Missing space between '+' and ''>'.
+62      #1 Expected exactly one space between 'function' and '('.
+3     #126 Unused 'item'.
+3     #59 Unused 'dd'.
+1     #208 Stopping. (5% scanned).
+31      #1 Missing 'use strict' statement.
+1     #81 Stopping. (30% scanned).
+1     #85 Stopping. (70% scanned).
+1     #62 Unexpected ')'.
+2     #171 Unused 'handleDragEnd'.
+29      #3 Expected 'Slick' at column 9, not column 5.
+2     #169 Unused 'handleDragStart'.
+4      #2 Unexpected 'typeof'. Use '===' to compare directly with undefined.
+11     #26 Move 'var' declarations to the top of the function.
+2     #61 Unexpected '++'.
+5     #21 Unexpected character '(space)'.
+1     #147 Unused 'handleGridKeyDown'.
+1     #65 Unused 'PercentCompleteFormatter'.
+8     #95 Unused 'e'.
+2     #48 Unused 'value'.
+13      #8 Unexpected space between 'opts' and ')'.
+2     #39 Expected ')' to match '(' from line 3 and instead saw ','.
+1     #15 Stopping. (3% scanned).
+1     #119 Stopping. (9% scanned).
+1     #15 Missing '()'.
+1     #16 Unexpected '+'.
+10     #52 Unexpected '--'.
+2     #19 Stopping. (11% scanned).
+1     #68 Unused 'CheckmarkFormatter'.
+2     #30 Stopping. (36% scanned).
+1     #322 Unused 'event'.
+2     #145 Unused 'defaultTotalsCellFormatter'.

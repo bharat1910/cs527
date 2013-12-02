@@ -1,52 +1,52 @@
- Value of 'e' may be overwritten in IE 8 and earlier.     4
- col 1     46
- Strings must use doublequote.     118
- Expected ')' to match '(' from line 105 and instead saw '='.     52
- Redefinition of 'JSON'.     1
- Expected a 'break' statement before 'case'.     6
- col 8     1
- Creating global 'for' variable. Should be 'for (var name ...'.     7
- Unmatched '{'.     2
- Don't use extra leading zeros '000'.     4
- Wrap the /regexp/ literal in parens to disambiguate the slash operator.     13
- Missing '()' invoking a constructor.     124
- Possible strict violation.     1
- You might be leaking a variable (c) here.     11
- Expected ']' to match '[' from line 7 and instead saw ';'.     4
- The Function constructor is a form of eval.     8
- Missing name in function declaration.     5
- Use '!==' to compare with 'null'.     1086
- Expected a JSON value.     20
- Comma warnings can be turned off with 'laxcomma'.     5
- The '__proto__' property is deprecated.     2
- Don't make functions within a loop.     30
- Weird construction. Is 'new' unnecessary?     4
- Did you mean to return a conditional instead of an assignment?     66
- Missing 'new' prefix when invoking a constructor.     6
- Expected an identifier and instead saw 'undefined' (a reserved word).     2
- Don't use 'with'.     1
- Unexpected 'break'.     18
- Bad operand.     4
- 'lineElement' used out of scope.     121
- Unreachable 'for' after 'return'.     3
- Duplicate key 'tooltip'.     2
- Confusing use of '!'.     264
- ['closeTagEnabled'] is better written in dot notation.     103
- Bad line breaking before '&&'.     119
- Unexpected comma.     1
- The array literal notation [] is preferrable.     1
- Unnecessary semicolon.     63
- Label 'simpleSelectors' on if statement.     8
- 'arr' is already defined.     842
- Unmatched '('.     2
- Expected an assignment or function call and instead saw an expression.     4109
- A leading decimal point can be confused with a dot: '.99'.     16
- 'querySelector' is not a statement label.     2
- Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.     11
- document.write can be a form of eval.     41
- Bad assignment.     2
- Bad or unnecessary escaping.     3
- 'isArray' is a function.     3
- Mixed spaces and tabs.     4652
- Read only.     1
- Expected 'pathAnim' to have an indentation at 5 instead at 1.     17999
+4      Value of 'e' may be overwritten in IE 8 and earlier.
+46      col 1
+118      Strings must use doublequote.
+52      Expected ')' to match '(' from line 105 and instead saw '='.
+1      Redefinition of 'JSON'.
+6      Expected a 'break' statement before 'case'.
+1      col 8
+7      Creating global 'for' variable. Should be 'for (var name ...'.
+2      Unmatched '{'.
+4      Don't use extra leading zeros '000'.
+13      Wrap the /regexp/ literal in parens to disambiguate the slash operator.
+124      Missing '()' invoking a constructor.
+1      Possible strict violation.
+11      You might be leaking a variable (c) here.
+4      Expected ']' to match '[' from line 7 and instead saw ';'.
+8      The Function constructor is a form of eval.
+5      Missing name in function declaration.
+1086      Use '!==' to compare with 'null'.
+20      Expected a JSON value.
+5      Comma warnings can be turned off with 'laxcomma'.
+2      The '__proto__' property is deprecated.
+30      Don't make functions within a loop.
+4      Weird construction. Is 'new' unnecessary?
+66      Did you mean to return a conditional instead of an assignment?
+6      Missing 'new' prefix when invoking a constructor.
+2      Expected an identifier and instead saw 'undefined' (a reserved word).
+1      Don't use 'with'.
+18      Unexpected 'break'.
+4      Bad operand.
+121      'lineElement' used out of scope.
+3      Unreachable 'for' after 'return'.
+2      Duplicate key 'tooltip'.
+264      Confusing use of '!'.
+103      ['closeTagEnabled'] is better written in dot notation.
+119      Bad line breaking before '&&'.
+1      Unexpected comma.
+1      The array literal notation [] is preferrable.
+63      Unnecessary semicolon.
+8      Label 'simpleSelectors' on if statement.
+842      'arr' is already defined.
+2      Unmatched '('.
+4109      Expected an assignment or function call and instead saw an expression.
+16      A leading decimal point can be confused with a dot: '.99'.
+2      'querySelector' is not a statement label.
+11      Function declarations should not be placed in blocks. Use a function expression or move the statement to the top of the outer function.
+41      document.write can be a form of eval.
+2      Bad assignment.
+3      Bad or unnecessary escaping.
+3      'isArray' is a function.
+4652      Mixed spaces and tabs.
+1      Read only.
+17999      Expected 'pathAnim' to have an indentation at 5 instead at 1.

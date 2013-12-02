@@ -62,7 +62,7 @@ public class GenerateErrorCountClosureLinter {
 		}
 		
 		for (Entry<String, Integer> e : errorCountMap.entrySet()) {
-			bw.write(e.getKey() + ": " + errorDescriptionMap.get(e.getKey()) + "         " + e.getValue() + "\n");
+			bw.write(e.getValue() + "         " + e.getKey() + ": " + errorDescriptionMap.get(e.getKey()) + "\n");
 		}
 		
 		br.close();

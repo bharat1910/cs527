@@ -1,14 +1,14 @@
-0005:  Illegal tab in whitespace before "//"         1486
-0200:  Invalid JsDoc tag: module         46
-0131:  Single-quoted string preferred over double-quoted string.         4088
-0120:  Binary operator should go on previous line "?"         25
-0001:  Extra space after "function"         1305
-0213:  Missing type in @param tag         9
-0013:  Semicolon without any statement         16
-0216:  Type should be immediately after @param tag         25
-0220:  No docs found for member 'window.console'         1
-0002:  Missing space after "+"         32237
-0011:  Missing semicolon after function assigned to a variable         94
--002:  Error parsing file at token "<JavaScriptToken: 421, }, "}", {}, MetaData(None)>". Unable to check the rest of file.         1
-0010:  Missing semicolon at end of line         19
-0110:  Line too long (108 characters).         754
+1486         0005:  Illegal tab in whitespace before "//"
+46         0200:  Invalid JsDoc tag: module
+4088         0131:  Single-quoted string preferred over double-quoted string.
+25         0120:  Binary operator should go on previous line "?"
+1305         0001:  Extra space after "function"
+9         0213:  Missing type in @param tag
+16         0013:  Semicolon without any statement
+25         0216:  Type should be immediately after @param tag
+1         0220:  No docs found for member 'window.console'
+32237         0002:  Missing space after "+"
+94         0011:  Missing semicolon after function assigned to a variable
+1         -002:  Error parsing file at token "<JavaScriptToken: 421, }, "}", {}, MetaData(None)>". Unable to check the rest of file.
+19         0010:  Missing semicolon at end of line
+754         0110:  Line too long (108 characters).
