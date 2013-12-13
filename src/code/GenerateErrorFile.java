@@ -20,15 +20,15 @@ public class GenerateErrorFile
 	private static String DEST = "error_files/";
 	
 	static {
-		commandForTool.put("jshint", "jshint ");
+		//commandForTool.put("jshint", "jshint ");
 		commandForTool.put("jslint", "jslint -maxerr 10000 ");
 		//commandForTool.put("closure_linter", "gjslint ");
 		
-		projects.add("highcharts");
+		//projects.add("highcharts");
 		projects.add("angularjs");
-		projects.add("kuda");
-		projects.add("slickgrid");
-		projects.add("mywebsql");
+		//projects.add("kuda");
+		//projects.add("slickgrid");
+		//projects.add("mywebsql");
 	}
 	
 	private void runRecursivelyOnFiles(File f, BufferedWriter bw, String command) throws IOException
