@@ -63,8 +63,8 @@ function $CacheFactoryProvider() {
 
           refresh(lruEntry);
 
-          if (isUndefined(value)) return;
-          if (!(key in data)) size++;
+          if (isUndefined(value)) {return;}
+          if (!(key in data)) {size++;}
           data[key] = value;
 
           if (size > capacity) {
@@ -78,7 +78,7 @@ function $CacheFactoryProvider() {
         get: function(key) {
           var lruEntry = lruHash[key];
 
-          if (!lruEntry) return;
+          if (!lruEntry) {return;}
 
           refresh(lruEntry);
 
@@ -89,10 +89,8 @@ function $CacheFactoryProvider() {
         remove: function(key) {
           var lruEntry = lruHash[key];
 
-          if (!lruEntry) return;
+          if (!lruEntry) {return;}
 
-          if (lruEntry == freshEnd) freshEnd = lruEntry.p;
-          if (lruEntry == staleEnd) staleEnd = lruEntry.n;
           link(lruEntry.n,lruEntry.p);
 
           delete lruHash[key];
@@ -140,18 +138,6 @@ function $CacheFactoryProvider() {
           freshEnd.n = null;
         }
       }
-
-
-      /**
-       * bidirectionally links two entries of the LRU linked list
-       */
-      function link(nextEntry, prevEntry) {
-        if (nextEntry != prevEntry) {
-          if (nextEntry) nextEntry.p = prevEntry; //p stands for previous, 'prev' didn't minify
-          if (prevEntry) prevEntry.n = nextEntry; //n stands for next, 'next' didn't minify
-        }
-      }
-    }
 
 
   /**
@@ -239,9 +225,3 @@ function $CacheFactoryProvider() {
  * See {@link ng.$cacheFactory $cacheFactory}.
  *
  */
-function $TemplateCacheProvider() {
-  this.$get = ['$cacheFactory', function($cacheFactory) {
-    return $cacheFactory('templates');
-  }];
-}
-

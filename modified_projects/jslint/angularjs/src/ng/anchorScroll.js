@@ -66,7 +66,7 @@ function $AnchorScrollProvider() {
     function getFirstAnchor(list) {
       var result = null;
       forEach(list, function(element) {
-        if (!result && lowercase(element.nodeName) === 'a') result = element;
+        if (!result && lowercase(element.nodeName) === 'a') {result = element;}
       });
       return result;
     }
@@ -75,16 +75,16 @@ function $AnchorScrollProvider() {
       var hash = $location.hash(), elm;
 
       // empty hash, scroll to the top of the page
-      if (!hash) $window.scrollTo(0, 0);
+      if (!hash) {$window.scrollTo(0, 0);}
 
       // element with given id
-      else if ((elm = document.getElementById(hash))) elm.scrollIntoView();
+      else if ((elm = document.getElementById(hash))) { elm.scrollIntoView();}
 
       // first anchor with given name :-D
-      else if ((elm = getFirstAnchor(document.getElementsByName(hash)))) elm.scrollIntoView();
+      else if ((elm = getFirstAnchor(document.getElementsByName(hash)))) { elm.scrollIntoView();}
 
       // no element and hash == 'top', scroll to the top of the page
-      else if (hash === 'top') $window.scrollTo(0, 0);
+      else if (hash === 'top') {$window.scrollTo(0, 0);}
     }
 
     // does not scroll when user clicks on anchor link that is currently on

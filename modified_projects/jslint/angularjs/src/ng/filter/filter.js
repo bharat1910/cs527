@@ -103,13 +103,13 @@
  */
 function filterFilter() {
   return function(array, expression, comparator) {
-    if (!isArray(array)) return array;
+    if (!isArray(array)) {return array;}
 
     var comparatorType = typeof(comparator),
         predicates = [];
 
     predicates.check = function(value) {
-      for (var j = 0; j < predicates.length; j++) {
+      for (j = 0; j < predicates.length; j++) {
         if(!predicates[j](value)) {
           return false;
         }
@@ -144,16 +144,11 @@ function filterFilter() {
             case "object":
               return comparator(obj, text);
             default:
-              for ( var objKey in obj) {
-                if (objKey.charAt(0) !== '$' && search(obj[objKey], text)) {
-                  return true;
-                }
-              }
               break;
           }
           return false;
         case "array":
-          for ( var i = 0; i < obj.length; i++) {
+          for ( i = 0; i < obj.length; i++) {
             if (search(obj[i], text)) {
               return true;
             }
@@ -172,7 +167,7 @@ function filterFilter() {
         // jshint -W086
       case "object":
         // jshint +W086
-        for (var key in expression) {
+        for (key in expression) {
           if (key == '$') {
             (function() {
               if (!expression[key]) return;

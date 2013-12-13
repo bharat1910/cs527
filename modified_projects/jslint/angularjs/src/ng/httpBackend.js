@@ -138,7 +138,7 @@ function createHttpBackend($browser, XHR, $browserDefer, callbacks, rawDocument,
         doneWrapper = function() {
           script.onreadystatechange = script.onload = script.onerror = null;
           rawDocument.body.removeChild(script);
-          if (done) done();
+          if (done) {done();}
         };
 
     script.type = 'text/javascript';

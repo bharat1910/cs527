@@ -515,7 +515,7 @@ describe('jqLite', function() {
 
     it('should properly do  with SVG elements', function() {
       // this is a jqLite & SVG only test (jquery doesn't behave this way right now, which is a bug)
-      if (!window.SVGElement || !_jqLiteMode) { return };
+      if (!window.SVGElement || !_jqLiteMode) { return; }
       var svg = jqLite('<svg><rect></rect></svg>');
       var rect = svg.children();
 
@@ -799,7 +799,7 @@ describe('jqLite', function() {
 
   describe('on', function() {
     it('should bind to window on hashchange', function() {
-      if (jqLite.fn) return; // don't run in jQuery
+      if (jqLite.fn) {return;} // don't run in jQuery
       var eventFn;
       var window = {
           document: {},
@@ -900,7 +900,7 @@ describe('jqLite', function() {
       });
 
       it('should fire mouseenter when coming from outside the browser window', function() {
-        if (window.jQuery) return;
+        if (window.jQuery) {return;}
         var browserMoveTrigger = function(from, to){
           var fireEvent = function(type, element, relatedTarget){
             var msie = parseInt((/msie (\d+)/.exec(navigator.userAgent.toLowerCase()) || [])[1]);

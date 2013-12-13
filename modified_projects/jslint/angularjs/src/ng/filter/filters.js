@@ -45,7 +45,7 @@ currencyFilter.$inject = ['$locale'];
 function currencyFilter($locale) {
   var formats = $locale.NUMBER_FORMATS;
   return function(amount, currencySymbol){
-    if (isUndefined(currencySymbol)) currencySymbol = formats.CURRENCY_SYM;
+    if (isUndefined(currencySymbol)) { currencySymbol = formats.CURRENCY_SYM;}
     return formatNumber(amount, formats.PATTERNS[1], formats.GROUP_SEP, formats.DECIMAL_SEP, 2).
                 replace(/\u00A4/g, currencySymbol);
   };
@@ -111,7 +111,7 @@ function numberFilter($locale) {
 
 var DECIMAL_SEP = '.';
 function formatNumber(number, pattern, groupSep, decimalSep, fractionSize) {
-  if (isNaN(number) || !isFinite(number)) return '';
+  if (isNaN(number) || !isFinite(number)) {return '';}
 
   var isNegative = number < 0;
   number = Math.abs(number);
@@ -170,7 +170,7 @@ function formatNumber(number, pattern, groupSep, decimalSep, fractionSize) {
       fraction += '0';
     }
 
-    if (fractionSize && fractionSize !== "0") formatedText += decimalSep + fraction.substr(0, fractionSize);
+    if (fractionSize && fractionSize !== "0") {formatedText += decimalSep + fraction.substr(0, fractionSize);}
   } else {
 
     if (fractionSize > 0 && number > -1 && number < 1) {
@@ -191,9 +191,9 @@ function padNumber(num, digits, trim) {
     num = -num;
   }
   num = '' + num;
-  while(num.length < digits) num = '0' + num;
-  if (trim)
-    num = num.substr(num.length - digits);
+  while(num.length < digits) {num = '0' + num;}
+  if (trim) {
+    num = num.substr(num.length - digits);}
   return neg + num;
 }
 
@@ -202,9 +202,10 @@ function dateGetter(name, size, offset, trim) {
   offset = offset || 0;
   return function(date) {
     var value = date['get' + name]();
-    if (offset > 0 || value > -offset)
+    if (offset > 0 || value > -offset) {
       value += offset;
-    if (value === 0 && offset == -12 ) value = 12;
+    }
+    if (value === 0 && offset == -12 ) { value = 12;}
     return padNumber(value, size, trim);
   };
 }

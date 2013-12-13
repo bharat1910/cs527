@@ -160,7 +160,6 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
 
         if (ngModelCtrl.$viewValue == value) {
           $element.val(value);
-          if (unknownOption.parent()) unknownOption.remove();
         }
       };
 
@@ -196,7 +195,6 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
 
     link: function(scope, element, attr, ctrls) {
       // if ngModel is not defined, we don't need to do anything
-      if (!ctrls[1]) return;
 
       var selectCtrl = ctrls[0],
           ngModelCtrl = ctrls[1],
@@ -211,7 +209,7 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
           unknownOption = optionTemplate.clone();
 
       // find "null" option
-      for(var i = 0, children = element.children(), ii = children.length; i < ii; i++) {
+      for(i = 0, children = element.children(), ii = children.length; i < ii; i++) {
         if (children[i].value === '') {
           emptyOption = nullOption = children.eq(i);
           break;
@@ -235,10 +233,6 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
         });
       }
 
-      if (optionsExp) setupAsOptions(scope, element, ngModelCtrl);
-      else if (multiple) setupAsMultiple(scope, element, ngModelCtrl);
-      else setupAsSingle(scope, element, ngModelCtrl, selectCtrl);
-
 
       ////////////////////////////
 
@@ -249,9 +243,9 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
           var viewValue = ngModelCtrl.$viewValue;
 
           if (selectCtrl.hasOption(viewValue)) {
-            if (unknownOption.parent()) unknownOption.remove();
+            if (unknownOption.parent()) { unknownOption.remove();}
             selectElement.val(viewValue);
-            if (viewValue === '') emptyOption.prop('selected', true); // to make IE9 happy
+            if (viewValue === '') {emptyOption.prop('selected', true);} // to make IE9 happy
           } else {
             if (isUndefined(viewValue) && emptyOption) {
               selectElement.val('');
@@ -263,7 +257,7 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
 
         selectElement.on('change', function() {
           scope.$apply(function() {
-            if (unknownOption.parent()) unknownOption.remove();
+            if (unknownOption.parent()) {unknownOption.remove();}
             ngModelCtrl.$setViewValue(selectElement.val());
           });
         });
@@ -359,11 +353,11 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
                 for(index = 1, length = optionGroup.length; index < length; index++) {
                   if ((optionElement = optionGroup[index].element)[0].selected) {
                     key = optionElement.val();
-                    if (keyName) locals[keyName] = key;
+                    if (keyName) { locals[keyName] = key;}
                     if (trackFn) {
                       for (trackIndex = 0; trackIndex < collection.length; trackIndex++) {
                         locals[valueName] = collection[trackIndex];
-                        if (trackFn(scope, locals) == key) break;
+                        if (trackFn(scope, locals) == key) {break;}
                       }
                     } else {
                       locals[valueName] = collection[key];
@@ -389,7 +383,7 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
                   }
                 } else {
                   locals[valueName] = collection[key];
-                  if (keyName) locals[keyName] = key;
+                  if (keyName) {locals[keyName] = key;}
                   value = valueFn(scope, locals);
                 }
               }
@@ -427,7 +421,7 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
           if (multiple) {
             if (trackFn && isArray(modelValue)) {
               selectedSet = new HashMap([]);
-              for (var trackIndex = 0; trackIndex < modelValue.length; trackIndex++) {
+              for (trackIndex = 0; trackIndex < modelValue.length; trackIndex++) {
                 locals[valueName] = modelValue[trackIndex];
                 selectedSet.put(trackFn(scope, locals), modelValue[trackIndex]);
               }
@@ -437,7 +431,7 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
           }
 
           // We now build up the list of options we need (we merge later)
-          for (index = 0; length = keys.length, index < length; index++) {
+          /*for (index = 0; length = keys.length, index < length; index++) {
             
             key = index;
             if (keyName) {
@@ -477,7 +471,7 @@ var selectDirective = ['$compile', '$parse', function($compile,   $parse) {
               label: label,
               selected: selected                   // determine if we should be selected
             });
-          }
+          }*/
           if (!multiple) {
             if (nullOption || modelValue === null) {
               // insert null option if we have a placeholder, or the model is null
@@ -614,7 +608,7 @@ var optionDirective = ['$interpolate', function($interpolate) {
         if (interpolateFn) {
           scope.$watch(interpolateFn, function interpolateWatchAction(newVal, oldVal) {
             attr.$set('value', newVal);
-            if (newVal !== oldVal) selectCtrl.removeOption(oldVal);
+            if (newVal !== oldVal) { selectCtrl.removeOption(oldVal);}
             selectCtrl.addOption(newVal);
           });
         } else {

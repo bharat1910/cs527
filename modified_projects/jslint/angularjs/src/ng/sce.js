@@ -118,7 +118,6 @@ function adjustMatchers(matchers) {
  *        // Allow same origin resource loads.
  *        'self',
  *        // Allow loading from our assets domain.  Notice the difference between * and **.
- *        'http://srv*.assets.example.com/**']);
  *
  *      // The blacklist overrides the whitelist so the open redirect here is blocked.
  *      $sceDelegateProvider.resourceUrlBlacklist([
@@ -547,9 +546,7 @@ function $SceDelegateProvider() {
  *      in a whitelist.
  *    - `**`: matches zero or more occurances of *any* character.  As such, it's not
  *      not appropriate to use in for a scheme, domain, etc. as it would match too much.  (e.g.
- *      http://**.example.com/ would match http://evil.com/?ignore=.example.com/ and that might
  *      not have been the intention.)  It's usage at the very end of the path is ok.  (e.g.
- *      http://foo.example.com/templates/**).
  *  - **RegExp** (*see caveat below*)
  *    - *Caveat*:  While regular expressions are powerful and offer great flexibility,  their syntax
  *      (and all the inevitable escaping) makes them *harder to maintain*.  It's easy to

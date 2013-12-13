@@ -138,7 +138,7 @@ function FormController(element, attrs) {
         toggleValidCss(isValid);
       }
       if (queue) {
-        if (includes(queue, control)) return;
+        if (includes(queue, control)) {return;}
       } else {
         errors[validationToken] = queue = [];
         invalidCount++;

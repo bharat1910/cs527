@@ -324,7 +324,7 @@ var ngAttributeAliasDirectives = {};
 // boolean attrs are evaluated
 forEach(BOOLEAN_ATTR, function(propName, attrName) {
   // binding to multiple is not supported
-  if (propName == "multiple") return;
+  if (propName == "multiple") {return;}
 
   var normalized = directiveNormalize('ng-' + attrName);
   ngAttributeAliasDirectives[normalized] = function() {
@@ -350,8 +350,9 @@ forEach(['src', 'srcset', 'href'], function(attrName) {
       priority: 99, // it needs to run after the attributes are interpolated
       link: function(scope, element, attr) {
         attr.$observe(normalized, function(value) {
-          if (!value)
+          if (!value) {
              return;
+	  }
 
           attr.$set(attrName, value);
 
@@ -359,7 +360,7 @@ forEach(['src', 'srcset', 'href'], function(attrName) {
           // then calling element.setAttribute('src', 'foo') doesn't do anything, so we need
           // to set the property as well to achieve the desired effect.
           // we use attr[attrName] value since $set can sanitize the url.
-          if (msie) element.prop(attrName, attr[attrName]);
+          if (msie) { element.prop(attrName, attr[attrName]);}
         });
       }
     };

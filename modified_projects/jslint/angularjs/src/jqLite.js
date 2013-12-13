@@ -200,18 +200,18 @@ function jqLiteClone(element) {
 
 function jqLiteDealoc(element){
   jqLiteRemoveData(element);
-  for ( var i = 0, children = element.childNodes || []; i < children.length; i++) {
+  for ( i = 0, children = element.childNodes || []; i < children.length; i++) {
     jqLiteDealoc(children[i]);
   }
 }
 
 function jqLiteOff(element, type, fn, unsupported) {
-  if (isDefined(unsupported)) throw jqLiteMinErr('offargs', 'jqLite#off() does not support the `selector` argument');
+  if (isDefined(unsupported)) { throw jqLiteMinErr('offargs', 'jqLite#off() does not support the `selector` argument');}
 
   var events = jqLiteExpandoStore(element, 'events'),
       handle = jqLiteExpandoStore(element, 'handle');
 
-  if (!handle) return; //no listeners registered
+  if (!handle) {return;} //no listeners registered
 
   if (isUndefined(type)) {
     forEach(events, function(eventHandler, type) {
@@ -291,7 +291,6 @@ function jqLiteData(element, key, value) {
 }
 
 function jqLiteHasClass(element, selector) {
-  if (!element.getAttribute) return false;
   return ((" " + (element.getAttribute('class') || '') + " ").replace(/[\n\t]/g, " ").
       indexOf( " " + selector + " " ) > -1);
 }
@@ -329,7 +328,7 @@ function jqLiteAddNodes(root, elements) {
     elements = (!elements.nodeName && isDefined(elements.length) && !isWindow(elements))
       ? elements
       : [ elements ];
-    for(var i=0; i < elements.length; i++) {
+    for(i=0; i < elements.length; i++) {
       root.push(elements[i]);
     }
   }
@@ -351,8 +350,8 @@ function jqLiteInheritedData(element, name, value) {
 
   while (element.length) {
 
-    for (var i = 0, ii = names.length; i < ii; i++) {
-      if ((value = element.data(names[i])) !== undefined) return value;
+    for (i = 0, ii = names.length; i < ii; i++) {
+      if ((value = element.data(names[i])) !== undefined) {return value;}
     }
     element = element.parent();
   }
@@ -366,7 +365,7 @@ var JQLitePrototype = JQLite.prototype = {
     var fired = false;
 
     function trigger() {
-      if (fired) return;
+      if (fired) { return;}
       fired = true;
       fn();
     }
@@ -457,7 +456,7 @@ forEach({
       if (msie <= 8) {
         // this is some IE specific weirdness that jQuery 1.6.4 does not sure why
         val = element.currentStyle && element.currentStyle[name];
-        if (val === '') val = 'auto';
+        if (val === '') {val = 'auto';}
       }
 
       val = val || element.style[name];
@@ -548,7 +547,7 @@ forEach({
     if (isUndefined(value)) {
       return element.innerHTML;
     }
-    for (var i = 0, childNodes = element.childNodes; i < childNodes.length; i++) {
+    for (i = 0, childNodes = element.childNodes; i < childNodes.length; i++) {
       jqLiteDealoc(childNodes[i]);
     }
     element.innerHTML = value;
@@ -583,7 +582,7 @@ forEach({
         var value = fn.$dv;
         // Only if we have $dv do we iterate over all, otherwise it is just the first element.
         var jj = (value === undefined) ? Math.min(this.length, 1) : this.length;
-        for (var j = 0; j < jj; j++) {
+        for (j = 0; j < jj; j++) {
           var nodeValue = fn(this[j], arg1, arg2);
           value = value ? value + nodeValue : nodeValue;
         }
@@ -664,13 +663,10 @@ forEach({
   dealoc: jqLiteDealoc,
 
   on: function onFn(element, type, fn, unsupported){
-    if (isDefined(unsupported)) throw jqLiteMinErr('onargs', 'jqLite#on() does not support the `selector` or `eventData` parameters');
 
     var events = jqLiteExpandoStore(element, 'events'),
         handle = jqLiteExpandoStore(element, 'handle');
 
-    if (!events) jqLiteExpandoStore(element, 'events', events = {});
-    if (!handle) jqLiteExpandoStore(element, 'handle', handle = createEventHandler(element, events));
 
     forEach(type.split(' '), function(type){
       var eventFns = events[type];
@@ -743,8 +739,9 @@ forEach({
   children: function(element) {
     var children = [];
     forEach(element.childNodes, function(element){
-      if (element.nodeType === 1)
+      if (element.nodeType === 1) {
         children.push(element);
+      } 
     });
     return children;
   },
@@ -782,7 +779,6 @@ forEach({
   remove: function(element) {
     jqLiteDealoc(element);
     var parent = element.parentNode;
-    if (parent) parent.removeChild(element);
   },
 
   after: function(element, newElement) {
@@ -847,7 +843,7 @@ forEach({
    */
   JQLite.prototype[name] = function(arg1, arg2, arg3) {
     var value;
-    for(var i=0; i < this.length; i++) {
+    for(i=0; i < this.length; i++) {
       if (isUndefined(value)) {
         value = fn(this[i], arg1, arg2, arg3);
         if (isDefined(value)) {

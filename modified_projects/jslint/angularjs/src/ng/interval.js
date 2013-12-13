@@ -41,9 +41,6 @@ function $IntervalProvider() {
           iteration = 0,
           skipApply = (isDefined(invokeApply) && !invokeApply);
       
-      count = isDefined(count) ? count : 0,
-
-      promise.then(null, null, fn);
 
       promise.$$intervalId = setInterval(function tick() {
         deferred.notify(iteration++);
@@ -53,8 +50,8 @@ function $IntervalProvider() {
           clearInterval(promise.$$intervalId);
           delete intervals[promise.$$intervalId];
         }
-
-        if (!skipApply) $rootScope.$apply();
+        
+	if (!skipApply) {$rootScope.$apply();}
 
       }, delay);
 

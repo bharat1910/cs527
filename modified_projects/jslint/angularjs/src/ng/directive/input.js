@@ -406,7 +406,7 @@ function textInputType(scope, element, attr, ctrl, $sniffer, $browser) {
   });
 
   var listener = function() {
-    if (composing) return;
+    if (composing) {return;}
     var value = element.val();
 
     // By default we will trim the value
@@ -444,7 +444,7 @@ function textInputType(scope, element, attr, ctrl, $sniffer, $browser) {
 
       // ignore
       //    command            modifiers                   arrows
-      if (key === 91 || (15 < key && key < 19) || (37 <= key && key <= 40)) return;
+      if (key === 91 || (15 < key && key < 19) || (37 <= key && key <= 40)) {return;}
 
       deferListener();
     });
@@ -659,8 +659,8 @@ function checkboxInputType(scope, element, attr, ctrl) {
   var trueValue = attr.ngTrueValue,
       falseValue = attr.ngFalseValue;
 
-  if (!isString(trueValue)) trueValue = true;
-  if (!isString(falseValue)) falseValue = false;
+  if (!isString(trueValue)) {trueValue = true;}
+  if (!isString(falseValue)) {falseValue = false;}
 
   element.on('click', function() {
     scope.$apply(function() {
@@ -1075,11 +1075,11 @@ var NgModelController = ['$scope', '$exceptionHandler', '$attrs', '$element', '$
   this.$setValidity = function(validationErrorKey, isValid) {
     // Purposeful use of ! here to cast isValid to boolean in case it is undefined
     // jshint -W018
-    if ($error[validationErrorKey] === !isValid) return;
+    if ($error[validationErrorKey] === !isValid) {return;}
     // jshint +W018
 
     if (isValid) {
-      if ($error[validationErrorKey]) invalidCount--;
+      if ($error[validationErrorKey]) {invalidCount--;}
       if (!invalidCount) {
         toggleValidCss(true);
         this.$valid = true;
@@ -1315,7 +1315,7 @@ var requiredDirective = function() {
   return {
     require: '?ngModel',
     link: function(scope, elm, attr, ctrl) {
-      if (!ctrl) return;
+      if (!ctrl) {return;}
       attr.required = true; // force truthy in case we are on non input element
 
       var validator = function(value) {
@@ -1396,13 +1396,13 @@ var ngListDirective = function() {
 
       var parse = function(viewValue) {
         // If the viewValue is invalid (say required but empty) it will be `undefined`
-        if (isUndefined(viewValue)) return;
+        if (isUndefined(viewValue)) {return;}
 
         var list = [];
 
         if (viewValue) {
           forEach(viewValue.split(separator), function(value) {
-            if (value) list.push(trim(value));
+            if (value) {list.push(trim(value));}
           });
         }
 

@@ -279,12 +279,13 @@ LocationHashbangInHtml5Url.prototype =
    * @return {string} url
    */
   url: function(url, replace) {
-    if (isUndefined(url))
+    if (isUndefined(url)) {
       return this.$$url;
+    }
 
     var match = PATH_MATCH.exec(url);
-    if (match[1]) this.path(decodeURIComponent(match[1]));
-    if (match[2] || match[1]) this.search(match[3] || '');
+    if (match[1]) { this.path(decodeURIComponent(match[1]));}
+    if (match[2] || match[1]) { this.search(match[3] || '');}
     this.hash(match[5] || '', replace);
 
     return this;
@@ -443,8 +444,9 @@ function locationGetter(property) {
 
 function locationGetterSetter(property, preprocess) {
   return function(value) {
-    if (isUndefined(value))
+    if (isUndefined(value)) {
       return this[property];
+    }
 
     this[property] = preprocess(value);
     this.$$compose();
@@ -578,14 +580,14 @@ function $LocationProvider(){
       // TODO(vojta): rewrite link when opening in new tab/window (in legacy browser)
       // currently we open nice url link and redirect then
 
-      if (event.ctrlKey || event.metaKey || event.which == 2) return;
+      if (event.ctrlKey || event.metaKey || event.which == 2) { return;}
 
       var elm = jqLite(event.target);
 
       // traverse the DOM up to find first A tag
       while (lowercase(elm[0].nodeName) !== 'a') {
         // ignore rewriting if no A tag (reached root element, or no parent - removed from document)
-        if (elm[0] === $rootElement[0] || !(elm = elm.parent())[0]) return;
+        if (elm[0] === $rootElement[0] || !(elm = elm.parent())[0]) {return;}
       }
 
       var absHref = elm.prop('href');
@@ -623,7 +625,7 @@ function $LocationProvider(){
           $location.$$parse(newUrl);
           afterLocationChange(oldUrl);
         });
-        if (!$rootScope.$$phase) $rootScope.$digest();
+        if (!$rootScope.$$phase) { $rootScope.$digest();}
       }
     });
 

@@ -62,7 +62,7 @@
  */
 function limitToFilter(){
   return function(input, limit) {
-    if (!isArray(input) && !isString(input)) return input;
+    if (!isArray(input) && !isString(input)) {return input;}
     
     limit = int(limit);
 
@@ -79,10 +79,12 @@ function limitToFilter(){
       i, n;
 
     // if abs(limit) exceeds maximum length, trim it
-    if (limit > input.length)
+    if (limit > input.length) {
       limit = input.length;
-    else if (limit < -input.length)
+    }
+    else if (limit < -input.length) {
       limit = -input.length;
+    }
 
     if (limit > 0) {
       i = 0;
@@ -90,10 +92,6 @@ function limitToFilter(){
     } else {
       i = input.length + limit;
       n = input.length;
-    }
-
-    for (; i<n; i++) {
-      out.push(input[i]);
     }
 
     return out;

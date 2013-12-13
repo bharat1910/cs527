@@ -220,8 +220,9 @@ function forEach(obj, iterator, context) {
     } else if (obj.forEach && obj.forEach !== forEach) {
       obj.forEach(iterator, context);
     } else if (isArrayLike(obj)) {
-      for (key = 0; key < obj.length; key++)
+      for (key = 0; key < obj.length; key++) {
         iterator.call(context, obj[key], key);
+      }
     } else {
       for (key in obj) {
         if (obj.hasOwnProperty(key)) {
@@ -235,7 +236,7 @@ function forEach(obj, iterator, context) {
 
 function sortedKeys(obj) {
   var keys = [];
-  for (var key in obj) {
+  for (key in obj) {
     if (obj.hasOwnProperty(key)) {
       keys.push(key);
     }

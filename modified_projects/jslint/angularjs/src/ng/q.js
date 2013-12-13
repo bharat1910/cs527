@@ -212,7 +212,7 @@ function qFactory(nextTick, exceptionHandler) {
           if (callbacks.length) {
             nextTick(function() {
               var callback;
-              for (var i = 0, ii = callbacks.length; i < ii; i++) {
+              for (i = 0, ii = callbacks.length; i < ii; i++) {
                 callback = callbacks[i];
                 value.then(callback[0], callback[1], callback[2]);
               }
@@ -234,7 +234,7 @@ function qFactory(nextTick, exceptionHandler) {
           if (pending.length) {
             nextTick(function() {
               var callback;
-              for (var i = 0, ii = callbacks.length; i < ii; i++) {
+              for (i = 0, ii = callbacks.length; i < ii; i++) {
                 callback = callbacks[i];
                 callback[2](progress);
               }
@@ -331,7 +331,7 @@ function qFactory(nextTick, exceptionHandler) {
 
 
   var ref = function(value) {
-    if (value && isFunction(value.then)) return value;
+    if (value && isFunction(value.then)){return value;}
     return {
       then: function(callback) {
         var result = defer();
@@ -441,15 +441,15 @@ function qFactory(nextTick, exceptionHandler) {
 
     nextTick(function() {
       ref(value).then(function(value) {
-        if (done) return;
+        if (done){return;}
         done = true;
         result.resolve(ref(value).then(wrappedCallback, wrappedErrback, wrappedProgressback));
       }, function(reason) {
-        if (done) return;
+        if (done){return;}
         done = true;
         result.resolve(wrappedErrback(reason));
       }, function(progress) {
-        if (done) return;
+        if (done){return;}
         result.notify(wrappedProgressback(progress));
       });
     });
@@ -490,11 +490,11 @@ function qFactory(nextTick, exceptionHandler) {
     forEach(promises, function(promise, key) {
       counter++;
       ref(promise).then(function(value) {
-        if (results.hasOwnProperty(key)) return;
+        if (results.hasOwnProperty(key)){return;}
         results[key] = value;
-        if (!(--counter)) deferred.resolve(results);
+        if (!(--counter)) {deferred.resolve(results);}
       }, function(reason) {
-        if (results.hasOwnProperty(key)) return;
+        if (results.hasOwnProperty(key)){return;}
         deferred.reject(reason);
       });
     });

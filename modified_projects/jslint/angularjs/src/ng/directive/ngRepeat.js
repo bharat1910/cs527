@@ -221,7 +221,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
           trackByExpGetter = $parse(trackByExp);
           trackByIdExpFn = function(key, value, index) {
             // assign key, value, and $index to the locals so that they can be used in hash functions
-            if (keyIdentifier) hashFnLocals[keyIdentifier] = key;
+            if (keyIdentifier) { hashFnLocals[keyIdentifier] = key;}
             hashFnLocals[valueIdentifier] = value;
             hashFnLocals.$index = index;
             return trackByExpGetter($scope, hashFnLocals);
@@ -301,7 +301,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
            } else if (nextBlockMap.hasOwnProperty(trackById)) {
              // restore lastBlockMap
              forEach(nextBlockOrder, function(block) {
-               if (block && block.startNode) lastBlockMap[block.id] = block;
+               if (block && block.startNode) {lastBlockMap[block.id] = block;}
              });
              // This is a duplicate and we need to throw an error
              throw ngRepeatMinErr('dupes', "Duplicates in a repeater are not allowed. Use 'track by' expression to specify unique keys. Repeater: {0}, Duplicate key: {1}",
@@ -330,7 +330,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
             key = (collection === collectionKeys) ? index : collectionKeys[index];
             value = collection[key];
             block = nextBlockOrder[index];
-            if (nextBlockOrder[index - 1]) previousNode = nextBlockOrder[index - 1].endNode;
+            if (nextBlockOrder[index - 1]) {previousNode = nextBlockOrder[index - 1].endNode;}
 
             if (block.startNode) {
               // if we have already seen this object, then we need to reuse the
@@ -353,7 +353,7 @@ var ngRepeatDirective = ['$parse', '$animate', function($parse, $animate) {
             }
 
             childScope[valueIdentifier] = value;
-            if (keyIdentifier) childScope[keyIdentifier] = key;
+            if (keyIdentifier) { childScope[keyIdentifier] = key;}
             childScope.$index = index;
             childScope.$first = (index === 0);
             childScope.$last = (index === (arrayLength - 1));

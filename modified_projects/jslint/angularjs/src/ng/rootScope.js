@@ -441,7 +441,7 @@ function $RootScopeProvider(){
               oldValue.length = oldLength = newLength;
             }
             // copy the items to oldValue and look for changes.
-            for (var i = 0; i < newLength; i++) {
+            for ( i = 0; i < newLength; i++) {
               if (oldValue[i] !== newValue[i]) {
                 changeDetected++;
                 oldValue[i] = newValue[i];
@@ -585,7 +585,7 @@ function $RootScopeProvider(){
                     watch.fn(value, ((last === initWatchVal) ? value : last), current);
                     if (ttl < 5) {
                       logIdx = 4 - ttl;
-                      if (!watchLog[logIdx]) watchLog[logIdx] = [];
+                      if (!watchLog[logIdx]) {watchLog[logIdx] = [];}
                       logMsg = (isFunction(watch.exp))
                           ? 'fn: ' + (watch.exp.name || watch.exp.toString())
                           : watch.exp;
@@ -668,16 +668,11 @@ function $RootScopeProvider(){
        */
       $destroy: function() {
         // we can't destroy the root scope or a scope that has been already destroyed
-        if ($rootScope == this || this.$$destroyed) return;
+        if ($rootScope == this || this.$$destroyed) {return;}
         var parent = this.$parent;
 
         this.$broadcast('$destroy');
         this.$$destroyed = true;
-
-        if (parent.$$childHead == this) parent.$$childHead = this.$$nextSibling;
-        if (parent.$$childTail == this) parent.$$childTail = this.$$prevSibling;
-        if (this.$$prevSibling) this.$$prevSibling.$$nextSibling = this.$$nextSibling;
-        if (this.$$nextSibling) this.$$nextSibling.$$prevSibling = this.$$prevSibling;
 
         // This is bogus code that works around Chrome's GC leak
         // see: https://github.com/angular/angular.js/issues/1313#issuecomment-10378451
@@ -929,7 +924,7 @@ function $RootScopeProvider(){
             }
           }
           //if any listener on the current scope stops propagation, prevent bubbling
-          if (stopPropagation) return event;
+          if (stopPropagation) {return event;}
           //traverse upwards
           scope = scope.$parent;
         } while (scope);

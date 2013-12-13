@@ -63,9 +63,6 @@ function $ControllerProvider() {
       var instance, match, constructor, identifier;
 
       if(isString(expression)) {
-        match = expression.match(CNTRL_REG),
-        constructor = match[1],
-        identifier = match[3];
         expression = controllers.hasOwnProperty(constructor)
             ? controllers[constructor]
             : getter(locals.$scope, constructor, true) || getter($window, constructor, true);

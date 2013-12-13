@@ -86,8 +86,8 @@
 orderByFilter.$inject = ['$parse'];
 function orderByFilter($parse){
   return function(array, sortPredicate, reverseOrder) {
-    if (!isArray(array)) return array;
-    if (!sortPredicate) return array;
+    if (!isArray(array)) { return array;}
+    if (!sortPredicate) { return array;}
     sortPredicate = isArray(sortPredicate) ? sortPredicate: [sortPredicate];
     sortPredicate = map(sortPredicate, function(predicate){
       var descending = false, get = predicate || identity;
@@ -103,13 +103,13 @@ function orderByFilter($parse){
       }, descending);
     });
     var arrayCopy = [];
-    for ( var i = 0; i < array.length; i++) { arrayCopy.push(array[i]); }
+    for ( i = 0; i < array.length; i++) { arrayCopy.push(array[i]); }
     return arrayCopy.sort(reverseComparator(comparator, reverseOrder));
 
     function comparator(o1, o2){
-      for ( var i = 0; i < sortPredicate.length; i++) {
+      for ( i = 0; i < sortPredicate.length; i++) {
         var comp = sortPredicate[i](o1, o2);
-        if (comp !== 0) return comp;
+        if (comp !== 0) {return comp;}
       }
       return 0;
     }
@@ -126,7 +126,7 @@ function orderByFilter($parse){
            v1 = v1.toLowerCase();
            v2 = v2.toLowerCase();
         }
-        if (v1 === v2) return 0;
+        if (v1 === v2) {return 0;}
         return v1 < v2 ? -1 : 1;
       } else {
         return t1 < t2 ? -1 : 1;

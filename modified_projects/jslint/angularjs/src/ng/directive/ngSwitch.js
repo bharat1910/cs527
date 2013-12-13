@@ -130,7 +130,7 @@ var ngSwitchDirective = ['$animate', function($animate) {
           selectedScopes = [];
 
       scope.$watch(watchExpr, function ngSwitchWatchAction(value) {
-        for (var i= 0, ii=selectedScopes.length; i<ii; i++) {
+        for (i= 0, ii=selectedScopes.length; i<ii; i++) {
           selectedScopes[i].$destroy();
           $animate.leave(selectedElements[i]);
         }

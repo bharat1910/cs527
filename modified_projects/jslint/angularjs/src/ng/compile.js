@@ -841,15 +841,15 @@ function $CompileProvider($provide) {
         });
 
         // Attach scope only to non-text nodes.
-        for(var i = 0, ii = $linkNode.length; i<ii; i++) {
+        for(i = 0, ii = $linkNode.length; i<ii; i++) {
           var node = $linkNode[i];
           if (node.nodeType == 1 /* element */ || node.nodeType == 9 /* document */) {
             $linkNode.eq(i).data('$scope', scope);
           }
         }
         safeAddClass($linkNode, 'ng-scope');
-        if (cloneConnectFn) cloneConnectFn($linkNode, scope);
-        if (compositeLinkFn) compositeLinkFn(scope, $linkNode, $linkNode);
+        if (cloneConnectFn) {cloneConnectFn($linkNode, scope);}
+        if (compositeLinkFn) {compositeLinkFn(scope, $linkNode, $linkNode);}
         return $linkNode;
       };
     }
@@ -883,7 +883,7 @@ function $CompileProvider($provide) {
       var linkFns = [],
           nodeLinkFn, childLinkFn, directives, attrs, linkFnFound;
 
-      for(var i = 0; i < nodeList.length; i++) {
+      for(i = 0; i < nodeList.length; i++) {
         attrs = new Attributes();
 
         // we must always refer to nodeList[i] since the nodes can be replaced underneath us.
@@ -991,7 +991,7 @@ function $CompileProvider($provide) {
               directiveNormalize(nodeName_(node).toLowerCase()), 'E', maxPriority, ignoreDirective);
 
           // iterate over the attributes
-          for (var attr, name, nName, ngAttrName, value, nAttrs = node.attributes,
+          for (attr, name, nName, ngAttrName, value, nAttrs = node.attributes,
                    j = 0, jj = nAttrs && nAttrs.length; j < jj; j++) {
             var attrStartName = false;
             var attrEndName = false;
@@ -1082,8 +1082,8 @@ function $CompileProvider($provide) {
                       attrStart, attrEnd);
           }
           if (node.nodeType == 1 /** Element **/) {
-            if (node.hasAttribute(attrStart)) depth++;
-            if (node.hasAttribute(attrEnd)) depth--;
+            if (node.hasAttribute(attrStart)) {depth++;}
+            if (node.hasAttribute(attrEnd)) {depth--;}
           }
           nodes.push(node);
           node = node.nextSibling;
@@ -1156,7 +1156,7 @@ function $CompileProvider($provide) {
           directiveValue;
 
       // executes all directives on the current element
-      for(var i = 0, ii = directives.length; i < ii; i++) {
+      for(i = 0, ii = directives.length; i < ii; i++) {
         directive = directives[i];
         var attrStart = directive.$$start;
         var attrEnd = directive.$$end;
@@ -1327,7 +1327,7 @@ function $CompileProvider($provide) {
 
       function addLinkFns(pre, post, attrStart, attrEnd) {
         if (pre) {
-          if (attrStart) pre = groupElementsLinkFnWrapper(pre, attrStart, attrEnd);
+          if (attrStart) {pre = groupElementsLinkFnWrapper(pre, attrStart, attrEnd);}
           pre.require = directive.require;
           if (newIsolateScopeDirective === directive || directive.$$isolateScope) {
             pre = cloneAndAnnotateFn(pre, {isolateScope: true});
@@ -1335,7 +1335,7 @@ function $CompileProvider($provide) {
           preLinkFns.push(pre);
         }
         if (post) {
-          if (attrStart) post = groupElementsLinkFnWrapper(post, attrStart, attrEnd);
+          if (attrStart) {post = groupElementsLinkFnWrapper(post, attrStart, attrEnd);}
           post.require = directive.require;
           if (newIsolateScopeDirective === directive || directive.$$isolateScope) {
             post = cloneAndAnnotateFn(post, {isolateScope: true});
@@ -1557,7 +1557,7 @@ function $CompileProvider($provide) {
 
     function markDirectivesAsIsolate(directives) {
       // mark all directives as needing isolate scope.
-      for (var j = 0, jj = directives.length; j < jj; j++) {
+      for (j = 0, jj = directives.length; j < jj; j++) {
         directives[j] = inherit(directives[j], {$$isolateScope: true});
       }
     }
@@ -1578,10 +1578,10 @@ function $CompileProvider($provide) {
      */
     function addDirective(tDirectives, name, location, maxPriority, ignoreDirective, startAttrName,
                           endAttrName) {
-      if (name === ignoreDirective) return null;
+      if (name === ignoreDirective) {return null;}
       var match = null;
       if (hasDirectives.hasOwnProperty(name)) {
-        for(var directive, directives = $injector.get(name + Suffix),
+        for(directive, directives = $injector.get(name + Suffix),
             i = 0, ii = directives.length; i<ii; i++) {
           try {
             directive = directives[i];
@@ -1746,8 +1746,8 @@ function $CompileProvider($provide) {
      */
     function byPriority(a, b) {
       var diff = b.priority - a.priority;
-      if (diff !== 0) return diff;
-      if (a.name !== b.name) return (a.name < b.name) ? -1 : 1;
+      if (diff !== 0) {return diff;}
+      if (a.name !== b.name) {return (a.name < b.name) ? -1 : 1;}
       return a.index - b.index;
     }
 
@@ -1798,7 +1798,7 @@ function $CompileProvider($provide) {
       var interpolateFn = $interpolate(value, true);
 
       // no interpolation found -> ignore
-      if (!interpolateFn) return;
+      if (!interpolateFn) {return;}
 
 
       if (name === "multiple" && nodeName_(node) === "SELECT") {
@@ -1826,7 +1826,7 @@ function $CompileProvider($provide) {
 
                 // if attribute was updated so that there is no interpolation going on we don't want to
                 // register any observers
-                if (!interpolateFn) return;
+                if (!interpolateFn) {return;}
 
                 // TODO(i): this should likely be attr.$set(name, iterpolateFn(scope) so that we reset the
                 // actual attr value
@@ -1873,7 +1873,7 @@ function $CompileProvider($provide) {
         for(i = 0, ii = $rootElement.length; i < ii; i++) {
           if ($rootElement[i] == firstElementToRemove) {
             $rootElement[i++] = newNode;
-            for (var j = i, j2 = j + removeCount - 1,
+            for (j = i, j2 = j + removeCount - 1,
                      jj = $rootElement.length;
                  j < jj; j++, j2++) {
               if (j2 < jj) {
@@ -1894,7 +1894,7 @@ function $CompileProvider($provide) {
       var fragment = document.createDocumentFragment();
       fragment.appendChild(firstElementToRemove);
       newNode[jqLite.expando] = firstElementToRemove[jqLite.expando];
-      for (var k = 1, kk = elementsToRemove.length; k < kk; k++) {
+      for (k = 1, kk = elementsToRemove.length; k < kk; k++) {
         var element = elementsToRemove[k];
         jqLite(element).remove(); // must do this way to clean up expando
         fragment.appendChild(element);
@@ -1992,10 +1992,10 @@ function tokenDifference(str1, str2) {
       tokens2 = str2.split(/\s+/);
 
   outer:
-  for(var i = 0; i < tokens1.length; i++) {
+  for(i = 0; i < tokens1.length; i++) {
     var token = tokens1[i];
-    for(var j = 0; j < tokens2.length; j++) {
-      if(token == tokens2[j]) continue outer;
+    for(j = 0; j < tokens2.length; j++) {
+      if(token == tokens2[j]) {continue outer;}
     }
     values += (values.length > 0 ? ' ' : '') + token;
   }

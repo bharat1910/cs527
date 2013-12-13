@@ -172,7 +172,7 @@ function $InterpolateProvider() {
         concat.length = length;
         fn = function(context) {
           try {
-            for(var i = 0, ii = length, part; i<ii; i++) {
+            for(i = 0, ii = length, part; i<ii; i++) {
               if (typeof (part = parts[i]) == 'function') {
                 part = part(context);
                 if (trustedContext) {

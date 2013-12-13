@@ -185,7 +185,7 @@ var ngIncludeDirective = ['$http', '$templateCache', '$anchorScroll', '$compile'
 
           if (src) {
             $http.get(src, {cache: $templateCache}).success(function(response) {
-              if (thisChangeId !== changeCounter) return;
+              if (thisChangeId !== changeCounter) { return;}
               var newScope = scope.$new();
 
               // Note: This will also link all children of ng-include that were contained in the original
@@ -206,7 +206,7 @@ var ngIncludeDirective = ['$http', '$templateCache', '$anchorScroll', '$compile'
               currentScope.$emit('$includeContentLoaded');
               scope.$eval(onloadExp);
             }).error(function() {
-              if (thisChangeId === changeCounter) cleanupLastIncludeContent();
+              if (thisChangeId === changeCounter) { cleanupLastIncludeContent();}
             });
             scope.$emit('$includeContentRequested');
           } else {

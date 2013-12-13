@@ -150,8 +150,8 @@ Lexer.prototype = {
           text: this.ch,
           json: (this.was(':[,') && this.is('{[')) || this.is('}]:,')
         });
-        if (this.is('{[')) json.unshift(this.ch);
-        if (this.is('}]')) json.shift();
+        if (this.is('{[')) {json.unshift(this.ch);}
+        if (this.is('}]')) {json.shift();}
         this.index++;
       } else if (this.isWhitespace(this.ch)) {
         this.index++;
@@ -272,7 +272,7 @@ Lexer.prototype = {
     while (this.index < this.text.length) {
       ch = this.text.charAt(this.index);
       if (ch === '.' || this.isIdent(ch) || this.isNumber(ch)) {
-        if (ch === '.') lastDot = this.index;
+        if (ch === '.') {lastDot = this.index;}
         ident += ch;
       } else {
         break;
@@ -348,8 +348,9 @@ Lexer.prototype = {
       if (escape) {
         if (ch === 'u') {
           var hex = this.text.substring(this.index + 1, this.index + 5);
-          if (!hex.match(/[\da-f]{4}/i))
+          if (!hex.match(/[\da-f]{4}/i)) {
             this.throwError('Invalid unicode escape [\\u' + hex + ']');
+          }
           this.index += 4;
           string += String.fromCharCode(parseInt(hex, 16));
         } else {
@@ -476,8 +477,8 @@ Parser.prototype = {
   },
 
   peekToken: function() {
-    if (this.tokens.length === 0)
-      throw $parseMinErr('ueoe', 'Unexpected end of expression: {0}', this.text);
+    if (this.tokens.length === 0){
+      throw $parseMinErr('ueoe', 'Unexpected end of expression: {0}', this.text);}
     return this.tokens[0];
   },
 
@@ -538,8 +539,8 @@ Parser.prototype = {
   statements: function() {
     var statements = [];
     while (true) {
-      if (this.tokens.length > 0 && !this.peek('}', ')', ';', ']'))
-        statements.push(this.filterChain());
+      if (this.tokens.length > 0 && !this.peek('}', ')', ';', ']')) {
+        statements.push(this.filterChain()); }
       if (!this.expect(';')) {
         // optimize for the common case where there is only one statement.
         // TODO(size): maybe we should not support multiple statements?
@@ -547,7 +548,7 @@ Parser.prototype = {
             ? statements[0]
             : function(self, locals) {
                 var value;
-                for (var i = 0; i < statements.length; i++) {
+                for (i = 0; i < statements.length; i++) {
                   var statement = statements[i];
                   if (statement) {
                     value = statement(self, locals);
@@ -581,7 +582,7 @@ Parser.prototype = {
       } else {
         var fnInvoke = function(self, locals, input) {
           var args = [input];
-          for (var i = 0; i < argsFn.length; i++) {
+          for (i = 0; i < argsFn.length; i++) {
             args.push(argsFn[i](self, locals));
           }
           return fn.apply(self, args);
@@ -725,7 +726,7 @@ Parser.prototype = {
           i = indexFn(self, locals),
           v, p;
 
-      if (!o) return undefined;
+      if (!o) {return undefined;}
       v = ensureSafeObject(o[i], parser.text);
       if (v && v.then && parser.options.unwrapPromises) {
         p = v;
@@ -761,7 +762,7 @@ Parser.prototype = {
       var args = [];
       var context = contextGetter ? contextGetter(scope, locals) : scope;
 
-      for (var i = 0; i < argsFn.length; i++) {
+      for (i = 0; i < argsFn.length; i++) {
         args.push(argsFn[i](scope, locals));
       }
       var fnPtr = fn(scope, locals, context) || noop;
@@ -795,7 +796,7 @@ Parser.prototype = {
 
     return extend(function(self, locals) {
       var array = [];
-      for (var i = 0; i < elementFns.length; i++) {
+      for (i = 0; i < elementFns.length; i++) {
         array.push(elementFns[i](self, locals));
       }
       return array;
@@ -824,7 +825,7 @@ Parser.prototype = {
 
     return extend(function(self, locals) {
       var object = {};
-      for (var i = 0; i < keyValues.length; i++) {
+      for (i = 0; i < keyValues.length; i++) {
         var keyValue = keyValues[i];
         object[keyValue.key] = keyValue.value(self, locals);
       }
@@ -846,7 +847,7 @@ function setter(obj, path, setValue, fullExp, options) {
   options = options || {};
 
   var element = path.split('.'), key;
-  for (var i = 0; element.length > 1; i++) {
+  for (i = 0; element.length > 1; i++) {
     key = ensureSafeMemberName(element.shift(), fullExp);
     var propertyObj = obj[key];
     if (!propertyObj) {
@@ -890,19 +891,19 @@ function cspSafeGetterFn(key0, key1, key2, key3, key4, fullExp, options) {
       ? function cspSafeGetter(scope, locals) {
           var pathVal = (locals && locals.hasOwnProperty(key0)) ? locals : scope;
 
-          if (pathVal === null || pathVal === undefined) return pathVal;
+          if (pathVal === null || pathVal === undefined) {return pathVal;}
           pathVal = pathVal[key0];
 
-          if (!key1 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key1 || pathVal === null || pathVal === undefined) {return pathVal;}
           pathVal = pathVal[key1];
 
-          if (!key2 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key2 || pathVal === null || pathVal === undefined) {return pathVal;}
           pathVal = pathVal[key2];
 
-          if (!key3 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key3 || pathVal === null || pathVal === undefined) {return pathVal;}
           pathVal = pathVal[key3];
 
-          if (!key4 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key4 || pathVal === null || pathVal === undefined) {return pathVal;}
           pathVal = pathVal[key4];
 
           return pathVal;
@@ -911,7 +912,7 @@ function cspSafeGetterFn(key0, key1, key2, key3, key4, fullExp, options) {
           var pathVal = (locals && locals.hasOwnProperty(key0)) ? locals : scope,
               promise;
 
-          if (pathVal === null || pathVal === undefined) return pathVal;
+          if (pathVal === null || pathVal === undefined) {return pathVal;}
 
           pathVal = pathVal[key0];
           if (pathVal && pathVal.then) {
@@ -923,7 +924,7 @@ function cspSafeGetterFn(key0, key1, key2, key3, key4, fullExp, options) {
             }
             pathVal = pathVal.$$v;
           }
-          if (!key1 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key1 || pathVal === null || pathVal === undefined) {return pathVal;}
 
           pathVal = pathVal[key1];
           if (pathVal && pathVal.then) {
@@ -935,7 +936,7 @@ function cspSafeGetterFn(key0, key1, key2, key3, key4, fullExp, options) {
             }
             pathVal = pathVal.$$v;
           }
-          if (!key2 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key2 || pathVal === null || pathVal === undefined) {return pathVal;}
 
           pathVal = pathVal[key2];
           if (pathVal && pathVal.then) {
@@ -947,7 +948,7 @@ function cspSafeGetterFn(key0, key1, key2, key3, key4, fullExp, options) {
             }
             pathVal = pathVal.$$v;
           }
-          if (!key3 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key3 || pathVal === null || pathVal === undefined) {return pathVal;}
 
           pathVal = pathVal[key3];
           if (pathVal && pathVal.then) {
@@ -959,7 +960,7 @@ function cspSafeGetterFn(key0, key1, key2, key3, key4, fullExp, options) {
             }
             pathVal = pathVal.$$v;
           }
-          if (!key4 || pathVal === null || pathVal === undefined) return pathVal;
+          if (!key4 || pathVal === null || pathVal === undefined) { return pathVal;}
 
           pathVal = pathVal[key4];
           if (pathVal && pathVal.then) {
@@ -1153,15 +1154,6 @@ function $ParseProvider() {
    * @returns {boolean|self} Returns the current setting when used as getter and self if used as
    *                         setter.
    */
-  this.unwrapPromises = function(value) {
-    if (isDefined(value)) {
-      $parseOptions.unwrapPromises = !!value;
-      return this;
-    } else {
-      return $parseOptions.unwrapPromises;
-    }
-  };
-
 
   /**
    * @deprecated Promise unwrapping via $parse is deprecated and will be removed in the future.
@@ -1195,7 +1187,7 @@ function $ParseProvider() {
     $parseOptions.csp = $sniffer.csp;
 
     promiseWarning = function promiseWarningFn(fullExp) {
-      if (!$parseOptions.logPromiseWarnings || promiseWarningCache.hasOwnProperty(fullExp)) return;
+      if (!$parseOptions.logPromiseWarnings || promiseWarningCache.hasOwnProperty(fullExp)) {return;}
       promiseWarningCache[fullExp] = true;
       $log.warn('[$parse] Promise found in the expression `' + fullExp + '`. ' +
           'Automatic unwrapping of promises in Angular expressions is deprecated.');
