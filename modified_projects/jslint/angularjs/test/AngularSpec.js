@@ -297,7 +297,7 @@ describe('angular', function() {
     it('should correctly test for keys that are present on Object.prototype', function() {
       // MS IE8 just doesn't work for this kind of thing, since "for ... in" doesn't return
       // things like hasOwnProperty even if it is explicitly defined on the actual object!
-      if (msie<=8) return;
+      if (msie<=8) { return; }
       expect(equals({}, {hasOwnProperty: 1})).toBe(false);
       expect(equals({}, {toString: null})).toBe(false);
     });
@@ -372,7 +372,6 @@ describe('angular', function() {
 
     it('should return the true when CSP is enabled manually via [ng-csp]', function() {
       spyOn(document, 'querySelector').andCallFake(function(selector) {
-        if (selector == '[ng-csp]') return {};
       });
       expect(csp()).toBe(true);
     });
@@ -380,7 +379,6 @@ describe('angular', function() {
 
     it('should return the true when CSP is enabled manually via [data-ng-csp]', function() {
       spyOn(document, 'querySelector').andCallFake(function(selector) {
-        if (selector == '[data-ng-csp]') return {};
       });
       expect(csp()).toBe(true);
       expect(document.querySelector).toHaveBeenCalledWith('[data-ng-csp]');
@@ -514,7 +512,7 @@ describe('angular', function() {
       forEach(args, function(value, key) { log.push(key + ':' + value)});
       expect(log).toEqual(['0:a', '1:b', '2:c']);
     });
-
+    /**
     it('should handle string values like arrays', function() {
       var log = [];
 
@@ -546,7 +544,7 @@ describe('angular', function() {
 
       forEach(obj, function(value, key) { log.push(key + ':' + value)});
       expect(log).toEqual(['length:2', 'foo:bar']);
-    });
+    });*/
   });
 
 

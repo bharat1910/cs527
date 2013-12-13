@@ -35,8 +35,8 @@ describe('$anchorScroll', function() {
   function expectScrollingTo(identifier) {
     return function($window) {
       forEach(elmSpy, function(spy, id) {
-        if (identifier === id) expect(spy).toHaveBeenCalledOnce();
-        else expect(spy).not.toHaveBeenCalled();
+        if (identifier === id) {expect(spy).toHaveBeenCalledOnce();}
+        else {expect(spy).not.toHaveBeenCalled();}
       });
       expect($window.scrollTo).not.toHaveBeenCalled();
     };

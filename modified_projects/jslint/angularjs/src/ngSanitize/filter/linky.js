@@ -106,7 +106,7 @@ angular.module('ngSanitize').filter('linky', function() {
       MAILTO_REGEXP = /^mailto:/;
 
   return function(text, target) {
-    if (!text) return text;
+    if (!text) {return text;}
     var match;
     var raw = text;
     var html = [];
@@ -122,7 +122,7 @@ angular.module('ngSanitize').filter('linky', function() {
       // We can not end in these as they are sometimes found at the end of the sentence
       url = match[0];
       // if we did not match ftp/http/mailto then assume mailto
-      if (match[2] == match[3]) url = 'mailto:' + url;
+      if (match[2] == match[3]) {url = 'mailto:' + url;}
       i = match.index;
       writer.chars(raw.substr(0, i));
       properties.href = url;

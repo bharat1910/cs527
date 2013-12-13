@@ -94,7 +94,7 @@ ngTouch.factory('$swipe', [function() {
       });
 
       element.on('touchmove mousemove', function(event) {
-        if (!active) return;
+        if (!active) {return;}
 
         // Android will send a touchcancel if it thinks we're starting to scroll.
         // So when the total distance (+ or - or both) exceeds 10px in either direction,
@@ -102,7 +102,7 @@ ngTouch.factory('$swipe', [function() {
         // - On totalX > totalY, we send preventDefault() and treat this as a swipe.
         // - On totalY > totalX, we let the browser handle it as a scroll.
 
-        if (!startCoords) return;
+        if (!startCoords) {return;}
         var coords = getCoordinates(event);
 
         totalX += Math.abs(coords.x - lastPos.x);
@@ -128,7 +128,7 @@ ngTouch.factory('$swipe', [function() {
       });
 
       element.on('touchend mouseup', function(event) {
-        if (!active) return;
+        if (!active) {return;}
         active = false;
         eventHandlers['end'] && eventHandlers['end'](getCoordinates(event), event);
       });

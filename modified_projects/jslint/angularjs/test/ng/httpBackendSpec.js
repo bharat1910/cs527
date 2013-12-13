@@ -19,7 +19,7 @@ describe('$httpBackend', function() {
     var len = fakeTimeout.fns.length;
     fakeTimeout.delays = [];
     fakeTimeout.ids = [];
-    while (len--) fakeTimeout.fns.shift()();
+    while (len--) {fakeTimeout.fns.shift()();}
   };
   fakeTimeout.cancel = function(id) {
     var i = indexOf(fakeTimeout.ids, id);

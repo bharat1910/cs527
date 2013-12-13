@@ -290,7 +290,7 @@ angular.module('ngAnimate', ['ng'])
             classes.push('');
           }
 
-          for(var i=0; i < classes.length; i++) {
+          for(i=0; i < classes.length; i++) {
             var klass = classes[i],
                 selectorFactoryName = selectors[klass];
             if(selectorFactoryName && !flagMap[klass]) {
@@ -715,8 +715,8 @@ angular.module('ngAnimate', ['ng'])
             currentAnimation[phaseCompletionFlag] = true;
             (currentAnimation[endFnName] || noop)();
 
-            for(var i=0;i<animations.length;i++) {
-              if(!animations[i][phaseCompletionFlag]) return;
+            for(i=0;i<animations.length;i++) {
+              if(!animations[i][phaseCompletionFlag]) { return;}
             }
 
             allAnimationFnsComplete();
@@ -800,7 +800,7 @@ angular.module('ngAnimate', ['ng'])
       }
 
       function animationsDisabled(element, parentElement) {
-        if (rootAnimateState.disabled) return true;
+        if (rootAnimateState.disabled) { return true;}
 
         if(element[0] == $rootElement[0]) {
           return rootAnimateState.disabled || rootAnimateState.running;
@@ -810,7 +810,7 @@ angular.module('ngAnimate', ['ng'])
           //the element did not reach the root element which means that it
           //is not apart of the DOM. Therefore there is no reason to do
           //any animations on it
-          if(parentElement.length === 0) break;
+          if(parentElement.length === 0) { break;}
 
           var isRoot = parentElement[0] == $rootElement[0];
           var state = isRoot ? rootAnimateState : parentElement.data(NG_ANIMATE_STATE);
@@ -819,7 +819,7 @@ angular.module('ngAnimate', ['ng'])
             return result;
           }
 
-          if(isRoot) return true;
+          if(isRoot) { return true;}
         }
         while(parentElement = parentElement.parent());
 
@@ -1109,7 +1109,7 @@ angular.module('ngAnimate', ['ng'])
           element.off(css3AnimationEvents, onAnimationProgress);
           element.removeClass(activeClassName);
           animateClose(element, className);
-          for (var i in appliedStyles) {
+          for (i in appliedStyles) {
             node.style.removeProperty(appliedStyles[i]);
           }
         };

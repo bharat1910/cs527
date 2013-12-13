@@ -4,10 +4,10 @@
   var msie = parseInt((/msie (\d+)/.exec(navigator.userAgent.toLowerCase()) || [])[1], 10);
 
   function indexOf(array, obj) {
-    if (array.indexOf) return array.indexOf(obj);
+    if (array.indexOf) {return array.indexOf(obj);}
 
-    for ( var i = 0; i < array.length; i++) {
-      if (obj === array[i]) return i;
+    for (i = 0; i < array.length; i++) {
+      if (obj === array[i]) {return i;}
     }
     return -1;
   }
@@ -24,8 +24,8 @@
    * coordinates, keys, etc...) that are passed into the event when triggered
    */
   window.browserTrigger = function browserTrigger(element, eventType, eventData) {
-    if (element && !element.nodeName) element = element[0];
-    if (!element) return;
+    if (element && !element.nodeName) {element = element[0];}
+    if (!element) {return;}
 
     eventData = eventData || {};
     var keys = eventData.keys;
@@ -133,7 +133,7 @@
        * read */
       evnt.$manualTimeStamp = eventData.timeStamp;
 
-      if(!evnt) return;
+      if(!evnt) {return;}
 
       var originalPreventDefault = evnt.preventDefault,
           appWindow = element.ownerDocument.defaultView,

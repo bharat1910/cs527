@@ -32,7 +32,7 @@ app.controller('LogCtrl', ['$cookieStore', '$scope', function LogCtrl($cookieSto
    */
   $scope.addLog = function(msg) {
     var newMsg = msg || $scope.newMsg;
-    if (!newMsg) return;
+    if (!newMsg) {return;}
     var log = {
       at: new Date().getTime(),
       msg: newMsg
@@ -49,7 +49,7 @@ app.controller('LogCtrl', ['$cookieStore', '$scope', function LogCtrl($cookieSto
    * @param {object} log The log to remove.
    */
   $scope.rmLog = function(log) {
-    for ( var i = 0; i < logs.length; i++) {
+    for (i = 0; i < logs.length; i++) {
       if (log === logs[i]) {
         logs.splice(i, 1);
         break;

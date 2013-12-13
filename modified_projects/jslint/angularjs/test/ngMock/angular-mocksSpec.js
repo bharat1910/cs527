@@ -686,7 +686,7 @@ describe('ngMock', function() {
     it('should serialize scope that has overridden "hasOwnProperty"', inject(function($rootScope, $sniffer){
       // MS IE8 just doesn't work for this kind of thing, since "for ... in" doesn't return
       // things like hasOwnProperty even if it is explicitly defined on the actual object!
-      if ($sniffer.msie<=8) return;
+      if ($sniffer.msie<=8) { return;}
       $rootScope.hasOwnProperty = 'X';
       expect(d($rootScope)).toMatch(/Scope\(.*\): \{/);
       expect(d($rootScope)).toMatch(/hasOwnProperty: "X"/);
@@ -697,7 +697,7 @@ describe('ngMock', function() {
   describe('angular.mock.clearDataCache', function() {
     function keys(obj) {
       var keys = [];
-      for(var key in obj) {
+      for(key in obj) {
         if (obj.hasOwnProperty(key)) keys.push(key);
       }
       return keys.sort();

@@ -41,7 +41,7 @@ describe("$animate", function() {
     }));
 
     it("should add and remove classes on SVG elements", inject(function($animate) {
-      if (!window.SVGElement) return;
+      if (!window.SVGElement) {return;}
       var svg = jqLite('<svg><rect></rect></svg>');
       var rect = svg.children();
       $animate.enabled(false);

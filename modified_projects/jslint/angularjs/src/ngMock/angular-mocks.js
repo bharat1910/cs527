@@ -91,7 +91,7 @@ angular.mock.$Browser = function() {
     var fnIndex;
 
     angular.forEach(self.deferredFns, function(fn, index) {
-      if (fn.id === deferId) fnIndex = index;
+      if (fn.id === deferId) {fnIndex = index;}
     });
 
     if (fnIndex !== undefined) {
@@ -474,8 +474,8 @@ angular.mock.$IntervalProvider = function() {
           iteration = 0,
           skipApply = (angular.isDefined(invokeApply) && !invokeApply);
 
-      count = (angular.isDefined(count)) ? count : 0,
-      promise.then(null, null, fn);
+      //count = (angular.isDefined(count)) ? count : 0,
+      //promise.then(null, null, fn);
 
       promise.$$intervalId = nextRepeatId;
 
@@ -487,7 +487,7 @@ angular.mock.$IntervalProvider = function() {
           deferred.resolve(iteration);
 
           angular.forEach(repeatFns, function(fn, index) {
-            if (fn.id === promise.$$intervalId) fnIndex = index;
+            if (fn.id === promise.$$intervalId) {fnIndex = index;}
           });
 
           if (fnIndex !== undefined) {
@@ -495,7 +495,7 @@ angular.mock.$IntervalProvider = function() {
           }
         }
 
-        if (!skipApply) $rootScope.$apply();
+        if (!skipApply) {$rootScope.$apply();}
       }
 
       repeatFns.push({
@@ -515,7 +515,7 @@ angular.mock.$IntervalProvider = function() {
       var fnIndex;
 
       angular.forEach(repeatFns, function(fn, index) {
-        if (fn.id === promise.$$intervalId) fnIndex = index;
+        if (fn.id === promise.$$intervalId) { fnIndex = index;}
       });
 
       if (fnIndex !== undefined) {
@@ -594,9 +594,10 @@ angular.mock.$IntervalProvider = function() {
       num = -num;
     }
     num = '' + num;
-    while(num.length < digits) num = '0' + num;
-    if (trim)
+    while(num.length < digits) {num = '0' + num;}
+    if (trim) {
       num = num.substr(num.length - digits);
+    }
     return neg + num;
   }
 
@@ -646,11 +647,12 @@ angular.mock.$IntervalProvider = function() {
       self.origDate = jsonStringToDate(timestamp);
 
       timestamp = self.origDate.getTime();
-      if (isNaN(timestamp))
+      if (isNaN(timestamp)) {
         throw {
           name: "Illegal Argument",
           message: "Arg '" + tsStr + "' passed into TzDate constructor is not a valid date string"
         };
+    }
     } else {
       self.origDate = new Date(timestamp);
     }
@@ -777,7 +779,7 @@ angular.mock.animate = angular.module('mock.animate', ['ng'])
         flushNext : function(name) {
           var tick = animate.queue.shift();
 
-          if (!tick) throw new Error('No animation to be flushed');
+          if (!tick) { throw new Error('No animation to be flushed');}
           if(tick.method !== name) {
             throw new Error('The next animation is not "' + name +
               '", but is "' + tick.method + '"');
@@ -864,7 +866,7 @@ angular.mock.dump = function(object) {
   function serializeScope(scope, offset) {
     offset = offset ||  '  ';
     var log = [offset + 'Scope(' + scope.$id + '): {'];
-    for ( var key in scope ) {
+    for (key in scope ) {
       if (Object.prototype.hasOwnProperty.call(scope, key) && !key.match(/^(\$|this)/)) {
         log.push('  ' + key + ': ' + angular.toJson(scope[key]));
       }

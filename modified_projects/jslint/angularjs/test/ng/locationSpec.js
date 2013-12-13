@@ -15,7 +15,7 @@ describe('$location', function() {
     var urlParsingNodePlaceholder;
 
     beforeEach(inject(function ($sniffer) {
-      if ($sniffer.msie) return;
+      if ($sniffer.msie) {return;}
 
       urlParsingNodePlaceholder = urlParsingNode;
 
@@ -35,7 +35,7 @@ describe('$location', function() {
     }));
 
     afterEach(inject(function ($sniffer) {
-      if ($sniffer.msie) return;
+      if ($sniffer.msie) {return;}
       //reset urlParsingNode
       urlParsingNode = urlParsingNodePlaceholder;
       expect(urlParsingNode.pathname).not.toBe('/C:/foo');

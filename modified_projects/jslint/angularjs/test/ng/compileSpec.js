@@ -199,12 +199,12 @@ describe('$compile', function() {
       // it turns out that when a browser plugin is bound to an DOM element (typically <object>),
       // the plugin's context rather than the usual DOM apis are exposed on this element, so
       // childNodes might not exist.
-      if (msie < 9) return;
+      if (msie < 9) {return;}
 
       element = jqLite('<div>{{1+2}}</div>');
       element[0].childNodes[1] = {nodeType: 3, nodeName: 'OBJECT', textContent: 'fake node'};
 
-      if (!element[0].childNodes[1]) return; //browser doesn't support this kind of mocking
+      if (!element[0].childNodes[1]) {return;} //browser doesn't support this kind of mocking
       expect(element[0].childNodes[1].textContent).toBe('fake node');
 
       $compile(element)($rootScope);
@@ -239,7 +239,7 @@ describe('$compile', function() {
 
 
       it('should ignore not set CSS classes on SVG elements', inject(function($compile, $rootScope, log) {
-        if (!window.SVGElement) return;
+        if (!window.SVGElement) {return;}
         // According to spec SVG element className property is readonly, but only FF
         // implements it this way which causes compile exceptions.
         element = $compile('<svg><text>{{1}}</text></svg>')($rootScope);
@@ -329,10 +329,10 @@ describe('$compile', function() {
               if (value.substring(0,3) == 'ng-') {
               } else {
                 value = value.replace('=""', '');
-                var match = value.match(/=(.*)/);
+                /*var match = value.match(/=(.*)/);
                 if (match && match[1].charAt(0) != '"') {
                   value = value.replace(/=(.*)/, '="$1"');
-                }
+                }*/
                 list.push(value);
               }
             });

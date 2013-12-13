@@ -42,8 +42,9 @@ angular.scenario.dsl = angular.scenario.dsl || function(name, fn) {
     /* jshint -W040 *//* The dsl binds `this` for us when calling chained functions */
     function executeStatement(statement, args) {
       var result = statement.apply(this, args);
-      if (angular.isFunction(result) || result instanceof angular.scenario.Future)
+      if (angular.isFunction(result) || result instanceof angular.scenario.Future) {
         return result;
+      }
       var self = this;
       var chain = angular.extend({}, result);
       angular.forEach(chain, function(value, name) {
@@ -270,7 +271,7 @@ _jQuery.fn.bindings = function(windowJquery, bindExp) {
     match = function (actualExp) {
       if (actualExp) {
         actualExp = actualExp.replace(/\s/g, '');
-        if (actualExp == bindExp) return true;
+        if (actualExp == bindExp) {return true;}
         if (actualExp.indexOf(bindExp) === 0) {
           return actualExp.charAt(bindExp.length) == '|';
         }
@@ -311,14 +312,14 @@ _jQuery.fn.bindings = function(windowJquery, bindExp) {
         if (!angular.isArray(binding)) {
           binding = [binding];
         }
-        for(var fns, j=0, jj=binding.length;  j<jj; j++) {
+        for(fns, j=0, jj=binding.length;  j<jj; j++) {
           fns = binding[j];
           if (fns.parts) {
             fns = fns.parts;
           } else {
             fns = [fns];
           }
-          for (var scope, fn, i = 0, ii = fns.length; i < ii; i++) {
+          for (scope, fn, i = 0, ii = fns.length; i < ii; i++) {
             if(match((fn = fns[i]).exp)) {
               push(fn(scope = scope || element.scope()));
             }

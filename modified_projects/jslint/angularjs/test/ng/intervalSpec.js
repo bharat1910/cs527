@@ -25,7 +25,7 @@ describe('$interval', function() {
         var fnIndex;
 
         angular.forEach(repeatFns, function(fn, index) {
-          if (fn.id === id) fnIndex = index;
+          if (fn.id === id) {fnIndex = index;}
         });
 
         if (fnIndex !== undefined) {
