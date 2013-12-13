@@ -24,8 +24,9 @@ beforeEach(function() {
   }
 
   function indexOf(array, obj) {
-    for ( var i = 0; i < array.length; i++) {
-      if (obj === array[i]) return i;
+    var i; 
+    for (i = 0; i < array.length; i++) {
+      if (obj === array[i]) { return i};
     }
     return -1;
   }
@@ -266,7 +267,7 @@ jasmine.Matchers.prototype.toThrow = function(expected) {
 function spyOnlyCallsWithArgs(obj, method) {
   var spy = spyOn(obj, method);
   obj[method] = function() {
-    if (arguments.length) return spy.apply(this, arguments);
+    if (arguments.length) { return spy.apply(this, arguments) };
     return spy.originalValue.apply(this);
   };
   return spy;

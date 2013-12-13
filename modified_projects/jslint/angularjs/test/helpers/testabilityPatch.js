@@ -6,9 +6,9 @@
  * special event and changes it form 'change' to 'click/keydown' and
  * few others. This horrible hack removes the special treatment
  */
-if (window._jQuery) _jQuery.event.special.change = undefined;
+if (window._jQuery) { _jQuery.event.special.change = undefined };
 
-if (window.bindJQuery) bindJQuery();
+if (window.bindJQuery) { bindJQuery() };
 
 beforeEach(function() {
   // all this stuff is not needed for module tests, where jqlite and publishExternalAPI and jqLite are not global vars
@@ -71,8 +71,8 @@ afterEach(function() {
   // copied from Angular.js
   // we need these two methods here so that we can run module tests with wrapped angular.js
   function sortedKeys(obj) {
-    var keys = [];
-    for (var key in obj) {
+    var keys = [], key;
+    for (key in obj) {
       if (obj.hasOwnProperty(key)) {
         keys.push(key);
       }
@@ -81,8 +81,8 @@ afterEach(function() {
   }
 
   function forEachSorted(obj, iterator, context) {
-    var keys = sortedKeys(obj);
-    for ( var i = 0; i < keys.length; i++) {
+    var keys = sortedKeys(obj), i;
+    for (i = 0; i < keys.length; i++) {
       iterator.call(context, obj[keys[i]], keys[i]);
     }
     return keys;
@@ -91,12 +91,12 @@ afterEach(function() {
 
 
 function dealoc(obj) {
-  var jqCache = angular.element.cache;
+  var jqCache = angular.element.cache, key;
   if (obj) {
     if (angular.isElement(obj)) {
       cleanup(angular.element(obj));
     } else {
-      for(var key in jqCache) {
+      for(key in jqCache) {
         var value = jqCache[key];
         if (value.data && value.data.$scope == obj) {
           delete jqCache[key];
@@ -111,8 +111,8 @@ function dealoc(obj) {
     // for IFRAME elements.  jQuery explicitly uses (element.contentDocument ||
     // element.contentWindow.document) and both properties are null for IFRAMES that aren't attached
     // to a document.
-    var children = element[0].childNodes || [];
-    for ( var i = 0; i < children.length; i++) {
+    var children = element[0].childNodes || [], i;
+    for (i = 0; i < children.length; i++) {
       cleanup(angular.element(children[i]));
     }
   }
@@ -145,9 +145,11 @@ function sortedHtml(element, showNgClass) {
       if (className) {
         attrs.push(' class="' + className + '"');
       }
-      for(var i=0; i<attributes.length; i++) {
-        if (i>0 && attributes[i] == attributes[i-1])
+      var i;
+      for(i=0; i<attributes.length; i++) {
+        if (i>0 && attributes[i] == attributes[i-1]) {
           continue; //IE9 creates dupes. Ignore them!
+	}
 
         var attr = attributes[i];
         if(attr.name.match(/^ng[\:\-]/) ||
@@ -185,7 +187,7 @@ function sortedHtml(element, showNgClass) {
       attrs.sort();
       html += attrs.join('');
       if (node.style) {
-        var style = [];
+        var style = [], css;
         if (node.style.cssText) {
           forEach(node.style.cssText.split(';'), function(value){
             value = trim(value);
@@ -194,7 +196,7 @@ function sortedHtml(element, showNgClass) {
             }
           });
         }
-        for(var css in node.style){
+        for(css in node.style){
           var value = node.style[css];
           if (isString(value) && isString(css) && css != 'cssText' && value && (1*css != css)) {
             var text = lowercase(css + ': ' + value);
@@ -208,15 +210,15 @@ function sortedHtml(element, showNgClass) {
         style = [];
         forEach(tmp, function(value){
           if (!value.match(/^max[^\-]/))
-            style.push(value);
+            { style.push(value); }
         });
         if (style.length) {
           html += ' style="' + style.join('; ') + ';"';
         }
       }
       html += '>';
-      var children = node.childNodes;
-      for(var j=0; j<children.length; j++) {
+      var children = node.childNodes, j;
+      for(j=0; j<children.length; j++) {
         toString(children[j]);
       }
       html += '</' + node.nodeName.toLowerCase() + '>';
@@ -257,39 +259,6 @@ function assertVisible(node) {
   if (!isCssVisible(node)) {
     throw new Error('Node should be visible but was hidden: ' + angular.module.ngMock.dump(node));
   }
-}
-
-function provideLog($provide) {
-  $provide.factory('log', function() {
-      var messages = [];
-
-      function log(msg) {
-        messages.push(msg);
-        return msg;
-      }
-
-      log.toString = function() {
-        return messages.join('; ');
-      }
-
-      log.toArray = function() {
-        return messages;
-      }
-
-      log.reset = function() {
-        messages = [];
-      }
-
-      log.fn = function(msg) {
-        return function() {
-          log(msg);
-        }
-      }
-
-      log.$$log = true;
-
-      return log;
-    });
 }
 
 function pending() {

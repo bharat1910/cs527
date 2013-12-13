@@ -52,7 +52,7 @@ function writeLocaleFiles() {
   var num_files = 0;
   localeIds.forEach(function(localeID) {
     var content = closureI18nExtractor.outputLocale(localeInfo, localeID);
-    if (!content) return;
+    if (!content) { return;}
     var correctedLocaleId = closureI18nExtractor.correctedLocaleId(localeID);
     var filename = NG_LOCALE_DIR + 'angular-locale_' + correctedLocaleId + '.js'
     writePromises.push(
@@ -73,9 +73,10 @@ function writeLocaleFiles() {
 */
 function createFolder(folder) {
   return qfs.isDirectory(folder).then(function(isDir) {
-    if (!isDir) return qfs.makeDirectory(folder).then(function() {
+    if (!isDir) { return qfs.makeDirectory(folder).then(function() {
         console.log('Created directory %j', folder); });
-  });
+      } 
+    });
 }
 
 createFolder(NG_LOCALE_DIR)

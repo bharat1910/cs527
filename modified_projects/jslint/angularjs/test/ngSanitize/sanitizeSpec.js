@@ -13,7 +13,7 @@ describe('HTML', function() {
   }));
 
   describe('htmlParser', function() {
-    if (angular.isUndefined(window.htmlParser)) return;
+    if (angular.isUndefined(window.htmlParser)) { return ;}
 
     var handler, start, text, comment;
     beforeEach(function() {
@@ -184,7 +184,7 @@ describe('HTML', function() {
   });
 
   describe('htmlSanitizerWriter', function() {
-    if (angular.isUndefined(window.htmlSanitizeWriter)) return;
+    if (angular.isUndefined(window.htmlSanitizeWriter)) {return;}
 
     var writer, html;
     beforeEach(function() {

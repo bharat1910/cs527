@@ -89,7 +89,7 @@ describe('boolean attr directives', function() {
 
 
     it('should throw an exception if binding to multiple attribute', inject(function($rootScope, $compile) {
-      if (msie < 9) return; //IE8 doesn't support biding to boolean attributes
+      if (msie < 9) {return;} //IE8 doesn't support biding to boolean attributes
 
       expect(function() {
         $compile('<select multiple="{{isMultiple}}"></select>')

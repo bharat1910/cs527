@@ -53,7 +53,8 @@ describe('angular.scenario.output.html', function() {
 
   it('should update totals when steps complete', function() {
     // Failure
-    for (var i=0; i < 3; ++i) {
+    var i;
+    for (i=0; i < 3; ++i) {
       runner.emit('SpecBegin', spec);
       runner.emit('StepBegin', spec, step);
       runner.emit('StepFailure', spec, step, 'error');

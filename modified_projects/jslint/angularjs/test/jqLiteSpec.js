@@ -18,8 +18,8 @@ describe('jqLite', function() {
         var msg = "Unequal length";
         this.message = function() {return msg;};
 
-        var value = this.actual && expected && this.actual.length == expected.length;
-        for (var i = 0; value && i < expected.length; i++) {
+        var i, value = this.actual && expected && this.actual.length == expected.length;
+        for (i = 0; value && i < expected.length; i++) {
           var actual = jqLite(this.actual[i])[0];
           var expect = jqLite(expected[i])[0];
           value = value && equals(expect, actual);
@@ -515,7 +515,7 @@ describe('jqLite', function() {
 
     it('should properly do  with SVG elements', function() {
       // this is a jqLite & SVG only test (jquery doesn't behave this way right now, which is a bug)
-      if (!window.SVGElement || !_jqLiteMode) return;
+      if (!window.SVGElement || !_jqLiteMode) { return };
       var svg = jqLite('<svg><rect></rect></svg>');
       var rect = svg.children();
 

@@ -433,7 +433,6 @@ describe('input', function() {
             "' in: " + angular.mock.dump(this.actual);
         }
 
-        return !actualValue || actualValue == 'false';
       }
     });
 

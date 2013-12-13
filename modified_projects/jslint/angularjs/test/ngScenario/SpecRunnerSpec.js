@@ -42,9 +42,10 @@ describe('angular.scenario.SpecRunner', function() {
     $root.$window = $window;
     runner = $root.$new();
 
-    var Cls = angular.scenario.SpecRunner;
-    for (var name in Cls.prototype)
+    var Cls = angular.scenario.SpecRunner, name;
+    for (name in Cls.prototype) {
       runner[name] = angular.bind(runner, Cls.prototype[name]);
+    }
 
     Cls.call(runner);
   }));

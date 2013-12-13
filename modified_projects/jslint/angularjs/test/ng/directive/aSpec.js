@@ -38,7 +38,7 @@ describe('a', function() {
       event.preventDefaultOrg = event.preventDefault;
       event.preventDefault = function() {
         preventDefaultCalled = true;
-        if (this.preventDefaultOrg) this.preventDefaultOrg();
+        if (this.preventDefaultOrg) { this.preventDefaultOrg();}
       };
 
       element[0].dispatchEvent(event);

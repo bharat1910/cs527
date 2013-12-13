@@ -352,7 +352,7 @@ describe("ngAnimate", function() {
         it("should assign the ng-event className to all animation events when transitions/keyframes are used",
           inject(function($animate, $sniffer, $rootScope, $timeout) {
 
-          if (!$sniffer.transitions) return;
+          if (!$sniffer.transitions) { return; }
 
           $rootScope.$digest();
           element[0].removeChild(child[0]);
@@ -748,7 +748,7 @@ describe("ngAnimate", function() {
           it("should stagger the items when the correct CSS class is provided",
             inject(function($animate, $rootScope, $compile, $sniffer, $timeout, $document, $rootElement) {
 
-            if(!$sniffer.animations) return;
+            if(!$sniffer.animations) { return; }
 
             $animate.enabled(true);
 
@@ -771,7 +771,7 @@ describe("ngAnimate", function() {
             var container = $compile(html('<div></div>'))($rootScope);
 
             var elements = [];
-            for(var i = 0; i < 5; i++) {
+            for(i = 0; i < 5; i++) {
               var newScope = $rootScope.$new();
               var element = $compile('<div class="real-animation"></div>')(newScope);
               $animate.enter(element, container);
@@ -787,7 +787,7 @@ describe("ngAnimate", function() {
             expect(elements[3].attr('style')).toMatch(/animation-delay: 0\.3\d*s/);
             expect(elements[4].attr('style')).toMatch(/animation-delay: 0\.4\d*s/);
 
-            for(var i = 0; i < 5; i++) {
+            for(i = 0; i < 5; i++) {
               dealoc(elements[i]);
               var newScope = $rootScope.$new();
               var element = $compile('<div class="fake-animation"></div>')(newScope);
@@ -808,7 +808,7 @@ describe("ngAnimate", function() {
           it("should stagger items when multiple animation durations/delays are defined",
             inject(function($animate, $rootScope, $compile, $sniffer, $timeout, $document, $rootElement) {
 
-            if(!$sniffer.transitions) return;
+            if(!$sniffer.transitions) { return;}
 
             $animate.enabled(true);
 
@@ -823,7 +823,7 @@ describe("ngAnimate", function() {
             var container = $compile(html('<div></div>'))($rootScope);
 
             var elements = [];
-            for(var i = 0; i < 4; i++) {
+            for(i = 0; i < 4; i++) {
               var newScope = $rootScope.$new();
               var element = $compile('<div class="stagger-animation"></div>')(newScope);
               $animate.enter(element, container);
@@ -844,7 +844,7 @@ describe("ngAnimate", function() {
           it("should only apply the fallback transition property unless all properties are being animated",
             inject(function($compile, $rootScope, $animate, $sniffer, $timeout) {
 
-            if (!$sniffer.animations) return;
+            if (!$sniffer.animations) { return; }
 
             ss.addRule('.all.ng-enter',  '-webkit-transition:1s linear all;' +
                                                  'transition:1s linear all');
@@ -897,7 +897,7 @@ describe("ngAnimate", function() {
           it("should not apply the fallback classes if no animations are going on or if CSS animations are going on",
             inject(function($compile, $rootScope, $animate, $sniffer, $timeout) {
 
-            if (!$sniffer.animations) return;
+            if (!$sniffer.animations) { return; }
 
             ss.addRule('.transitions',  '-webkit-transition:1s linear all;' +
                                                 'transition:1s linear all');
@@ -1036,7 +1036,7 @@ describe("ngAnimate", function() {
           it("should NOT overwrite styles with outdated values when animation completes",
             inject(function($animate, $rootScope, $compile, $sniffer, $timeout) {
 
-              if(!$sniffer.transitions) return;
+              if(!$sniffer.transitions) { return;}
 
               var style = '-webkit-transition-duration: 1s, 2000ms, 1s;' +
                           '-webkit-transition-property: height, left, opacity;' +
@@ -1124,7 +1124,7 @@ describe("ngAnimate", function() {
           it("should stagger the items when the correct CSS class is provided",
             inject(function($animate, $rootScope, $compile, $sniffer, $timeout, $document, $rootElement) {
 
-            if(!$sniffer.transitions) return;
+            if(!$sniffer.transitions) { return;}
 
             $animate.enabled(true);
 
@@ -1147,7 +1147,7 @@ describe("ngAnimate", function() {
             var container = $compile(html('<div></div>'))($rootScope);
 
             var elements = [];
-            for(var i = 0; i < 5; i++) {
+            for(i = 0; i < 5; i++) {
               var newScope = $rootScope.$new();
               var element = $compile('<div class="real-animation"></div>')(newScope);
               $animate.enter(element, container);
@@ -1163,7 +1163,7 @@ describe("ngAnimate", function() {
             expect(elements[3].attr('style')).toMatch(/transition-delay: 0\.3\d*s/);
             expect(elements[4].attr('style')).toMatch(/transition-delay: 0\.4\d*s/);
 
-            for(var i = 0; i < 5; i++) {
+            for(i = 0; i < 5; i++) {
               dealoc(elements[i]);
               var newScope = $rootScope.$new();
               var element = $compile('<div class="fake-animation"></div>')(newScope);
@@ -1184,7 +1184,7 @@ describe("ngAnimate", function() {
           it("should stagger items when multiple transition durations/delays are defined",
             inject(function($animate, $rootScope, $compile, $sniffer, $timeout, $document, $rootElement) {
 
-            if(!$sniffer.transitions) return;
+            if(!$sniffer.transitions) { return;}
 
             $animate.enabled(true);
 
@@ -1199,7 +1199,7 @@ describe("ngAnimate", function() {
             var container = $compile(html('<div></div>'))($rootScope);
 
             var elements = [];
-            for(var i = 0; i < 4; i++) {
+            for(i = 0; i < 4; i++) {
               var newScope = $rootScope.$new();
               var element = $compile('<div class="stagger-animation"></div>')(newScope);
               $animate.enter(element, container);
@@ -1219,7 +1219,6 @@ describe("ngAnimate", function() {
         it("should apply staggering to both transitions and keyframe animations when used within the same animation",
           inject(function($animate, $rootScope, $compile, $sniffer, $timeout, $document, $rootElement) {
 
-          if(!$sniffer.transitions) return;
 
           $animate.enabled(true);
 
@@ -1238,7 +1237,7 @@ describe("ngAnimate", function() {
           var container = $compile(html('<div></div>'))($rootScope);
 
           var elements = [];
-          for(var i = 0; i < 3; i++) {
+          for(i = 0; i < 3; i++) {
             var newScope = $rootScope.$new();
             var element = $compile('<div class="stagger-animation"></div>')(newScope);
             $animate.enter(element, container);
@@ -1256,7 +1255,7 @@ describe("ngAnimate", function() {
           expect(elements[2].attr('style')).toMatch(/transition-delay:\s+1.2\d*/);
           expect(elements[2].attr('style')).toMatch(/animation-delay: 1\.4\d*s,\s*2\.4\d*s/);
 
-          for(var i = 0; i < 3; i++) {
+          for(i = 0; i < 3; i++) {
             browserTrigger(elements[i],'transitionend', { timeStamp: Date.now() + 22000, elapsedTime: 22000 });
             expect(elements[i].attr('style')).toBeFalsy();
           }
@@ -1906,7 +1905,7 @@ describe("ngAnimate", function() {
     it("should not set the transition property flag if only CSS animations are used",
       inject(function($compile, $rootScope, $animate, $sniffer, $timeout) {
 
-      if (!$sniffer.animations) return;
+      if (!$sniffer.animations) { return; }
 
       ss.addRule('.sleek-animation.ng-enter', '-webkit-animation: my_animation 2s linear;' +
                                               'animation: my_animation 2s linear');
@@ -2038,7 +2037,7 @@ describe("ngAnimate", function() {
 
     it("should not perform the active class animation if the animation has been cancelled before the reflow occurs", function() {
       inject(function($compile, $rootScope, $animate, $sniffer, $timeout) {
-        if(!$sniffer.transitions) return;
+        if(!$sniffer.transitions) { return;}
 
         ss.addRule('.animated.ng-enter', '-webkit-transition: 2s linear all;' +
                                                  'transition: 2s linear all;');
@@ -2167,9 +2166,6 @@ describe("ngAnimate", function() {
               fn = function() {
                 done();
               }
-              return function() {
-                interceptedClass = element.attr('class');
-              }
             }
           }
         });
@@ -2226,7 +2222,7 @@ describe("ngAnimate", function() {
 
     it("should not skip ngAnimate animations when any pre-existing CSS transitions are present on the element", function() {
       inject(function($compile, $rootScope, $animate, $timeout, $sniffer) {
-        if(!$sniffer.transitions) return;
+        if(!$sniffer.transitions) { return; }
 
         var element = html($compile('<div class="animated parent"></div>')($rootScope));
         var child   = html($compile('<div class="animated child"></div>')($rootScope));
@@ -2255,7 +2251,7 @@ describe("ngAnimate", function() {
     it("should wait until both the duration and delay are complete to close off the animation",
       inject(function($compile, $rootScope, $animate, $timeout, $sniffer) {
 
-      if(!$sniffer.transitions) return;
+      if(!$sniffer.transitions) { return; }
 
       var element = html($compile('<div class="animated parent"></div>')($rootScope));
       var child   = html($compile('<div class="animated child"></div>')($rootScope));
@@ -2363,8 +2359,6 @@ describe("ngAnimate", function() {
 
     it("should wait until a queue of animations are complete before performing a reflow",
       inject(function($rootScope, $compile, $timeout,$sniffer) {
-
-      if(!$sniffer.transitions) return;
 
       $rootScope.items = [1,2,3,4,5];
       var element = html($compile('<div><div class="animated" ng-repeat="item in items"></div></div>')($rootScope));
@@ -2534,7 +2528,6 @@ describe("ngAnimate", function() {
       });
 
       inject(function($animate, $rootScope, $compile, $rootElement, $timeout, $document, $sniffer) {
-      if(!$sniffer.transitions) return;
 
         $animate.enabled(true);
 
@@ -2542,7 +2535,7 @@ describe("ngAnimate", function() {
         $rootElement.append(element);
         jqLite($document[0].body).append($rootElement);
 
-        for(var i=0;i<20;i++) {
+        for(i=0;i<20;i++) {
           var kid = $compile('<div class="kid"></div>')($rootScope);
           $animate.enter(kid, element);
         }
@@ -2555,7 +2548,7 @@ describe("ngAnimate", function() {
         dealoc(element);
         count = 0;
 
-        for(var i=0;i<20;i++) {
+        for(i=0;i<20;i++) {
           var kid = $compile('<div class="kid c-'+i+'"></div>')($rootScope);
           $animate.enter(kid, element);
         }
@@ -2570,7 +2563,6 @@ describe("ngAnimate", function() {
     it("should cancel an ongoing class-based animation only if the new class contains transition/animation CSS code",
       inject(function($compile, $rootScope, $animate, $sniffer, $timeout) {
 
-      if (!$sniffer.transitions) return;
 
       ss.addRule('.green-add', '-webkit-transition:1s linear all;' +
                                        'transition:1s linear all;');
@@ -2605,8 +2597,6 @@ describe("ngAnimate", function() {
 
     it("should cancel and perform the dom operation only after the reflow has run",
       inject(function($compile, $rootScope, $animate, $sniffer, $timeout) {
-
-      if (!$sniffer.transitions) return;
 
       ss.addRule('.green-add', '-webkit-transition:1s linear all;' +
                                        'transition:1s linear all;');
@@ -2720,8 +2710,6 @@ describe("ngAnimate", function() {
     it('should only perform the DOM operation once',
       inject(function($sniffer, $compile, $rootScope, $rootElement, $animate, $timeout) {
 
-      if (!$sniffer.transitions) return;
-
       ss.addRule('.base-class', '-webkit-transition:1s linear all;' +
                                         'transition:1s linear all;');
 
@@ -2754,8 +2742,6 @@ describe("ngAnimate", function() {
     it('should block and unblock transitions before the dom operation occurs',
       inject(function($rootScope, $compile, $rootElement, $document, $animate, $sniffer, $timeout) {
 
-      if (!$sniffer.transitions) return;
-
       $animate.enabled(true);
 
       ss.addRule('.cross-animation', '-webkit-transition:1s linear all;' +
@@ -2787,7 +2773,6 @@ describe("ngAnimate", function() {
     it('should block and unblock keyframe animations around the reflow operation',
       inject(function($rootScope, $compile, $rootElement, $document, $animate, $sniffer, $timeout) {
 
-      if (!$sniffer.animations) return;
 
       $animate.enabled(true);
 
@@ -2829,8 +2814,6 @@ describe("ngAnimate", function() {
         });
       });
       inject(function($rootScope, $compile, $rootElement, $document, $animate, $sniffer, $timeout, $window) {
-        if (!$sniffer.animations) return;
-
         $animate.enabled(true);
 
         ss.addRule('.special', '-webkit-animation:1s special_animation;' +

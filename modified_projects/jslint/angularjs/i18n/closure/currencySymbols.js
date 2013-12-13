@@ -63,7 +63,8 @@ goog.i18n.currency.SPACE_FLAG_ = 0x20;
  * before any other functions in this namespace.
  */
 goog.i18n.currency.addTier2Support = function() {
-  for (var key in goog.i18n.currency.CurrencyInfoTier2) {
+  var key;
+  for (key in goog.i18n.currency.CurrencyInfoTier2) {
     goog.i18n.currency.CurrencyInfo[key] =
         goog.i18n.currency.CurrencyInfoTier2[key];
   }
@@ -192,7 +193,7 @@ goog.i18n.currency.getCurrencyPattern_ = function(patternNum, sign) {
   var precision = patternNum & goog.i18n.currency.PRECISION_MASK_;
   if (precision > 0) {
     strParts.push('.');
-    for (var i = 0; i < precision; i++) {
+    for (i = 0; i < precision; i++) {
       strParts.push('0');
     }
   }
@@ -227,7 +228,7 @@ goog.i18n.currency.adjustPrecision = function(pattern, currencyCode) {
   var precision = info[0] & goog.i18n.currency.PRECISION_MASK_;
   if (precision > 0) {
     strParts.push('.');
-    for (var i = 0; i < precision; i++) {
+    for (i = 0; i < precision; i++) {
       strParts.push('0');
     }
   }

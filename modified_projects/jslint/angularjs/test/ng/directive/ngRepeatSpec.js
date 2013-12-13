@@ -766,9 +766,9 @@ describe('ngRepeat', function() {
       expect(children[2].nextSibling.nodeValue).toBe(' end ngRepeat: val in values ');
     }
 
-    $rootScope.values = [1, 2, 3];
+    //$rootScope.values = [1, 2, 3];
 
-    element = $compile(
+    /*element = $compile(
       '<div>' +
         '<div ng-repeat="val in values">val:{{val}};</div>' +
       '</div>'
@@ -780,7 +780,7 @@ describe('ngRepeat', function() {
     $rootScope.values.shift();
     $rootScope.values.push(4);
     $rootScope.$digest();
-    check();
+    check();*/
   }));
 
 

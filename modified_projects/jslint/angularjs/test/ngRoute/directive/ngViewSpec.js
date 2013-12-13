@@ -289,7 +289,7 @@ describe('ngView', function() {
       var called = 0;
       // we want to assert only during first watch
       $rootScope.$watch(function() {
-        if (!called++) expect(element.text()).toBe('');
+        if (!called++) { expect(element.text()).toBe('') };
       });
 
       $rootScope.$digest();

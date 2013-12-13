@@ -462,7 +462,7 @@ describe('select', function() {
       var html = '<select';
       forEach(attrs, function(value, key) {
         if (isBoolean(value)) {
-          if (value) html += ' ' + key;
+          if (value) { html += ' ' + key;}
         } else {
           html += ' ' + key + '="' + value + '"';
         }
