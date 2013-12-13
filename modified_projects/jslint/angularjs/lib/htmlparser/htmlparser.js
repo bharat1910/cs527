@@ -66,8 +66,9 @@
           index = html.indexOf("-->");
 
           if ( index >= 0 ) {
-            if ( handler.comment )
+            if ( handler.comment ) {
               handler.comment( html.substring( 4, index ) );
+            }
             html = html.substring( index + 3 );
             chars = false;
           }
@@ -99,7 +100,7 @@
           var text = index < 0 ? html : html.substring( 0, index );
           html = index < 0 ? "" : html.substring( index );
 
-          if ( handler.chars )
+          if ( handler.chars ) {
             handler.chars( text );
         }
 
@@ -108,8 +109,9 @@
           text = text.replace(/<!--(.*?)-->/g, "$1")
             .replace(/<!\[CDATA\[(.*?)]]>/g, "$1");
 
-          if ( handler.chars )
+          if ( handler.chars ) {
             handler.chars( text );
+          }
 
           return "";
         });
@@ -117,8 +119,9 @@
         parseEndTag( "", stack.last() );
       }
 
-      if ( html == last )
+      if ( html == last ) {
         throw "Parse Error: " + html;
+      }
       last = html;
     }
 
@@ -138,8 +141,9 @@
 
       unary = empty[ tagName ] || !!unary;
 
-      if ( !unary )
+      if ( !unary ) {
         stack.push( tagName );
+      }
 
       if ( handler.start ) {
         var attrs = [];
@@ -157,28 +161,34 @@
           });
         });
 
-        if ( handler.start )
+        if ( handler.start ) {
           handler.start( tagName, attrs, unary );
+        }
       }
     }
 
     function parseEndTag( tag, tagName ) {
       // If no tag name is provided, clean shop
-      if ( !tagName )
+      if ( !tagName ) {
         var pos = 0;
+      }
 
       // Find the closest opened tag of the same type
-      else
-        for ( var pos = stack.length - 1; pos >= 0; pos-- )
-          if ( stack[ pos ] == tagName )
+      else {
+        for (pos = stack.length - 1; pos >= 0; pos-- ) {
+          if ( stack[ pos ] == tagName ) {
             break;
+          }
+        }
+     }
 
       if ( pos >= 0 ) {
         // Close all the open elements, up the stack
-        for ( var i = stack.length - 1; i >= pos; i-- )
-          if ( handler.end )
+        for (i = stack.length - 1; i >= pos; i-- ) {
+          if ( handler.end ) {
             handler.end( stack[ i ] );
-
+          }
+        }
         // Remove the open elements from the stack
         stack.length = pos;
       }
@@ -192,9 +202,9 @@
       start: function( tag, attrs, unary ) {
         results += "<" + tag;
 
-        for ( var i = 0; i < attrs.length; i++ )
+        for (i = 0; i < attrs.length; i++ ) {
           results += " " + attrs[i].name + '="' + attrs[i].escaped + '"';
-
+        }
         results += (unary ? "/" : "") + ">";
       },
       end: function( tag ) {
@@ -221,39 +231,19 @@
       base: "head"
     };
 
-    if ( !doc ) {
-      if ( typeof DOMDocument != "undefined" )
-        doc = new DOMDocument();
-      else if ( typeof document != "undefined" && document.implementation && document.implementation.createDocument )
-        doc = document.implementation.createDocument("", "", null);
-      else if ( typeof ActiveX != "undefined" )
-        doc = new ActiveXObject("Msxml.DOMDocument");
-
-    } else
-      doc = doc.ownerDocument ||
-        doc.getOwnerDocument && doc.getOwnerDocument() ||
-        doc;
-
     var elems = [],
       documentElement = doc.documentElement ||
         doc.getDocumentElement && doc.getDocumentElement();
 
     // If we're dealing with an empty document then we
     // need to pre-populate it with the HTML document structure
-    if ( !documentElement && doc.createElement ) (function(){
-      var html = doc.createElement("html");
-      var head = doc.createElement("head");
-      head.appendChild( doc.createElement("title") );
-      html.appendChild( head );
-      html.appendChild( doc.createElement("body") );
-      doc.appendChild( html );
-    })();
 
     // Find all the unique elements
-    if ( doc.getElementsByTagName )
-      for ( var i in one )
+    if ( doc.getElementsByTagName ) {
+      for (i in one ) {
         one[ i ] = doc.getElementsByTagName( i )[0];
-
+      }
+    }
     // If we're working with a document, inject contents into
     // the body element
     var curParentNode = one.body;

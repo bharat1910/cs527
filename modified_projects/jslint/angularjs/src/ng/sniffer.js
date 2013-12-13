@@ -31,7 +31,7 @@ function $SnifferProvider() {
         match;
 
     if (bodyStyle) {
-      for(var prop in bodyStyle) {
+      for(prop in bodyStyle) {
         if(match = vendorRegex.exec(prop)) {
           vendorPrefix = match[0];
           vendorPrefix = vendorPrefix.substr(0, 1).toUpperCase() + vendorPrefix.substr(1);

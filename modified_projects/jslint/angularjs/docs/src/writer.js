@@ -97,7 +97,7 @@ function symlinkTemplate(filename, type) {
  * @param replacements{obj} key and value pairs in which key will be replaced with value in content
  */
 exports.replace = function(content, replacements) {
-  for(var key in replacements) {
+  for(key in replacements) {
     content = content.replace(key, replacements[key]);
   }
   return content;

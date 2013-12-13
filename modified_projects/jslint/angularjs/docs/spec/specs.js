@@ -1,10 +1,6 @@
-if (global.jasmine) return;
+if (global.jasmine) {return;}
 
 var jasmine = require('../../lib/jasmine-1.0.1');
-
-for(var key in jasmine) {
-  global[key] = jasmine[key];
-}
 
 //Patch Jasmine for proper stack traces
 jasmine.Spec.prototype.fail = function(e) {

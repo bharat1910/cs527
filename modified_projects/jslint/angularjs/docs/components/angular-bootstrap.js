@@ -6,9 +6,9 @@
  * License: MIT
  */
 (function (name, definition, context) {
-  if (typeof context['module'] != 'undefined' && context['module']['exports']) context['module']['exports'] = definition()
-  else if (typeof context['define'] != 'undefined' && context['define'] == 'function' && context['define']['amd']) define(name, definition)
-  else context[name] = definition()
+  if (typeof context['module'] != 'undefined' && context['module']['exports']) { context['module']['exports'] = definition()}
+  else if (typeof context['define'] != 'undefined' && context['define'] == 'function' && context['define']['amd']) {define(name, definition)}
+  else {context[name] = definition()}
 })('$script', function () {
   var doc = document
     , head = doc.getElementsByTagName('head')[0]
@@ -19,7 +19,7 @@
     , addEventListener = 'addEventListener', onreadystatechange = 'onreadystatechange'
 
   function every(ar, fn) {
-    for (var i = 0, j = ar.length; i < j; ++i) if (!fn(ar[i])) return f
+    for (i = 0, j = ar.length; i < j; ++i) { if (!fn(ar[i])) {return f}}
     return 1
   }
   function each(ar, fn) {
@@ -49,7 +49,7 @@
       if (!--queue) {
         list[id] = 1
         done && done()
-        for (var dset in delay) {
+        for (dset in delay) {
           every(dset.split('|'), loopFn) && !each(delay[dset], loopFn) && (delay[dset] = [])
         }
       }

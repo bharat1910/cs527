@@ -60,7 +60,7 @@ exports.ngVersions = function() {
     versions = versions.concat([latestVersion]);
 
     var firstUnstable, expanded = [];
-    for(var i=versions.length-1;i>=0;i--) {
+    for(i=versions.length-1;i>=0;i--) {
       var version = versions[i],
           split = version.split('.'),
           isMaster = version == latestVersion,
@@ -89,7 +89,7 @@ exports.ngVersions = function() {
   function sortVersionsNatrually(versions) {
     var versionMap = {},
         NON_RC_RELEASE_NUMBER = 999;
-    for(var i = versions.length - 1; i >= 0; i--) {
+    for(i = versions.length - 1; i >= 0; i--) {
       var version = versions[i];
       var split = version.split(/\.|rc/);
        var baseVersion = split[0] + '.' + split[1] + '.' + split[2];
@@ -126,7 +126,7 @@ exports.ngVersions = function() {
 
   function sortedKeys(obj) {
     var keys = [];
-    for(var key in obj) {
+    for(key in obj) {
       keys.push(key);
     };
     keys.sort(true);

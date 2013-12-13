@@ -22,7 +22,7 @@ function nonEmpty(header) {
 }
 
 function idFromCurrentHeaders(headers) {
-  if (headers.length === 1) return headers[0];
+  if (headers.length === 1) { return headers[0];}
   // Do not include the first level title, as that's the title of the page.
   return headers.slice(1).filter(nonEmpty).join('_');
 }
@@ -71,7 +71,7 @@ DOM.prototype = {
   },
 
   html: function(html) {
-    if (!html) return;
+    if (!html) {return;}
 
     var self = this;
     // rewrite header levels, add ids and collect the ids
@@ -99,11 +99,12 @@ DOM.prototype = {
     if (!text) {
       text = attr;
       attr = {};
-      if (name == 'code')
+      if (name == 'code') {
         attr['ng:non-bindable'] = '';
+      }
     }
     this.out.push('<' + name);
-    for(var key in attr) {
+    for(key in attr) {
       this.out.push(" " + key + '="' + attr[key] + '"');
     }
     this.out.push('>');

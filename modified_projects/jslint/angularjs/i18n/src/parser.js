@@ -37,11 +37,11 @@ function parsePattern(pattern) {
 
   p.posPre = integer.substr(0, integer.indexOf(DIGIT));
 
-  for (var i = 0; i < fraction.length; i++) {
+  for (i = 0; i < fraction.length; i++) {
     var ch = fraction.charAt(i);
-    if (ch == ZERO) p.minFrac = p.maxFrac = i + 1;
-    else if (ch == DIGIT) p.maxFrac = i + 1;
-    else p.posSuf += ch;
+    if (ch == ZERO) {p.minFrac = p.maxFrac = i + 1;}
+    else if (ch == DIGIT) {p.maxFrac = i + 1;}
+    else {p.posSuf += ch;}
   }
 
   var groups = integer.split(GROUP_SEP);

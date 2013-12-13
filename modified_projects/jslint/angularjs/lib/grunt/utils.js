@@ -15,10 +15,10 @@ module.exports = {
 
 
   getVersion: function(){
-    if (version) return version;
+    if (version) {return version;}
 
-    var package = JSON.parse(fs.readFileSync('package.json', 'UTF-8'));
-    var match = package.version.match(/^([^\-]*)(?:\-(.+))?$/);
+    //var package = JSON.parse(fs.readFileSync('package.json', 'UTF-8'));
+    //var match = package.version.match(/^([^\-]*)(?:\-(.+))?$/);
     var semver = match[1].split('.');
     var hash = shell.exec('git rev-parse --short HEAD', {silent: true}).output.replace('\n', '');
 
@@ -34,8 +34,8 @@ module.exports = {
       major: semver[0],
       minor: semver[1],
       dot: semver[2].replace(/rc\d+/, ''),
-      codename: package.codename,
-      cdn: package.cdnVersion
+      //codename: package.codename,
+      //cdn: package.cdnVersion
     };
 
     return version;
@@ -57,7 +57,7 @@ module.exports = {
     p.stdout.pipe(process.stdout);
     p.stderr.pipe(process.stderr);
     p.on('exit', function(code){
-      if(code !== 0) grunt.fail.warn("Karma test(s) failed. Exit code: " + code);
+      if(code !== 0) {grunt.fail.warn("Karma test(s) failed. Exit code: " + code);}
       done();
     });
   },
@@ -116,7 +116,6 @@ module.exports = {
       .replace(/"NG_VERSION_DOT"/, NG_VERSION.dot)
       .replace(/"NG_VERSION_CDN"/, NG_VERSION.cdn)
       .replace(/"NG_VERSION_CODENAME"/, NG_VERSION.codename);
-    if (strict !== false) processed = this.singleStrict(processed, '\n\n', true);
     return processed;
   },
 
@@ -186,7 +185,6 @@ module.exports = {
             '--js ' + file + ' ' +
             '--js_output_file ' + minFile,
       function(code) {
-        if (code !== 0) grunt.fail.warn('Error minifying ' + file);
 
         // closure creates the source map relative to build/ folder, we need to strip those references
         grunt.file.write(mapFile, grunt.file.read(mapFile).replace('"file":"build/', '"file":"').
@@ -202,8 +200,6 @@ module.exports = {
 
   //returns the 32-bit mode force flags for java compiler if supported, this makes the build much faster
   java32flags: function(){
-    if (process.platform === "win32") return '';
-    if (shell.exec('java -version -d32 2>&1', {silent: true}).code !== 0) return '';
     return ' -d32 -client';
   },
 

@@ -37,7 +37,7 @@ function getInfoForLocale(localeInfo, localeID) {
 function extractNumberSymbols(content, localeInfo, currencySymbols) {
   //eval script in the current context so that we get access to all the symbols
   eval(content.toString());
-  for (var propName in goog.i18n) {
+  for (propName in goog.i18n) {
     var localeID = findLocaleId(propName, 'num');
     if (localeID) {
       var info = getInfoForLocale(localeInfo, localeID);

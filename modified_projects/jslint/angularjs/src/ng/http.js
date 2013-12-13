@@ -9,7 +9,7 @@
 function parseHeaders(headers) {
   var parsed = {}, key, val, i;
 
-  if (!headers) return parsed;
+  if (!headers) {return parsed;}
 
   forEach(headers.split('\n'), function(line) {
     i = line.indexOf(':');
@@ -45,7 +45,7 @@ function headersGetter(headers) {
   var headersObj = isObject(headers) ? headers : undefined;
 
   return function(name) {
-    if (!headersObj) headersObj =  parseHeaders(headers);
+    if (!headersObj) { headersObj =  parseHeaders(headers);}
 
     if (name) {
       return headersObj[lowercase(name)] || null;
@@ -67,8 +67,9 @@ function headersGetter(headers) {
  * @returns {*} Transformed data.
  */
 function transformData(data, headers, fns) {
-  if (isFunction(fns))
+  if (isFunction(fns)) {
     return fns(data, headers);
+  }
 
   forEach(fns, function(fn) {
     data = fn(data, headers);
@@ -95,8 +96,9 @@ function $HttpProvider() {
       if (isString(data)) {
         // strip json vulnerability protection prefix
         data = data.replace(PROTECTION_PREFIX, '');
-        if (JSON_START.test(data) && JSON_END.test(data))
+        if (JSON_START.test(data) && JSON_END.test(data)) {
           data = fromJson(data);
+        }
       }
       return data;
     }],
@@ -988,7 +990,7 @@ function $HttpProvider() {
         }
 
         resolvePromise(response, status, headersString);
-        if (!$rootScope.$$phase) $rootScope.$apply();
+        if (!$rootScope.$$phase) { $rootScope.$apply();}
       }
 
 
@@ -1010,17 +1012,17 @@ function $HttpProvider() {
 
       function removePendingReq() {
         var idx = indexOf($http.pendingRequests, config);
-        if (idx !== -1) $http.pendingRequests.splice(idx, 1);
+        if (idx !== -1) {$http.pendingRequests.splice(idx, 1);}
       }
     }
 
 
     function buildUrl(url, params) {
-          if (!params) return url;
+          if (!params) {return url;}
           var parts = [];
           forEachSorted(params, function(value, key) {
-            if (value === null || isUndefined(value)) return;
-            if (!isArray(value)) value = [value];
+            if (value === null || isUndefined(value)) {return;}
+            if (!isArray(value)) {value = [value];}
 
             forEach(value, function(v) {
               if (isObject(v)) {

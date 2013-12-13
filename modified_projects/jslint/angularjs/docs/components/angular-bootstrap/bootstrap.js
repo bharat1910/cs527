@@ -40,8 +40,6 @@ directive.dropdownToggle =
               close = null;
               openElement = null;
             }
-
-            $document.on('click', close);
           }
         });
       }
@@ -76,7 +74,7 @@ directive.syntax = function() {
           icon : 'icon-cloud'
         }
       };
-      for(var type in types) {
+      for(type in types) {
         var data = types[type];
         var link = attrs[data.key];
         if(link) {

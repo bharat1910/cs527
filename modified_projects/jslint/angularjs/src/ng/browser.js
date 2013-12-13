@@ -99,7 +99,7 @@ function Browser(window, document, $log, $sniffer) {
    * @returns {function()} the added function
    */
   self.addPollFn = function(fn) {
-    if (isUndefined(pollTimeout)) startPoller(100, setTimeout);
+    if (isUndefined(pollTimeout)) {startPoller(100, setTimeout);}
     pollFns.push(fn);
     return fn;
   };
@@ -149,14 +149,14 @@ function Browser(window, document, $log, $sniffer) {
    */
   self.url = function(url, replace) {
     // Android Browser BFCache causes location reference to become stale.
-    if (location !== window.location) location = window.location;
+    if (location !== window.location) {location = window.location;}
 
     // setter
     if (url) {
-      if (lastBrowserUrl == url) return;
+      if (lastBrowserUrl == url) {return;}
       lastBrowserUrl = url;
       if ($sniffer.history) {
-        if (replace) history.replaceState(null, '', url);
+        if (replace) {history.replaceState(null, '', url);}
         else {
           history.pushState(null, '', url);
           // Crazy Opera Bug: http://my.opera.com/community/forums/topic.dml?id=1185462
@@ -185,7 +185,7 @@ function Browser(window, document, $log, $sniffer) {
 
   function fireUrlChange() {
     newLocation = null;
-    if (lastBrowserUrl == self.url()) return;
+    if (lastBrowserUrl == self.url()) {return;}
 
     lastBrowserUrl = self.url();
     forEach(urlChangeListeners, function(listener) {
@@ -223,11 +223,11 @@ function Browser(window, document, $log, $sniffer) {
       // changed by push/replaceState
 
       // html5 history api - popstate event
-      if ($sniffer.history) jqLite(window).on('popstate', fireUrlChange);
+      if ($sniffer.history) {jqLite(window).on('popstate', fireUrlChange);}
       // hashchange event
-      if ($sniffer.hashchange) jqLite(window).on('hashchange', fireUrlChange);
+      if ($sniffer.hashchange) {jqLite(window).on('hashchange', fireUrlChange);}
       // polling
-      else self.addPollFn(fireUrlChange);
+      else {self.addPollFn(fireUrlChange);}
 
       urlChangeInit = true;
     }

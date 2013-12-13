@@ -70,7 +70,7 @@ describe('Docs Annotations', function() {
   describe('foldout directive', function() {
 
     // Do not run this suite on Internet Explorer.
-    if (msie < 10) return;
+    if (msie < 10) {return;}
 
     var $scope, parent, element, url;
     beforeEach(function() {

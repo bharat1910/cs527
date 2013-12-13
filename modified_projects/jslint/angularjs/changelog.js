@@ -24,7 +24,7 @@ var warn = function() {
 
 
 var parseRawCommit = function(raw) {
-  if (!raw) return null;
+  if (!raw) {return null;}
 
   var lines = raw.split('\n');
   var msg = {}, match;
@@ -36,7 +36,7 @@ var parseRawCommit = function(raw) {
 
   lines.forEach(function(line) {
     match = line.match(/(?:Closes|Fixes)\s#(\d+)/);
-    if (match) msg.closes.push(parseInt(match[1]));
+    if (match) {msg.closes.push(parseInt(match[1]));}
   });
 
   match = raw.match(/BREAKING CHANGE:([\s\S]*)/);
@@ -85,7 +85,7 @@ var printSection = function(stream, title, section, printCommitLinks) {
   printCommitLinks = printCommitLinks === undefined ? true : printCommitLinks;
   var components = Object.getOwnPropertyNames(section).sort();
 
-  if (!components.length) return;
+  if (!components.length) {return;}
 
   stream.write(util.format('\n## %s\n\n', title));
 
@@ -128,7 +128,7 @@ var readGitLog = function(grep, from) {
 
     stdout.split('\n==END==\n').forEach(function(rawCommit) {
       var commit = parseRawCommit(rawCommit);
-      if (commit) commits.push(commit);
+      if (commit) {commits.push(commit);}
     });
 
     deferred.resolve(commits);
@@ -172,7 +172,7 @@ var writeChangelog = function(stream, commits, version) {
   printSection(stream, 'Breaking Changes', sections.breaks, false);
 }
 
-
+/*
 var getPreviousTag = function() {
   var deferred = q.defer();
   child.exec(GIT_TAG_CMD, function(code, stdout, stderr) {
@@ -180,9 +180,9 @@ var getPreviousTag = function() {
     else deferred.resolve(stdout.replace('\n', ''));
   });
   return deferred.promise;
-};
+};*/
 
-
+/*
 var generate = function(version, file) {
   getPreviousTag().then(function(tag) {
     console.log('Reading git log since', tag);
@@ -192,13 +192,13 @@ var generate = function(version, file) {
       writeChangelog(file ? fs.createWriteStream(file) : process.stdout, commits, version);
     });
   });
-};
+};*/
 
 
 // publish for testing
-exports.parseRawCommit = parseRawCommit;
+//exports.parseRawCommit = parseRawCommit;
 
 // hacky start if not run by jasmine :-D
-if (process.argv.join('').indexOf('jasmine-node') === -1) {
-  generate(process.argv[2], process.argv[3]);
-}
+//if (process.argv.join('').indexOf('jasmine-node') === -1) {
+//  generate(process.argv[2], process.argv[3]);
+//}

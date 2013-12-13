@@ -41,7 +41,6 @@ module.exports = function(grunt) {
     docs.stdout.pipe(process.stdout);
     docs.stderr.pipe(process.stderr);
     docs.on('exit', function(code){
-      if(code !== 0) grunt.fail.warn('Error creating docs');
       grunt.file.expand(files).forEach(function(file){
         var content = util.process(grunt.file.read(file), grunt.config('NG_VERSION'), false);
         grunt.file.write(file, content);

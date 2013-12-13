@@ -24,7 +24,7 @@ exports.Example = function(scenarios) {
   this.unit = [];
   this.scenario = [];
   this.scenarios = scenarios;
-}
+};
 
 exports.Example.prototype.setModule = function(module) {
   if (module) {
@@ -119,7 +119,7 @@ exports.Example.prototype.toHtmlTabs = function() {
       if (name === 'index.html') {
         wrap = ' ng-html-wrap="' + self.module + ' ' + self.deps.join(' ') + '"';
       }
-      if (name == 'scenario.js') name = 'End to end test';
+      if (name == 'scenario.js') {name = 'End to end test';}
 
       out.push(
         '<div class="tab-pane" title="' + name + '">\n' +

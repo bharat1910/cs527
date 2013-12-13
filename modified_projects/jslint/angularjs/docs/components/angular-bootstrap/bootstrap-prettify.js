@@ -135,7 +135,7 @@ directive.ngHtmlWrap = ['reindentCode', 'templateMerge', function(reindentCode, 
         html = "<!doctype html>\n<html ng-app{{module}}>\n  <head>\n{{head:4}}  </head>\n  <body>\n{{body:4}}  </body>\n</html>";
 
       angular.forEach((attr.ngHtmlWrap || '').split(' '), function(dep) {
-        if (!dep) return;
+        if (!dep) {return;}
         dep = DEPENDENCIES[dep] || dep;
 
         var ext = dep.split(/\./).pop();
@@ -240,7 +240,7 @@ directive.ngEmbedApp = ['$templateCache', '$browser', '$rootScope', '$location',
           return embedRootScope;
         }]);
       }]);
-      if (attrs.ngEmbedApp)  modules.push(attrs.ngEmbedApp);
+      if (attrs.ngEmbedApp) {  modules.push(attrs.ngEmbedApp);}
 
       element.on('click', function(event) {
         if (event.target.attributes.getNamedItem('ng-click')) {
@@ -261,15 +261,14 @@ directive.ngEmbedApp = ['$templateCache', '$browser', '$rootScope', '$location',
 
 service.reindentCode = function() {
   return function (text, spaces) {
-    if (!text) return text;
     var lines = text.split(/\r?\n/);
     var prefix = '      '.substr(0, spaces || 0);
     var i;
 
     // remove any leading blank lines
-    while (lines.length && lines[0].match(/^\s*$/)) lines.shift();
+    while (lines.length && lines[0].match(/^\s*$/)) { lines.shift();}
     // remove any trailing blank lines
-    while (lines.length && lines[lines.length - 1].match(/^\s*$/)) lines.pop();
+    while (lines.length && lines[lines.length - 1].match(/^\s*$/)){ lines.pop();}
     var minIndent = 999;
     for (i = 0; i < lines.length; i++) {
       var line = lines[0];

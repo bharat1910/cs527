@@ -29,8 +29,9 @@ if (flag == '--login') {
   if (collection) {
     fetch(collection, collections[collection]);
   } else {
-    for (collection in collections)
+    for (collection in collections) {
       fetch(collection, collections[collection]);
+    }
   }
 } else {
   help();
@@ -185,7 +186,7 @@ function request(method, url, options, response) {
         res.on('error', function (e){ console.log(e); });
     }
   });
-  for(var header in options.headers) {
+  for(header in options.headers) {
     request.setHeader(header, options.headers[header]);
   }
   if (options.data)
